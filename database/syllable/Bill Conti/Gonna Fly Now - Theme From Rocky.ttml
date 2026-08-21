@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Gonna Fly Now - Theme From &quot;Rocky&quot;</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Bill Conti</ttm:agent>
+      <ttm:item type="album">Rocky (Original Motion Picture Score)</ttm:item>
+      <ttm:item type="spotify_id">7iXYRR70wewzVYzWScm99j</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:52.390" end="00:57.370" ttm:agent="v1">
+        <span begin="00:52.390" end="00:53.080">Trying </span>
+        <span begin="00:53.080" end="00:53.740">hard </span>
+        <span begin="00:53.740" end="00:57.370">now</span>
+      </p>
+      <p begin="00:57.430" end="01:02.410" ttm:agent="v1">
+        <span begin="00:57.430" end="00:57.700">It's </span>
+        <span begin="00:57.700" end="00:58.090">so </span>
+        <span begin="00:58.090" end="00:58.810">hard </span>
+        <span begin="00:58.810" end="01:02.410">now</span>
+      </p>
+      <p begin="01:02.440" end="01:07.450" ttm:agent="v1">
+        <span begin="01:02.440" end="01:03.160">Trying </span>
+        <span begin="01:03.160" end="01:03.850">hard </span>
+        <span begin="01:03.850" end="01:07.450">now</span>
+      </p>
+      <p begin="01:47.650" end="01:52.540" ttm:agent="v1">
+        <span begin="01:47.650" end="01:48.190">Getting </span>
+        <span begin="01:48.190" end="01:48.940">strong </span>
+        <span begin="01:48.940" end="01:52.540">now</span>
+      </p>
+      <p begin="01:52.570" end="01:57.400" ttm:agent="v1">
+        <span begin="01:52.570" end="01:52.900">Won't </span>
+        <span begin="01:52.900" end="01:53.260">be </span>
+        <span begin="01:53.260" end="01:53.920">long </span>
+        <span begin="01:53.920" end="01:57.400">now</span>
+      </p>
+      <p begin="01:57.610" end="02:02.590" ttm:agent="v1">
+        <span begin="01:57.610" end="01:58.210">Getting </span>
+        <span begin="01:58.210" end="01:58.930">strong </span>
+        <span begin="01:58.930" end="02:02.590">now</span>
+      </p>
+      <p begin="02:21.550" end="02:26.470" ttm:agent="v1">
+        <span begin="02:21.550" end="02:22.150">Gonna </span>
+        <span begin="02:22.150" end="02:22.810">fly </span>
+        <span begin="02:22.810" end="02:26.470">now</span>
+      </p>
+      <p begin="02:26.500" end="02:31.330" ttm:agent="v1">
+        <span begin="02:26.500" end="02:27.190">Flying </span>
+        <span begin="02:27.190" end="02:27.790">high </span>
+        <span begin="02:27.790" end="02:31.330">now</span>
+      </p>
+      <p begin="02:31.480" end="02:46.030" ttm:agent="v1">
+        <span begin="02:31.480" end="02:32.110">Gonna </span>
+        <span begin="02:32.110" end="02:36.970">fly </span>
+        <span begin="02:36.970" end="02:37.000">, </span>
+        <span begin="02:37.000" end="02:39.610">fly </span>
+        <span begin="02:39.610" end="02:39.610">, </span>
+        <span begin="02:39.610" end="02:46.030">fly</span>
+      </p>
+    </div>
+  </body>
+</tt>

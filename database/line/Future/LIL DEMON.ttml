@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>LIL DEMON</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Future</ttm:agent>
+      <ttm:item type="album">MIXTAPE PLUTO</ttm:item>
+      <ttm:item type="spotify_id">3aCPResPDNae3pXTocGpYe</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.726" end="00:04.454" ttm:agent="v1">[Chorus]</p>
+      <p begin="00:04.454" end="00:06.124" ttm:agent="v1" itunes:key="role" itunes:value="background">My bitch a princess cut (My lil' demon)</p>
+      <p begin="00:06.124" end="00:07.817" ttm:agent="v1" itunes:key="role" itunes:value="background">Lil' demon in the cut (**** you mean?)</p>
+      <p begin="00:07.817" end="00:09.712" ttm:agent="v1" itunes:key="role" itunes:value="background">Go raidin' at the church (Shit I'm seein')</p>
+      <p begin="00:09.712" end="00:11.570" ttm:agent="v1" itunes:key="role" itunes:value="background">You movin' wrong, we clutching (That's gang)</p>
+      <p begin="00:11.570" end="00:13.406" ttm:agent="v1" itunes:key="role" itunes:value="background">We slime, we sharin' sluts (That's slatt)</p>
+      <p begin="00:13.406" end="00:15.476" ttm:agent="v1" itunes:key="role" itunes:value="background">My twin, it's only us (We trappin')</p>
+      <p begin="00:15.476" end="00:18.422" ttm:agent="v1" itunes:key="role" itunes:value="background">Go platinum, **** a budget (My lil' demon)</p>
+      <p begin="00:18.422" end="00:20.477" ttm:agent="v1" itunes:key="role" itunes:value="background">Lil' demon in the cut (**** you mean?)</p>
+      <p begin="00:20.477" end="00:22.295" ttm:agent="v1" itunes:key="role" itunes:value="background">Go raidin' at the church (Shit I'm seein')</p>
+      <p begin="00:22.295" end="00:24.010" ttm:agent="v1" itunes:key="role" itunes:value="background">You movin' wrong, we clutching (That's gang)</p>
+      <p begin="00:24.010" end="00:26.033" ttm:agent="v1" itunes:key="role" itunes:value="background">We slime, we sharin' sluts (It ain't no cappin')</p>
+      <p begin="00:26.033" end="00:27.533" ttm:agent="v1"/>
+      <p begin="00:26.222" end="00:27.722" ttm:agent="v1">[Verse]</p>
+      <p begin="00:26.670" end="00:28.170" ttm:agent="v1" itunes:key="role" itunes:value="background">Real rap, I'm trappin' bags (How you comin'?)</p>
+      <p begin="00:27.881" end="00:29.709" ttm:agent="v1" itunes:key="role" itunes:value="background">Real ice on both of my sleeves (We trappin')</p>
+      <p begin="00:29.709" end="00:31.513" ttm:agent="v1" itunes:key="role" itunes:value="background">Good numbers on them bales (How you get it?)</p>
+      <p begin="00:31.513" end="00:33.265" ttm:agent="v1" itunes:key="role" itunes:value="background">They gon' think you sellin' kis (Where we goin'?)</p>
+      <p begin="00:33.265" end="00:35.192" ttm:agent="v1" itunes:key="role" itunes:value="background">Ferrari truck, the new one (From where?)</p>
+      <p begin="00:35.192" end="00:37.035" ttm:agent="v1" itunes:key="role" itunes:value="background">Just shipped from overseas (Freebandz)</p>
+      <p begin="00:37.035" end="00:40.534" ttm:agent="v1" itunes:key="role" itunes:value="background">We got M's and changed the quota (Ayy, say, gang), right now, we chasin' B's (Pockets loaded)</p>
+      <p begin="00:40.534" end="00:44.189" ttm:agent="v1" itunes:key="role" itunes:value="background">Inhalin' dirty rackies (Achoo), that shit there make me sneeze (Oh, you slime)</p>
+      <p begin="00:44.189" end="00:47.945" ttm:agent="v1" itunes:key="role" itunes:value="background">I knew how to count through money (Super) before I learned to read (Ayy, say, gang)</p>
+      <p begin="00:47.945" end="00:52.088" ttm:agent="v1" itunes:key="role" itunes:value="background">Put a yacht out the coast, yeah (What's up?)</p>
+      <p begin="00:52.088" end="00:53.870" ttm:agent="v1" itunes:key="role" itunes:value="background">Put a yacht on the coast, yeah (Who you with?)</p>
+      <p begin="00:53.870" end="00:55.882" ttm:agent="v1" itunes:key="role" itunes:value="background">La Cosa Nostra (Say, gang)</p>
+      <p begin="00:55.882" end="00:57.800" ttm:agent="v1" itunes:key="role" itunes:value="background">They ready to vote me in (Skrrt, skrrt)</p>
+      <p begin="00:57.800" end="00:59.424" ttm:agent="v1" itunes:key="role" itunes:value="background">Push the Royce like a Rover (Who you with?)</p>
+      <p begin="00:59.424" end="01:01.540" ttm:agent="v1" itunes:key="role" itunes:value="background">I get love from the vultures (Super)</p>
+      <p begin="01:01.540" end="01:03.096" ttm:agent="v1">Yeah, came up with the roaches</p>
+      <p begin="01:03.096" end="01:04.872" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, young niggas down like an oath (Super)</p>
+      <p begin="01:04.872" end="01:06.635" ttm:agent="v1" itunes:key="role" itunes:value="background">More respect than the Pope (What you gon' get?)</p>
+      <p begin="01:06.635" end="01:08.459" ttm:agent="v1" itunes:key="role" itunes:value="background">She give me top on the low (What you doin'?)</p>
+      <p begin="01:08.459" end="01:12.061" ttm:agent="v1" itunes:key="role" itunes:value="background">Wipe his nostril like a snotty nose (What you gon' do?)</p>
+      <p begin="01:12.061" end="01:16.592" ttm:agent="v1" itunes:key="role" itunes:value="background">Wipe his nostril like a snotty nose (What you gon' do?)</p>
+      <p begin="01:16.592" end="01:19.827" ttm:agent="v1" itunes:key="role" itunes:value="background">Wipe his nostril like you got a cold (Woo)</p>
+      <p begin="01:19.827" end="01:21.496" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, I'm trappin' (Yessirski)</p>
+      <p begin="01:21.496" end="01:23.144" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, I'm trappin' (Yeah, I trap)</p>
+      <p begin="01:23.144" end="01:27.009" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, I'm trappin', yeah, I'm trappin', yeah, I'm still trappin' (Yessirski)</p>
+      <p begin="01:27.009" end="01:28.617" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, I get money, I'm having (Yeah, I get money)</p>
+      <p begin="01:28.617" end="01:30.489" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, I get money, I'm having (Yeah, I get money)</p>
+      <p begin="01:30.489" end="01:34.395" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, I get money, yeah, I get money, yeah, I get money, I'm having (Yessirski)</p>
+      <p begin="01:34.395" end="01:35.895" ttm:agent="v1" itunes:key="role" itunes:value="background">Bales (What you serving?)</p>
+      <p begin="01:35.861" end="01:39.679" ttm:agent="v1" itunes:key="role" itunes:value="background">Bales, bales, bales (Ayy, what you serving?)</p>
+      <p begin="01:39.679" end="01:41.824" ttm:agent="v1">Bales, bales</p>
+      <p begin="01:41.824" end="01:43.327" ttm:agent="v1" itunes:key="role" itunes:value="background">Prrt, prrt (Ayy, what that is?)</p>
+      <p begin="01:43.327" end="01:45.463" ttm:agent="v1">Shells, shells</p>
+      <p begin="01:45.463" end="01:46.963" ttm:agent="v1">Once before a crook</p>
+      <p begin="01:46.917" end="01:48.417" ttm:agent="v1">Pluto'll get you cooked</p>
+      <p begin="01:48.279" end="01:49.779" ttm:agent="v1"/>
+      <p begin="01:48.732" end="01:50.232" ttm:agent="v1">[Chorus]</p>
+      <p begin="01:49.041" end="01:50.541" ttm:agent="v1" itunes:key="role" itunes:value="background">My bitch a princess cut (My lil' demon)</p>
+      <p begin="01:50.346" end="01:52.057" ttm:agent="v1" itunes:key="role" itunes:value="background">Lil' demon in the cut (**** you mean?)</p>
+      <p begin="01:52.057" end="01:53.717" ttm:agent="v1" itunes:key="role" itunes:value="background">Go raidin' at the church (Shit I'm seein')</p>
+      <p begin="01:53.717" end="01:55.658" ttm:agent="v1" itunes:key="role" itunes:value="background">You movin' wrong, we clutching (That's gang)</p>
+      <p begin="01:55.658" end="01:57.515" ttm:agent="v1" itunes:key="role" itunes:value="background">We slime, we sharin' sluts (That's slatt)</p>
+      <p begin="01:57.515" end="01:59.468" ttm:agent="v1" itunes:key="role" itunes:value="background">My twin, it's only us (We trappin')</p>
+      <p begin="01:59.468" end="02:01.155" ttm:agent="v1">Go platinum, **** a budget</p>
+      <p begin="02:01.155" end="02:04.797" ttm:agent="v1" itunes:key="role" itunes:value="background">My bitch a princess cut (My lil' demon)</p>
+      <p begin="02:04.797" end="02:06.658" ttm:agent="v1" itunes:key="role" itunes:value="background">Lil' demon in the cut (**** you mean?)</p>
+      <p begin="02:06.658" end="02:08.465" ttm:agent="v1" itunes:key="role" itunes:value="background">Go raidin' at the church (Shit I'm seein')</p>
+      <p begin="02:08.465" end="02:10.458" ttm:agent="v1" itunes:key="role" itunes:value="background">You movin' wrong, we clutching (That's gang)</p>
+      <p begin="02:10.458" end="02:12.175" ttm:agent="v1" itunes:key="role" itunes:value="background">We slime, we sharin' sluts (That's slatt)</p>
+      <p begin="02:12.175" end="02:13.797" ttm:agent="v1" itunes:key="role" itunes:value="background">My twin, it's only us (We trappin')</p>
+      <p begin="02:13.797" end="02:17.797" ttm:agent="v1">Go platinum, **** a budget</p>
+    </div>
+  </body>
+</tt>

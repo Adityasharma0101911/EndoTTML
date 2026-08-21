@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Too Many Nights (feat. Don Toliver &amp; with Future)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Metro Boomin</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Future</ttm:agent>
+      <ttm:agent type="person" xml:id="v3">Don Toliver</ttm:agent>
+      <ttm:item type="album">HEROES &amp; VILLAINS</ttm:item>
+      <ttm:item type="spotify_id">2Hh3ETdQKrmSI3QS0hme7g</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:05.678" end="00:09.926" ttm:agent="v1">Honorable C.N.O.T.E</p>
+      <p begin="00:09.926" end="00:11.934" ttm:agent="v1">Metro</p>
+      <p begin="00:11.934" end="00:13.434" ttm:agent="v1">Keep the ***** ju-u-ump, keep it on ju-u-ump</p>
+      <p begin="00:11.436" end="00:19.436" ttm:agent="v1"/>
+      <p begin="00:28.679" end="00:31.927" ttm:agent="v1">Keep the ***** ju-u-ump</p>
+      <p begin="00:31.927" end="00:34.680" ttm:agent="v1">I caught it cool, for a ten</p>
+      <p begin="00:34.680" end="00:36.180" ttm:agent="v1">The ***** get loose, she tryna win</p>
+      <p begin="00:30.942" end="00:36.942" ttm:agent="v1"/>
+      <p begin="00:36.942" end="00:39.926" ttm:agent="v1">I beat her by the house, I beat her in</p>
+      <p begin="00:39.926" end="00:42.933" ttm:agent="v1">There's forty in the couch, I let her spend</p>
+      <p begin="00:42.933" end="00:46.185" ttm:agent="v1">When it calls lit, better call in</p>
+      <p begin="00:46.185" end="00:47.685" ttm:agent="v1">She done popped all out, she done call twin</p>
+      <p begin="00:47.683" end="00:49.183" ttm:agent="v1">I done went and spazzed out, I put the raw in</p>
+      <p begin="00:42.179" end="00:50.179" ttm:agent="v1"/>
+      <p begin="00:50.680" end="00:53.429" ttm:agent="v1">I done hit the strip club and spent a tall ten</p>
+      <p begin="00:53.429" end="00:55.192" ttm:agent="v1">Lil’ shawty off the Clicquot</p>
+      <p begin="00:55.192" end="00:58.193" ttm:agent="v1" itunes:key="role" itunes:value="background">She been comin' hot just like a heat stroke (Heatstroke)</p>
+      <p begin="00:58.193" end="01:00.692" ttm:agent="v1">I could see you lurkin' through the peephole</p>
+      <p begin="01:00.692" end="01:03.681" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm stackin' different money, type is C notes (C notes)</p>
+      <p begin="01:03.681" end="01:05.181" ttm:agent="v1">I'm talkin' C notes, nigga, hit C.N.O.T.E.</p>
+      <p begin="01:04.934" end="01:11.201" ttm:agent="v1">You spend what you want and you get what you want</p>
+      <p begin="01:11.201" end="01:12.701" ttm:agent="v1">I guess you got what you wanted</p>
+      <p begin="01:12.181" end="01:14.685" ttm:agent="v1">You're hittin' the pole and you give it your all</p>
+      <p begin="01:14.685" end="01:16.185" ttm:agent="v1" itunes:key="role" itunes:value="background">Man, you keepin' it honest (Yeah)</p>
+      <p begin="01:04.694" end="01:12.694" ttm:agent="v1"/>
+      <p begin="01:17.691" end="01:21.680" ttm:agent="v1">It's too many nights I went nameless</p>
+      <p begin="01:21.680" end="01:23.431" ttm:agent="v1">It's too many nights I went famous</p>
+      <p begin="01:23.431" end="01:26.185" ttm:agent="v1" itunes:key="role" itunes:value="background">It's too many nights I went brainless sayin' uh-uh-uh-uh (Yeah)</p>
+      <p begin="01:26.185" end="01:27.685" ttm:agent="v1">I get you, uh-uh</p>
+      <p begin="01:27.439" end="01:34.180" ttm:agent="v1">Keep the bitches ju-u-ump, keep it on jump</p>
+      <p begin="01:34.180" end="01:35.680" ttm:agent="v1">Keep the ***** ju-u-ump</p>
+      <p begin="01:34.435" end="01:39.688" ttm:agent="v1">I caught it cool, for a ten</p>
+      <p begin="01:39.688" end="01:42.679" ttm:agent="v1">The ***** get loose, she tryna win</p>
+      <p begin="01:42.679" end="01:45.439" ttm:agent="v1">I beat her by the house, I beat her in</p>
+      <p begin="01:45.439" end="01:48.425" ttm:agent="v1">There's forty in the couch, I let her spend</p>
+      <p begin="01:48.425" end="01:51.192" ttm:agent="v1">You made a hunnid and you fall back, did you wanna call back?</p>
+      <p begin="01:51.192" end="01:53.686" ttm:agent="v1">Knowin' that you're all that, bae</p>
+      <p begin="01:53.686" end="01:56.935" ttm:agent="v1">It’s two hunnid on your dashboard, stampin' out your passport</p>
+      <p begin="01:56.935" end="01:58.680" ttm:agent="v1">Ask me if I'm really okay</p>
+      <p begin="01:58.680" end="02:02.435" ttm:agent="v1">You get what you want, you want, you want</p>
+      <p begin="02:02.435" end="02:03.935" ttm:agent="v1">You get what you want, you want, you want</p>
+      <p begin="01:46.932" end="01:54.932" ttm:agent="v1"/>
+      <p begin="02:03.934" end="02:06.926" ttm:agent="v1">You get what you want, you want, you want</p>
+      <p begin="02:06.926" end="02:10.677" ttm:agent="v1">You get what you want, you want, you want</p>
+      <p begin="02:10.677" end="02:15.424" ttm:agent="v1">You spend what you want and you get what you want</p>
+      <p begin="02:15.424" end="02:17.932" ttm:agent="v1">I guess you got what you wanted</p>
+      <p begin="02:17.932" end="02:19.432" ttm:agent="v1">You're hittin' the pole and you give it your all</p>
+      <p begin="01:57.940" end="02:05.940" ttm:agent="v1"/>
+      <p begin="02:20.682" end="02:22.938" ttm:agent="v1" itunes:key="role" itunes:value="background">Man, you keepin' it honest (Yeah)</p>
+      <p begin="02:22.938" end="02:25.677" ttm:agent="v1">It's too many nights I went nameless</p>
+      <p begin="02:25.677" end="02:28.432" ttm:agent="v1">It's too many nights I went famous</p>
+      <p begin="02:28.432" end="02:33.436" ttm:agent="v1" itunes:key="role" itunes:value="background">It's too many nights I went brainless sayin' uh-uh-uh-uh (Yeah)</p>
+      <p begin="02:33.436" end="02:34.936" ttm:agent="v1">I get you, uh-uh</p>
+      <p begin="02:09.933" end="02:17.933" ttm:agent="v1"/>
+      <p begin="02:36.925" end="02:39.680" ttm:agent="v1">Keep it on ju-u-ump</p>
+      <p begin="02:39.680" end="02:42.429" ttm:agent="v1">Keep it on ju-u-ump</p>
+      <p begin="02:42.429" end="02:48.963" ttm:agent="v1" itunes:key="role" itunes:value="background">Ooh-ooh, ooh-ooh (Keep it on ju-u-ump)</p>
+      <p begin="02:48.963" end="02:50.463" ttm:agent="v1" itunes:key="role" itunes:value="background">Ooh-ooh, ooh-ooh (Keep it on ju-u-ump)</p>
+      <p begin="02:50.431" end="02:54.003" ttm:agent="v1" itunes:key="role" itunes:value="background">Ooh-ooh, ooh-ooh (Keep it on ju-u-ump)</p>
+      <p begin="02:54.003" end="02:57.673" ttm:agent="v1">BOTTEGA VENETA  whenever you ride with me</p>
+      <p begin="02:57.673" end="03:00.185" ttm:agent="v1">It ain't like I'm asking you to ride for free</p>
+      <p begin="03:00.185" end="03:02.943" ttm:agent="v1" itunes:key="role" itunes:value="background">From trappin' to rappin', need to be proud of me (Proud of me)</p>
+      <p begin="03:02.943" end="03:05.674" ttm:agent="v1" itunes:key="role" itunes:value="background">Pack out the studio and throw parties (Throw parties)</p>
+      <p begin="03:05.674" end="03:08.443" ttm:agent="v1" itunes:key="role" itunes:value="background">Money comin' too fast, I can't slow it (I can't slow it)</p>
+      <p begin="03:08.443" end="03:10.932" ttm:agent="v1">Feel like I'm runnin' from my past, I can't slow it down</p>
+      <p begin="03:10.932" end="03:12.432" ttm:agent="v1" itunes:key="role" itunes:value="background">Too many nights, boutta crash (Skrrt)</p>
+      <p begin="02:41.932" end="02:49.932" ttm:agent="v1"/>
+      <p begin="03:13.178" end="03:14.678" ttm:agent="v1">Now I'm buyin' the foreigns all cash</p>
+      <p begin="03:13.927" end="03:17.927" ttm:agent="v1">I can't slow down</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>The Largest</ttm:title>
+      <ttm:agent type="person" xml:id="v1">BigXthaPlug</ttm:agent>
+      <ttm:item type="album">The Largest</ttm:item>
+      <ttm:item type="spotify_id">1F5Qp0SJS0QUfqIoQggrLz</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.403" end="00:08.403" ttm:agent="v1">[Intro]</p>
+      <p begin="00:11.347" end="00:12.847" ttm:agent="v1" itunes:key="role" itunes:value="background">(Tony Coles)</p>
+      <p begin="00:12.653" end="00:14.153" ttm:agent="v1" itunes:key="role" itunes:value="background">Ayy (Let the band play)</p>
+      <p begin="00:13.099" end="00:14.599" ttm:agent="v1"/>
+      <p begin="00:13.622" end="00:15.122" ttm:agent="v1">[Chorus]</p>
+      <p begin="00:14.114" end="00:16.224" ttm:agent="v1">Safe to say I'm the biggest, the largest</p>
+      <p begin="00:16.224" end="00:19.809" ttm:agent="v1">Been steppin' on shit since my mama stayed in them apartments, regardless</p>
+      <p begin="00:19.809" end="00:23.379" ttm:agent="v1">My daddy told me keep the heat even when I'm in foreigns, I'm heartless</p>
+      <p begin="00:23.379" end="00:26.991" ttm:agent="v1">'Cause these niggas is hatin' on me just because I'm the biggest, the largest</p>
+      <p begin="00:26.991" end="00:28.530" ttm:agent="v1">The biggest, the largest</p>
+      <p begin="00:28.530" end="00:30.030" ttm:agent="v1">[Verse 1]</p>
+      <p begin="00:28.908" end="00:30.408" ttm:agent="v1">30K on my wrist just for hard times</p>
+      <p begin="00:30.349" end="00:32.188" ttm:agent="v1">These niggas just mad 'cause thеy bitch in my archives</p>
+      <p begin="00:32.188" end="00:33.811" ttm:agent="v1">Jordan came back, throw the 45</p>
+      <p begin="00:33.811" end="00:36.194" ttm:agent="v1">If you play, thеn you lay right there by yo' own kind</p>
+      <p begin="00:36.194" end="00:37.694" ttm:agent="v1">Pour up a four in a Loko</p>
+      <p begin="00:37.515" end="00:39.305" ttm:agent="v1">Tell 'em run this bitch back like Soso</p>
+      <p begin="00:39.305" end="00:41.207" ttm:agent="v1">Got rap shit here in a chokehold</p>
+      <p begin="00:41.207" end="00:43.490" ttm:agent="v1">Did a show out in Austin, shoutout to Bobo</p>
+      <p begin="00:43.490" end="00:45.299" ttm:agent="v1">Moved out the trenches, now look how we live</p>
+      <p begin="00:45.299" end="00:46.980" ttm:agent="v1">Told my BM to furnish the crib</p>
+      <p begin="00:46.980" end="00:48.869" ttm:agent="v1">Walk out the mall with some shoes for the kids</p>
+      <p begin="00:48.869" end="00:50.707" ttm:agent="v1">Deposit a check, shit, my bank full of M's</p>
+      <p begin="00:50.707" end="00:52.426" ttm:agent="v1">Paid up my rent, now I'm up for the year</p>
+      <p begin="00:52.426" end="00:54.390" ttm:agent="v1">The view look crazy from here</p>
+      <p begin="00:54.390" end="00:56.165" ttm:agent="v1">What I paid for some dogs, could've bought me veneers</p>
+      <p begin="00:56.165" end="00:57.665" ttm:agent="v1">Texas piece on my neck, could've bought your career</p>
+      <p begin="00:57.524" end="00:59.024" ttm:agent="v1"/>
+      <p begin="00:57.910" end="00:59.410" ttm:agent="v1">[Chorus]</p>
+      <p begin="00:58.068" end="01:00.090" ttm:agent="v1">Safe to say I'm the biggest, the largest</p>
+      <p begin="01:00.090" end="01:03.628" ttm:agent="v1">Been steppin' on shit since my mama stayed in them apartments, regardless</p>
+      <p begin="01:03.628" end="01:07.344" ttm:agent="v1">My daddy told me keep the heat even when I'm in foreigns, I'm heartless</p>
+      <p begin="01:07.344" end="01:11.039" ttm:agent="v1">'Cause these niggas is hatin' on me just because I'm the biggest, the largest</p>
+      <p begin="01:11.039" end="01:12.539" ttm:agent="v1">The biggest, the largest</p>
+      <p begin="01:11.634" end="01:13.134" ttm:agent="v1"/>
+      <p begin="01:12.110" end="01:13.610" ttm:agent="v1">[Verse 2]</p>
+      <p begin="01:12.424" end="01:14.188" ttm:agent="v1">Ayy, stuffin' Cali' plug weed in the blunt</p>
+      <p begin="01:14.188" end="01:15.881" ttm:agent="v1">Let my lil' brother roll him a Dutch</p>
+      <p begin="01:15.881" end="01:17.698" ttm:agent="v1">My lil' boy get whatever he want</p>
+      <p begin="01:17.698" end="01:19.595" ttm:agent="v1">Madam T don't be askin' for much</p>
+      <p begin="01:19.595" end="01:21.441" ttm:agent="v1">Pourin' lean on the nuggets of runtz</p>
+      <p begin="01:21.441" end="01:23.171" ttm:agent="v1">Spill the rest of that drank in a punch</p>
+      <p begin="01:23.171" end="01:25.114" ttm:agent="v1">Left wrist on some &quot;I had to stunt&quot;</p>
+      <p begin="01:25.114" end="01:26.922" ttm:agent="v1">Right wrist, I just did it because</p>
+      <p begin="01:26.922" end="01:29.072" ttm:agent="v1">600 the label, you know we comin'</p>
+      <p begin="01:29.072" end="01:30.846" ttm:agent="v1">Tell them niggas they ain't takin' nothin'</p>
+      <p begin="01:30.846" end="01:32.787" ttm:agent="v1">Standin' on business, we shootin' or punchin'</p>
+      <p begin="01:32.787" end="01:34.561" ttm:agent="v1">Hatin'-ass nigga, go get you some money</p>
+      <p begin="01:34.561" end="01:36.503" ttm:agent="v1">I just got off a tour, finna go on another one</p>
+      <p begin="01:36.503" end="01:38.286" ttm:agent="v1">Album done, finna drop me another one</p>
+      <p begin="01:38.286" end="01:40.157" ttm:agent="v1">Couple of M's, finna run up another one</p>
+      <p begin="01:40.157" end="01:41.804" ttm:agent="v1">Super Bowl rings, shit, I had to go double 'em</p>
+      <p begin="01:41.804" end="01:43.304" ttm:agent="v1"/>
+      <p begin="01:41.977" end="01:43.477" ttm:agent="v1">[Chorus]</p>
+      <p begin="01:42.139" end="01:44.057" ttm:agent="v1">Safe to say I'm the biggest, the largest</p>
+      <p begin="01:44.057" end="01:47.599" ttm:agent="v1">Been steppin' on shit since my mama stayed in them apartments, regardless</p>
+      <p begin="01:47.599" end="01:51.318" ttm:agent="v1">My daddy told me keep the heat even when I'm in foreigns, I'm heartless</p>
+      <p begin="01:51.318" end="01:55.051" ttm:agent="v1">'Cause these niggas is hatin' on me just because I'm the biggest, the largest</p>
+      <p begin="01:55.051" end="01:59.051" ttm:agent="v1" itunes:key="role" itunes:value="background">The biggest, the largest (Ayy)</p>
+    </div>
+  </body>
+</tt>

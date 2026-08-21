@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>DEVIL IS A LIE</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Tommy Richman</ttm:agent>
+      <ttm:item type="album">DEVIL IS A LIE</ttm:item>
+      <ttm:item type="spotify_id">6jlG8gBPNAgBgoivw2Ig09</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:03.225" end="00:11.225" ttm:agent="v1">[Intro]</p>
+      <p begin="00:15.595" end="00:18.317" ttm:agent="v1">Ah-ah</p>
+      <p begin="00:18.317" end="00:21.023" ttm:agent="v1">Oh no</p>
+      <p begin="00:21.023" end="00:23.607" ttm:agent="v1">Ah-ah</p>
+      <p begin="00:23.607" end="00:25.878" ttm:agent="v1">Oh no</p>
+      <p begin="00:25.878" end="00:27.378" ttm:agent="v1">Yeah, yeah, yeah</p>
+      <p begin="00:26.061" end="00:27.561" ttm:agent="v1"/>
+      <p begin="00:26.205" end="00:27.705" ttm:agent="v1">[Verse 1]</p>
+      <p begin="00:26.351" end="00:28.559" ttm:agent="v1" itunes:key="role" itunes:value="background">I tell her, &quot;Pipe down, baby,&quot; hell nah (Yeah)</p>
+      <p begin="00:28.559" end="00:30.909" ttm:agent="v1" itunes:key="role" itunes:value="background">You know my roundabouts, baby, hell nah (Yeah)</p>
+      <p begin="00:30.909" end="00:33.574" ttm:agent="v1" itunes:key="role" itunes:value="background">'Cause where I came from baby, hell nah (Yeah)</p>
+      <p begin="00:33.574" end="00:36.762" ttm:agent="v1" itunes:key="role" itunes:value="background">'Cause I come from a different cloth (Mm, yeah)</p>
+      <p begin="00:36.762" end="00:38.932" ttm:agent="v1" itunes:key="role" itunes:value="background">I can take you places you ain't ever seen before (Mm)</p>
+      <p begin="00:38.932" end="00:41.000" ttm:agent="v1" itunes:key="role" itunes:value="background">Ah, ah (Woo, woo, mm)</p>
+      <p begin="00:41.000" end="00:45.132" ttm:agent="v1">Moving so loud, that is not my fault, hell nah</p>
+      <p begin="00:45.132" end="00:46.632" ttm:agent="v1"/>
+      <p begin="00:45.279" end="00:46.779" ttm:agent="v1">[Chorus]</p>
+      <p begin="00:45.806" end="00:48.189" ttm:agent="v1" itunes:key="role" itunes:value="background">But you got no confidence like me (Mm, mm)</p>
+      <p begin="00:48.189" end="00:50.740" ttm:agent="v1" itunes:key="role" itunes:value="background">Only wanna run around and chase me (Mm, mm)</p>
+      <p begin="00:50.740" end="00:53.154" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm not no Travis, baby, not no Chase B (Ah, ah)</p>
+      <p begin="00:53.154" end="00:55.119" ttm:agent="v1">I work too hard, can you ****in' pay me?</p>
+      <p begin="00:55.119" end="00:56.619" ttm:agent="v1"/>
+      <p begin="00:55.322" end="00:56.822" ttm:agent="v1">[Verse 2]</p>
+      <p begin="00:56.493" end="01:01.473" ttm:agent="v1" itunes:key="role" itunes:value="background">I did so much, you did it with me, and I'm not alone (Ah, ah)</p>
+      <p begin="01:01.473" end="01:07.047" ttm:agent="v1" itunes:key="role" itunes:value="background">Since 2019, was dinners with me, I'ma set it in stone (Ah, ah)</p>
+      <p begin="01:07.047" end="01:09.375" ttm:agent="v1" itunes:key="role" itunes:value="background">You come from a sunken place again (Ah, ah)</p>
+      <p begin="01:09.375" end="01:11.909" ttm:agent="v1" itunes:key="role" itunes:value="background">You know the struggle, baby, can we be friends? (Ah, ah)</p>
+      <p begin="01:11.909" end="01:14.322" ttm:agent="v1">From the bottom to the top began</p>
+      <p begin="01:14.322" end="01:17.177" ttm:agent="v1" itunes:key="role" itunes:value="background">We go on again, on again (Hell nah, nah, nah)</p>
+      <p begin="01:17.177" end="01:18.677" ttm:agent="v1"/>
+      <p begin="01:17.401" end="01:18.901" ttm:agent="v1">[Chorus]</p>
+      <p begin="01:17.665" end="01:20.284" ttm:agent="v1" itunes:key="role" itunes:value="background">But you got no confidence like me (Mm, mm, come on)</p>
+      <p begin="01:20.284" end="01:22.586" ttm:agent="v1" itunes:key="role" itunes:value="background">Only wanna run around and chase me (Mm, mm, oh, oh)</p>
+      <p begin="01:22.586" end="01:25.173" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm not no Travis, baby, not no Chase B (Hell nah)</p>
+      <p begin="01:25.173" end="01:28.024" ttm:agent="v1" itunes:key="role" itunes:value="background">I work too hard, can you ****in' pay me? (Oh, oh)</p>
+      <p begin="01:28.024" end="01:30.573" ttm:agent="v1" itunes:key="role" itunes:value="background">But you got no confidence like me (Mm, mm)</p>
+      <p begin="01:30.573" end="01:33.310" ttm:agent="v1" itunes:key="role" itunes:value="background">Only wanna run around and chase me (Mm, mm, oh, oh)</p>
+      <p begin="01:33.310" end="01:35.931" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm not no Travis, baby, not no Chase B (Oh, oh)</p>
+      <p begin="01:35.931" end="01:37.845" ttm:agent="v1">I work too hard, can you ****in' pay me?</p>
+      <p begin="01:37.845" end="01:39.345" ttm:agent="v1"/>
+      <p begin="01:38.116" end="01:39.616" ttm:agent="v1">[Outro]</p>
+      <p begin="01:39.033" end="01:40.901" ttm:agent="v1" itunes:key="role" itunes:value="background">Right now, right now (Right now)</p>
+      <p begin="01:40.901" end="01:42.401" ttm:agent="v1" itunes:key="role" itunes:value="background">Devil is a lie (Devil is alive)</p>
+      <p begin="01:41.966" end="01:43.466" ttm:agent="v1" itunes:key="role" itunes:value="background">Right now, right now (Right now)</p>
+      <p begin="01:43.230" end="01:44.730" ttm:agent="v1" itunes:key="role" itunes:value="background">Wanna be alive (Wanna be alive)</p>
+      <p begin="01:43.972" end="01:45.472" ttm:agent="v1" itunes:key="role" itunes:value="background">Right now, right now (Right now)</p>
+      <p begin="01:45.411" end="01:46.911" ttm:agent="v1" itunes:key="role" itunes:value="background">Can we survive? (Can we survive?)</p>
+      <p begin="01:46.482" end="01:47.982" ttm:agent="v1" itunes:key="role" itunes:value="background">Right now, right now (Right now)</p>
+      <p begin="01:47.618" end="01:49.616" ttm:agent="v1" itunes:key="role" itunes:value="background">Can we survive? (Can we survive?)</p>
+      <p begin="01:49.616" end="01:51.116" ttm:agent="v1" itunes:key="role" itunes:value="background">Right now, right now (Right now)</p>
+      <p begin="01:50.511" end="01:52.011" ttm:agent="v1" itunes:key="role" itunes:value="background">Devil is a lie (Devil is alive)</p>
+      <p begin="01:51.878" end="01:53.378" ttm:agent="v1" itunes:key="role" itunes:value="background">Right now, right now (Right now)</p>
+      <p begin="01:53.029" end="01:54.529" ttm:agent="v1" itunes:key="role" itunes:value="background">Wanna be alive (Wanna be alive)</p>
+      <p begin="01:54.364" end="01:55.864" ttm:agent="v1" itunes:key="role" itunes:value="background">Right now, right now (Right now)</p>
+      <p begin="01:55.556" end="01:57.056" ttm:agent="v1" itunes:key="role" itunes:value="background">Can we survive? (Can we survive?)</p>
+      <p begin="01:57.022" end="01:58.522" ttm:agent="v1" itunes:key="role" itunes:value="background">Right now, right now (Right now)</p>
+      <p begin="01:57.168" end="02:01.168" ttm:agent="v1" itunes:key="role" itunes:value="background">Can we survive? (Can we survive?)</p>
+    </div>
+  </body>
+</tt>

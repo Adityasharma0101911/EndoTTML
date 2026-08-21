@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Rocky Theme Song</ttm:title>
+      <ttm:agent type="person" xml:id="v1">The Theme Guys</ttm:agent>
+      <ttm:item type="album">Rocky Theme Song</ttm:item>
+      <ttm:item type="spotify_id">04CRi4s1n7IAlE916TXcTC</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:49.340" end="00:53.740" ttm:agent="v1">Rising up, back on the street</p>
+      <p begin="00:53.740" end="00:58.140" ttm:agent="v1">I did my time, took my chances</p>
+      <p begin="00:58.140" end="01:01.490" ttm:agent="v1">Went the distance, now I'm back on my feet</p>
+      <p begin="01:01.490" end="01:06.750" ttm:agent="v1">Just a man and his will to survive</p>
+      <p begin="01:06.750" end="01:11.110" ttm:agent="v1">So many times, it happens too fast</p>
+      <p begin="01:11.110" end="01:15.480" ttm:agent="v1">You trade your passion for glory</p>
+      <p begin="01:15.480" end="01:19.020" ttm:agent="v1">Don't lose your grip on the dreams of the past</p>
+      <p begin="01:19.020" end="01:23.130" ttm:agent="v1">You must fight just to keep them alive</p>
+      <p begin="01:23.130" end="01:25.840" ttm:agent="v1">It's the eye of the tiger</p>
+      <p begin="01:25.840" end="01:27.860" ttm:agent="v1">It's the thrill of the fight</p>
+      <p begin="01:27.860" end="01:32.180" ttm:agent="v1">Rising up to the challenge of our rival</p>
+      <p begin="01:32.180" end="01:34.600" ttm:agent="v1">And the last known survivor</p>
+      <p begin="01:34.600" end="01:36.490" ttm:agent="v1">Stalks his prey in the night</p>
+      <p begin="01:36.490" end="01:44.490" ttm:agent="v1">And he's watching us all with the eye of the tiger</p>
+      <p begin="01:46.730" end="01:51.130" ttm:agent="v1">Face to face, out in the heat</p>
+      <p begin="01:51.130" end="01:55.490" ttm:agent="v1">Hanging tough, staying hungry</p>
+      <p begin="01:55.490" end="01:59.180" ttm:agent="v1">They stack the odds 'til we take to the streets</p>
+      <p begin="01:59.180" end="02:03.100" ttm:agent="v1">For the kill with the skill to survive</p>
+      <p begin="02:03.100" end="02:05.500" ttm:agent="v1">It's the eye of the tiger</p>
+      <p begin="02:05.500" end="02:07.470" ttm:agent="v1">It's the thrill of the fight</p>
+      <p begin="02:07.470" end="02:11.830" ttm:agent="v1">Rising up to the challenge of our rival</p>
+      <p begin="02:11.830" end="02:14.370" ttm:agent="v1">And the last known survivor</p>
+      <p begin="02:14.370" end="02:16.230" ttm:agent="v1">Stalks his prey in the night</p>
+      <p begin="02:16.230" end="02:23.590" ttm:agent="v1">And he's watching us all with the eye of the tiger</p>
+      <p begin="02:23.590" end="02:30.960" ttm:agent="v1"/>
+      <p begin="02:30.960" end="02:35.250" ttm:agent="v1">Rising up, straight to the top</p>
+      <p begin="02:35.250" end="02:39.690" ttm:agent="v1">Got the guts, got the glory</p>
+      <p begin="02:39.690" end="02:43.070" ttm:agent="v1">Went the distance, now I'm not gonna stop</p>
+      <p begin="02:43.070" end="02:47.160" ttm:agent="v1">Just a man and his will to survive</p>
+      <p begin="02:47.160" end="02:49.770" ttm:agent="v1">It's the eye of the tiger</p>
+      <p begin="02:49.770" end="02:51.560" ttm:agent="v1">It's the thrill of the fight</p>
+      <p begin="02:51.560" end="02:56.120" ttm:agent="v1">Rising up to the challenge of our rival</p>
+      <p begin="02:56.120" end="02:58.520" ttm:agent="v1">And the last known survivor</p>
+      <p begin="02:58.520" end="03:00.350" ttm:agent="v1">Stalks his prey in the night</p>
+      <p begin="03:00.350" end="03:08.350" ttm:agent="v1">And he's watching us all through the eye of the tiger</p>
+      <p begin="03:10.850" end="03:14.850" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

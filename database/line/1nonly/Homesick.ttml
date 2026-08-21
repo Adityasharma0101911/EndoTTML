@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Homesick</ttm:title>
+      <ttm:agent type="person" xml:id="v1">1nonly</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Michael Motorcycle</ttm:agent>
+      <ttm:item type="album">Homesick</ttm:item>
+      <ttm:item type="spotify_id">6L107sTnPRLpEBRS4LNcYb</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:01.279" end="00:04.462" ttm:agent="v1">Nathan, what are you saying?</p>
+      <p begin="00:04.462" end="00:07.666" ttm:agent="v1">Come here, do you see the fireworks?</p>
+      <p begin="00:07.666" end="00:15.666" ttm:agent="v1">We'll get a view of the fireworks, so, come here</p>
+      <p begin="00:20.152" end="00:21.652" ttm:agent="v1">[Chorus: Michael Motorcycle]</p>
+      <p begin="00:20.678" end="00:22.538" ttm:agent="v1">I bleed, heaven knows</p>
+      <p begin="00:22.538" end="00:30.538" ttm:agent="v1">Or maybe I'll die 'cause I overdosed on you, on you</p>
+      <p begin="00:34.428" end="00:37.361" ttm:agent="v1">I breathe from my nose</p>
+      <p begin="00:37.361" end="00:40.862" ttm:agent="v1">Left a bad taste in my mouth for sure</p>
+      <p begin="00:40.862" end="00:45.204" ttm:agent="v1">Kinda felt like you couldn't see me</p>
+      <p begin="00:45.204" end="00:48.722" ttm:agent="v1">Only saw what you left, your peeping eyes</p>
+      <p begin="00:48.722" end="00:50.222" ttm:agent="v1">[Post-Chorus: Michael Motorcycle]</p>
+      <p begin="00:49.798" end="00:53.592" ttm:agent="v1">I ran to hide</p>
+      <p begin="00:53.592" end="00:58.149" ttm:agent="v1">I'm not your type</p>
+      <p begin="00:58.149" end="01:02.166" ttm:agent="v1">You told me twice</p>
+      <p begin="01:02.166" end="01:04.326" ttm:agent="v1" itunes:key="role" itunes:value="background">(Nathan, what are you saying?)</p>
+      <p begin="01:04.326" end="01:05.826" ttm:agent="v1">[Chorus: Michael Motorcycle]</p>
+      <p begin="01:04.859" end="01:06.988" ttm:agent="v1">I bleed, heaven knows</p>
+      <p begin="01:06.988" end="01:14.988" ttm:agent="v1">Or maybe I'll die 'cause I overdosed on you, on you</p>
+      <p begin="01:19.013" end="01:21.804" ttm:agent="v1">I felt comatose</p>
+      <p begin="01:21.804" end="01:25.527" ttm:agent="v1">When I was told you was someone I don't know</p>
+      <p begin="01:25.527" end="01:29.701" ttm:agent="v1">By one of your friends, they hate my guts now</p>
+      <p begin="01:29.701" end="01:33.999" ttm:agent="v1">But they're not you, can't give a **** now</p>
+      <p begin="01:33.999" end="01:36.403" ttm:agent="v1">Blue wings, heaven knows</p>
+      <p begin="01:36.403" end="01:40.114" ttm:agent="v1">If you fly yourself away in the midst of fall</p>
+      <p begin="01:40.114" end="01:47.468" ttm:agent="v1">I know that it's too cold for you</p>
+      <p begin="01:47.468" end="01:51.774" ttm:agent="v1">My stomach's turning</p>
+      <p begin="01:51.774" end="01:55.536" ttm:agent="v1">I fought so hard, I've been determined</p>
+      <p begin="01:55.536" end="01:59.018" ttm:agent="v1">I hate the talking back and forth with you</p>
+      <p begin="01:59.018" end="02:00.901" ttm:agent="v1">[Post-Chorus: Michael Motorcycle]</p>
+      <p begin="02:00.901" end="02:05.243" ttm:agent="v1" itunes:key="role" itunes:value="background">I ran too high (I ran too high)</p>
+      <p begin="02:05.243" end="02:08.771" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm not your type (I'm not your type)</p>
+      <p begin="02:08.771" end="02:12.267" ttm:agent="v1" itunes:key="role" itunes:value="background">You told me twice (You told me twice)</p>
+      <p begin="02:12.267" end="02:16.311" ttm:agent="v1" itunes:key="role" itunes:value="background">You told me twice (You told me twice)</p>
+      <p begin="02:16.311" end="02:19.510" ttm:agent="v1" itunes:key="role" itunes:value="background">I ran too high (I ran too high)</p>
+      <p begin="02:19.510" end="02:23.272" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm not your type (I'm not your type)</p>
+      <p begin="02:23.272" end="02:27.062" ttm:agent="v1" itunes:key="role" itunes:value="background">You told me twice (You told me twice)</p>
+      <p begin="02:27.062" end="02:31.649" ttm:agent="v1" itunes:key="role" itunes:value="background">You told me twice (You told me twice)</p>
+      <p begin="02:31.649" end="02:33.149" ttm:agent="v1">[Outro: Michael Motorcycle]</p>
+      <p begin="02:32.190" end="02:35.963" ttm:agent="v1">I bleed, heaven knows</p>
+      <p begin="02:35.963" end="02:39.963" ttm:agent="v1">Or maybe I'll die 'cause I overdosed on you, on you</p>
+    </div>
+  </body>
+</tt>

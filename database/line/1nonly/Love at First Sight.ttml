@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Love at First Sight</ttm:title>
+      <ttm:agent type="person" xml:id="v1">1nonly</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">MKAY</ttm:agent>
+      <ttm:item type="album">Homesick</ttm:item>
+      <ttm:item type="spotify_id">6J6mZ4S2cYK1WsGdjJ3786</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:02.357" end="00:03.857" ttm:agent="v1">[Intro: 1nonly]</p>
+      <p begin="00:03.711" end="00:10.648" ttm:agent="v1">I don't hate you, I just hate myself</p>
+      <p begin="00:10.648" end="00:17.163" ttm:agent="v1">'Cause I don't hate you, I just hate myself</p>
+      <p begin="00:17.163" end="00:18.663" ttm:agent="v1">[Chorus: 1nonly]</p>
+      <p begin="00:17.426" end="00:18.926" ttm:agent="v1">I swear it was love at first sight</p>
+      <p begin="00:18.772" end="00:20.911" ttm:agent="v1">W-when you told me you loved me</p>
+      <p begin="00:20.911" end="00:24.405" ttm:agent="v1">And I know I got problems, you hate when I speak, but I hope that you never gon' dub me</p>
+      <p begin="00:24.405" end="00:26.024" ttm:agent="v1">'Cause I been off it when I'm walkin'</p>
+      <p begin="00:26.024" end="00:27.634" ttm:agent="v1">When I see you with him when I walked in</p>
+      <p begin="00:27.634" end="00:31.362" ttm:agent="v1">'Cause, girl, you knew all the pain that you caused, and you said it was me when you lost it</p>
+      <p begin="00:31.362" end="00:32.862" ttm:agent="v1">[Verse 1: 1nonly]</p>
+      <p begin="00:31.639" end="00:33.553" ttm:agent="v1">But now, it's too late, you never call me when you say</p>
+      <p begin="00:33.553" end="00:35.053" ttm:agent="v1">You never been there when I waitеd</p>
+      <p begin="00:34.658" end="00:36.158" ttm:agent="v1">Never been stabbed in thе back</p>
+      <p begin="00:36.004" end="00:37.504" ttm:agent="v1">In the back with a MAC</p>
+      <p begin="00:37.065" end="00:38.665" ttm:agent="v1">'Cause now I'm makin' money, with my cash in a stack</p>
+      <p begin="00:38.665" end="00:42.103" ttm:agent="v1">Don't call me when you off it 'cause it ain't solvin' our problems</p>
+      <p begin="00:42.103" end="00:43.603" ttm:agent="v1">Can you tell me when you honest?</p>
+      <p begin="00:43.425" end="00:45.321" ttm:agent="v1">Do-don't lie to my face when you talkin'</p>
+      <p begin="00:45.321" end="00:46.821" ttm:agent="v1">[Bridge: 1nonly]</p>
+      <p begin="00:45.860" end="00:53.131" ttm:agent="v1">'Cause I don't hate you, I just hate myself</p>
+      <p begin="00:53.131" end="00:59.586" ttm:agent="v1">'Cause I don't hate you, I just hate myself</p>
+      <p begin="00:59.586" end="01:01.476" ttm:agent="v1">Don't feel like myself no more</p>
+      <p begin="01:01.476" end="01:03.384" ttm:agent="v1" itunes:key="role" itunes:value="background">Blurry, spaced out, can you give me a moment? (Give me a moment)</p>
+      <p begin="01:03.384" end="01:06.912" ttm:agent="v1" itunes:key="role" itunes:value="background">I-I need to find myself, feel like I'm lost in a world with no-one (With no-one)</p>
+      <p begin="01:06.912" end="01:08.412" ttm:agent="v1">I want to be on my own</p>
+      <p begin="01:08.270" end="01:11.216" ttm:agent="v1">Plugged in headphones, zone out, click Airplane Mode</p>
+      <p begin="01:11.216" end="01:12.716" ttm:agent="v1">I want to feel love just one more time</p>
+      <p begin="01:12.566" end="01:14.168" ttm:agent="v1">But I don't like the trusting process</p>
+      <p begin="01:14.168" end="01:16.302" ttm:agent="v1">She broke my heart, left me in the past</p>
+      <p begin="01:16.302" end="01:17.906" ttm:agent="v1">And maybe that's why I'm in love with smoking</p>
+      <p begin="01:17.906" end="01:19.548" ttm:agent="v1">Cigarette smoke, I'm coping</p>
+      <p begin="01:19.548" end="01:21.142" ttm:agent="v1">Champagne bottles help most of my problems</p>
+      <p begin="01:21.142" end="01:23.544" ttm:agent="v1" itunes:key="role" itunes:value="background">So, how can I shoot my shot like DeRozan? (Shoot my shot like DeRozan?)</p>
+      <p begin="01:23.544" end="01:25.151" ttm:agent="v1">When all of these girls are frozen</p>
+      <p begin="01:25.151" end="01:26.765" ttm:agent="v1">I swear that I can't trust no-one</p>
+      <p begin="01:26.765" end="01:28.920" ttm:agent="v1">No more turning aback when I needed it most</p>
+      <p begin="01:28.920" end="01:30.420" ttm:agent="v1">[Chorus: 1nonly]</p>
+      <p begin="01:29.417" end="01:30.917" ttm:agent="v1">I swear it was love at first sight</p>
+      <p begin="01:30.213" end="01:31.713" ttm:agent="v1">W-when you told me you loved me</p>
+      <p begin="01:31.293" end="01:34.809" ttm:agent="v1">And I know I got problems, you hate when I speak, but I hope that you never gon' dub me</p>
+      <p begin="01:34.809" end="01:36.400" ttm:agent="v1">'Cause I been off it when I'm walkin'</p>
+      <p begin="01:36.400" end="01:38.269" ttm:agent="v1">When I see you with him when I walked in</p>
+      <p begin="01:38.269" end="01:42.079" ttm:agent="v1">'Cause, girl, you knew all the pain that you caused, and you said it was me when you lost it</p>
+      <p begin="01:42.079" end="01:46.409" ttm:agent="v1" itunes:key="role" itunes:value="background">(Lost it, when you lost, when you lost, when you lost)</p>
+      <p begin="01:46.409" end="01:47.909" ttm:agent="v1">[Outro: 1nonly]</p>
+      <p begin="01:46.942" end="01:52.886" ttm:agent="v1">I don't hate you, I just hate myself</p>
+      <p begin="01:52.886" end="01:59.562" ttm:agent="v1">'Cause I don't hate you, I just hate myself</p>
+      <p begin="01:59.562" end="02:06.576" ttm:agent="v1">'Cause I don't hate you, I just hate myself</p>
+      <p begin="02:06.576" end="02:10.576" ttm:agent="v1">'Cause I don't hate you, I just hate myself</p>
+    </div>
+  </body>
+</tt>

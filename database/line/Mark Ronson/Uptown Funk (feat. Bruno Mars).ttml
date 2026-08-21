@@ -4,10 +4,7 @@
     <metadata>
       <ttm:title>Uptown Funk (feat. Bruno Mars)</ttm:title>
       <ttm:agent type="person" xml:id="v1">Mark Ronson</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">Bruno Mars</ttm:agent>
       <ttm:item type="album">Uptown Special</ttm:item>
-      <ttm:item type="spotify_id">32OlwWuMpZ6b0aN2RZOeMS</ttm:item>
-      <itunes:duration>04:30.000</itunes:duration>
     </metadata>
     <styling>
       <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
@@ -19,115 +16,122 @@
   </head>
   <body>
     <div>
-      <p begin="00:16.820" end="00:18.690" ttm:agent="v1">This hit, that ice cold</p>
-      <p begin="00:18.690" end="00:20.960" ttm:agent="v1">Michelle Pfeiffer, that white gold</p>
-      <p begin="00:20.960" end="00:22.820" ttm:agent="v1">This one, for them hood girls</p>
-      <p begin="00:22.820" end="00:25.130" ttm:agent="v1">Them good girls, straight masterpieces</p>
-      <p begin="00:25.130" end="00:27.310" ttm:agent="v1">Stylin', wilin'</p>
-      <p begin="00:27.310" end="00:28.980" ttm:agent="v1">Livin' it up in the city</p>
-      <p begin="00:28.980" end="00:31.190" ttm:agent="v1">Got Chucks on with Saint Laurent</p>
-      <p begin="00:31.190" end="00:33.090" ttm:agent="v1">Gotta kiss myself, I'm so pretty</p>
-      <p begin="00:33.090" end="00:35.300" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm too hot (hot damn), uh</p>
-      <p begin="00:35.300" end="00:37.220" ttm:agent="v1">Called a police and a fireman</p>
-      <p begin="00:37.220" end="00:39.430" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm too hot (hot damn)</p>
-      <p begin="00:39.430" end="00:41.390" ttm:agent="v1">Make a dragon wanna retire, man</p>
-      <p begin="00:41.390" end="00:43.850" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm too hot (hot damn)</p>
-      <p begin="00:43.850" end="00:45.540" ttm:agent="v1">Say my name, you know who I am</p>
-      <p begin="00:45.540" end="00:48.010" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm too hot (hot damn)</p>
-      <p begin="00:48.010" end="00:50.290" ttm:agent="v1">And my band 'bout that money, break it down</p>
-      <p begin="00:50.290" end="00:52.420" ttm:agent="v1" itunes:key="role" itunes:value="background">Girls, hit your hallelujah (woo)</p>
-      <p begin="00:52.420" end="00:54.380" ttm:agent="v1" itunes:key="role" itunes:value="background">Girls, hit your hallelujah (woo)</p>
-      <p begin="00:54.380" end="00:56.350" ttm:agent="v1" itunes:key="role" itunes:value="background">Girls, hit your hallelujah (woo)</p>
-      <p begin="00:56.350" end="00:58.520" ttm:agent="v1" itunes:key="role" itunes:value="background">'Cause uptown funk gon' give it to you (woo)</p>
-      <p begin="00:58.520" end="01:00.410" ttm:agent="v1" itunes:key="role" itunes:value="background">('Cause uptown funk gon' give it to you)</p>
-      <p begin="01:00.410" end="01:02.630" ttm:agent="v1">'Cause uptown funk gon' give it to you</p>
-      <p begin="01:02.630" end="01:04.890" ttm:agent="v1">Saturday night, and we in the spot</p>
-      <p begin="01:04.890" end="01:08.590" ttm:agent="v1">Don't believe me, just watch, come on!</p>
-      <p begin="01:08.590" end="01:11.170" ttm:agent="v1"/>
-      <p begin="01:11.170" end="01:13.250" ttm:agent="v1">Ah!</p>
-      <p begin="01:13.250" end="01:16.630" ttm:agent="v1">Don't believe me, just watch, uh</p>
-      <p begin="01:16.630" end="01:19.550" ttm:agent="v1"/>
-      <p begin="01:19.550" end="01:21.420" ttm:agent="v1">Ah!</p>
-      <p begin="01:21.420" end="01:23.660" ttm:agent="v1">Don't believe me, just watch, uh</p>
-      <p begin="01:23.660" end="01:25.610" ttm:agent="v1">Don't believe me, just watch, uh</p>
-      <p begin="01:25.610" end="01:27.890" ttm:agent="v1">Don't believe me, just watch</p>
-      <p begin="01:27.890" end="01:29.770" ttm:agent="v1">Don't believe me, just watch</p>
-      <p begin="01:29.770" end="01:31.990" ttm:agent="v1">Hey, hey, hey, oh!</p>
-      <p begin="01:31.990" end="01:34.150" ttm:agent="v1">Stop, wait a minute</p>
-      <p begin="01:34.150" end="01:36.080" ttm:agent="v1">Fill my cup, put some liquor in it</p>
-      <p begin="01:36.080" end="01:38.230" ttm:agent="v1">Take a sip, sign a check</p>
-      <p begin="01:38.230" end="01:39.850" ttm:agent="v1">Julio, get the stretch!</p>
-      <p begin="01:39.850" end="01:42.360" ttm:agent="v1">Ride to Harlem, Hollywood</p>
-      <p begin="01:42.360" end="01:43.910" ttm:agent="v1">Jackson, Mississippi</p>
-      <p begin="01:43.910" end="01:46.450" ttm:agent="v1">If we show up, we gon' show out</p>
-      <p begin="01:46.450" end="01:48.160" ttm:agent="v1" itunes:key="role" itunes:value="background">Smoother than a fresh jar of Skippy (uh)</p>
-      <p begin="01:48.160" end="01:50.630" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm too hot (hot damn)</p>
-      <p begin="01:50.630" end="01:52.290" ttm:agent="v1">Called a police and a fireman</p>
-      <p begin="01:52.290" end="01:54.740" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm too hot (hot damn)</p>
-      <p begin="01:54.740" end="01:56.490" ttm:agent="v1">Make a dragon wanna retire, man</p>
-      <p begin="01:56.490" end="01:58.830" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm too hot (too hot, hot damn, hot damn)</p>
-      <p begin="01:58.830" end="02:00.740" ttm:agent="v1">Bitch, say my name, you know who I am</p>
-      <p begin="02:00.740" end="02:02.980" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm too hot (hot damn)</p>
-      <p begin="02:02.980" end="02:05.450" ttm:agent="v1">And my band 'bout that money, break it down</p>
-      <p begin="02:05.450" end="02:07.340" ttm:agent="v1" itunes:key="role" itunes:value="background">Girls, hit your hallelujah (woo)</p>
-      <p begin="02:07.340" end="02:09.530" ttm:agent="v1" itunes:key="role" itunes:value="background">Girls, hit your hallelujah (woo)</p>
-      <p begin="02:09.530" end="02:11.490" ttm:agent="v1" itunes:key="role" itunes:value="background">Girls, hit your hallelujah (woo)</p>
-      <p begin="02:11.490" end="02:13.660" ttm:agent="v1" itunes:key="role" itunes:value="background">'Cause uptown funk gon' give it to you (woo)</p>
-      <p begin="02:13.660" end="02:15.850" ttm:agent="v1" itunes:key="role" itunes:value="background">('Cause uptown funk gon' give it to you)</p>
-      <p begin="02:15.850" end="02:17.970" ttm:agent="v1">'Cause uptown funk gon' give it to you</p>
-      <p begin="02:17.970" end="02:19.820" ttm:agent="v1">Saturday night, and we in the spot</p>
-      <p begin="02:19.820" end="02:23.450" ttm:agent="v1">Don't believe me, just watch, come on!</p>
-      <p begin="02:23.450" end="02:26.210" ttm:agent="v1"/>
-      <p begin="02:26.210" end="02:28.420" ttm:agent="v1">Ah!</p>
-      <p begin="02:28.420" end="02:31.650" ttm:agent="v1">Don't believe me, just watch, uh</p>
-      <p begin="02:31.650" end="02:34.440" ttm:agent="v1"/>
-      <p begin="02:34.440" end="02:36.660" ttm:agent="v1">Ah!</p>
-      <p begin="02:36.660" end="02:38.830" ttm:agent="v1">Don't believe me, just watch, uh</p>
-      <p begin="02:38.830" end="02:40.720" ttm:agent="v1">Don't believe me, just watch, uh</p>
-      <p begin="02:40.720" end="02:42.930" ttm:agent="v1">Don't believe me, just watch</p>
-      <p begin="02:42.930" end="02:44.810" ttm:agent="v1">Don't believe me, just watch</p>
-      <p begin="02:44.810" end="02:48.360" ttm:agent="v1">Hey, hey, hey, oh!</p>
-      <p begin="02:48.360" end="02:50.880" ttm:agent="v1"/>
-      <p begin="02:50.880" end="02:53.530" ttm:agent="v1">Before we leave</p>
-      <p begin="02:53.530" end="02:55.330" ttm:agent="v1">Lemme tell y'all a lil' something</p>
-      <p begin="02:55.330" end="02:59.730" ttm:agent="v1">Uptown funk you up, uptown funk you up</p>
-      <p begin="02:59.730" end="03:03.580" ttm:agent="v1">Uptown funk you up, uptown funk you up, uh</p>
-      <p begin="03:03.580" end="03:07.960" ttm:agent="v1">I said, uptown funk you up, uptown funk you up, uh</p>
-      <p begin="03:07.960" end="03:11.790" ttm:agent="v1">Uptown funk you up, uptown funk you up</p>
-      <p begin="03:11.790" end="03:13.840" ttm:agent="v1">Come on, dance, jump on it</p>
-      <p begin="03:13.840" end="03:16.100" ttm:agent="v1">If you sexy, then flaunt it</p>
-      <p begin="03:16.100" end="03:18.270" ttm:agent="v1">If you freaky, then own it</p>
-      <p begin="03:18.270" end="03:20.090" ttm:agent="v1">Don't brag about it, come show me</p>
-      <p begin="03:20.090" end="03:22.280" ttm:agent="v1">Come on, dance, jump on it</p>
-      <p begin="03:22.280" end="03:24.400" ttm:agent="v1">If you sexy, then flaunt it</p>
-      <p begin="03:24.400" end="03:26.830" ttm:agent="v1">Well, it's Saturday night, and we in the spot</p>
-      <p begin="03:26.830" end="03:30.350" ttm:agent="v1">Don't believe me, just watch, come on!</p>
-      <p begin="03:30.350" end="03:33.080" ttm:agent="v1"/>
-      <p begin="03:33.080" end="03:35.060" ttm:agent="v1">Ah!</p>
-      <p begin="03:35.060" end="03:39.110" ttm:agent="v1">Don't believe me, just watch, uh</p>
-      <p begin="03:39.110" end="03:41.270" ttm:agent="v1"/>
-      <p begin="03:41.270" end="03:43.410" ttm:agent="v1">Ah!</p>
-      <p begin="03:43.410" end="03:45.650" ttm:agent="v1">Don't believe me, just watch, uh</p>
-      <p begin="03:45.650" end="03:47.520" ttm:agent="v1">Don't believe me, just watch, uh</p>
-      <p begin="03:47.520" end="03:49.770" ttm:agent="v1">Don't believe me, just watch</p>
-      <p begin="03:49.770" end="03:51.610" ttm:agent="v1">Don't believe me, just watch</p>
-      <p begin="03:51.610" end="03:53.850" ttm:agent="v1">Hey, hey, hey, oh!</p>
-      <p begin="03:53.850" end="03:55.990" ttm:agent="v1" itunes:key="role" itunes:value="background">Uptown funk you up (woo, come on)</p>
-      <p begin="03:55.990" end="03:57.940" ttm:agent="v1" itunes:key="role" itunes:value="background">Uptown funk you up (hey, say what?)</p>
-      <p begin="03:57.940" end="04:00.090" ttm:agent="v1" itunes:key="role" itunes:value="background">Uptown funk you up (hey)</p>
-      <p begin="04:00.090" end="04:02.250" ttm:agent="v1" itunes:key="role" itunes:value="background">Uptown funk you up (come on)</p>
-      <p begin="04:02.250" end="04:04.470" ttm:agent="v1" itunes:key="role" itunes:value="background">Uptown funk you up (woo, come on)</p>
-      <p begin="04:04.470" end="04:06.310" ttm:agent="v1" itunes:key="role" itunes:value="background">Uptown funk you up (hey, say what?)</p>
-      <p begin="04:06.310" end="04:08.480" ttm:agent="v1" itunes:key="role" itunes:value="background">Uptown funk you up (hey)</p>
-      <p begin="04:08.480" end="04:10.680" ttm:agent="v1" itunes:key="role" itunes:value="background">Uptown funk you up (come on)</p>
-      <p begin="04:10.680" end="04:12.590" ttm:agent="v1" itunes:key="role" itunes:value="background">Uptown funk you up (woo, come on)</p>
-      <p begin="04:12.590" end="04:14.710" ttm:agent="v1" itunes:key="role" itunes:value="background">Uptown funk you up (hey, say what?)</p>
-      <p begin="04:14.710" end="04:16.810" ttm:agent="v1" itunes:key="role" itunes:value="background">Uptown funk you up (hey)</p>
-      <p begin="04:16.810" end="04:18.730" ttm:agent="v1" itunes:key="role" itunes:value="background">Uptown funk you up (come on)</p>
-      <p begin="04:18.730" end="04:21.100" ttm:agent="v1">Uptown funk you up</p>
-      <p begin="04:21.100" end="04:23.070" ttm:agent="v1" itunes:key="role" itunes:value="background">Uptown funk you up (say what?)</p>
-      <p begin="04:23.070" end="04:24.570" ttm:agent="v1">Uptown funk you up</p>
-      <p begin="04:24.390" end="04:28.390" ttm:agent="v1"/>
+      <p begin="00:16.720" end="00:18.220" ttm:agent="v1">This hit</p>
+      <p begin="00:17.680" end="00:19.180" ttm:agent="v1">That ice cold</p>
+      <p begin="00:18.630" end="00:20.310" ttm:agent="v1">Michelle Pfeiffer</p>
+      <p begin="00:20.310" end="00:21.810" ttm:agent="v1">That white gold</p>
+      <p begin="00:20.840" end="00:22.660" ttm:agent="v1">This one, for them hood girls</p>
+      <p begin="00:22.660" end="00:24.160" ttm:agent="v1">Them good girls</p>
+      <p begin="00:23.730" end="00:25.230" ttm:agent="v1">Straight masterpieces</p>
+      <p begin="00:24.900" end="00:27.070" ttm:agent="v1">Stylin', wildin'</p>
+      <p begin="00:27.070" end="00:29.090" ttm:agent="v1">Livin' it up in the city</p>
+      <p begin="00:29.090" end="00:30.960" ttm:agent="v1">Got Chucks on with Saint Laurent</p>
+      <p begin="00:30.960" end="00:32.890" ttm:agent="v1">Gotta kiss myself I'm so pretty</p>
+      <p begin="00:32.890" end="00:35.110" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm too hot (hot damn)</p>
+      <p begin="00:35.110" end="00:37.290" ttm:agent="v1">Called the police and the fireman</p>
+      <p begin="00:37.290" end="00:39.260" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm too hot (hot damn)</p>
+      <p begin="00:39.260" end="00:41.370" ttm:agent="v1">Make a dragon wanna retire man</p>
+      <p begin="00:41.370" end="00:43.250" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm too hot (hot damn)</p>
+      <p begin="00:43.250" end="00:45.670" ttm:agent="v1">Say my name you know who I am</p>
+      <p begin="00:45.670" end="00:47.750" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm too hot (hot damn)</p>
+      <p begin="00:47.750" end="00:49.470" ttm:agent="v1">And my band 'bout that money</p>
+      <p begin="00:49.470" end="00:50.970" ttm:agent="v1">Break it down</p>
+      <p begin="00:49.920" end="00:51.950" ttm:agent="v1" itunes:key="role" itunes:value="background">Girls hit your hallelujah (whuoo)</p>
+      <p begin="00:51.950" end="00:54.010" ttm:agent="v1" itunes:key="role" itunes:value="background">Girls hit your hallelujah (whuoo)</p>
+      <p begin="00:54.010" end="00:56.030" ttm:agent="v1" itunes:key="role" itunes:value="background">Girls hit your hallelujah (whuoo)</p>
+      <p begin="00:56.030" end="00:58.220" ttm:agent="v1">'Cause Uptown Funk gon' give it to you</p>
+      <p begin="00:58.220" end="01:00.300" ttm:agent="v1">'Cause Uptown Funk gon' give it to you</p>
+      <p begin="01:00.300" end="01:02.360" ttm:agent="v1">'Cause Uptown Funk gon' give it to you</p>
+      <p begin="01:02.360" end="01:04.190" ttm:agent="v1">Saturday night and we in the spot</p>
+      <p begin="01:04.190" end="01:12.190" ttm:agent="v1" itunes:key="role" itunes:value="background">Don't believe me just watch (come on)</p>
+      <p begin="01:13.410" end="01:20.990" ttm:agent="v1">Don't believe me just watch</p>
+      <p begin="01:20.990" end="01:23.170" ttm:agent="v1">Don't believe me just watch</p>
+      <p begin="01:23.170" end="01:25.240" ttm:agent="v1">Don't believe me just watch</p>
+      <p begin="01:25.240" end="01:27.260" ttm:agent="v1">Don't believe me just watch</p>
+      <p begin="01:27.260" end="01:29.240" ttm:agent="v1">Don't believe me just watch</p>
+      <p begin="01:29.240" end="01:31.510" ttm:agent="v1">Hey, hey, hey, oh!</p>
+      <p begin="01:31.510" end="01:33.010" ttm:agent="v1">Stop</p>
+      <p begin="01:32.620" end="01:34.120" ttm:agent="v1">Wait a minute</p>
+      <p begin="01:33.580" end="01:35.650" ttm:agent="v1">Fill my cup put some liquor in it</p>
+      <p begin="01:35.650" end="01:37.730" ttm:agent="v1">Take a sip, sign a check</p>
+      <p begin="01:37.730" end="01:39.690" ttm:agent="v1">Julio! Get the stretch!</p>
+      <p begin="01:39.690" end="01:43.800" ttm:agent="v1">Ride to Harlem, Hollywood, Jackson, Mississippi</p>
+      <p begin="01:43.800" end="01:45.930" ttm:agent="v1">If we show up, we gon' show out</p>
+      <p begin="01:45.930" end="01:48.000" ttm:agent="v1">Smoother than a fresh jar of skippy</p>
+      <p begin="01:48.000" end="01:49.880" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm too hot (hot damn)</p>
+      <p begin="01:49.880" end="01:52.000" ttm:agent="v1">Called a police and a fireman</p>
+      <p begin="01:52.000" end="01:54.130" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm too hot (hot damn)</p>
+      <p begin="01:54.130" end="01:56.090" ttm:agent="v1">Make a dragon wanna retire man</p>
+      <p begin="01:56.090" end="01:58.320" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm too hot (hot damn) (hot damn)</p>
+      <p begin="01:58.320" end="02:00.140" ttm:agent="v1">*****, say my name you know who I am</p>
+      <p begin="02:00.140" end="02:02.120" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm too hot (hot damn)</p>
+      <p begin="02:02.120" end="02:04.190" ttm:agent="v1">Am I bad 'bout that money</p>
+      <p begin="02:04.190" end="02:05.690" ttm:agent="v1">Break it down</p>
+      <p begin="02:04.700" end="02:06.720" ttm:agent="v1" itunes:key="role" itunes:value="background">Girls hit your hallelujah (whuoo)</p>
+      <p begin="02:06.720" end="02:08.690" ttm:agent="v1" itunes:key="role" itunes:value="background">Girls hit your hallelujah (whuoo)</p>
+      <p begin="02:08.690" end="02:10.720" ttm:agent="v1" itunes:key="role" itunes:value="background">Girls hit your hallelujah (whuoo)</p>
+      <p begin="02:10.720" end="02:12.850" ttm:agent="v1">'Cause Uptown Funk gon' give it to you</p>
+      <p begin="02:12.850" end="02:14.920" ttm:agent="v1">'Cause Uptown Funk gon' give it to you</p>
+      <p begin="02:14.920" end="02:17.050" ttm:agent="v1">'Cause Uptown Funk gon' give it to you</p>
+      <p begin="02:17.050" end="02:18.920" ttm:agent="v1">Saturday night and we in the spot</p>
+      <p begin="02:18.920" end="02:26.920" ttm:agent="v1" itunes:key="role" itunes:value="background">Don't believe me just watch (come on)</p>
+      <p begin="02:27.520" end="02:35.520" ttm:agent="v1">Don't believe me just watch</p>
+      <p begin="02:35.770" end="02:37.940" ttm:agent="v1">Don't believe me just watch</p>
+      <p begin="02:37.940" end="02:40.060" ttm:agent="v1">Don't believe me just watch</p>
+      <p begin="02:40.060" end="02:41.970" ttm:agent="v1">Don't believe me just watch</p>
+      <p begin="02:41.970" end="02:43.950" ttm:agent="v1">Don't believe me just watch</p>
+      <p begin="02:43.950" end="02:51.950" ttm:agent="v1">Hey, hey, hey, oh!</p>
+      <p begin="02:53.900" end="02:55.400" ttm:agent="v1">Before we leave</p>
+      <p begin="02:54.310" end="02:55.810" ttm:agent="v1">Imma tell y'all a lil' something</p>
+      <p begin="02:55.330" end="02:58.770" ttm:agent="v1">Uptown Funk you up, Uptown Funk you up</p>
+      <p begin="02:58.770" end="03:02.860" ttm:agent="v1">Uptown Funk you up, Uptown Funk you up</p>
+      <p begin="03:02.860" end="03:07.060" ttm:agent="v1">I said Uptown Funk you up, Uptown Funk you up</p>
+      <p begin="03:07.060" end="03:11.040" ttm:agent="v1">Uptown Funk you up, Uptown Funk you up</p>
+      <p begin="03:11.040" end="03:12.540" ttm:agent="v1">Come on, dance</p>
+      <p begin="03:12.170" end="03:13.670" ttm:agent="v1">Jump on it</p>
+      <p begin="03:13.180" end="03:15.050" ttm:agent="v1">If you sexy then flaunt it</p>
+      <p begin="03:15.050" end="03:17.170" ttm:agent="v1">If you freaky then own it</p>
+      <p begin="03:17.170" end="03:19.190" ttm:agent="v1">Don't brag about it, come show me</p>
+      <p begin="03:19.190" end="03:20.690" ttm:agent="v1">Come on, dance</p>
+      <p begin="03:19.540" end="03:21.410" ttm:agent="v1">Jump on it</p>
+      <p begin="03:21.410" end="03:23.430" ttm:agent="v1">If you sexy then flaunt it</p>
+      <p begin="03:23.430" end="03:25.410" ttm:agent="v1">Well it's Saturday night and we in the spot</p>
+      <p begin="03:25.410" end="03:32.080" ttm:agent="v1">Don't believe me just watch</p>
+      <p begin="03:32.080" end="03:40.080" ttm:agent="v1">Don't believe me just watch</p>
+      <p begin="03:42.250" end="03:44.380" ttm:agent="v1">Don't believe me just watch</p>
+      <p begin="03:44.380" end="03:46.400" ttm:agent="v1">Don't believe me just watch</p>
+      <p begin="03:46.400" end="03:48.530" ttm:agent="v1">Don't believe me just watch</p>
+      <p begin="03:48.530" end="03:50.450" ttm:agent="v1">Don't believe me just watch</p>
+      <p begin="03:50.450" end="03:53.270" ttm:agent="v1">Hey, hey, hey, oh!</p>
+      <p begin="03:53.270" end="03:56.810" ttm:agent="v1" itunes:key="role" itunes:value="background">Uptown Funk you up, Uptown Funk you up (say whaa?!)</p>
+      <p begin="03:56.810" end="04:00.870" ttm:agent="v1">Uptown Funk you up, Uptown Funk you up</p>
+      <p begin="04:00.870" end="04:05.070" ttm:agent="v1" itunes:key="role" itunes:value="background">Uptown Funk you up, Uptown Funk you up (say whaa?!)</p>
+      <p begin="04:05.070" end="04:09.310" ttm:agent="v1">Uptown Funk you up, Uptown Funk you up</p>
+      <p begin="04:09.310" end="04:13.410" ttm:agent="v1" itunes:key="role" itunes:value="background">Uptown Funk you up, Uptown Funk you up (say whaa?!)</p>
+      <p begin="04:13.410" end="04:17.600" ttm:agent="v1">Uptown Funk you up, Uptown Funk you up</p>
+      <p begin="04:17.600" end="04:21.690" ttm:agent="v1" itunes:key="role" itunes:value="background">Uptown Funk you up, Uptown Funk you up (say whaa?!)</p>
+      <p begin="04:21.690" end="04:25.279" ttm:agent="v1">Uptown Funk you up</p>
+      <p begin="04:25.279" end="04:26.779" ttm:agent="v1">Producers : Mark Ronson / Jeff Bhasker / Bruno Mars</p>
+      <p begin="04:25.570" end="04:27.070" ttm:agent="v1">Lead Vocals : Bruno Mars</p>
+      <p begin="04:25.795" end="04:27.295" ttm:agent="v1">Guitars : Mark Ronson</p>
+      <p begin="04:25.919" end="04:27.419" ttm:agent="v1">Bass : Jamareo Artis</p>
+      <p begin="04:26.061" end="04:27.561" ttm:agent="v1">Drums : Bruno Mars</p>
+      <p begin="04:26.191" end="04:27.691" ttm:agent="v1">Linn Drum : Mark Ronson</p>
+      <p begin="04:26.342" end="04:27.842" ttm:agent="v1" itunes:key="role" itunes:value="background">Keyboards : Jeff Bhasker / Phredley Brown (Additional)</p>
+      <p begin="04:26.476" end="04:27.976" ttm:agent="v1">Talkbox : Jeff Bhasker</p>
+      <p begin="04:26.625" end="04:28.125" ttm:agent="v1">Trumpet : David Guy / Michael Leonhart / Jimmy King</p>
+      <p begin="04:26.795" end="04:28.295" ttm:agent="v1">Tenor Saxophone : Neal Sugarman / Dwayne Dagger</p>
+      <p begin="04:26.955" end="04:28.455" ttm:agent="v1">Baritone Saxophone : Ian Hendrickson-Smith</p>
+      <p begin="04:27.144" end="04:28.644" ttm:agent="v1">Trombone : Ray Mason / Kameron Whalum</p>
+      <p begin="04:27.293" end="04:28.793" ttm:agent="v1">Programming : Mark Ronson</p>
+      <p begin="04:27.455" end="04:28.955" ttm:agent="v1">Engineers : Mark Ronson / Boo Mitchell / Charles Moniz / Wayne Gordon / Josh Blair / Inaam Haq</p>
+      <p begin="04:27.623" end="04:29.123" ttm:agent="v1">Additional Engineering : Ken Lewis / Devin Nakao / Matthew Stevens / Riccardo Damian</p>
+      <p begin="04:27.812" end="04:29.312" ttm:agent="v1">Mixing : Serban Ghenea</p>
+      <p begin="04:27.974" end="04:29.474" ttm:agent="v1">Mix Engineering : John Hanes</p>
+      <p begin="04:28.142" end="04:29.642" ttm:agent="v1">Mastering : Tom Coyne</p>
+      <p begin="04:28.320" end="04:29.820" ttm:agent="v1" itunes:key="role" itunes:value="background">Recorded at Royal Studios (Memphis, Tennessee), Zelig Studios (London, UK), Cherry Beach Sound (Toronto), Armoury Studios (Vancouver, BC), Levcon Studios (Los Angeles, California) and Daptone Studios (Brooklyn, New York), 2014</p>
+      <p begin="04:28.473" end="04:29.973" ttm:agent="v1" itunes:key="role" itunes:value="background">Mixed at Mixstar Studios (Virginia Beach, Virginia)</p>
+      <p begin="04:28.613" end="04:32.613" ttm:agent="v1"/>
     </div>
   </body>
 </tt>

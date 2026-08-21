@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Love Me</ttm:title>
+      <ttm:agent type="person" xml:id="v1">JMSN</ttm:agent>
+      <ttm:item type="album">Love Me</ttm:item>
+      <ttm:item type="spotify_id">28sawWzfucjbahooUtyrZx</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.458" end="00:08.458" ttm:agent="v1">Love me, love me, love me, love me</p>
+      <p begin="00:11.947" end="00:19.947" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh babyLove me (love me), love me (love me), love me (yeah yeah yeah (love me) yeah yeah)</p>
+      <p begin="00:24.434" end="00:32.434" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh baby (love me), oh love me (love me), love me (love me)</p>
+      <p begin="00:32.767" end="00:38.098" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah yeah yeah yeah yeah yeah Oh baby (love me)</p>
+      <p begin="00:38.098" end="00:46.098" ttm:agent="v1" itunes:key="role" itunes:value="background">ohh love meLove me, love me oh baby (Yeah yeah yeah yeah yeah yeah)</p>
+      <p begin="00:46.121" end="00:54.121" ttm:agent="v1">Yeah-ah, won't you say that you love me</p>
+      <p begin="01:01.121" end="01:03.627" ttm:agent="v1">Swear you're gonna love me</p>
+      <p begin="01:03.627" end="01:06.391" ttm:agent="v1">Give you a little honey</p>
+      <p begin="01:06.391" end="01:09.130" ttm:agent="v1">Make you spend a little money</p>
+      <p begin="01:09.130" end="01:12.382" ttm:agent="v1">You don't need it anyway, no</p>
+      <p begin="01:12.382" end="01:15.628" ttm:agent="v1">Not for nothing</p>
+      <p begin="01:15.628" end="01:18.626" ttm:agent="v1">You know imma keep it coming</p>
+      <p begin="01:18.626" end="01:21.380" ttm:agent="v1">Imma keep this party running</p>
+      <p begin="01:21.380" end="01:25.621" ttm:agent="v1" itunes:key="role" itunes:value="background">You ain't even gotta say, no(Ooooh)</p>
+      <p begin="01:25.621" end="01:33.621" ttm:agent="v1">Uh yeah You ain't even gotta say</p>
+      <p begin="01:34.868" end="01:36.368" ttm:agent="v1" itunes:key="role" itunes:value="background">Mmm, mmm (ye ye yeah)</p>
+      <p begin="01:35.756" end="01:37.256" ttm:agent="v1" itunes:key="role" itunes:value="background">You ain't even gotta say(Ooooh)</p>
+      <p begin="01:37.120" end="01:45.120" ttm:agent="v1">Uh yeah Yeah yeah yeah</p>
+      <p begin="01:48.379" end="01:51.383" ttm:agent="v1">I want you to love me</p>
+      <p begin="01:51.383" end="01:59.383" ttm:agent="v1">Love me, love me, love me, oh baby</p>
+      <p begin="02:00.879" end="02:07.875" ttm:agent="v1" itunes:key="role" itunes:value="background">Love me (love me), love me (love me), love me</p>
+      <p begin="02:07.875" end="02:11.043" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah yeah yeah yeah yeah yeah (love me)</p>
+      <p begin="02:11.043" end="02:19.043" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh baby (love me)Oh, love me (love me)Love me (love me)</p>
+      <p begin="02:19.687" end="02:25.284" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah yeah yeah yeah yeah yeah (oh baby)Oh baby (love me)</p>
+      <p begin="02:25.284" end="02:30.024" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, love me (love me)Love me (love me)</p>
+      <p begin="02:30.024" end="02:33.526" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah yeah yeah yeah yeah yeah (oh baby)</p>
+      <p begin="02:33.526" end="02:35.026" ttm:agent="v1">Love me, love me oh baby</p>
+      <p begin="02:34.790" end="02:36.290" ttm:agent="v1">Won't you say that you love me</p>
+      <p begin="02:36.269" end="02:38.776" ttm:agent="v1">Mama, love me</p>
+      <p begin="02:38.776" end="02:41.523" ttm:agent="v1">Papa, love me</p>
+      <p begin="02:41.523" end="02:44.524" ttm:agent="v1">Brother, love me</p>
+      <p begin="02:44.524" end="02:47.806" ttm:agent="v1">Sister, love me</p>
+      <p begin="02:47.806" end="02:50.550" ttm:agent="v1">And all the rest of my family</p>
+      <p begin="02:50.550" end="02:53.553" ttm:agent="v1">That always wants to just judge me</p>
+      <p begin="02:53.553" end="02:56.557" ttm:agent="v1">Save a little bit of your energy'</p>
+      <p begin="02:56.557" end="03:00.811" ttm:agent="v1">Cause a little bit of love is what I need,</p>
+      <p begin="03:00.811" end="03:04.054" ttm:agent="v1">yeah,Judas,</p>
+      <p begin="03:04.054" end="03:07.304" ttm:agent="v1">yeah,Jesus, yeah</p>
+      <p begin="03:07.304" end="03:13.059" ttm:agent="v1">Accept me in the gates of heaven, yeah</p>
+      <p begin="03:13.059" end="03:15.809" ttm:agent="v1" itunes:key="role" itunes:value="background">Influence, yeah (Oh yeah)</p>
+      <p begin="03:15.809" end="03:18.057" ttm:agent="v1">Creedence, yeah</p>
+      <p begin="03:18.057" end="03:23.309" ttm:agent="v1">I'm a sinner, I'm a sinner</p>
+      <p begin="03:23.309" end="03:31.309" ttm:agent="v1">I want you to love me, love me, love me, love me</p>
+      <p begin="03:33.544" end="03:35.420" ttm:agent="v1">Oh baby</p>
+      <p begin="03:35.420" end="03:43.420" ttm:agent="v1">Love me, love me, love me, love me</p>
+      <p begin="03:45.542" end="03:49.294" ttm:agent="v1" itunes:key="role" itunes:value="background">Love me baby, yeah (ooh love me, love me, love me)</p>
+      <p begin="03:49.294" end="03:51.554" ttm:agent="v1" itunes:key="role" itunes:value="background">Love me baby, yeah (ooh love me)</p>
+      <p begin="03:51.554" end="03:58.741" ttm:agent="v1">Love me</p>
+      <p begin="03:58.741" end="04:05.122" ttm:agent="v1">Love me, oh baby</p>
+      <p begin="04:05.122" end="04:09.979" ttm:agent="v1">Yeah</p>
+      <p begin="04:09.979" end="04:12.603" ttm:agent="v1">Won't you say that you love me</p>
+      <p begin="04:12.603" end="04:16.356" ttm:agent="v1">Love me</p>
+      <p begin="04:16.356" end="04:21.593" ttm:agent="v1">Love me oh baby, yeah</p>
+      <p begin="04:21.593" end="04:25.593" ttm:agent="v1">Won't you say that you love me</p>
+    </div>
+  </body>
+</tt>

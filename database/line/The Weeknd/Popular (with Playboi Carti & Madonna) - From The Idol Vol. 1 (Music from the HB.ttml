@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Popular (with Playboi Carti &amp; Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">The Weeknd</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Playboi Carti</ttm:agent>
+      <ttm:agent type="person" xml:id="v3">Madonna</ttm:agent>
+      <ttm:item type="album">Popular (Music from the HBO Original Series)</ttm:item>
+      <ttm:item type="spotify_id">6WzRpISELf3YglGAh7TXcG</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:01.854" end="00:04.616" ttm:agent="v1">I've seen the devil</p>
+      <p begin="00:04.616" end="00:12.545" ttm:agent="v1">Down sunset in every place, in every face</p>
+      <p begin="00:12.545" end="00:16.144" ttm:agent="v1">Yeah, yeah</p>
+      <p begin="00:16.144" end="00:18.775" ttm:agent="v1"/>
+      <p begin="00:18.775" end="00:23.473" ttm:agent="v1">Tell me, do you see her? She's livin' her life</p>
+      <p begin="00:23.473" end="00:28.507" ttm:agent="v1">Even if she acts like she don't want the limelight</p>
+      <p begin="00:28.507" end="00:33.447" ttm:agent="v1" itunes:key="role" itunes:value="background">But if you knew her (Yeah), she lives a lie</p>
+      <p begin="00:33.447" end="00:37.076" ttm:agent="v1">She calls the paparazzi then she acts surprised</p>
+      <p begin="00:37.076" end="00:38.576" ttm:agent="v1"/>
+      <p begin="00:38.170" end="00:41.611" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, oh-oh-oh-oh, I know what she needs (Oh-oh)</p>
+      <p begin="00:41.611" end="00:44.105" ttm:agent="v1" itunes:key="role" itunes:value="background">She just want the fame, I know what she fiends (Oh-oh)</p>
+      <p begin="00:44.105" end="00:46.539" ttm:agent="v1" itunes:key="role" itunes:value="background">Give her a little taste, running back to me (Oh-oh)</p>
+      <p begin="00:46.539" end="00:50.165" ttm:agent="v1">Put it in her veins, pray her soul to keep, ooh-ooh, ooh-ooh</p>
+      <p begin="00:50.165" end="00:54.808" ttm:agent="v1" itunes:key="role" itunes:value="background">Every night (Every night) she prays to the sky</p>
+      <p begin="00:54.808" end="00:57.629" ttm:agent="v1">Flashing lights is all she ever wants to see</p>
+      <p begin="00:57.629" end="00:59.129" ttm:agent="v1"/>
+      <p begin="00:58.554" end="01:01.227" ttm:agent="v1">Begging on your knees to be popular</p>
+      <p begin="01:01.227" end="01:03.843" ttm:agent="v1">That's her dream to be popular</p>
+      <p begin="01:03.843" end="01:06.094" ttm:agent="v1">Kill anyone to be popular</p>
+      <p begin="01:06.094" end="01:08.511" ttm:agent="v1">Sell her soul to be popular</p>
+      <p begin="01:08.511" end="01:10.880" ttm:agent="v1">Popular, just to be popular</p>
+      <p begin="01:10.880" end="01:13.345" ttm:agent="v1">Everybody scream 'cause she popular</p>
+      <p begin="01:13.345" end="01:15.695" ttm:agent="v1">She mainstream 'cause she popular</p>
+      <p begin="01:15.695" end="01:17.389" ttm:agent="v1">Never be free 'cause she popular</p>
+      <p begin="01:17.389" end="01:18.889" ttm:agent="v1"/>
+      <p begin="01:18.125" end="01:20.786" ttm:agent="v1" itunes:key="role" itunes:value="background">Money on top of me, money on top of her (Uh-uh)</p>
+      <p begin="01:20.786" end="01:23.116" ttm:agent="v1" itunes:key="role" itunes:value="background">Money on top of me, money on top of her (Uh-uh)</p>
+      <p begin="01:23.116" end="01:25.556" ttm:agent="v1" itunes:key="role" itunes:value="background">Shawty **** with me 'cause she know I'm popular (Uh-uh)</p>
+      <p begin="01:25.556" end="01:27.056" ttm:agent="v1" itunes:key="role" itunes:value="background">Shawty **** with me 'cause she know I'm popular (Uh-uh)</p>
+      <p begin="01:26.169" end="01:27.669" ttm:agent="v1"/>
+      <p begin="01:26.814" end="01:31.313" ttm:agent="v1">I know that you see me, time's gone by</p>
+      <p begin="01:31.313" end="01:36.294" ttm:agent="v1">Spent my whole life runnin' from your flashin' lights</p>
+      <p begin="01:36.294" end="01:41.178" ttm:agent="v1">Try to own it, but I'm alright</p>
+      <p begin="01:41.178" end="01:44.079" ttm:agent="v1">You can't take my soul without a ****ing fight</p>
+      <p begin="01:44.079" end="01:45.713" ttm:agent="v1"/>
+      <p begin="01:45.713" end="01:49.591" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, oh-oh-oh-oh, I know what she needs (Oh-oh)</p>
+      <p begin="01:49.591" end="01:51.990" ttm:agent="v1" itunes:key="role" itunes:value="background">She just want the fame, I know what she fiends (Oh-oh)</p>
+      <p begin="01:51.990" end="01:54.231" ttm:agent="v1" itunes:key="role" itunes:value="background">Give her a little taste, running back to me (Oh-oh)</p>
+      <p begin="01:54.231" end="01:58.042" ttm:agent="v1">Put it in her veins, pray her soul to keep, ooh-ooh, ooh-ooh</p>
+      <p begin="01:58.042" end="02:02.721" ttm:agent="v1" itunes:key="role" itunes:value="background">Every night (Every night) she prays to the sky</p>
+      <p begin="02:02.721" end="02:05.312" ttm:agent="v1">Flashing lights is all she ever wants to see</p>
+      <p begin="02:05.312" end="02:06.812" ttm:agent="v1"/>
+      <p begin="02:06.343" end="02:09.066" ttm:agent="v1">Begging on her knees to be popular</p>
+      <p begin="02:09.066" end="02:11.535" ttm:agent="v1">That's her dream to be popular</p>
+      <p begin="02:11.535" end="02:14.016" ttm:agent="v1">Kill anyone to be popular</p>
+      <p begin="02:14.016" end="02:16.357" ttm:agent="v1">Sell her soul to be popular</p>
+      <p begin="02:16.357" end="02:18.673" ttm:agent="v1" itunes:key="role" itunes:value="background">Popular, just to be popular (Uh-huh)</p>
+      <p begin="02:18.673" end="02:21.095" ttm:agent="v1">Everybody scream 'cause she popular</p>
+      <p begin="02:21.095" end="02:23.535" ttm:agent="v1">She mainstream 'cause she popular</p>
+      <p begin="02:23.535" end="02:25.035" ttm:agent="v1">Never be free 'cause she popular</p>
+      <p begin="02:24.870" end="02:26.370" ttm:agent="v1"/>
+      <p begin="02:25.725" end="02:28.502" ttm:agent="v1" itunes:key="role" itunes:value="background">Money on top of me, money on top of her (Uh-uh)</p>
+      <p begin="02:28.502" end="02:30.966" ttm:agent="v1" itunes:key="role" itunes:value="background">Money on top of me, money on top of her (Uh-uh)</p>
+      <p begin="02:30.966" end="02:33.307" ttm:agent="v1" itunes:key="role" itunes:value="background">Shawty **** with me 'cause she know I'm popular (Uh-uh)</p>
+      <p begin="02:33.307" end="02:35.834" ttm:agent="v1" itunes:key="role" itunes:value="background">Shawty **** with me 'cause she know I'm popular (Uh-uh)</p>
+      <p begin="02:35.834" end="02:38.222" ttm:agent="v1" itunes:key="role" itunes:value="background">Money on top of me, money on top of her (Uh-uh)</p>
+      <p begin="02:38.222" end="02:40.692" ttm:agent="v1" itunes:key="role" itunes:value="background">Money on top of me, money on top of her (Uh-uh)</p>
+      <p begin="02:40.692" end="02:42.989" ttm:agent="v1" itunes:key="role" itunes:value="background">Shawty **** with me 'cause she know I'm popular (Uh-uh)</p>
+      <p begin="02:42.989" end="02:44.489" ttm:agent="v1">Shawty **** with me 'cause she know I'm popular</p>
+      <p begin="02:43.954" end="02:45.588" ttm:agent="v1"/>
+      <p begin="02:45.588" end="02:47.997" ttm:agent="v1">I'm getting money and I'm keepin' it</p>
+      <p begin="02:47.997" end="02:50.654" ttm:agent="v1">I'm getting cash and I'm keepin' it</p>
+      <p begin="02:50.654" end="02:52.737" ttm:agent="v1">Money on top of me, money on top of her</p>
+      <p begin="02:52.737" end="02:55.223" ttm:agent="v1">Shawty **** wit' me 'cause she know I'm popular</p>
+      <p begin="02:55.223" end="02:57.251" ttm:agent="v1">Pop-popular, born to be popular</p>
+      <p begin="02:57.251" end="02:59.769" ttm:agent="v1">She in debt, twenty mill', but she run it up</p>
+      <p begin="02:59.769" end="03:02.136" ttm:agent="v1">She can never be broke 'cause she popular</p>
+      <p begin="03:02.136" end="03:03.636" ttm:agent="v1">Turn the webcam on for the followers</p>
+      <p begin="03:03.346" end="03:11.346" ttm:agent="v1"/>
+      <p begin="03:14.976" end="03:16.896" ttm:agent="v1">Begging on her knees to be popular</p>
+      <p begin="03:16.896" end="03:19.346" ttm:agent="v1">That's her dream to be popular</p>
+      <p begin="03:19.346" end="03:21.682" ttm:agent="v1">Kill anyone to be popular</p>
+      <p begin="03:21.682" end="03:24.291" ttm:agent="v1">Sell her soul to be popular</p>
+      <p begin="03:24.291" end="03:26.608" ttm:agent="v1">Popular, just to be popular, uh-huh</p>
+      <p begin="03:26.608" end="03:29.082" ttm:agent="v1">Everybody scream 'cause she popular</p>
+      <p begin="03:29.082" end="03:31.531" ttm:agent="v1">She mainstream 'cause she popular</p>
+      <p begin="03:31.531" end="03:35.531" ttm:agent="v1">Never be free 'cause she popular</p>
+    </div>
+  </body>
+</tt>

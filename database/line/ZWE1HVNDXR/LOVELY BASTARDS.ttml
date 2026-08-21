@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>LOVELY BASTARDS</ttm:title>
+      <ttm:agent type="person" xml:id="v1">ZWE1HVNDXR</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">yatashigang</ttm:agent>
+      <ttm:item type="album">LOVELY BASTARDS</ttm:item>
+      <ttm:item type="spotify_id">0EqczV3o6fwksegAavIHpX</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.000" end="00:01.500" ttm:agent="v1">（Talking with you,in your bed i saw-）</p>
+      <p begin="00:00.118" end="00:06.688" ttm:agent="v1">if you ait't got my money or my bud,i'm killing you and him</p>
+      <p begin="00:06.688" end="00:12.732" ttm:agent="v1">（The number you reached 9-1-1,has been changed to a non-publi-）</p>
+      <p begin="00:12.732" end="00:20.732" ttm:agent="v1">♫</p>
+      <p begin="00:26.177" end="00:31.800" ttm:agent="v1">Talking with you,in your bed i saw-,in your be-</p>
+      <p begin="00:31.800" end="00:38.252" ttm:agent="v1">Talking with you,in your bed i saw-,in your be-</p>
+      <p begin="00:38.252" end="00:44.649" ttm:agent="v1">Talking with you,in your bed i saw-,in your be-</p>
+      <p begin="00:44.649" end="00:51.046" ttm:agent="v1">Talking with you,in your bed i saw-,in your be-</p>
+      <p begin="00:51.046" end="00:58.039" ttm:agent="v1">Talking with you,in your bed i saw-,in your be-</p>
+      <p begin="00:58.039" end="01:02.989" ttm:agent="v1">Talking with you,in your bed i saw-,in your be-</p>
+      <p begin="01:02.989" end="01:09.299" ttm:agent="v1">Project Pat don't give a ****</p>
+      <p begin="01:09.299" end="01:15.515" ttm:agent="v1">Project Pat don't give a ****</p>
+      <p begin="01:15.515" end="01:17.125" ttm:agent="v1">Project-,Project-,fu,****</p>
+      <p begin="01:17.125" end="01:25.125" ttm:agent="v1">♫</p>
+      <p begin="01:30.972" end="01:36.405" ttm:agent="v1">Talking with you,in your bed i saw-,in your be-</p>
+      <p begin="01:36.405" end="01:42.676" ttm:agent="v1">Talking with you,in your bed i saw-,in your be-</p>
+      <p begin="01:42.676" end="01:46.676" ttm:agent="v1">Talking with you,in your bed i saw</p>
+    </div>
+  </body>
+</tt>

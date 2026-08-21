@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Was I The Reason</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Løvesick</ttm:agent>
+      <ttm:item type="album">Was I The Reason</ttm:item>
+      <ttm:item type="spotify_id">4zl3bmWI07pyxtBJwkb2aq</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:24.380" end="00:28.520" ttm:agent="v1">I slam my skull into the wall</p>
+      <p begin="00:28.520" end="00:30.450" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh woah)</p>
+      <p begin="00:30.450" end="00:35.270" ttm:agent="v1">Concussions all so I forget you</p>
+      <p begin="00:35.270" end="00:36.770" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh woah)</p>
+      <p begin="00:36.520" end="00:42.360" ttm:agent="v1">Don't call the ambulance I'm fine</p>
+      <p begin="00:42.360" end="00:47.150" ttm:agent="v1">These scars won't heal overtime</p>
+      <p begin="00:47.150" end="00:50.240" ttm:agent="v1">But was it just me?</p>
+      <p begin="00:50.240" end="00:53.280" ttm:agent="v1">Or was it just all the things I've done</p>
+      <p begin="00:53.280" end="00:56.440" ttm:agent="v1">The letters I wrote?</p>
+      <p begin="00:56.440" end="00:59.090" ttm:agent="v1">The time that I spent inside a home</p>
+      <p begin="00:59.090" end="01:01.930" ttm:agent="v1">Was always empty from the start</p>
+      <p begin="01:01.930" end="01:05.440" ttm:agent="v1">Was never meant inside your heart</p>
+      <p begin="01:05.440" end="01:08.390" ttm:agent="v1">Then was it just me?</p>
+      <p begin="01:08.390" end="01:13.350" ttm:agent="v1">Was I the reason that you left?</p>
+      <p begin="01:13.350" end="01:19.430" ttm:agent="v1">I held my breath for you, you still blew away oh woah</p>
+      <p begin="01:19.430" end="01:23.930" ttm:agent="v1">And I'm sorry for all the things that I used to say</p>
+      <p begin="01:23.930" end="01:27.680" ttm:agent="v1">But you left without a trace no footsteps</p>
+      <p begin="01:27.680" end="01:30.550" ttm:agent="v1">Still see your face in my head</p>
+      <p begin="01:30.550" end="01:34.250" ttm:agent="v1">Cause of me you bit the dust and left</p>
+      <p begin="01:34.250" end="01:36.280" ttm:agent="v1">And you left me</p>
+      <p begin="01:36.280" end="01:42.330" ttm:agent="v1">Packed up all your shit and left, apparently I'm nothing more than left on read</p>
+      <p begin="01:42.330" end="01:45.020" ttm:agent="v1">Sent me one more text and that</p>
+      <p begin="01:45.020" end="01:47.620" ttm:agent="v1">Concluded all we had</p>
+      <p begin="01:47.620" end="01:50.550" ttm:agent="v1">But was it just me?</p>
+      <p begin="01:50.550" end="01:53.470" ttm:agent="v1">Or was it just all the things I've done</p>
+      <p begin="01:53.470" end="01:55.030" ttm:agent="v1">The letters I wrote?</p>
+      <p begin="01:55.030" end="01:56.530" ttm:agent="v1" itunes:key="role" itunes:value="background">(Were they enough for you?)</p>
+      <p begin="01:56.530" end="01:59.440" ttm:agent="v1">The time that I spent inside a home</p>
+      <p begin="01:59.440" end="02:02.310" ttm:agent="v1">Was always empty from the start</p>
+      <p begin="02:02.310" end="02:05.580" ttm:agent="v1">Was never meant inside your heart</p>
+      <p begin="02:05.580" end="02:08.620" ttm:agent="v1">Then was it just me?</p>
+      <p begin="02:08.620" end="02:12.640" ttm:agent="v1">Was I the reason that you left?</p>
+      <p begin="02:12.640" end="02:16.640" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

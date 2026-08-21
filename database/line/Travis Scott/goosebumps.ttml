@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>goosebumps</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Travis Scott</ttm:agent>
+      <ttm:item type="album">Birds In The Trap Sing McKnight</ttm:item>
+      <ttm:item type="spotify_id">6gBFPUFcJLzWGx4lenP6h2</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.450" end="00:01.950" ttm:agent="v1">[Intro: Travis Scott]</p>
+      <p begin="00:00.820" end="00:08.820" ttm:agent="v1">7:30, in the night</p>
+      <p begin="00:21.160" end="00:24.190" ttm:agent="v1">Ooooh</p>
+      <p begin="00:24.190" end="00:25.690" ttm:agent="v1">[Hook: Travis Scott]</p>
+      <p begin="00:24.890" end="00:32.350" ttm:agent="v1">I get those goosebumps every time, yeah, you come around, yeah</p>
+      <p begin="00:32.350" end="00:35.980" ttm:agent="v1">You ease my mind, you make everything feel fine</p>
+      <p begin="00:35.980" end="00:37.840" ttm:agent="v1">Worry about those comments</p>
+      <p begin="00:37.840" end="00:41.710" ttm:agent="v1">I'm way too numb, yeah, it's way too dumb, yeah</p>
+      <p begin="00:41.710" end="00:47.110" ttm:agent="v1">I get those goosebumps every time, I need the Heimlich</p>
+      <p begin="00:47.110" end="00:48.950" ttm:agent="v1">Throw that to the side, yeah</p>
+      <p begin="00:48.950" end="00:54.510" ttm:agent="v1">I get those goosebumps every time, yeah, when you're not around</p>
+      <p begin="00:54.510" end="00:56.870" ttm:agent="v1">When you throw that to the side, yeah</p>
+      <p begin="00:56.870" end="01:00.170" ttm:agent="v1">I get those goosebumps every time</p>
+      <p begin="01:00.170" end="01:01.670" ttm:agent="v1">[Verse 1: Travis Scott]</p>
+      <p begin="01:00.480" end="01:03.620" ttm:agent="v1">7-1-3 to the 2-8-1, yeah I'm riding</p>
+      <p begin="01:03.620" end="01:05.120" ttm:agent="v1">Why they on me?</p>
+      <p begin="01:04.780" end="01:08.820" ttm:agent="v1">Why they on me, I'm flyin', sippin' lowkey</p>
+      <p begin="01:08.820" end="01:12.120" ttm:agent="v1">I'm sipping'lowkey and Onyx, rider, rider</p>
+      <p begin="01:12.120" end="01:14.830" ttm:agent="v1">When I'm pullin' up right beside ya</p>
+      <p begin="01:14.830" end="01:18.020" ttm:agent="v1">Popstar, lil' Mariah when I text a cute game</p>
+      <p begin="01:18.020" end="01:20.250" ttm:agent="v1">Wildness, throw a stack on the Bible</p>
+      <p begin="01:20.250" end="01:22.060" ttm:agent="v1">Never Snapchat or took m***y</p>
+      <p begin="01:22.060" end="01:25.030" ttm:agent="v1">She fall through plenty, her and all her ginnies</p>
+      <p begin="01:25.030" end="01:29.030" ttm:agent="v1">We at the top floor, right there off Doheny</p>
+      <p begin="01:29.030" end="01:32.460" ttm:agent="v1">Oh no, I can't **** with y'all</p>
+      <p begin="01:32.460" end="01:36.130" ttm:agent="v1">Yea, when I'm with my squad I cannot do no wrong</p>
+      <p begin="01:36.130" end="01:39.850" ttm:agent="v1">Saucin' in the city, don't get misinformed, yea</p>
+      <p begin="01:39.850" end="01:43.450" ttm:agent="v1" itunes:key="role" itunes:value="background">They gon' pull up on you (brr, brr, brr)</p>
+      <p begin="01:43.450" end="01:47.580" ttm:agent="v1">Yea, we gon' do some things, some things you can't relate</p>
+      <p begin="01:47.580" end="01:50.890" ttm:agent="v1">Yea, cause we from a place, a place you cannot stay</p>
+      <p begin="01:50.890" end="01:54.690" ttm:agent="v1">Oh, you can't go, oh, I don't know</p>
+      <p begin="01:54.690" end="01:58.070" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, back the **** up off me (brr, brr, brr)</p>
+      <p begin="01:58.070" end="01:59.570" ttm:agent="v1">[Hook: Travis Scott]</p>
+      <p begin="01:58.280" end="02:06.280" ttm:agent="v1">I get those goosebumps every time, yeah, you come around, yeah</p>
+      <p begin="02:08.500" end="02:11.980" ttm:agent="v1">You ease my mind, you make everything feel fine</p>
+      <p begin="02:11.980" end="02:13.900" ttm:agent="v1">Worry about those comments</p>
+      <p begin="02:13.900" end="02:17.960" ttm:agent="v1">I'm way too numb, yeah, it's way too dumb, yeah</p>
+      <p begin="02:17.960" end="02:23.080" ttm:agent="v1">I get those goosebumps every time, I need the heimlich</p>
+      <p begin="02:23.080" end="02:24.990" ttm:agent="v1">Throw that to the side, yeah</p>
+      <p begin="02:24.990" end="02:30.400" ttm:agent="v1">I get those goosebumps every time, yeah, when you're not around</p>
+      <p begin="02:30.400" end="02:33.300" ttm:agent="v1">When you throw that to the side, yeah</p>
+      <p begin="02:33.300" end="02:36.120" ttm:agent="v1">I get those goosebumps every time</p>
+      <p begin="02:36.120" end="02:37.620" ttm:agent="v1">[Verse 2: Kendrick Lamar]</p>
+      <p begin="02:36.350" end="02:39.400" ttm:agent="v1">I want to press my like, yeah, I wanna press my</p>
+      <p begin="02:39.400" end="02:41.780" ttm:agent="v1">I want a green light, I wanna be like</p>
+      <p begin="02:41.780" end="02:43.410" ttm:agent="v1">I wanna press my like, yeah</p>
+      <p begin="02:43.410" end="02:45.210" ttm:agent="v1">I want to take that ride, yeah</p>
+      <p begin="02:45.210" end="02:47.280" ttm:agent="v1">I’m gonna press my line</p>
+      <p begin="02:47.280" end="02:49.960" ttm:agent="v1">I wanna green light, I wanna be like, I wanna press my</p>
+      <p begin="02:49.960" end="02:51.460" ttm:agent="v1">Mama, dear, spare your feelings</p>
+      <p begin="02:51.340" end="02:52.870" ttm:agent="v1">I'm reliving moments, peeling more residual</p>
+      <p begin="02:52.870" end="02:57.040" ttm:agent="v1" itunes:key="role" itunes:value="background">(I can) buy the building, burn the building, take your b***h, rebuild the building just to **** some more</p>
+      <p begin="02:57.040" end="03:00.120" ttm:agent="v1" itunes:key="role" itunes:value="background">(I can) justify my love for you and touch the sky for God to stop, debating wall</p>
+      <p begin="03:00.120" end="03:02.270" ttm:agent="v1">Put the ****ing on a pedestal</p>
+      <p begin="03:02.270" end="03:04.820" ttm:agent="v1">Put the ****ing on a high horse</p>
+      <p begin="03:04.820" end="03:06.460" ttm:agent="v1">That b***h to die for</p>
+      <p begin="03:06.460" end="03:08.310" ttm:agent="v1">That b***h to die for</p>
+      <p begin="03:08.310" end="03:09.820" ttm:agent="v1">Peter, piper, picked a peppers</p>
+      <p begin="03:09.820" end="03:11.750" ttm:agent="v1">I could pick your brain and put your heart together</p>
+      <p begin="03:11.750" end="03:14.600" ttm:agent="v1">We depart the shady parts and party hard, the diamonds yours</p>
+      <p begin="03:14.600" end="03:16.100" ttm:agent="v1">The coupe forever</p>
+      <p begin="03:15.750" end="03:17.970" ttm:agent="v1" itunes:key="role" itunes:value="background">My best shots might shoot forever like (brr)</p>
+      <p begin="03:17.970" end="03:19.470" ttm:agent="v1">[Hook: Travis Scott]</p>
+      <p begin="03:18.300" end="03:21.950" ttm:agent="v1">I get those goosebumps every time, yeah, you come around, yeah</p>
+      <p begin="03:21.950" end="03:25.560" ttm:agent="v1">You ease my mind, you make everything feel fine</p>
+      <p begin="03:25.560" end="03:27.450" ttm:agent="v1">Worry about those comments</p>
+      <p begin="03:27.450" end="03:32.990" ttm:agent="v1">I'm way too numb, yeah, it's way too dumb, yeah</p>
+      <p begin="03:32.990" end="03:36.930" ttm:agent="v1">I get those goosebumps every time, I need the heimlich</p>
+      <p begin="03:36.930" end="03:38.760" ttm:agent="v1">Throw that to the side, yeah</p>
+      <p begin="03:38.760" end="03:44.230" ttm:agent="v1">I get those goosebumps every time, yeah, when you're not around</p>
+      <p begin="03:44.230" end="03:46.810" ttm:agent="v1">When you throw that to the side, yeah</p>
+      <p begin="03:46.810" end="03:50.780" ttm:agent="v1">I get those goosebumps every time</p>
+      <p begin="03:50.780" end="03:54.780" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

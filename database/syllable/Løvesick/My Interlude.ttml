@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>My Interlude</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Løvesick</ttm:agent>
+      <ttm:item type="album">Sorry Doesn't Fix A Broken Heart</ttm:item>
+      <ttm:item type="spotify_id">5oiq4WhwohxPCUcfhjxTRx</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:12.680" end="00:25.070" ttm:agent="v1">
+        <span begin="00:12.680" end="00:15.860">Saints </span>
+        <span begin="00:15.860" end="00:17.540">protect </span>
+        <span begin="00:17.540" end="00:22.340">her </span>
+        <span begin="00:22.340" end="00:25.070">now</span>
+      </p>
+      <p begin="00:25.580" end="00:37.640" ttm:agent="v1">
+        <span begin="00:25.580" end="00:29.390">Come </span>
+        <span begin="00:29.390" end="00:34.850">angels </span>
+        <span begin="00:34.850" end="00:34.940">of </span>
+        <span begin="00:34.940" end="00:35.060">the </span>
+        <span begin="00:35.060" end="00:37.640">Lord</span>
+      </p>
+      <p begin="00:38.120" end="00:46.130" ttm:agent="v1">
+        <span begin="00:38.120" end="00:41.360">Come </span>
+        <span begin="00:41.360" end="00:44.720">angels </span>
+        <span begin="00:44.720" end="00:44.810">of </span>
+        <span begin="00:44.810" end="00:45.050">the </span>
+        <span begin="00:45.050" end="00:46.130">Lord</span>
+      </p>
+    </div>
+  </body>
+</tt>

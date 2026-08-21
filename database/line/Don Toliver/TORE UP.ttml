@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>TORE UP</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Don Toliver</ttm:agent>
+      <ttm:item type="album">HARDSTONE PSYCHO</ttm:item>
+      <ttm:item type="spotify_id">1jKXjxMWlq4BhH6f9GtZbu</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.000" end="00:03.463" ttm:agent="v1"/>
+      <p begin="00:03.463" end="00:08.239" ttm:agent="v1" itunes:key="role" itunes:value="background">(We're not changing now)</p>
+      <p begin="00:08.239" end="00:16.239" ttm:agent="v1"/>
+      <p begin="00:17.944" end="00:21.351" ttm:agent="v1">In the club with some ones and I'm piped up</p>
+      <p begin="00:21.351" end="00:24.535" ttm:agent="v1">Shawty got me high, too high</p>
+      <p begin="00:24.535" end="00:27.256" ttm:agent="v1">I be steppin' on a b***h in some white 1s</p>
+      <p begin="00:27.256" end="00:30.400" ttm:agent="v1">Can't control me, I think I'm too fly</p>
+      <p begin="00:30.400" end="00:31.900" ttm:agent="v1"/>
+      <p begin="00:30.567" end="00:33.679" ttm:agent="v1">Tore up, tore up, tore up, tore up</p>
+      <p begin="00:33.679" end="00:36.775" ttm:agent="v1" itunes:key="role" itunes:value="background">Tore up, tore up (High), tore up, tore up</p>
+      <p begin="00:36.775" end="00:39.975" ttm:agent="v1" itunes:key="role" itunes:value="background">Tore up, tore up (Ah), tore up, tore up</p>
+      <p begin="00:39.975" end="00:42.889" ttm:agent="v1" itunes:key="role" itunes:value="background">Tore up, tore up (High), tore up, tore up</p>
+      <p begin="00:42.889" end="00:44.389" ttm:agent="v1"/>
+      <p begin="00:43.095" end="00:46.207" ttm:agent="v1" itunes:key="role" itunes:value="background">She back to back, oh, she in that mode (Woo)</p>
+      <p begin="00:46.207" end="00:49.288" ttm:agent="v1">I rip her tracks out, she gotta go</p>
+      <p begin="00:49.288" end="00:52.384" ttm:agent="v1">I hop up on my bike, it's &quot;peace&quot; and &quot;adios&quot;</p>
+      <p begin="00:52.384" end="00:57.231" ttm:agent="v1">It's not about where you're at, it's where you go</p>
+      <p begin="00:57.231" end="00:58.731" ttm:agent="v1"/>
+      <p begin="00:57.407" end="01:03.305" ttm:agent="v1" itunes:key="role" itunes:value="background">(We're not changing now)</p>
+      <p begin="01:03.305" end="01:05.649" ttm:agent="v1">If you believe in yourself</p>
+      <p begin="01:05.649" end="01:08.608" ttm:agent="v1">It will get you through it</p>
+      <p begin="01:08.608" end="01:11.976" ttm:agent="v1">Oh, I believed in myself</p>
+      <p begin="01:11.976" end="01:14.135" ttm:agent="v1">Well, can you see what I'm doin'?</p>
+      <p begin="01:14.135" end="01:15.635" ttm:agent="v1"/>
+      <p begin="01:14.343" end="01:15.843" ttm:agent="v1"/>
+      <p begin="01:14.608" end="01:17.107" ttm:agent="v1">In the club with some ones and I'm piped up</p>
+      <p begin="01:17.107" end="01:20.239" ttm:agent="v1">Shawty got me high, too high</p>
+      <p begin="01:20.239" end="01:22.976" ttm:agent="v1">I be steppin' on a b***h in some white 1s</p>
+      <p begin="01:22.976" end="01:26.215" ttm:agent="v1">Can't control me, I think I'm too fly</p>
+      <p begin="01:26.215" end="01:27.715" ttm:agent="v1"/>
+      <p begin="01:26.402" end="01:29.447" ttm:agent="v1">Tore up, tore up, tore up, tore up</p>
+      <p begin="01:29.447" end="01:32.416" ttm:agent="v1" itunes:key="role" itunes:value="background">Tore up, tore up (High), tore up, tore up</p>
+      <p begin="01:32.416" end="01:35.679" ttm:agent="v1" itunes:key="role" itunes:value="background">Tore up, tore up (Ah), tore up, tore up</p>
+      <p begin="01:35.679" end="01:39.679" ttm:agent="v1" itunes:key="role" itunes:value="background">Tore up, tore up (High), tore up, tore up</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>hey! hi! hello!</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Ciscaux</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">1nonly</ttm:agent>
+      <ttm:agent type="person" xml:id="v3">lilbubblegum</ttm:agent>
+      <ttm:item type="album">hey! hi! hello!</ttm:item>
+      <ttm:item type="spotify_id">27SEQaBcAE7DoIrScknD3S</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.253" end="00:08.253" ttm:agent="v1">okayjml</p>
+      <p begin="00:09.060" end="00:11.715" ttm:agent="v1">The world's yours</p>
+      <p begin="00:11.715" end="00:13.597" ttm:agent="v1">Okay,like“Hey,hi, hello”</p>
+      <p begin="00:13.597" end="00:16.564" ttm:agent="v1">Posting with these racks,I'm counting guap all my dinero</p>
+      <p begin="00:16.564" end="00:19.652" ttm:agent="v1">Cannot **** with bitches cause they playing like a cello</p>
+      <p begin="00:19.652" end="00:22.621" ttm:agent="v1">Ass fat,fishnets black,chucks yellow</p>
+      <p begin="00:22.621" end="00:24.121" ttm:agent="v1">Bitches yelling,“Hello”</p>
+      <p begin="00:23.720" end="00:25.220" ttm:agent="v1">Okay, like,“Hi”</p>
+      <p begin="00:25.035" end="00:27.852" ttm:agent="v1">I just had a threesome with two chicks and it's a vibe</p>
+      <p begin="00:27.852" end="00:30.596" ttm:agent="v1">We just shot a flick,I'm way too slick like slip and slide</p>
+      <p begin="00:30.596" end="00:32.803" ttm:agent="v1">I won't lie like some toothpaste,leave her white</p>
+      <p begin="00:32.803" end="00:34.424" ttm:agent="v1">She got thick anime thighs</p>
+      <p begin="00:34.424" end="00:35.924" ttm:agent="v1">Ayy, your girl she hit my line like</p>
+      <p begin="00:35.747" end="00:37.554" ttm:agent="v1">“Hey,hi, hello”</p>
+      <p begin="00:37.554" end="00:40.650" ttm:agent="v1">Posting with these racks,I'm counting guap all my dinero</p>
+      <p begin="00:40.650" end="00:43.611" ttm:agent="v1">Cannot **** with bitches cause they playing like a cello</p>
+      <p begin="00:43.611" end="00:46.641" ttm:agent="v1">Ass fat fishnets black, chucks yellow</p>
+      <p begin="00:46.641" end="00:48.141" ttm:agent="v1">Bitches yelling“Hello”</p>
+      <p begin="00:47.794" end="00:49.294" ttm:agent="v1">Okay, like“hi”</p>
+      <p begin="00:48.874" end="00:51.815" ttm:agent="v1">I just had a threesome with two chicks and it's vibe</p>
+      <p begin="00:51.815" end="00:54.551" ttm:agent="v1">We just shot a flick I'm way too slick like slip and slide</p>
+      <p begin="00:54.551" end="00:56.766" ttm:agent="v1">I won't like like some toothpaste,leave her white</p>
+      <p begin="00:56.766" end="00:58.770" ttm:agent="v1" itunes:key="role" itunes:value="background">She got thick anime thighs (ayy, yo, ayy)</p>
+      <p begin="00:58.770" end="01:00.270" ttm:agent="v1">Ayy,your girl she hit my line like</p>
+      <p begin="01:00.058" end="01:01.558" ttm:agent="v1">I'm like“Hey, hi, how you doing?”</p>
+      <p begin="01:01.246" end="01:02.756" ttm:agent="v1">Just got shot right here by cupid</p>
+      <p begin="01:02.756" end="01:04.256" ttm:agent="v1">All my sheets,they looking ruined</p>
+      <p begin="01:04.234" end="01:05.734" ttm:agent="v1">From last night the things that you did</p>
+      <p begin="01:05.701" end="01:07.221" ttm:agent="v1" itunes:key="role" itunes:value="background">Baby girl,you on my mind(on mind)</p>
+      <p begin="01:07.221" end="01:08.723" ttm:agent="v1">We be fresh like alkaline</p>
+      <p begin="01:08.723" end="01:10.298" ttm:agent="v1">Sipping Don Perignon</p>
+      <p begin="01:10.298" end="01:11.798" ttm:agent="v1">What the **** is miller lite?</p>
+      <p begin="01:11.684" end="01:13.184" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm like hi, hello, what's up?('Sup)</p>
+      <p begin="01:13.177" end="01:14.677" ttm:agent="v1" itunes:key="role" itunes:value="background">Baby girl,I'm trana ****(I'm tryne)</p>
+      <p begin="01:14.663" end="01:16.254" ttm:agent="v1">Sweet nothings blowing hundreds</p>
+      <p begin="01:16.254" end="01:17.754" ttm:agent="v1">Just poured something in my cup</p>
+      <p begin="01:17.640" end="01:20.733" ttm:agent="v1" itunes:key="role" itunes:value="background">I was down bad for a minute, baby girl, but now I'm up(I'm up)</p>
+      <p begin="01:20.733" end="01:23.785" ttm:agent="v1" itunes:key="role" itunes:value="background">Stay with me, no 1nonly, you the only one I want(ayy, you, ayy, let's go)</p>
+      <p begin="01:23.785" end="01:25.824" ttm:agent="v1">Ayy but if I leave, baby, you gonna miss me</p>
+      <p begin="01:25.824" end="01:27.324" ttm:agent="v1">Riding round town droptop with a six speed</p>
+      <p begin="01:27.112" end="01:28.612" ttm:agent="v1">Bad bitch like Nicki leave hickeys</p>
+      <p begin="01:28.229" end="01:30.146" ttm:agent="v1">Speeding through the city come get me</p>
+      <p begin="01:30.146" end="01:31.646" ttm:agent="v1">Catch me if you can</p>
+      <p begin="01:31.236" end="01:32.841" ttm:agent="v1">Clutch her wrist right with my hand</p>
+      <p begin="01:32.841" end="01:34.341" ttm:agent="v1" itunes:key="role" itunes:value="background">Baby girl, let's go Japan(ayy, yeah)</p>
+      <p begin="01:34.059" end="01:36.110" ttm:agent="v1" itunes:key="role" itunes:value="background">Let's spend the summer throwing bands like(ayy, yeah)</p>
+      <p begin="01:36.110" end="01:37.631" ttm:agent="v1">“Hey, hi, hello”</p>
+      <p begin="01:37.631" end="01:40.530" ttm:agent="v1">Posting with these racks,I'm counting guap all my dinero</p>
+      <p begin="01:40.530" end="01:43.572" ttm:agent="v1">Cannot **** with bitches cause they playing like a cello</p>
+      <p begin="01:43.572" end="01:46.621" ttm:agent="v1">Ass fat,fishnets black, chucks yellow</p>
+      <p begin="01:46.621" end="01:48.121" ttm:agent="v1">Bitches yelling,“Hello”</p>
+      <p begin="01:47.666" end="01:49.166" ttm:agent="v1">Okay, like,“Hi”</p>
+      <p begin="01:48.870" end="01:51.796" ttm:agent="v1">I just had a threesome with two chicks and it's a vibe</p>
+      <p begin="01:51.796" end="01:54.559" ttm:agent="v1">We just shot a flick, I'm way too slick like slip and slide</p>
+      <p begin="01:54.559" end="01:56.719" ttm:agent="v1">I won't lie like some toothpaste, leave her white</p>
+      <p begin="01:56.719" end="01:58.274" ttm:agent="v1">She got thick anime thighs</p>
+      <p begin="01:58.274" end="01:59.774" ttm:agent="v1">Ayy, your girl she hit my line like</p>
+      <p begin="01:59.722" end="02:01.556" ttm:agent="v1">“Okay,hey hi, hello”</p>
+      <p begin="02:01.556" end="02:04.501" ttm:agent="v1">posting with these racks I'm counting guap all my dinero</p>
+      <p begin="02:04.501" end="02:07.621" ttm:agent="v1">Can not **** with bitches cause they playing like a cello</p>
+      <p begin="02:07.621" end="02:10.681" ttm:agent="v1">Ass fat fishnets black chucks yellow</p>
+      <p begin="02:10.681" end="02:14.681" ttm:agent="v1" itunes:key="role" itunes:value="background">Bitches yelling,“Hello”(tellin', “Hi”)</p>
+    </div>
+  </body>
+</tt>
