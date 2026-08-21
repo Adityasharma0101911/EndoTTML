@@ -1,122 +1,140 @@
-# EndoTTML — Apple Music Syllable TTML Database & Visualizer
+# EndoTTML — Open-Source Syllable TTML Database & Background Sync Engine
 
-A complete, production-grade engine and database system to generate W3C & Apple Music-compliant **TTML (Timed Text Markup Language)** files with **millisecond-precision syllable/word-by-word karaoke synchronization** from Spotify playlists and multi-tier lyrics sources.
-
----
-
-## ✨ Features
-
-- **Apple Music Syllable TTML Standard**:
-  - Full W3C Timed Text Markup Language (TTML) compliance (`xmlns:itunes="http://music.apple.com/lyric-ttml"`, `ttp:timeBase="media"`).
-  - High-precision word & syllable timing `<span begin="00:12.340" end="00:12.800">word </span>`.
-  - Vocal agent tagging (`ttm:agent="v1"`), backing vocal roles (`itunes:key="role" itunes:value="background"`), styles, and layout regions.
-- **Multi-Tier Lyrics Pipeline**:
-  - **Tier 1 (Syllable / Word-Level Sync)**: Direct NetEase YRC & Enhanced LRC.
-  - **Tier 2 (Line-Level Sync)**: High-speed exact & fuzzy LRCLIB API.
-  - **Tier 3 (Multi-Provider Fallback)**: Deezer, Megalobiz, Lyricsify.
-- **SQLite Database & Catalog**:
-  - Structured storage in `endo_ttml.db` indexing track titles, artists, albums, Spotify IDs, sync types, word counts, and TTML file paths.
-  - Master export to `catalog.json`.
-- **Organized Folder Structure**:
-  - Files saved cleanly under `database/{Artist}/{Track_Clean}.ttml`.
-- **Interactive Web Player & Karaoke Visualizer**:
-  - Apple Music-inspired dark theme UI with glowing word-by-word karaoke animations.
-  - Real-time lyrics auto-scrolling, speed controls, scrubber timeline, raw XML code inspector, and 1-click ZIP export.
+A complete, production-grade system for building and hosting an **open-source Apple Music TTML lyrics database on GitHub**, featuring **real-time background media watching (Spotify, Apple Music, YouTube Music)**, **tiered quality storage (`syllable/`, `line/`, `plain/`)** with **automatic upgrades**, **1-click GitHub CDN sync**, and a **standalone Windows `.exe`**.
 
 ---
 
-## 🚀 Quick Start
+## 🌟 Key Architecture & Capabilities
 
-### 1. Launch Web Dashboard & Visualizer
+### 1. Zero-Cost GitHub CDN Hosting (For Any Client App)
+You don't need to pay for a 24/7 database server. When you push this repository to GitHub:
+- **Global CDN Access**: Any iOS, Android, Web, or Desktop app can fetch syllable TTML lyrics directly via GitHub Raw or jsDelivr CDN:
+  ```http
+  https://raw.githubusercontent.com/<YOUR_USERNAME>/<REPO_NAME>/main/database/syllable/Avicii/Wake%20Me%20Up.ttml
+  ```
+  Or via ultra-fast global edge caching:
+  ```http
+  https://cdn.jsdelivr.net/gh/<YOUR_USERNAME>/<REPO_NAME>@main/database/syllable/Avicii/Wake%20Me%20Up.ttml
+  ```
+- **Master Search Manifest (`catalog.json`)**:
+  Clients can fetch [`catalog.json`](catalog.json) to instantly search all 1,800+ tracks with artist, title, album, sync precision, and CDN file paths!
+
+---
+
+### 2. Tiered Quality Hierarchy & Automatic Upgrades
+The database is structured into 3 distinct quality tiers:
+- **`database/syllable/` (Tier 1)**: Word-by-word syllable karaoke sync (`<span begin="..." end="...">`).
+- **`database/line/` (Tier 2)**: Line-by-line synchronized lyrics (`<p begin="..." end="...">`).
+- **`database/plain/` (Tier 3)**: Unsynchronized text fallback.
+
+🔄 **Auto-Upgrade Logic**: If a song is currently saved under `line` or `plain`, and later a `syllable` version is detected/discovered, the system automatically deletes the lower-tier file, writes to `database/syllable/`, updates SQLite, and updates `catalog.json`!
+
+---
+
+### 3. Real-Time Windows Media Background Watcher
+- Listens to active playback across **Spotify Desktop**, **Spotify Web**, **Apple Music**, and **YouTube Music** in Chrome/Edge/Firefox using Windows Media Controls.
+- When a new song starts playing:
+  1. Checks if it already has `syllable` sync in the database.
+  2. If missing or only `line`/`plain`, automatically fetches and saves/upgrades the TTML in the background.
+  3. Displays a Windows toast notification.
+
+---
+
+### 4. 1-Click GitHub Sync (Commit & Push)
+- Click **"Push to GitHub"** in the Web UI or System Tray icon (or run `python main.py sync`).
+- Automatically exports the latest `catalog.json`, stages all new/upgraded TTML files, creates a formatted commit message, and pushes to your GitHub repository!
+
+---
+
+### 5. Standalone Windows Executable (`dist/EndoTTML/EndoTTML.exe`)
+- Runs in the Windows System Tray with a menu for quick actions.
+- Automatically runs the media watcher and web visualizer without needing Python installed!
+
+---
+
+## 🚀 Quick Usage Guide
+
+### 1. Launch System Tray App (Background Service)
+```bash
+python main.py tray
+```
+*Or double-click `dist/EndoTTML/EndoTTML.exe`.*
+
+### 2. Launch Web Dashboard & Visualizer
 ```bash
 python main.py web --port 8000
 ```
-Open [http://localhost:8000](http://localhost:8000) in your browser.
+Open **[http://localhost:8000](http://localhost:8000)** in your browser.
 
-### 2. View Database Statistics
+### 3. Push Database Updates to GitHub
+```bash
+python main.py sync
+```
+
+### 4. View Database Statistics
 ```bash
 python main.py stats
 ```
 
-### 3. Run Batch Processing for Entire Playlist
+### 5. Run Quality Upgrade Check Over All Existing Songs
 ```bash
-python main.py process --workers 10
-```
-
-### 4. Generate TTML for Any Single Song
-```bash
-python main.py single --query "Calvin Harris - One Kiss" --save "One_Kiss.ttml"
-```
-
-### 5. Export All TTML Files as ZIP
-```bash
-python main.py export --zip "EndoTTML_Full_Database.zip"
+python main.py upgrade --workers 8
 ```
 
 ---
 
-## 📂 Project Architecture
+## 📂 Project Layout
 
 ```
 EndoTTML/
-├── database/                # Generated .ttml files organized by Artist/Track
-│   ├── Avicii/
-│   │   ├── The Nights.ttml
-│   │   └── Wake Me Up.ttml
-│   ├── Drake/
-│   │   └── One Dance.ttml
-│   └── ...
-├── web/
-│   └── index.html           # Apple Music Karaoke UI & Catalog Visualizer
-├── ttml_engine.py           # Core TTML XML builder & YRC/LRC parser
-├── lyrics_fetcher.py        # Multi-tier synchronized lyrics pipeline
-├── db_manager.py            # SQLite database manager & indexing
-├── playlist_parser.py       # Spotify playlist extractor
-├── batch_processor.py       # Multi-threaded batch engine with checkpointing
-├── web_app.py               # FastAPI backend server
-├── main.py                  # Unified CLI interface
-├── endo_ttml.db             # SQLite database
-├── catalog.json             # Master exported JSON catalog
-└── spotify_tracks.json      # Raw Spotify playlist tracks backup (1,816 songs)
+├── database/                        # Tiered TTML Database
+│   ├── syllable/                    # Tier 1: Syllable / Word-level TTML (798+ songs)
+│   │   ├── Avicii/Wake Me Up.ttml
+│   │   ├── Drake/One Dance.ttml
+│   │   └── ...
+│   ├── line/                        # Tier 2: Line-level TTML (946+ songs)
+│   │   ├── Coldplay/Viva La Vida.ttml
+│   │   └── ...
+│   └── plain/                       # Tier 3: Plain text lyrics TTML (63 songs)
+│
+├── dist/EndoTTML/EndoTTML.exe       # Standalone Windows Executable
+├── catalog.json                     # Master Catalog Index for External Apps
+├── endo_ttml.db                     # SQLite Database
+├── media_watcher.py                 # Windows Media Transport Session Watcher
+├── git_sync.py                      # 1-Click Git Commit & Push Engine
+├── ttml_engine.py                   # Apple Music TTML Generator & Parser
+├── lyrics_fetcher.py                # Multi-tier Synced Lyrics Pipeline
+├── db_manager.py                    # Tiered Storage & Upgrade Manager
+├── batch_processor.py               # Batch Engine with Checkpointing
+├── tray_app.py                      # Windows System Tray Application
+├── web_app.py & web/index.html      # Web Dashboard & Apple Music Karaoke Player
+├── build_exe.py                     # PyInstaller Build Script
+└── main.py                          # CLI Interface
 ```
 
 ---
 
-## 📜 TTML Format Example
+## 📱 How External Apps Can Consume This Database
 
-```xml
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" 
-    xmlns:ttm="http://www.w3.org/ns/ttml#metadata" 
-    xmlns:itunes="http://music.apple.com/lyric-ttml" 
-    xmlns:ttp="http://www.w3.org/ns/ttml#parameter" 
-    xmlns:tts="http://www.w3.org/ns/ttml#styling" 
-    xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>Cupid</ttm:title>
-      <ttm:agent type="person" xml:id="v1">FIFTY FIFTY</ttm:agent>
-      <ttm:item type="spotify_id">4k5n2h...</ttm:item>
-      <itunes:duration>02:54.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontWeight="bold"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:13.700" end="00:17.780" ttm:agent="v1">
-        <span begin="00:13.700" end="00:14.540">Surrounded </span>
-        <span begin="00:14.540" end="00:14.750">by </span>
-        <span begin="00:14.750" end="00:15.830">couples </span>
-        <span begin="00:15.830" end="00:16.280">all </span>
-        <span begin="00:16.280" end="00:16.730">the </span>
-        <span begin="00:16.730" end="00:17.450">time</span>
-      </p>
-    </div>
-  </body>
-</tt>
+### Example: Swift / iOS (MusicKit / AVFoundation)
+```swift
+let url = URL(string: "https://raw.githubusercontent.com/<USER>/<REPO>/main/database/syllable/Avicii/Wake%20Me%20Up.ttml")!
+let (data, _) = try await URLSession.shared.data(from: url)
+let ttmlXML = String(data: data, encoding: .utf8)
+```
+
+### Example: Kotlin / Android
+```kotlin
+val client = OkHttpClient()
+val request = Request.Builder()
+    .url("https://cdn.jsdelivr.net/gh/<USER>/<REPO>@main/database/syllable/Avicii/Wake%20Me%20Up.ttml")
+    .build()
+val ttmlXML = client.newCall(request).execute().body?.string()
+```
+
+### Example: TypeScript / Web / React
+```typescript
+const res = await fetch("https://cdn.jsdelivr.net/gh/<USER>/<REPO>@main/catalog.json");
+const catalog = await res.json();
+// catalog.tracks contains relative paths to all syllable and line TTML files
 ```
