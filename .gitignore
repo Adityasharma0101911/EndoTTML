@@ -1,0 +1,18 @@
+# Python & Build Artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.spec
+*.exe
+*.log
+
+# Local temporary/scratch
+scratch/
+test_*.py
+sample_*.txt
+*.zip
+spotify_tracks.json
+endo_ttml.db
