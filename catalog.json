@@ -7,13 +7,13 @@
     "completed": 1816,
     "failed": 9,
     "pending": 7,
-    "syllable_synced": 817,
-    "line_synced": 935,
-    "plain": 64,
+    "syllable_synced": 875,
+    "line_synced": 880,
+    "plain": 61,
     "providers": {
-      "LRCLIB": 871,
-      "NetEase": 887,
-      "SyncedLyrics": 58
+      "LRCLIB": 820,
+      "NetEase": 942,
+      "SyncedLyrics": 54
     }
   },
   "tracks": [
@@ -235,12 +235,12 @@
       "artist": "Eiffel 65, Gabry Ponte",
       "album": "Europop",
       "duration_seconds": null,
-      "file_path": "database\\line\\Eiffel 65\\Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 64,
-      "word_count": 319,
-      "rel_path": "database/line/Eiffel 65/Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Eiffel 65\\Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 88,
+      "word_count": 669,
+      "rel_path": "database/syllable/Eiffel 65/Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio.ttml"
     },
     {
       "id": 16,
@@ -1075,12 +1075,12 @@
       "artist": "BTS",
       "album": "Love Yourself 轉 'Tear'",
       "duration_seconds": null,
-      "file_path": "database\\line\\BTS\\FAKE LOVE.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 61,
-      "word_count": 409,
-      "rel_path": "database/line/BTS/FAKE LOVE.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\BTS\\FAKE LOVE.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 66,
+      "word_count": 654,
+      "rel_path": "database/syllable/BTS/FAKE LOVE.ttml"
     },
     {
       "id": 72,
@@ -1600,12 +1600,12 @@
       "artist": "1nonly, Savage Ga$p, Ciscaux",
       "album": "Move!",
       "duration_seconds": null,
-      "file_path": "database\\line\\1nonly\\Move!.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 64,
-      "word_count": 543,
-      "rel_path": "database/line/1nonly/Move!.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\1nonly\\Move!.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 37,
+      "word_count": 311,
+      "rel_path": "database/syllable/1nonly/Move!.ttml"
     },
     {
       "id": 107,
@@ -1690,12 +1690,12 @@
       "artist": "Dua Lipa",
       "album": "Future Nostalgia (The Moonlight Edition)",
       "duration_seconds": null,
-      "file_path": "database\\line\\Dua Lipa\\Physical.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 53,
-      "word_count": 347,
-      "rel_path": "database/line/Dua Lipa/Physical.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Dua Lipa\\Physical.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 62,
+      "word_count": 344,
+      "rel_path": "database/syllable/Dua Lipa/Physical.ttml"
     },
     {
       "id": 113,
@@ -1945,12 +1945,12 @@
       "artist": "Meiko N Fantasy",
       "album": "Nakahara",
       "duration_seconds": null,
-      "file_path": "database\\line\\Meiko N Fantasy\\Nakahara.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 43,
-      "word_count": 76,
-      "rel_path": "database/line/Meiko N Fantasy/Nakahara.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Meiko N Fantasy\\Nakahara.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 29,
+      "word_count": 363,
+      "rel_path": "database/syllable/Meiko N Fantasy/Nakahara.ttml"
     },
     {
       "id": 130,
@@ -2215,12 +2215,12 @@
       "artist": "1nonly",
       "album": "Split",
       "duration_seconds": null,
-      "file_path": "database\\line\\1nonly\\Split.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 76,
-      "word_count": 404,
-      "rel_path": "database/line/1nonly/Split.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\1nonly\\Split.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 33,
+      "word_count": 318,
+      "rel_path": "database/syllable/1nonly/Split.ttml"
     },
     {
       "id": 148,
@@ -2365,12 +2365,12 @@
       "artist": "The Boys",
       "album": "sick",
       "duration_seconds": null,
-      "file_path": "database\\line\\The Boys\\sick.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 106,
-      "word_count": 818,
-      "rel_path": "database/line/The Boys/sick.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\The Boys\\sick.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 58,
+      "word_count": 423,
+      "rel_path": "database/syllable/The Boys/sick.ttml"
     },
     {
       "id": 159,
@@ -2845,12 +2845,12 @@
       "artist": "1nonly",
       "album": "Falling",
       "duration_seconds": null,
-      "file_path": "database\\line\\1nonly\\Falling.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 53,
-      "word_count": 512,
-      "rel_path": "database/line/1nonly/Falling.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\1nonly\\Falling.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 33,
+      "word_count": 270,
+      "rel_path": "database/syllable/1nonly/Falling.ttml"
     },
     {
       "id": 191,
@@ -2965,12 +2965,12 @@
       "artist": "Armut",
       "album": "Cancun",
       "duration_seconds": null,
-      "file_path": "database\\plain\\Armut\\Cancun.ttml",
-      "sync_type": "plain",
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Armut\\Cancun.ttml",
+      "sync_type": "syllable_synced",
       "provider": "NetEase",
-      "line_count": 0,
-      "word_count": 0,
-      "rel_path": "database/plain/Armut/Cancun.ttml"
+      "line_count": 43,
+      "word_count": 376,
+      "rel_path": "database/syllable/Armut/Cancun.ttml"
     },
     {
       "id": 199,
@@ -3055,12 +3055,12 @@
       "artist": "TWICE",
       "album": "Twicetagram",
       "duration_seconds": null,
-      "file_path": "database\\line\\TWICE\\Look At Me.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 68,
-      "word_count": 344,
-      "rel_path": "database/line/TWICE/Look At Me.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\TWICE\\Look At Me.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 21,
+      "word_count": 192,
+      "rel_path": "database/syllable/TWICE/Look At Me.ttml"
     },
     {
       "id": 205,
@@ -3070,12 +3070,12 @@
       "artist": "Tove Lo",
       "album": "Queen Of The Clouds",
       "duration_seconds": null,
-      "file_path": "database\\line\\Tove Lo\\Habits (Stay High).ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 53,
-      "word_count": 328,
-      "rel_path": "database/line/Tove Lo/Habits (Stay High).ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Tove Lo\\Habits (Stay High).ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 56,
+      "word_count": 317,
+      "rel_path": "database/syllable/Tove Lo/Habits (Stay High).ttml"
     },
     {
       "id": 206,
@@ -3400,12 +3400,12 @@
       "artist": "21 Savage",
       "album": "american dream",
       "duration_seconds": null,
-      "file_path": "database\\line\\21 Savage\\all of me.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 62,
-      "word_count": 684,
-      "rel_path": "database/line/21 Savage/all of me.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\21 Savage\\all of me.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 53,
+      "word_count": 364,
+      "rel_path": "database/syllable/21 Savage/all of me.ttml"
     },
     {
       "id": 228,
@@ -4075,12 +4075,12 @@
       "artist": "XXXTENTACION, Trippie Redd",
       "album": "17",
       "duration_seconds": null,
-      "file_path": "database\\line\\XXXTENTACION\\Fuck Love.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 24,
-      "word_count": 166,
-      "rel_path": "database/line/XXXTENTACION/Fuck Love.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\XXXTENTACION\\Fuck Love.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 35,
+      "word_count": 352,
+      "rel_path": "database/syllable/XXXTENTACION/Fuck Love.ttml"
     },
     {
       "id": 273,
@@ -4180,12 +4180,12 @@
       "artist": "Kendrick Lamar, Zacari",
       "album": "DAMN.",
       "duration_seconds": null,
-      "file_path": "database\\line\\Kendrick Lamar\\LOVE. FEAT. ZACARI.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 72,
-      "word_count": 579,
-      "rel_path": "database/line/Kendrick Lamar/LOVE. FEAT. ZACARI.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Kendrick Lamar\\LOVE. FEAT. ZACARI.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 96,
+      "word_count": 831,
+      "rel_path": "database/syllable/Kendrick Lamar/LOVE. FEAT. ZACARI.ttml"
     },
     {
       "id": 280,
@@ -4225,12 +4225,12 @@
       "artist": "wave to earth",
       "album": "0.1 flaws and all.",
       "duration_seconds": null,
-      "file_path": "database\\line\\wave to earth\\love.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 26,
-      "word_count": 73,
-      "rel_path": "database/line/wave to earth/love.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\wave to earth\\love.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 92,
+      "word_count": 764,
+      "rel_path": "database/syllable/wave to earth/love.ttml"
     },
     {
       "id": 283,
@@ -4300,12 +4300,12 @@
       "artist": "1nonly",
       "album": "Kiss",
       "duration_seconds": null,
-      "file_path": "database\\line\\1nonly\\Kiss.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 45,
-      "word_count": 354,
-      "rel_path": "database/line/1nonly/Kiss.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\1nonly\\Kiss.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 30,
+      "word_count": 286,
+      "rel_path": "database/syllable/1nonly/Kiss.ttml"
     },
     {
       "id": 288,
@@ -4360,12 +4360,12 @@
       "artist": "1nonly",
       "album": "Lovely",
       "duration_seconds": null,
-      "file_path": "database\\line\\1nonly\\Lovely.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 58,
-      "word_count": 567,
-      "rel_path": "database/line/1nonly/Lovely.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\1nonly\\Lovely.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 28,
+      "word_count": 209,
+      "rel_path": "database/syllable/1nonly/Lovely.ttml"
     },
     {
       "id": 292,
@@ -4690,12 +4690,12 @@
       "artist": "Edward Maya, Vika Jigulina",
       "album": "Stereo Love",
       "duration_seconds": null,
-      "file_path": "database\\line\\Edward Maya\\Stereo Love - Original.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 67,
-      "word_count": 368,
-      "rel_path": "database/line/Edward Maya/Stereo Love - Original.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Edward Maya\\Stereo Love - Original.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 43,
+      "word_count": 251,
+      "rel_path": "database/syllable/Edward Maya/Stereo Love - Original.ttml"
     },
     {
       "id": 314,
@@ -4990,12 +4990,12 @@
       "artist": "Jessie J, Speed Radio, Kuya Magik",
       "album": "Domino (Sped Up)",
       "duration_seconds": null,
-      "file_path": "database\\line\\Jessie J\\Domino - Sped Up.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 68,
-      "word_count": 397,
-      "rel_path": "database/line/Jessie J/Domino - Sped Up.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Jessie J\\Domino - Sped Up.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 69,
+      "word_count": 433,
+      "rel_path": "database/syllable/Jessie J/Domino - Sped Up.ttml"
     },
     {
       "id": 334,
@@ -5050,12 +5050,12 @@
       "artist": "Sheck Wes",
       "album": "MUDBOY",
       "duration_seconds": null,
-      "file_path": "database\\line\\Sheck Wes\\Mo Bamba.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 51,
-      "word_count": 318,
-      "rel_path": "database/line/Sheck Wes/Mo Bamba.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Sheck Wes\\Mo Bamba.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 37,
+      "word_count": 471,
+      "rel_path": "database/syllable/Sheck Wes/Mo Bamba.ttml"
     },
     {
       "id": 338,
@@ -5485,12 +5485,12 @@
       "artist": "SXMPRA, 1nonly",
       "album": "TILL I DIE",
       "duration_seconds": null,
-      "file_path": "database\\line\\SXMPRA\\TILL I DIE.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 60,
-      "word_count": 444,
-      "rel_path": "database/line/SXMPRA/TILL I DIE.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\SXMPRA\\TILL I DIE.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 36,
+      "word_count": 228,
+      "rel_path": "database/syllable/SXMPRA/TILL I DIE.ttml"
     },
     {
       "id": 367,
@@ -5500,12 +5500,12 @@
       "artist": "1nonly",
       "album": "Scars",
       "duration_seconds": null,
-      "file_path": "database\\line\\1nonly\\Scars.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 54,
-      "word_count": 385,
-      "rel_path": "database/line/1nonly/Scars.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\1nonly\\Scars.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 36,
+      "word_count": 168,
+      "rel_path": "database/syllable/1nonly/Scars.ttml"
     },
     {
       "id": 368,
@@ -5815,12 +5815,12 @@
       "artist": "1nonly",
       "album": "Homesick",
       "duration_seconds": null,
-      "file_path": "database\\line\\1nonly\\Grave.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 57,
-      "word_count": 511,
-      "rel_path": "database/line/1nonly/Grave.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\1nonly\\Grave.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 51,
+      "word_count": 392,
+      "rel_path": "database/syllable/1nonly/Grave.ttml"
     },
     {
       "id": 389,
@@ -6100,12 +6100,12 @@
       "artist": "Hotel Ugly",
       "album": "Shut up My Moms Calling",
       "duration_seconds": null,
-      "file_path": "database\\line\\Hotel Ugly\\Shut up My Moms Calling.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 29,
-      "word_count": 267,
-      "rel_path": "database/line/Hotel Ugly/Shut up My Moms Calling.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Hotel Ugly\\Shut up My Moms Calling.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 33,
+      "word_count": 290,
+      "rel_path": "database/syllable/Hotel Ugly/Shut up My Moms Calling.ttml"
     },
     {
       "id": 408,
@@ -6235,12 +6235,12 @@
       "artist": "Ren",
       "album": "Pocketful of Sunshine",
       "duration_seconds": null,
-      "file_path": "database\\plain\\Ren\\Pocketful of Sunshine.ttml",
-      "sync_type": "plain",
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Ren\\Pocketful of Sunshine.ttml",
+      "sync_type": "syllable_synced",
       "provider": "NetEase",
-      "line_count": 0,
-      "word_count": 0,
-      "rel_path": "database/plain/Ren/Pocketful of Sunshine.ttml"
+      "line_count": 54,
+      "word_count": 399,
+      "rel_path": "database/syllable/Ren/Pocketful of Sunshine.ttml"
     },
     {
       "id": 417,
@@ -6310,12 +6310,12 @@
       "artist": "Softwilly, Yung Kage, Yumi, Sadfriendd",
       "album": "DONNA",
       "duration_seconds": null,
-      "file_path": "database\\line\\Softwilly\\ZONIN.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 79,
-      "word_count": 417,
-      "rel_path": "database/line/Softwilly/ZONIN.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Softwilly\\ZONIN.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 66,
+      "word_count": 657,
+      "rel_path": "database/syllable/Softwilly/ZONIN.ttml"
     },
     {
       "id": 422,
@@ -6415,12 +6415,12 @@
       "artist": "KATSEYE",
       "album": "Touch",
       "duration_seconds": null,
-      "file_path": "database\\line\\KATSEYE\\Touch.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 55,
-      "word_count": 373,
-      "rel_path": "database/line/KATSEYE/Touch.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\KATSEYE\\Touch.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 50,
+      "word_count": 264,
+      "rel_path": "database/syllable/KATSEYE/Touch.ttml"
     },
     {
       "id": 429,
@@ -6700,12 +6700,12 @@
       "artist": "Fitz and The Tantrums",
       "album": "More Than Just a Dream (Deluxe Edition)",
       "duration_seconds": null,
-      "file_path": "database\\line\\Fitz and The Tantrums\\Out of My League.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 56,
-      "word_count": 297,
-      "rel_path": "database/line/Fitz and The Tantrums/Out of My League.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Fitz and The Tantrums\\Out of My League.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 40,
+      "word_count": 307,
+      "rel_path": "database/syllable/Fitz and The Tantrums/Out of My League.ttml"
     },
     {
       "id": 448,
@@ -6820,12 +6820,12 @@
       "artist": "Softwilly, Yung Kage, Yumi, Isaacwhy",
       "album": "DONNA",
       "duration_seconds": null,
-      "file_path": "database\\line\\Softwilly\\I LOVE YOU SO.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 85,
-      "word_count": 661,
-      "rel_path": "database/line/Softwilly/I LOVE YOU SO.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Softwilly\\I LOVE YOU SO.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 19,
+      "word_count": 171,
+      "rel_path": "database/syllable/Softwilly/I LOVE YOU SO.ttml"
     },
     {
       "id": 456,
@@ -6895,12 +6895,12 @@
       "artist": "Lil Baby, Gunna",
       "album": "Drip Harder",
       "duration_seconds": null,
-      "file_path": "database\\line\\Lil Baby\\Drip Too Hard (Lil Baby & Gunna).ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Lil Baby\\Drip Too Hard (Lil Baby & Gunna).ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
       "line_count": 58,
-      "word_count": 520,
-      "rel_path": "database/line/Lil Baby/Drip Too Hard (Lil Baby & Gunna).ttml"
+      "word_count": 606,
+      "rel_path": "database/syllable/Lil Baby/Drip Too Hard (Lil Baby & Gunna).ttml"
     },
     {
       "id": 461,
@@ -7180,12 +7180,12 @@
       "artist": "Rascal Flatts",
       "album": "Cars (Original Motion Picture Soundtrack)",
       "duration_seconds": null,
-      "file_path": "database\\line\\Rascal Flatts\\Life is a Highway.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 67,
-      "word_count": 435,
-      "rel_path": "database/line/Rascal Flatts/Life is a Highway.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Rascal Flatts\\Life is a Highway.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 58,
+      "word_count": 417,
+      "rel_path": "database/syllable/Rascal Flatts/Life is a Highway.ttml"
     },
     {
       "id": 480,
@@ -7630,12 +7630,12 @@
       "artist": "Lady Gaga",
       "album": "The Fame Monster (Deluxe Edition)",
       "duration_seconds": null,
-      "file_path": "database\\line\\Lady Gaga\\Bad Romance.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 85,
-      "word_count": 516,
-      "rel_path": "database/line/Lady Gaga/Bad Romance.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Lady Gaga\\Bad Romance.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 131,
+      "word_count": 769,
+      "rel_path": "database/syllable/Lady Gaga/Bad Romance.ttml"
     },
     {
       "id": 510,
@@ -7960,12 +7960,12 @@
       "artist": "Drake",
       "album": "Views",
       "duration_seconds": null,
-      "file_path": "database\\line\\Drake\\Hotline Bling.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 65,
-      "word_count": 439,
-      "rel_path": "database/line/Drake/Hotline Bling.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Drake\\Hotline Bling.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 63,
+      "word_count": 446,
+      "rel_path": "database/syllable/Drake/Hotline Bling.ttml"
     },
     {
       "id": 532,
@@ -8305,12 +8305,12 @@
       "artist": "Imagine Dragons",
       "album": "Evolve",
       "duration_seconds": null,
-      "file_path": "database\\line\\Imagine Dragons\\Thunder.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 57,
-      "word_count": 258,
-      "rel_path": "database/line/Imagine Dragons/Thunder.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Imagine Dragons\\Thunder.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 55,
+      "word_count": 253,
+      "rel_path": "database/syllable/Imagine Dragons/Thunder.ttml"
     },
     {
       "id": 555,
@@ -8395,12 +8395,12 @@
       "artist": "Flo Rida",
       "album": "Wild Ones",
       "duration_seconds": null,
-      "file_path": "database\\line\\Flo Rida\\Good Feeling.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 72,
-      "word_count": 525,
-      "rel_path": "database/line/Flo Rida/Good Feeling.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Flo Rida\\Good Feeling.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 60,
+      "word_count": 582,
+      "rel_path": "database/syllable/Flo Rida/Good Feeling.ttml"
     },
     {
       "id": 561,
@@ -8455,12 +8455,12 @@
       "artist": "Lil Mosey",
       "album": "Certified Hitmaker",
       "duration_seconds": null,
-      "file_path": "database\\line\\Lil Mosey\\Blueberry Faygo.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 59,
-      "word_count": 561,
-      "rel_path": "database/line/Lil Mosey/Blueberry Faygo.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Lil Mosey\\Blueberry Faygo.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 58,
+      "word_count": 724,
+      "rel_path": "database/syllable/Lil Mosey/Blueberry Faygo.ttml"
     },
     {
       "id": 565,
@@ -8725,12 +8725,12 @@
       "artist": "Lil Peep, XXXTENTACION",
       "album": "Come Over When You're Sober, Pt. 2",
       "duration_seconds": null,
-      "file_path": "database\\line\\Lil Peep\\Falling Down - Bonus Track.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 33,
-      "word_count": 294,
-      "rel_path": "database/line/Lil Peep/Falling Down - Bonus Track.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Lil Peep\\Falling Down - Bonus Track.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 40,
+      "word_count": 430,
+      "rel_path": "database/syllable/Lil Peep/Falling Down - Bonus Track.ttml"
     },
     {
       "id": 584,
@@ -8830,12 +8830,12 @@
       "artist": "Ava Max",
       "album": "My Oh My",
       "duration_seconds": null,
-      "file_path": "database\\line\\Ava Max\\My Oh My.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 30,
-      "word_count": 234,
-      "rel_path": "database/line/Ava Max/My Oh My.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Ava Max\\My Oh My.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 49,
+      "word_count": 363,
+      "rel_path": "database/syllable/Ava Max/My Oh My.ttml"
     },
     {
       "id": 591,
@@ -8875,12 +8875,12 @@
       "artist": "Young the Giant",
       "album": "Mind Over Matter",
       "duration_seconds": null,
-      "file_path": "database\\line\\Young the Giant\\Mind Over Matter.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 59,
-      "word_count": 272,
-      "rel_path": "database/line/Young the Giant/Mind Over Matter.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Young the Giant\\Mind Over Matter.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 53,
+      "word_count": 298,
+      "rel_path": "database/syllable/Young the Giant/Mind Over Matter.ttml"
     },
     {
       "id": 594,
@@ -9010,12 +9010,12 @@
       "artist": "CDM Project",
       "album": "2017 Non Stop Party: Let's Dance",
       "duration_seconds": null,
-      "file_path": "database\\line\\CDM Project\\Feel This Moment (From The Emoji Movie ).ttml",
-      "sync_type": "line_synced",
-      "provider": "SyncedLyrics",
-      "line_count": 46,
-      "word_count": 157,
-      "rel_path": "database/line/CDM Project/Feel This Moment (From The Emoji Movie ).ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\CDM Project\\Feel This Moment (From The Emoji Movie ).ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 51,
+      "word_count": 441,
+      "rel_path": "database/syllable/CDM Project/Feel This Moment (From The Emoji Movie ).ttml"
     },
     {
       "id": 603,
@@ -9325,12 +9325,12 @@
       "artist": "1nonly",
       "album": "I Think I Love You",
       "duration_seconds": null,
-      "file_path": "database\\line\\1nonly\\I Think I Love You.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 66,
-      "word_count": 506,
-      "rel_path": "database/line/1nonly/I Think I Love You.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\1nonly\\I Think I Love You.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 49,
+      "word_count": 202,
+      "rel_path": "database/syllable/1nonly/I Think I Love You.ttml"
     },
     {
       "id": 624,
@@ -9610,12 +9610,12 @@
       "artist": "TWXN, LL Clawz, 507KAZ",
       "album": "Project YVL",
       "duration_seconds": null,
-      "file_path": "database\\line\\TWXN\\TELESCOPE.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 42,
-      "word_count": 333,
-      "rel_path": "database/line/TWXN/TELESCOPE.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\TWXN\\TELESCOPE.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 31,
+      "word_count": 216,
+      "rel_path": "database/syllable/TWXN/TELESCOPE.ttml"
     },
     {
       "id": 643,
@@ -10060,12 +10060,12 @@
       "artist": "SZA",
       "album": "Ctrl",
       "duration_seconds": null,
-      "file_path": "database\\line\\SZA\\The Weekend.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 60,
-      "word_count": 340,
-      "rel_path": "database/line/SZA/The Weekend.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\SZA\\The Weekend.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 49,
+      "word_count": 327,
+      "rel_path": "database/syllable/SZA/The Weekend.ttml"
     },
     {
       "id": 673,
@@ -10210,12 +10210,12 @@
       "artist": "TWICE",
       "album": "STRATEGY",
       "duration_seconds": null,
-      "file_path": "database\\line\\TWICE\\Keeper.ttml",
-      "sync_type": "line_synced",
-      "provider": "SyncedLyrics",
-      "line_count": 46,
-      "word_count": 310,
-      "rel_path": "database/line/TWICE/Keeper.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\TWICE\\Keeper.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 92,
+      "word_count": 407,
+      "rel_path": "database/syllable/TWICE/Keeper.ttml"
     },
     {
       "id": 683,
@@ -11470,12 +11470,12 @@
       "artist": "LAKEY INSPIRED",
       "album": "Better Days",
       "duration_seconds": null,
-      "file_path": "database\\line\\LAKEY INSPIRED\\Better Days.ttml",
-      "sync_type": "line_synced",
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\LAKEY INSPIRED\\Better Days.ttml",
+      "sync_type": "syllable_synced",
       "provider": "NetEase",
-      "line_count": 1,
-      "word_count": 1,
-      "rel_path": "database/line/LAKEY INSPIRED/Better Days.ttml"
+      "line_count": 40,
+      "word_count": 322,
+      "rel_path": "database/syllable/LAKEY INSPIRED/Better Days.ttml"
     },
     {
       "id": 767,
@@ -11680,12 +11680,12 @@
       "artist": "Shady Moon, Ciscaux",
       "album": "Destiny",
       "duration_seconds": null,
-      "file_path": "database\\plain\\Shady Moon\\Destiny.ttml",
-      "sync_type": "plain",
-      "provider": "SyncedLyrics",
-      "line_count": 0,
-      "word_count": 0,
-      "rel_path": "database/plain/Shady Moon/Destiny.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Shady Moon\\Destiny.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 37,
+      "word_count": 240,
+      "rel_path": "database/syllable/Shady Moon/Destiny.ttml"
     },
     {
       "id": 783,
@@ -12310,12 +12310,12 @@
       "artist": "Olly Alexander (Years & Years)",
       "album": "Take Shelter",
       "duration_seconds": null,
-      "file_path": "database\\line\\Olly Alexander (Years & Years)\\Breathe.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 57,
-      "word_count": 349,
-      "rel_path": "database/line/Olly Alexander (Years & Years)/Breathe.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Olly Alexander (Years & Years)\\Breathe.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 51,
+      "word_count": 483,
+      "rel_path": "database/syllable/Olly Alexander (Years & Years)/Breathe.ttml"
     },
     {
       "id": 825,
@@ -12625,12 +12625,12 @@
       "artist": "BLACKPINK",
       "album": "As If It's Your Last",
       "duration_seconds": null,
-      "file_path": "database\\line\\BLACKPINK\\As If It's Your Last.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 57,
-      "word_count": 287,
-      "rel_path": "database/line/BLACKPINK/As If It's Your Last.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\BLACKPINK\\As If It's Your Last.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 59,
+      "word_count": 509,
+      "rel_path": "database/syllable/BLACKPINK/As If It's Your Last.ttml"
     },
     {
       "id": 846,
@@ -12955,12 +12955,12 @@
       "artist": "LEEHI",
       "album": "SEOULITE",
       "duration_seconds": null,
-      "file_path": "database\\line\\LEEHI\\BREATHE.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 38,
-      "word_count": 140,
-      "rel_path": "database/line/LEEHI/BREATHE.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\LEEHI\\BREATHE.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 51,
+      "word_count": 483,
+      "rel_path": "database/syllable/LEEHI/BREATHE.ttml"
     },
     {
       "id": 868,
@@ -13270,12 +13270,12 @@
       "artist": "NewJeans",
       "album": "Supernatural",
       "duration_seconds": null,
-      "file_path": "database\\line\\NewJeans\\Right Now.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 45,
-      "word_count": 260,
-      "rel_path": "database/line/NewJeans/Right Now.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\NewJeans\\Right Now.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 66,
+      "word_count": 471,
+      "rel_path": "database/syllable/NewJeans/Right Now.ttml"
     },
     {
       "id": 889,
@@ -13510,12 +13510,12 @@
       "artist": "1nonly",
       "album": "STARDUST",
       "duration_seconds": null,
-      "file_path": "database\\line\\1nonly\\STARDUST.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 72,
-      "word_count": 514,
-      "rel_path": "database/line/1nonly/STARDUST.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\1nonly\\STARDUST.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 45,
+      "word_count": 262,
+      "rel_path": "database/syllable/1nonly/STARDUST.ttml"
     },
     {
       "id": 905,
@@ -13780,12 +13780,12 @@
       "artist": "Lil Tecca",
       "album": "We Love You Tecca 2 (Deluxe)",
       "duration_seconds": null,
-      "file_path": "database\\line\\Lil Tecca\\HOLD ON.ttml",
-      "sync_type": "line_synced",
-      "provider": "SyncedLyrics",
-      "line_count": 92,
-      "word_count": 852,
-      "rel_path": "database/line/Lil Tecca/HOLD ON.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Lil Tecca\\HOLD ON.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 31,
+      "word_count": 144,
+      "rel_path": "database/syllable/Lil Tecca/HOLD ON.ttml"
     },
     {
       "id": 923,
@@ -13885,12 +13885,12 @@
       "artist": "The Notorious B.I.G.",
       "album": "Life After Death (2014 Remastered Edition)",
       "duration_seconds": null,
-      "file_path": "database\\line\\The Notorious B.I.G\\Hypnotize - 2014 Remaster.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 92,
-      "word_count": 736,
-      "rel_path": "database/line/The Notorious B.I.G/Hypnotize - 2014 Remaster.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\The Notorious B.I.G\\Hypnotize - 2014 Remaster.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 83,
+      "word_count": 779,
+      "rel_path": "database/syllable/The Notorious B.I.G/Hypnotize - 2014 Remaster.ttml"
     },
     {
       "id": 930,
@@ -14170,12 +14170,12 @@
       "artist": "Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Wanz",
       "album": "The Heist",
       "duration_seconds": null,
-      "file_path": "database\\line\\Macklemore & Ryan Lewis\\Thrift Shop (feat. Wanz).ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 90,
-      "word_count": 673,
-      "rel_path": "database/line/Macklemore & Ryan Lewis/Thrift Shop (feat. Wanz).ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Macklemore & Ryan Lewis\\Thrift Shop (feat. Wanz).ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 79,
+      "word_count": 752,
+      "rel_path": "database/syllable/Macklemore & Ryan Lewis/Thrift Shop (feat. Wanz).ttml"
     },
     {
       "id": 949,
@@ -14215,12 +14215,12 @@
       "artist": "Bo Burnham",
       "album": "Words Words Words",
       "duration_seconds": null,
-      "file_path": "database\\line\\Bo Burnham\\Words, Words, Words (Studio).ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 71,
-      "word_count": 600,
-      "rel_path": "database/line/Bo Burnham/Words, Words, Words (Studio).ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Bo Burnham\\Words, Words, Words (Studio).ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 87,
+      "word_count": 696,
+      "rel_path": "database/syllable/Bo Burnham/Words, Words, Words (Studio).ttml"
     },
     {
       "id": 952,
@@ -14335,12 +14335,12 @@
       "artist": "JVKE",
       "album": "clouds",
       "duration_seconds": null,
-      "file_path": "database\\line\\JVKE\\clouds.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 39,
-      "word_count": 211,
-      "rel_path": "database/line/JVKE/clouds.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\JVKE\\clouds.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 24,
+      "word_count": 260,
+      "rel_path": "database/syllable/JVKE/clouds.ttml"
     },
     {
       "id": 960,
@@ -14365,12 +14365,12 @@
       "artist": "Surfaces, JVKE",
       "album": "Don't Let Me Down (feat. JVKE)",
       "duration_seconds": null,
-      "file_path": "database\\line\\Surfaces\\Don't Let Me Down (feat. JVKE).ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 44,
-      "word_count": 386,
-      "rel_path": "database/line/Surfaces/Don't Let Me Down (feat. JVKE).ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Surfaces\\Don't Let Me Down (feat. JVKE).ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 50,
+      "word_count": 430,
+      "rel_path": "database/syllable/Surfaces/Don't Let Me Down (feat. JVKE).ttml"
     },
     {
       "id": 962,
@@ -14380,12 +14380,12 @@
       "artist": "MAX, JVKE, Bazzi",
       "album": "STRINGS (feat. JVKE & Bazzi)",
       "duration_seconds": null,
-      "file_path": "database\\line\\MAX\\STRINGS (feat. JVKE & Bazzi).ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 44,
-      "word_count": 333,
-      "rel_path": "database/line/MAX/STRINGS (feat. JVKE & Bazzi).ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\MAX\\STRINGS (feat. JVKE & Bazzi).ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 55,
+      "word_count": 439,
+      "rel_path": "database/syllable/MAX/STRINGS (feat. JVKE & Bazzi).ttml"
     },
     {
       "id": 963,
