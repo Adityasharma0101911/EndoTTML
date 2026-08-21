@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Nobody Gets Me</ttm:title>
+      <ttm:agent type="person" xml:id="v1">SZA</ttm:agent>
+      <ttm:item type="album">SOS</ttm:item>
+      <ttm:item type="spotify_id">5Y35SjAfXjjG0sFQ3KOxmm</ttm:item>
+      <itunes:duration>03:01.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:19.210" end="00:23.820" ttm:agent="v1">Took a long vacation, no makeup, just JAY-Z</p>
+      <p begin="00:23.820" end="00:28.720" ttm:agent="v1">You were balls deep, now we beefin', had me butt-naked at the MGM</p>
+      <p begin="00:28.720" end="00:33.560" ttm:agent="v1">So wasted screamin', &quot;Fuck that,&quot; love me now, but I'm anythin'</p>
+      <p begin="00:33.560" end="00:38.120" ttm:agent="v1">Hurry now, baby, stick it in 'fore the memories get to kickin' in</p>
+      <p begin="00:38.120" end="00:44.260" ttm:agent="v1">It's too late, I don't wanna lose what's left of you</p>
+      <p begin="00:44.260" end="00:46.700" ttm:agent="v1">How am I supposed to deal with it?</p>
+      <p begin="00:46.700" end="00:50.590" ttm:agent="v1">I don't wanna see you with anyone but me</p>
+      <p begin="00:50.590" end="00:53.950" ttm:agent="v1">Nobody gets me like you</p>
+      <p begin="00:53.950" end="00:56.680" ttm:agent="v1">How am I supposed to let you go?</p>
+      <p begin="00:56.680" end="01:00.790" ttm:agent="v1">Only like myself when I'm with you</p>
+      <p begin="01:00.790" end="01:07.050" ttm:agent="v1" itunes:key="role" itunes:value="background">Nobody gets me, you do (do)</p>
+      <p begin="01:07.050" end="01:15.050" ttm:agent="v1" itunes:key="role" itunes:value="background">You do, nobody gets me, you do (do)</p>
+      <p begin="01:16.540" end="01:24.540" ttm:agent="v1">You do, nobody gets me, you do</p>
+      <p begin="01:26.240" end="01:32.040" ttm:agent="v1">You do, nobody gets me, you do</p>
+      <p begin="01:32.040" end="01:33.540" ttm:agent="v1">Took me out to the ballet</p>
+      <p begin="01:33.140" end="01:35.680" ttm:agent="v1">You proposеd, I went on the road</p>
+      <p begin="01:35.680" end="01:37.840" ttm:agent="v1">You was feelin' empty, so you lеft me</p>
+      <p begin="01:37.840" end="01:40.610" ttm:agent="v1">Now I'm stuck, dealin' with a deadbeat</p>
+      <p begin="01:40.610" end="01:43.070" ttm:agent="v1">If I'm real, I deserve less</p>
+      <p begin="01:43.070" end="01:45.620" ttm:agent="v1">If I was you, I wouldn't take me back</p>
+      <p begin="01:45.620" end="01:49.120" ttm:agent="v1">I pretend when I'm winnin' madness to you</p>
+      <p begin="01:49.120" end="01:51.640" ttm:agent="v1">And I know that it's too late</p>
+      <p begin="01:51.640" end="01:56.560" ttm:agent="v1">I don't wanna lose what's left of you</p>
+      <p begin="01:56.560" end="01:59.070" ttm:agent="v1">How am I supposed to deal with it?</p>
+      <p begin="01:59.070" end="02:02.990" ttm:agent="v1">I don't wanna see you with anyone but me</p>
+      <p begin="02:02.990" end="02:06.580" ttm:agent="v1">Nobody gets me like you</p>
+      <p begin="02:06.580" end="02:09.020" ttm:agent="v1">How am I supposed to let you go?</p>
+      <p begin="02:09.020" end="02:12.120" ttm:agent="v1">Only like myself when I'm with you</p>
+      <p begin="02:12.120" end="02:18.490" ttm:agent="v1" itunes:key="role" itunes:value="background">Nobody gets me, you do (do)</p>
+      <p begin="02:18.490" end="02:26.490" ttm:agent="v1" itunes:key="role" itunes:value="background">You do, nobody gets me, you do (do)</p>
+      <p begin="02:28.780" end="02:36.780" ttm:agent="v1" itunes:key="role" itunes:value="background">You do, nobody gets me, you do (do, ooh)</p>
+      <p begin="02:38.710" end="02:46.710" ttm:agent="v1" itunes:key="role" itunes:value="background">You do, nobody gets me, you do (do, ooh)</p>
+      <p begin="02:51.000" end="02:54.260" ttm:agent="v1">Nobody gets me, you do</p>
+      <p begin="02:54.260" end="02:58.260" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Taking A Walk</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Trippie Redd</ttm:agent>
+      <ttm:item type="album">LIFE'S A TRIP</ttm:item>
+      <ttm:item type="spotify_id">6vSRW8utiYAdoCfJG2v86r</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:02.490" end="00:10.490" ttm:agent="v1">Scott Storch</p>
+      <p begin="00:23.290" end="00:27.220" ttm:agent="v1">Ooh, so they think I wanna die, yeah</p>
+      <p begin="00:27.220" end="00:30.180" ttm:agent="v1">'Cause my doors are suicide, yeah</p>
+      <p begin="00:30.180" end="00:33.180" ttm:agent="v1">Bet my coffin would be nice, yeah</p>
+      <p begin="00:33.180" end="00:37.310" ttm:agent="v1">Stud that bitch up with some ice, yea</p>
+      <p begin="00:37.310" end="00:39.840" ttm:agent="v1">These people don't want me alive, no</p>
+      <p begin="00:39.840" end="00:42.990" ttm:agent="v1">They wanna play games with my life, oh</p>
+      <p begin="00:42.990" end="00:45.890" ttm:agent="v1">The coupe doors are suicide, oh</p>
+      <p begin="00:45.890" end="00:49.840" ttm:agent="v1">The coupe doors are suicide, oh-ah</p>
+      <p begin="00:49.840" end="00:52.540" ttm:agent="v1">Trippie Redd+Taking A Walk+LIFE'S A TRIP+Said I hope you got my note bitch</p>
+      <p begin="00:52.540" end="00:55.250" ttm:agent="v1">Trippie Redd+Taking A Walk+LIFE'S A TRIP+Ayy, I left it on the suicide door bitch</p>
+      <p begin="00:55.250" end="00:58.430" ttm:agent="v1">Trippie Redd+Taking A Walk+LIFE'S A TRIP+Yeah, and you left it on the floor bitch</p>
+      <p begin="00:58.430" end="01:01.200" ttm:agent="v1">Trippie Redd+Taking A Walk+LIFE'S A TRIP+Ayy, rule number 1 never trust no bitch</p>
+      <p begin="01:01.200" end="01:04.100" ttm:agent="v1">Get this green then smoke this green, gotta stay potent</p>
+      <p begin="01:04.100" end="01:07.020" ttm:agent="v1">Trippie Redd+Taking A Walk+LIFE'S A TRIP+Bitch nigga talking shit but he ain't know shit</p>
+      <p begin="01:07.020" end="01:10.040" ttm:agent="v1">Trippie Redd+Taking A Walk+LIFE'S A TRIP+Chicken noodle ass bitch, man, you boneless</p>
+      <p begin="01:10.040" end="01:13.040" ttm:agent="v1">Yeah, I keep my ratchet, boy, you pole-less</p>
+      <p begin="01:13.040" end="01:16.170" ttm:agent="v1">Wayy, throwing bands tonight</p>
+      <p begin="01:16.170" end="01:20.510" ttm:agent="v1">Throwing bands tonight, shawty throwing bands tonight</p>
+      <p begin="01:20.510" end="01:22.600" ttm:agent="v1">Throwing bands tonight, huh</p>
+      <p begin="01:22.600" end="01:26.350" ttm:agent="v1">Ooh, so they think I wanna die, yeah</p>
+      <p begin="01:26.350" end="01:29.430" ttm:agent="v1">'Cause my doors are suicide, yeah</p>
+      <p begin="01:29.430" end="01:32.410" ttm:agent="v1">Bet my coffin would be nice, yeah</p>
+      <p begin="01:32.410" end="01:36.540" ttm:agent="v1">Stud that bitch up with some ice, yea</p>
+      <p begin="01:36.540" end="01:39.100" ttm:agent="v1">These people don't want me alive, no</p>
+      <p begin="01:39.100" end="01:42.240" ttm:agent="v1">They wanna play games with my life, oh</p>
+      <p begin="01:42.240" end="01:45.170" ttm:agent="v1">The coupe doors are suicide, oh</p>
+      <p begin="01:45.170" end="01:49.170" ttm:agent="v1">The coupe doors are suicide, oh-ah</p>
+    </div>
+  </body>
+</tt>

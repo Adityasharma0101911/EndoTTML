@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>tell me</ttm:title>
+      <ttm:agent type="person" xml:id="v1">jaydes</ttm:agent>
+      <ttm:item type="album">sativa</ttm:item>
+      <ttm:item type="spotify_id">5twKXfI7RBXiJkVytmJhkn</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.000" end="00:08.000" ttm:agent="v1">You have no heart</p>
+      <p begin="00:10.704" end="00:12.204" ttm:agent="v1">Hoodrixh</p>
+      <p begin="00:12.064" end="00:13.997" ttm:agent="v1">Yeah, yeah, yeah</p>
+      <p begin="00:13.997" end="00:17.804" ttm:agent="v1">Big guap, bank account fat, lookin' healthy</p>
+      <p begin="00:17.804" end="00:20.858" ttm:agent="v1">Making money, what’s new? Baby, tell me</p>
+      <p begin="00:20.858" end="00:24.796" ttm:agent="v1">Back to New York 'cause it got colder, hit my nigga Danny</p>
+      <p begin="00:24.796" end="00:27.813" ttm:agent="v1">Movin' fast, TSA can’t smell me</p>
+      <p begin="00:27.813" end="00:34.862" ttm:agent="v1">Are we on the same page? Baby, tell me what's changed</p>
+      <p begin="00:34.862" end="00:41.263" ttm:agent="v1">Are we on the same page? Baby, tell me what's changed</p>
+      <p begin="00:41.263" end="00:45.688" ttm:agent="v1">Only sign that paper if it's more than a mill' 'cause I'm coolin'</p>
+      <p begin="00:45.688" end="00:48.638" ttm:agent="v1">Just because I smile at you, we not cool, man</p>
+      <p begin="00:48.638" end="00:52.376" ttm:agent="v1">Same niggas hatin’, hoes fanned out at the function</p>
+      <p begin="00:52.376" end="00:55.682" ttm:agent="v1">That’s funny to me, sorry that your soulmate droolin'</p>
+      <p begin="00:55.682" end="01:01.751" ttm:agent="v1">Watch your tone in my DM’s and you won't get finessed</p>
+      <p begin="01:01.751" end="01:04.997" ttm:agent="v1">Gotta watch myself, my fans watching me too</p>
+      <p begin="01:04.997" end="01:09.496" ttm:agent="v1">**** your text back, I don't need you, ho, I been runnin' up</p>
+      <p begin="01:09.496" end="01:13.653" ttm:agent="v1">Big guap, bank account fat, lookin’ healthy</p>
+      <p begin="01:13.653" end="01:16.435" ttm:agent="v1">Making money, what's new? Baby, tell me</p>
+      <p begin="01:16.435" end="01:20.291" ttm:agent="v1">Back to New York 'cause it got colder, hit my nigga Danny</p>
+      <p begin="01:20.291" end="01:23.454" ttm:agent="v1">Movin' fast, TSA can't smell me</p>
+      <p begin="01:23.454" end="01:30.434" ttm:agent="v1">Are we on the same page? Baby, tell me what's changed</p>
+      <p begin="01:30.434" end="01:38.434" ttm:agent="v1">Are we on the same page? Baby, tell me what's changed</p>
+      <p begin="01:44.462" end="01:48.462" ttm:agent="v1">Icy</p>
+    </div>
+  </body>
+</tt>

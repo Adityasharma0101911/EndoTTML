@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>With The Fish (with $not &amp; 6 Dogs)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Lyrical Lemonade</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">$NOT</ttm:agent>
+      <ttm:agent type="person" xml:id="v3">6 Dogs</ttm:agent>
+      <ttm:item type="album">All Is Yellow</ttm:item>
+      <ttm:item type="spotify_id">2SHuJzIrFTWNkHjOTPwyxX</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:12.553" end="00:15.352" ttm:agent="v1">I'm just slidin', and we ridin'</p>
+      <p begin="00:15.352" end="00:18.620" ttm:agent="v1">Tryna see where I be goin'</p>
+      <p begin="00:18.620" end="00:21.007" ttm:agent="v1">Meet me at the mountain top</p>
+      <p begin="00:21.007" end="00:22.991" ttm:agent="v1">See me through the ocean</p>
+      <p begin="00:22.991" end="00:25.508" ttm:agent="v1">See me in the water with the fish</p>
+      <p begin="00:25.508" end="00:27.300" ttm:agent="v1">I be giving love sometimes</p>
+      <p begin="00:27.300" end="00:29.580" ttm:agent="v1">And sometimes, I can't get it back</p>
+      <p begin="00:29.580" end="00:31.548" ttm:agent="v1">That's how its gonna be</p>
+      <p begin="00:31.548" end="00:34.831" ttm:agent="v1">She might put me in the trash, empty</p>
+      <p begin="00:34.831" end="00:37.876" ttm:agent="v1">And that's how it's gonna be</p>
+      <p begin="00:37.876" end="00:41.351" ttm:agent="v1">'Cause that's my life, I'm ridin', I'm slidin'</p>
+      <p begin="00:41.351" end="00:44.535" ttm:agent="v1">In your b***h's DMs till I fall asleep</p>
+      <p begin="00:44.535" end="00:46.564" ttm:agent="v1">She'll be texting on my phone</p>
+      <p begin="00:46.564" end="00:51.449" ttm:agent="v1">Telling me, &quot;LOL, oh, my god, I'm so weak&quot;</p>
+      <p begin="00:51.449" end="00:54.267" ttm:agent="v1">I'm just slidin', and we ridin'</p>
+      <p begin="00:54.267" end="00:57.534" ttm:agent="v1">Tryna see where I be goin'</p>
+      <p begin="00:57.534" end="00:59.934" ttm:agent="v1">Meet me at the mountain top</p>
+      <p begin="00:59.934" end="01:01.957" ttm:agent="v1">See me through the ocean</p>
+      <p begin="01:01.957" end="01:04.409" ttm:agent="v1">See me in the water with the fish</p>
+      <p begin="01:04.409" end="01:07.271" ttm:agent="v1">I'm just slidin', and we ridin'</p>
+      <p begin="01:07.271" end="01:10.498" ttm:agent="v1">Tryna see where I be goin'</p>
+      <p begin="01:10.498" end="01:12.905" ttm:agent="v1">Meet me at the mountain top</p>
+      <p begin="01:12.905" end="01:14.932" ttm:agent="v1">See me through the ocean</p>
+      <p begin="01:14.932" end="01:17.366" ttm:agent="v1">See me in the water with the fish</p>
+      <p begin="01:17.366" end="01:21.009" ttm:agent="v1">Now it's me and $not, we were sliding, yeah</p>
+      <p begin="01:21.009" end="01:24.263" ttm:agent="v1">Tryna get the tats silver lining, yeah</p>
+      <p begin="01:24.263" end="01:27.115" ttm:agent="v1">Now I'm just on the beat rhyming</p>
+      <p begin="01:27.115" end="01:30.166" ttm:agent="v1">Yeah, I was sixteen, they tried to sign me</p>
+      <p begin="01:30.166" end="01:33.998" ttm:agent="v1">I said, &quot;No way&quot;, in the Audi counting blue bucks, yeah</p>
+      <p begin="01:33.998" end="01:37.257" ttm:agent="v1">Audi, yeah, I don't know how to turn it on, yeah</p>
+      <p begin="01:37.257" end="01:40.492" ttm:agent="v1">Ben Ten-Ten-Ten-Ten-Tentacion</p>
+      <p begin="01:40.492" end="01:43.329" ttm:agent="v1">Moving down the Autobahn, Bimmer tryna fly, kid</p>
+      <p begin="01:43.329" end="01:46.175" ttm:agent="v1">I'm just slidin', and we ridin'</p>
+      <p begin="01:46.175" end="01:49.425" ttm:agent="v1">Tryna see where I be goin'</p>
+      <p begin="01:49.425" end="01:51.829" ttm:agent="v1">Meet me at the mountain top</p>
+      <p begin="01:51.829" end="01:53.809" ttm:agent="v1">See me through the ocean</p>
+      <p begin="01:53.809" end="01:56.307" ttm:agent="v1">See me in the water with the fish</p>
+      <p begin="01:56.307" end="01:59.121" ttm:agent="v1">I'm just slidin', and we ridin'</p>
+      <p begin="01:59.121" end="02:02.409" ttm:agent="v1">Tryna see where I be goin'</p>
+      <p begin="02:02.409" end="02:04.793" ttm:agent="v1">Meet me at the mountain top</p>
+      <p begin="02:04.793" end="02:06.823" ttm:agent="v1">See me through the ocean</p>
+      <p begin="02:06.823" end="02:10.823" ttm:agent="v1">See me in the water with the fish</p>
+    </div>
+  </body>
+</tt>

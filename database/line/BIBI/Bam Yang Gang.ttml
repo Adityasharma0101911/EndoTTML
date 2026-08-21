@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Bam Yang Gang</ttm:title>
+      <ttm:agent type="person" xml:id="v1">BIBI</ttm:agent>
+      <ttm:item type="album">EVE: ROMANCE</ttm:item>
+      <ttm:item type="spotify_id">20tMQD6mORg6ZTiLmUSZly</ttm:item>
+      <itunes:duration>02:26.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:04.080" end="00:08.310" ttm:agent="v1">떠나는 길에 네가 내게 말했지</p>
+      <p begin="00:08.310" end="00:12.240" ttm:agent="v1">너는 바라는 게 너무나 많아</p>
+      <p begin="00:12.240" end="00:16.300" ttm:agent="v1">잠깐이라도 널 안 바라보면</p>
+      <p begin="00:16.300" end="00:20.370" ttm:agent="v1">머리에 불이 나버린다니까</p>
+      <p begin="00:20.370" end="00:24.460" ttm:agent="v1">나는 흐르려는 눈물을 참고</p>
+      <p begin="00:24.460" end="00:28.470" ttm:agent="v1">하려던 얘길 어렵게 누르고</p>
+      <p begin="00:28.470" end="00:32.470" ttm:agent="v1">그래, 미안해라는 한 마디로</p>
+      <p begin="00:32.470" end="00:37.930" ttm:agent="v1">너랑 나눈 날들 마무리했었지</p>
+      <p begin="00:37.930" end="00:45.800" ttm:agent="v1">달디달고, 달디달고, 달디단, 밤양갱, 밤양갱</p>
+      <p begin="00:45.800" end="00:52.430" ttm:agent="v1">내가 먹고 싶었던 건, 달디단, 밤양갱, 밤양갱이야</p>
+      <p begin="00:52.430" end="00:56.700" ttm:agent="v1">떠나는 길에 네가 내게 말했지</p>
+      <p begin="00:56.700" end="01:00.720" ttm:agent="v1">너는 바라는 게 너무나 많아</p>
+      <p begin="01:00.720" end="01:04.930" ttm:agent="v1">아냐, 내가 늘 바란 건 하나야</p>
+      <p begin="01:04.930" end="01:08.930" ttm:agent="v1">한 개뿐이야, 달디단, 밤양갱</p>
+      <p begin="01:08.930" end="01:16.930" ttm:agent="v1"/>
+      <p begin="01:26.540" end="01:34.540" ttm:agent="v1">달디달고, 달디달고, 달디단, 밤양갱, 밤양갱</p>
+      <p begin="01:34.540" end="01:41.110" ttm:agent="v1">내가 먹고 싶었던 건, 달디단, 밤양갱, 밤양갱이야</p>
+      <p begin="01:41.110" end="01:44.860" ttm:agent="v1">상다리가 부러지고</p>
+      <p begin="01:44.860" end="01:50.780" ttm:agent="v1">둘이서 먹다 하나가 쓰러져버려도</p>
+      <p begin="01:50.780" end="01:57.160" ttm:agent="v1">나라는 사람을 몰랐던 넌</p>
+      <p begin="01:57.160" end="02:01.390" ttm:agent="v1">떠나가다가 돌아서서 말했지</p>
+      <p begin="02:01.390" end="02:05.570" ttm:agent="v1">너는 바라는 게 너무나 많아</p>
+      <p begin="02:05.570" end="02:09.650" ttm:agent="v1">아냐, 내가 늘 바란 건 하나야</p>
+      <p begin="02:09.650" end="02:17.650" ttm:agent="v1">한 개뿐이야, 달디단, 밤양갱</p>
+      <p begin="02:22.690" end="02:26.690" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

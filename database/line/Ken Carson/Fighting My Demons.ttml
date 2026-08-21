@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Fighting My Demons</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Ken Carson</ttm:agent>
+      <ttm:item type="album">A Great Chaos</ttm:item>
+      <itunes:duration>02:30.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.850" end="00:02.350" ttm:agent="v1">Where the fuck's my blunt?</p>
+      <p begin="00:01.900" end="00:03.400" ttm:agent="v1">Where the fuck's my cup?</p>
+      <p begin="00:02.780" end="00:04.280" ttm:agent="v1">Where the fuck's my reefer?</p>
+      <p begin="00:03.860" end="00:06.220" ttm:agent="v1">Huh, huh, huh, huh, huh, huh</p>
+      <p begin="00:06.220" end="00:07.720" ttm:agent="v1">I'm smokin' on kush</p>
+      <p begin="00:06.800" end="00:09.340" ttm:agent="v1">Huh, huh, huh, huh, huh, huh</p>
+      <p begin="00:09.340" end="00:10.840" ttm:agent="v1">I'm smokin' on kush</p>
+      <p begin="00:10.400" end="00:12.670" ttm:agent="v1">Huh, huh, huh, huh, huh, huh</p>
+      <p begin="00:12.670" end="00:14.170" ttm:agent="v1">You know I'm a chief?</p>
+      <p begin="00:13.460" end="00:16.570" ttm:agent="v1">Huh, huh, huh, huh, huh, huh</p>
+      <p begin="00:16.570" end="00:18.070" ttm:agent="v1">You know I'm a chief?</p>
+      <p begin="00:17.470" end="00:19.330" ttm:agent="v1">I'm flyin' just like an eagle</p>
+      <p begin="00:19.330" end="00:20.900" ttm:agent="v1">Bitch cryin', I don't need her</p>
+      <p begin="00:20.900" end="00:22.400" ttm:agent="v1">Four-five, long heater</p>
+      <p begin="00:22.330" end="00:24.200" ttm:agent="v1">Hellcat big two-seater</p>
+      <p begin="00:24.200" end="00:27.520" ttm:agent="v1">This bitch said she was hungry, this dick what I feed her</p>
+      <p begin="00:27.520" end="00:31.130" ttm:agent="v1">I'm on the block servin' entrées, yeah, three-fives a reefer</p>
+      <p begin="00:31.130" end="00:32.630" ttm:agent="v1">Yeah, yeah, you know I'ma keep 'em</p>
+      <p begin="00:32.440" end="00:34.440" ttm:agent="v1">Huh, huh, and I be chiefin'</p>
+      <p begin="00:34.440" end="00:37.790" ttm:agent="v1">All these hoes are some eaters, huh, huh, they'll be eatin'</p>
+      <p begin="00:37.790" end="00:41.260" ttm:agent="v1">Cut the lights off, we gon' pull up creepin'</p>
+      <p begin="00:41.260" end="00:44.280" ttm:agent="v1">We got four sticks, we're four deep, in the four-door Jeep</p>
+      <p begin="00:44.280" end="00:47.760" ttm:agent="v1">My boy trigger finger itchin', leave his brains on the seat</p>
+      <p begin="00:47.760" end="00:50.890" ttm:agent="v1">My trigger finger itchin', I feel like D-Wade with the heat</p>
+      <p begin="00:50.890" end="00:55.270" ttm:agent="v1">Made him do the runnin' man, we sent some runnin' shots at his feet</p>
+      <p begin="00:55.270" end="00:58.640" ttm:agent="v1">I pop X, I pop X, yeah, yeah, I'm geeked</p>
+      <p begin="00:58.640" end="01:01.880" ttm:agent="v1">She pops X, she pops X, yeah, yeah, she sleeps</p>
+      <p begin="01:01.880" end="01:05.340" ttm:agent="v1">Cullinan Rolls-Royce, I'm 'bout to pull up to a meet</p>
+      <p begin="01:05.340" end="01:11.050" ttm:agent="v1">Let's play Russian roulette, bitch, who gon' die first, you or me?</p>
+      <p begin="01:11.050" end="01:12.550" ttm:agent="v1">You or me?</p>
+      <p begin="01:11.430" end="01:14.180" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let's play Russian roulette, bitch, who gon' die first, you or me?)</p>
+      <p begin="01:14.180" end="01:17.670" ttm:agent="v1">You or me?</p>
+      <p begin="01:17.670" end="01:19.170" ttm:agent="v1">You or me?</p>
+      <p begin="01:18.940" end="01:21.160" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let's play Russian roulette, bitch, who gon' die first, you or me?)</p>
+      <p begin="01:21.160" end="01:23.590" ttm:agent="v1">Yeah</p>
+      <p begin="01:23.590" end="01:31.590" ttm:agent="v1"/>
+      <p begin="01:59.030" end="02:01.970" ttm:agent="v1" itunes:key="role" itunes:value="background">(Star made the beat, I just took it out of the oven)</p>
+      <p begin="02:01.970" end="02:03.470" ttm:agent="v1">Yeah</p>
+      <p begin="02:03.320" end="02:04.970" ttm:agent="v1">I've been fighting my demons, huh</p>
+      <p begin="02:04.970" end="02:06.650" ttm:agent="v1">I've been fighting my–, yeah</p>
+      <p begin="02:06.650" end="02:08.330" ttm:agent="v1">I've been fighting my demons, huh</p>
+      <p begin="02:08.330" end="02:10.010" ttm:agent="v1">I've been fighting my–, yeah</p>
+      <p begin="02:10.010" end="02:11.730" ttm:agent="v1">I've been fighting my demons, huh</p>
+      <p begin="02:11.730" end="02:13.410" ttm:agent="v1">I've been fighting my–, huh</p>
+      <p begin="02:13.410" end="02:15.090" ttm:agent="v1">I've been fighting my demons, huh</p>
+      <p begin="02:15.090" end="02:16.730" ttm:agent="v1">I've been fighting my–, huh, huh</p>
+      <p begin="02:16.730" end="02:18.440" ttm:agent="v1">I've been fighting my demons, yeah</p>
+      <p begin="02:18.440" end="02:20.170" ttm:agent="v1">I've been fighting my–, huh, huh</p>
+      <p begin="02:20.170" end="02:21.820" ttm:agent="v1">I've been fighting my demons, yeah</p>
+      <p begin="02:21.820" end="02:23.570" ttm:agent="v1">I've been fighting my–, yeah</p>
+      <p begin="02:23.570" end="02:25.530" ttm:agent="v1">I've been fighting my demons, yeah</p>
+      <p begin="02:25.530" end="02:27.030" ttm:agent="v1">I've been fighting my–, huh</p>
+      <p begin="02:26.970" end="02:28.520" ttm:agent="v1">I've been fighting my demons, huh-yeah</p>
+      <p begin="02:28.520" end="02:32.520" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

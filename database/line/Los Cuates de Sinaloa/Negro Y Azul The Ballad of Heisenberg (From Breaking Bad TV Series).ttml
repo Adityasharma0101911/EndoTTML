@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Negro Y Azul: The Ballad of Heisenberg (From &quot;Breaking Bad&quot; TV Series)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Los Cuates de Sinaloa</ttm:agent>
+      <ttm:item type="album">Negro Y Azul: The Ballad of Heisenberg (From &quot;Breaking Bad&quot; TV Series)</ttm:item>
+      <ttm:item type="spotify_id">0yzcqtdu85erFxmgeZp0zW</ttm:item>
+      <itunes:duration>03:25.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:14.620" end="00:22.620" ttm:agent="v1">La ciudad se llama Duke, Nuevo México, el estado</p>
+      <p begin="00:24.610" end="00:28.960" ttm:agent="v1">Y entre la gente mafiosa su fama se ha propagado</p>
+      <p begin="00:28.960" end="00:34.740" ttm:agent="v1">Causa de una nueva droga que los gringos han creado</p>
+      <p begin="00:34.740" end="00:42.060" ttm:agent="v1"/>
+      <p begin="00:42.060" end="00:50.060" ttm:agent="v1">Dicen que es color azul y que es pura calidad</p>
+      <p begin="00:54.050" end="00:58.510" ttm:agent="v1">Esa droga poderosa que circula en la ciudad</p>
+      <p begin="00:58.510" end="01:06.170" ttm:agent="v1">Y los dueños de la plaza no la pudieron parar</p>
+      <p begin="01:06.170" end="01:13.020" ttm:agent="v1">Anda caliente el cartel, al respeto le faltaron</p>
+      <p begin="01:13.020" end="01:21.020" ttm:agent="v1">Hablan de un tal Haisenberg que ahora controla el mercado</p>
+      <p begin="01:21.990" end="01:26.330" ttm:agent="v1">Nadie sabe nada de él porque nunca lo han mirado</p>
+      <p begin="01:26.330" end="01:30.520" ttm:agent="v1">El cartel es de respeto y jamás ha perdonado</p>
+      <p begin="01:30.520" end="01:34.970" ttm:agent="v1">Ese compa ya está muerto</p>
+      <p begin="01:34.970" end="01:40.090" ttm:agent="v1">Nomás no le han avisado</p>
+      <p begin="01:40.090" end="01:42.950" ttm:agent="v1">¡Y así suenan Los Cuates de Sinaloa, mi compa!</p>
+      <p begin="01:42.950" end="01:50.950" ttm:agent="v1"/>
+      <p begin="01:54.000" end="02:02.000" ttm:agent="v1">La fama de Haisenberg ya llegó hasta Michoacán</p>
+      <p begin="02:02.810" end="02:07.220" ttm:agent="v1">Desde allá quieren venir a probar ese cristal</p>
+      <p begin="02:07.220" end="02:12.690" ttm:agent="v1">Ese material azul ya hizo internacional</p>
+      <p begin="02:12.690" end="02:20.630" ttm:agent="v1"/>
+      <p begin="02:20.630" end="02:28.630" ttm:agent="v1">Ahora sí le quedó bien a Nuevo México el nombre</p>
+      <p begin="02:31.800" end="02:36.200" ttm:agent="v1">A México se parece en tanta droga que esconde</p>
+      <p begin="02:36.200" end="02:44.200" ttm:agent="v1">Solo que hay un capo gringo, por Haisenberg lo conocen</p>
+      <p begin="02:44.860" end="02:52.060" ttm:agent="v1">Anda caliente el cartel, al respeto le faltaron</p>
+      <p begin="02:52.060" end="03:00.060" ttm:agent="v1">Hablan de un tal Haisenberg que ahora controla el mercado</p>
+      <p begin="03:00.940" end="03:05.410" ttm:agent="v1">Nadie sabe nada de él porque nunca lo han mirado</p>
+      <p begin="03:05.410" end="03:09.770" ttm:agent="v1">A la furia del cartel nadie jamás ha escapado</p>
+      <p begin="03:09.770" end="03:14.410" ttm:agent="v1">Ese compa ya está muerto</p>
+      <p begin="03:14.410" end="03:18.720" ttm:agent="v1">Nomás no le han avisado</p>
+      <p begin="03:18.720" end="03:22.720" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

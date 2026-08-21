@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>người điên</ttm:title>
+      <ttm:agent type="person" xml:id="v1">tlinh</ttm:agent>
+      <ttm:item type="album">ái</ttm:item>
+      <ttm:item type="spotify_id">2oeRIxAFpZYhbJ99DjlJ1O</ttm:item>
+      <itunes:duration>02:28.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:12.100" end="00:18.820" ttm:agent="v1">Ah yeah ah</p>
+      <p begin="00:18.820" end="00:23.100" ttm:agent="v1">Em chỉ là người điên vô thường trên trần thế</p>
+      <p begin="00:23.100" end="00:27.660" ttm:agent="v1">Đến và rồi lại đi qua đời yeh</p>
+      <p begin="00:27.660" end="00:32.260" ttm:agent="v1">Để lại ở dương gian những mầm hoa nhỏ bé</p>
+      <p begin="00:32.260" end="00:36.740" ttm:agent="v1">Để một ngày tình yêu đâm chồi</p>
+      <p begin="00:36.740" end="00:40.780" ttm:agent="v1">Em là kẻ giữ quá nhiều cho cũng quá nhiều yêu cũng quá liều</p>
+      <p begin="00:40.780" end="00:45.140" ttm:agent="v1">Ruột gan em dốc hết ra rất vô tội vạ vì em muốn yêu nhiều</p>
+      <p begin="00:45.140" end="00:50.100" ttm:agent="v1">Và có rất nhiều thứ thế giới cho là điên nhưng em vẫn cứ bất chấp mà đâm vào</p>
+      <p begin="00:50.100" end="00:54.220" ttm:agent="v1">Nhưng em cảm kích vì em đã làm thứ họ không dám</p>
+      <p begin="00:54.220" end="00:58.750" ttm:agent="v1">Em đã dám đầu hàng trước sự vô thường của cõi trần gian</p>
+      <p begin="00:58.750" end="01:03.140" ttm:agent="v1">Thú nhận ăn gian thích hơn thua tình cảm nghi ngờ người khác</p>
+      <p begin="01:03.140" end="01:08.940" ttm:agent="v1">Vì nếu không em điên mất điên mất vì em đã quen với quen với việc kiểm soát</p>
+      <p begin="01:08.940" end="01:12.220" ttm:agent="v1">Em là kẻ ngốc tưởng mình khôn</p>
+      <p begin="01:12.220" end="01:17.350" ttm:agent="v1">Và đến một ngày em cũng đã biết thế giới bên ngoài chỉ là một sự chiếu lại từ thế giới nội tâm</p>
+      <p begin="01:17.350" end="01:22.260" ttm:agent="v1">Và em xin lỗi nếu đã đổ tội lên ai vì em mong vòng lặp sẽ thôi xoay</p>
+      <p begin="01:22.260" end="01:26.900" ttm:agent="v1">Vòng lặp thương đau sẽ thôi xoay và tình yêu thương sẽ trỗi dậy</p>
+      <p begin="01:26.900" end="01:31.100" ttm:agent="v1">Em chỉ muốn dù chỉ là một chút sẽ khiến cho ai đó hiểu được tình yêu dù</p>
+      <p begin="01:31.100" end="01:35.500" ttm:agent="v1">Em chỉ là người điên vô thường trên trần thế</p>
+      <p begin="01:35.500" end="01:39.980" ttm:agent="v1">Đến và rồi lại đi qua đời yeh yeh</p>
+      <p begin="01:39.980" end="01:44.620" ttm:agent="v1">Để lại ở dương gian những mầm hoa nhỏ bé</p>
+      <p begin="01:44.620" end="01:49.510" ttm:agent="v1">Để một ngày tình yêu đâm chồi</p>
+      <p begin="01:49.510" end="01:57.510" ttm:agent="v1">Ah ah ah ah</p>
+      <p begin="01:58.490" end="02:02.930" ttm:agent="v1">Ah ah ah ah</p>
+      <p begin="02:02.930" end="02:10.930" ttm:agent="v1">Uh uh uh uh</p>
+      <p begin="02:10.930" end="02:14.930" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

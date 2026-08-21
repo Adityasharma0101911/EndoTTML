@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Lover Girl</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Laufey</ttm:agent>
+      <ttm:item type="album">Lover Girl</ttm:item>
+      <ttm:item type="spotify_id">6dWilYAxP2aJbTTt0UsatK</ttm:item>
+      <itunes:duration>02:44.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:05.150" end="00:10.550" ttm:agent="v1">This skyscraper’s causing vertigo</p>
+      <p begin="00:10.550" end="00:16.380" ttm:agent="v1">The countdown begins in Tokyo</p>
+      <p begin="00:16.380" end="00:18.820" ttm:agent="v1">Twenty seven days alone</p>
+      <p begin="00:18.820" end="00:26.490" ttm:agent="v1">Means 20 million ways to cope without you</p>
+      <p begin="00:26.490" end="00:29.510" ttm:agent="v1">I’m in a reckless fever</p>
+      <p begin="00:29.510" end="00:32.170" ttm:agent="v1">Love-struck girl, I’d tease her</p>
+      <p begin="00:32.170" end="00:35.010" ttm:agent="v1">Thought I’d never be her</p>
+      <p begin="00:35.010" end="00:37.630" ttm:agent="v1">Quite the job you’ve done on me, sir</p>
+      <p begin="00:37.630" end="00:40.400" ttm:agent="v1">You’ve been hosting parties</p>
+      <p begin="00:40.400" end="00:44.350" ttm:agent="v1">In my mind, I’m working overtime</p>
+      <p begin="00:44.350" end="00:48.430" ttm:agent="v1">To have you in my world</p>
+      <p begin="00:48.430" end="00:56.430" ttm:agent="v1">Oh, what a curse it is to be a lover girl</p>
+      <p begin="00:57.340" end="01:01.660" ttm:agent="v1">Forced to get creative, wrote my feelings down</p>
+      <p begin="01:01.660" end="01:08.350" ttm:agent="v1">The independent lady in me’s nowhere to be found</p>
+      <p begin="01:08.350" end="01:13.450" ttm:agent="v1">I can’t wait another day to see you how embarrassing</p>
+      <p begin="01:13.450" end="01:18.070" ttm:agent="v1">To be this way</p>
+      <p begin="01:18.070" end="01:21.290" ttm:agent="v1">I’m in a reckless fever</p>
+      <p begin="01:21.290" end="01:24.020" ttm:agent="v1">Love-struck girl, I’d tease her</p>
+      <p begin="01:24.020" end="01:26.820" ttm:agent="v1">Thought I’d never be her</p>
+      <p begin="01:26.820" end="01:29.480" ttm:agent="v1">Quite the job you’ve done on me, sir</p>
+      <p begin="01:29.480" end="01:32.250" ttm:agent="v1">You’ve been hosting parties</p>
+      <p begin="01:32.250" end="01:36.150" ttm:agent="v1">In my mind, I’m working overtime</p>
+      <p begin="01:36.150" end="01:40.200" ttm:agent="v1">To have you in my world</p>
+      <p begin="01:40.200" end="01:43.370" ttm:agent="v1">Oh, what a curse it is to be in love</p>
+      <p begin="01:43.370" end="01:49.220" ttm:agent="v1">I wait by the phone like a high school movie</p>
+      <p begin="01:49.220" end="01:54.620" ttm:agent="v1">Dream at the shows you’ll come running to me</p>
+      <p begin="01:54.620" end="02:00.280" ttm:agent="v1">Think I see you in the wings, god</p>
+      <p begin="02:00.280" end="02:05.610" ttm:agent="v1">I'm hallucinating what a</p>
+      <p begin="02:05.610" end="02:07.660" ttm:agent="v1">Reckless fever</p>
+      <p begin="02:07.660" end="02:10.330" ttm:agent="v1">Love-struck girl, I’d tease her</p>
+      <p begin="02:10.330" end="02:13.160" ttm:agent="v1">Thought I’d never be her</p>
+      <p begin="02:13.160" end="02:15.850" ttm:agent="v1">Quite the job you’ve done on me, sir</p>
+      <p begin="02:15.850" end="02:18.610" ttm:agent="v1">You’ve been hosting parties</p>
+      <p begin="02:18.610" end="02:22.510" ttm:agent="v1">In my mind, I’m working overtime</p>
+      <p begin="02:22.510" end="02:26.620" ttm:agent="v1">You’ve become my whole world</p>
+      <p begin="02:26.620" end="02:32.960" ttm:agent="v1">Oh, what a curse it is to be a lover girl</p>
+      <p begin="02:32.960" end="02:36.960" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

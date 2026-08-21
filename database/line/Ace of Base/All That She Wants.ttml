@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>All That She Wants</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Ace of Base</ttm:agent>
+      <ttm:item type="album">The Sign</ttm:item>
+      <ttm:item type="spotify_id">6kWJvPfC4DgUpRsXKNa9z9</ttm:item>
+      <itunes:duration>03:31.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:11.160" end="00:15.150" ttm:agent="v1">She leads a lonely life</p>
+      <p begin="00:15.150" end="00:20.400" ttm:agent="v1">She leads a lonely life</p>
+      <p begin="00:20.400" end="00:27.250" ttm:agent="v1"/>
+      <p begin="00:27.250" end="00:30.490" ttm:agent="v1">When she woke up late</p>
+      <p begin="00:30.490" end="00:32.850" ttm:agent="v1"/>
+      <p begin="00:32.850" end="00:34.350" ttm:agent="v1">In the morning light</p>
+      <p begin="00:34.280" end="00:36.220" ttm:agent="v1">And the day had just begun</p>
+      <p begin="00:36.220" end="00:38.020" ttm:agent="v1">She opened up</p>
+      <p begin="00:38.020" end="00:39.730" ttm:agent="v1">Her eyes and thought</p>
+      <p begin="00:39.730" end="00:41.890" ttm:agent="v1">Oh, what a morning</p>
+      <p begin="00:41.890" end="00:43.930" ttm:agent="v1">It's not a day for work</p>
+      <p begin="00:43.930" end="00:46.410" ttm:agent="v1">It's a day for catching tan</p>
+      <p begin="00:46.410" end="00:48.520" ttm:agent="v1">Just laying on the beach</p>
+      <p begin="00:48.520" end="00:50.230" ttm:agent="v1">And having fun</p>
+      <p begin="00:50.230" end="00:52.180" ttm:agent="v1">She's going to get ya</p>
+      <p begin="00:52.180" end="00:53.780" ttm:agent="v1">All that she wants</p>
+      <p begin="00:53.780" end="00:55.650" ttm:agent="v1">Is another baby</p>
+      <p begin="00:55.650" end="00:57.300" ttm:agent="v1">She's gone tomorrow, boy</p>
+      <p begin="00:57.300" end="00:58.840" ttm:agent="v1">All that she wants</p>
+      <p begin="00:58.840" end="01:01.880" ttm:agent="v1">Is another baby, yeah</p>
+      <p begin="01:01.880" end="01:04.060" ttm:agent="v1">All that she wants</p>
+      <p begin="01:04.060" end="01:05.960" ttm:agent="v1">Is another baby</p>
+      <p begin="01:05.960" end="01:07.730" ttm:agent="v1">She's gone tomorrow, boy</p>
+      <p begin="01:07.730" end="01:09.750" ttm:agent="v1">All that she wants</p>
+      <p begin="01:09.750" end="01:12.640" ttm:agent="v1">Is another baby, yeah</p>
+      <p begin="01:12.640" end="01:15.980" ttm:agent="v1" itunes:key="role" itunes:value="background">(All that she wants)</p>
+      <p begin="01:15.980" end="01:23.980" ttm:agent="v1"/>
+      <p begin="01:27.100" end="01:32.230" ttm:agent="v1" itunes:key="role" itunes:value="background">(All that she wants)</p>
+      <p begin="01:32.230" end="01:34.660" ttm:agent="v1"/>
+      <p begin="01:34.660" end="01:36.780" ttm:agent="v1">So if you are in sight</p>
+      <p begin="01:36.780" end="01:38.280" ttm:agent="v1">And the day is right</p>
+      <p begin="01:37.810" end="01:40.280" ttm:agent="v1">She's a hunter, you're the fox</p>
+      <p begin="01:40.280" end="01:41.850" ttm:agent="v1">The gentle voice</p>
+      <p begin="01:41.850" end="01:43.620" ttm:agent="v1">That talks to you</p>
+      <p begin="01:43.620" end="01:45.840" ttm:agent="v1">Won't talk forever</p>
+      <p begin="01:45.840" end="01:47.720" ttm:agent="v1">It is a night for passion</p>
+      <p begin="01:47.720" end="01:50.180" ttm:agent="v1">But the morning means goodbye</p>
+      <p begin="01:50.180" end="01:53.390" ttm:agent="v1">Beware of what is flashing in her eyes</p>
+      <p begin="01:53.390" end="01:56.290" ttm:agent="v1">She's going to get ya</p>
+      <p begin="01:56.290" end="01:57.890" ttm:agent="v1">All that she wants</p>
+      <p begin="01:57.890" end="01:59.730" ttm:agent="v1">Is another baby</p>
+      <p begin="01:59.730" end="02:01.630" ttm:agent="v1">She's gone tomorrow, boy</p>
+      <p begin="02:01.630" end="02:03.280" ttm:agent="v1">All that she wants</p>
+      <p begin="02:03.280" end="02:06.450" ttm:agent="v1">Is another baby, yeah</p>
+      <p begin="02:06.450" end="02:08.340" ttm:agent="v1">All that she wants</p>
+      <p begin="02:08.340" end="02:09.900" ttm:agent="v1">Is another baby</p>
+      <p begin="02:09.900" end="02:11.800" ttm:agent="v1">She's gone tomorrow, boy</p>
+      <p begin="02:11.800" end="02:13.330" ttm:agent="v1">All that she wants</p>
+      <p begin="02:13.330" end="02:17.880" ttm:agent="v1">Is another baby, yeah</p>
+      <p begin="02:17.880" end="02:25.880" ttm:agent="v1"/>
+      <p begin="02:26.780" end="02:30.180" ttm:agent="v1">All that she wants</p>
+      <p begin="02:30.180" end="02:38.180" ttm:agent="v1"/>
+      <p begin="02:39.860" end="02:41.360" ttm:agent="v1">Is another baby</p>
+      <p begin="02:41.230" end="02:42.730" ttm:agent="v1">She's gone tomorrow, boy</p>
+      <p begin="02:42.520" end="02:44.120" ttm:agent="v1">All that she wants</p>
+      <p begin="02:44.120" end="02:46.900" ttm:agent="v1">Is another baby, yeah</p>
+      <p begin="02:46.900" end="02:48.980" ttm:agent="v1">All that she wants</p>
+      <p begin="02:48.980" end="02:50.860" ttm:agent="v1">Is another baby</p>
+      <p begin="02:50.860" end="02:52.450" ttm:agent="v1">She's gone tomorrow, boy</p>
+      <p begin="02:52.450" end="02:54.320" ttm:agent="v1">All that she wants</p>
+      <p begin="02:54.320" end="02:57.560" ttm:agent="v1">Is another baby, yeah</p>
+      <p begin="02:57.560" end="03:03.250" ttm:agent="v1" itunes:key="role" itunes:value="background">(All that she wants)</p>
+      <p begin="03:03.250" end="03:11.250" ttm:agent="v1"/>
+      <p begin="03:12.510" end="03:15.450" ttm:agent="v1" itunes:key="role" itunes:value="background">(All that she wants)</p>
+      <p begin="03:15.450" end="03:19.450" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

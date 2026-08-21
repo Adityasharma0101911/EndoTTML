@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Black Mamba</ttm:title>
+      <ttm:agent type="person" xml:id="v1">aespa</ttm:agent>
+      <ttm:item type="album">Girls - The 2nd Mini Album</ttm:item>
+      <ttm:item type="spotify_id">6Tj9KfzPp7tmgcDdsaPwGE</ttm:item>
+      <itunes:duration>02:55.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:03.000" end="00:05.230" ttm:agent="v1">Hey</p>
+      <p begin="00:05.230" end="00:08.260" ttm:agent="v1"/>
+      <p begin="00:08.260" end="00:10.430" ttm:agent="v1">Hey</p>
+      <p begin="00:10.430" end="00:13.550" ttm:agent="v1"/>
+      <p begin="00:13.550" end="00:16.350" ttm:agent="v1">I'm addicted, 끊임없이</p>
+      <p begin="00:16.350" end="00:19.050" ttm:agent="v1" itunes:key="role" itunes:value="background">말을 걸어주는 나의 에스파 (oh)</p>
+      <p begin="00:19.050" end="00:21.980" ttm:agent="v1">이런 교감, 너의 존잰 날</p>
+      <p begin="00:21.980" end="00:24.530" ttm:agent="v1" itunes:key="role" itunes:value="background">다른 차원으로 이끌었지 (oh)</p>
+      <p begin="00:24.530" end="00:29.820" ttm:agent="v1">난 세상 중심에, you're in the flat</p>
+      <p begin="00:29.820" end="00:35.240" ttm:agent="v1">내 모든 action, 어린 너의 힘을 키워</p>
+      <p begin="00:35.240" end="00:39.080" ttm:agent="v1">넌 언젠가부터 synk out</p>
+      <p begin="00:39.080" end="00:41.730" ttm:agent="v1">노이즈같이 보여</p>
+      <p begin="00:41.730" end="00:43.500" ttm:agent="v1">더 이상 못 찾겠어</p>
+      <p begin="00:43.500" end="00:47.120" ttm:agent="v1">널 유혹해 삼킨 건, Black Mamba</p>
+      <p begin="00:47.120" end="00:50.030" ttm:agent="v1">Ma-ma-ma-mamba</p>
+      <p begin="00:50.030" end="00:52.780" ttm:agent="v1" itunes:key="role" itunes:value="background">Ooh, whoa, whoa (hey)</p>
+      <p begin="00:52.780" end="00:55.470" ttm:agent="v1">Ma-ma-ma-mamba</p>
+      <p begin="00:55.470" end="00:57.050" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, eh-oh, eh-oh (hey)</p>
+      <p begin="00:57.050" end="00:59.390" ttm:agent="v1">넌 광야를 떠돌고 있어</p>
+      <p begin="00:59.390" end="01:01.930" ttm:agent="v1" itunes:key="role" itunes:value="background">아야야야야야야 (hey)</p>
+      <p begin="01:01.930" end="01:04.570" ttm:agent="v1">나의 분신을 찾고 싶어</p>
+      <p begin="01:04.570" end="01:06.460" ttm:agent="v1" itunes:key="role" itunes:value="background">아야야야야야야 (hey)</p>
+      <p begin="01:06.460" end="01:07.960" ttm:agent="v1">Hey, ma-mamba</p>
+      <p begin="01:07.550" end="01:09.730" ttm:agent="v1">I hate ma-ma-ma-ma-ma-ma-ma-ma-mamba</p>
+      <p begin="01:09.730" end="01:12.450" ttm:agent="v1">Hate ma-ma-ma-ma-ma-ma-ma-ma-mamba</p>
+      <p begin="01:12.450" end="01:15.040" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm ejected, 선함 만으론 (whoo)</p>
+      <p begin="01:15.040" end="01:17.500" ttm:agent="v1">너의 거대함을 이기지 못해</p>
+      <p begin="01:17.500" end="01:20.560" ttm:agent="v1">I'm exhausted, 너의 존잰 모든</p>
+      <p begin="01:20.560" end="01:23.370" ttm:agent="v1" itunes:key="role" itunes:value="background">탐욕들을 먹고 자라 났지 (whoo)</p>
+      <p begin="01:23.370" end="01:28.210" ttm:agent="v1">에스파는 나야 둘이 될 수 없어</p>
+      <p begin="01:28.210" end="01:33.780" ttm:agent="v1">Monochrome to colors, 이건 evo-evolution</p>
+      <p begin="01:33.780" end="01:37.950" ttm:agent="v1">Oh, 위험한 장난을 쳐</p>
+      <p begin="01:37.950" end="01:40.410" ttm:agent="v1">매혹적이지만 널</p>
+      <p begin="01:40.410" end="01:42.030" ttm:agent="v1">부정할 밖에</p>
+      <p begin="01:42.030" end="01:45.910" ttm:agent="v1">모든 걸 삼켜버릴, Black Mamba</p>
+      <p begin="01:45.910" end="01:48.970" ttm:agent="v1">Ma-ma-ma-mamba</p>
+      <p begin="01:48.970" end="01:51.590" ttm:agent="v1" itunes:key="role" itunes:value="background">Ooh, whoa, whoa (hey)</p>
+      <p begin="01:51.590" end="01:54.390" ttm:agent="v1">Ma-ma-ma-mamba</p>
+      <p begin="01:54.390" end="01:55.890" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, eh-oh, eh-oh (hey)</p>
+      <p begin="01:55.790" end="01:58.020" ttm:agent="v1">넌 광야를 떠돌고 있어</p>
+      <p begin="01:58.020" end="02:00.730" ttm:agent="v1" itunes:key="role" itunes:value="background">아야야야야야야 (hey)</p>
+      <p begin="02:00.730" end="02:03.480" ttm:agent="v1">네게 맞서 난 질 수 없어</p>
+      <p begin="02:03.480" end="02:05.250" ttm:agent="v1">아야야야야야야</p>
+      <p begin="02:05.250" end="02:06.750" ttm:agent="v1">Hey, ma-mamba</p>
+      <p begin="02:06.640" end="02:11.800" ttm:agent="v1" itunes:key="role" itunes:value="background">거울 속의 나는 네가 아닐까? (Hey)</p>
+      <p begin="02:11.800" end="02:17.090" ttm:agent="v1">일그러져버린 환영인 걸까?</p>
+      <p begin="02:17.090" end="02:22.520" ttm:agent="v1" itunes:key="role" itunes:value="background">다시 너와 연결될 수 있다면 (hey)</p>
+      <p begin="02:22.520" end="02:27.380" ttm:agent="v1">너를 만나고 싶어 이제</p>
+      <p begin="02:27.380" end="02:31.350" ttm:agent="v1">모든 걸 삼켜버릴, Black Mamba</p>
+      <p begin="02:31.350" end="02:34.220" ttm:agent="v1">Ma-ma-ma-mamba</p>
+      <p begin="02:34.220" end="02:36.910" ttm:agent="v1" itunes:key="role" itunes:value="background">Ooh, whoa, whoa (hey)</p>
+      <p begin="02:36.910" end="02:39.520" ttm:agent="v1">Ma-ma-ma-mamba</p>
+      <p begin="02:39.520" end="02:41.200" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, eh-oh, eh-oh (hey)</p>
+      <p begin="02:41.200" end="02:43.470" ttm:agent="v1">넌 광야를 떠돌고 있어</p>
+      <p begin="02:43.470" end="02:45.950" ttm:agent="v1" itunes:key="role" itunes:value="background">아야야야야야야 (hey)</p>
+      <p begin="02:45.950" end="02:48.840" ttm:agent="v1">네게 맞서 난 질 수 없어</p>
+      <p begin="02:48.840" end="02:50.340" ttm:agent="v1">아야야야야야야</p>
+      <p begin="02:50.210" end="02:51.710" ttm:agent="v1">Hey, ma-mamba</p>
+      <p begin="02:50.610" end="02:54.610" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

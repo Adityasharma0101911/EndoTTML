@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Down With Me</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Lil Tecca</ttm:agent>
+      <ttm:item type="album">Down With Me</ttm:item>
+      <ttm:item type="spotify_id">5ZDIwpR2JMwuRM8xumtmxn</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:01.266" end="00:02.766" ttm:agent="v1">Intro</p>
+      <p begin="00:02.149" end="00:04.052" ttm:agent="v1">Yeah, oh yeah</p>
+      <p begin="00:04.052" end="00:06.198" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah(Blatt), oh yeah, oh yeah</p>
+      <p begin="00:06.198" end="00:09.258" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah(Alright), oh yeah, yeah;(Alright)</p>
+      <p begin="00:09.258" end="00:13.365" ttm:agent="v1">Uh-uh, yeah, uh-uh, yeah</p>
+      <p begin="00:13.365" end="00:15.519" ttm:agent="v1">Oh yeah, oh yeah, yeah</p>
+      <p begin="00:15.519" end="00:17.385" ttm:agent="v1" itunes:key="role" itunes:value="background">Okay, alright, yeah;(Yeah)</p>
+      <p begin="00:17.385" end="00:18.885" ttm:agent="v1">Chorus</p>
+      <p begin="00:17.892" end="00:22.390" ttm:agent="v1" itunes:key="role" itunes:value="background">Show me somethin' I ain't never seen, won't be easy for me, yeah-yeah(Blatt)</p>
+      <p begin="00:22.390" end="00:26.645" ttm:agent="v1">All the time that I could hear 'em speak, that shit been hard to believe, yeah-yeah</p>
+      <p begin="00:26.645" end="00:30.765" ttm:agent="v1">Tables turned but you gon' **** around and wish you still had your seat, yeah-yeah</p>
+      <p begin="00:30.765" end="00:34.675" ttm:agent="v1">She said, &quot;Tecca, boy, you think you the shit,&quot; but who ****in' with mе? Woah, woah</p>
+      <p begin="00:34.675" end="00:36.175" ttm:agent="v1">Post-Chorus</p>
+      <p begin="00:34.956" end="00:37.538" ttm:agent="v1">Down with me, won't see them 'round if they not with mе</p>
+      <p begin="00:37.538" end="00:39.935" ttm:agent="v1">She like, &quot;I needed you,&quot; I think God sent me</p>
+      <p begin="00:39.935" end="00:41.911" ttm:agent="v1">Gave me your heart, I said, &quot;Don't tempt me&quot;</p>
+      <p begin="00:41.911" end="00:44.135" ttm:agent="v1">She said, &quot;Don't break my heart,&quot; I said, &quot;Don't let me&quot;</p>
+      <p begin="00:44.135" end="00:46.252" ttm:agent="v1">I don't even try, no, they won't get me</p>
+      <p begin="00:46.252" end="00:48.142" ttm:agent="v1">Get these racks, see, I been on the road steady</p>
+      <p begin="00:48.142" end="00:50.473" ttm:agent="v1">Nowadays, I don't need nobody</p>
+      <p begin="00:50.473" end="00:52.140" ttm:agent="v1">It's easy, I don't even know many</p>
+      <p begin="00:52.140" end="00:53.640" ttm:agent="v1">Verse</p>
+      <p begin="00:53.072" end="00:54.869" ttm:agent="v1" itunes:key="role" itunes:value="background">Don't even get me time, **** it;(Don't even get)</p>
+      <p begin="00:54.869" end="00:56.592" ttm:agent="v1" itunes:key="role" itunes:value="background">I get this bread in my meantime;(Yeah)</p>
+      <p begin="00:56.592" end="00:58.558" ttm:agent="v1" itunes:key="role" itunes:value="background">Makin' plays, we don't even get we time;(Yeah)</p>
+      <p begin="00:58.558" end="01:00.838" ttm:agent="v1">Where the blunt? Bitch, I always get tree time</p>
+      <p begin="01:00.838" end="01:03.148" ttm:agent="v1">Everyday we don't gotta agree, now I'm better</p>
+      <p begin="01:03.148" end="01:05.167" ttm:agent="v1">**** it, I fly you to meet the sky later</p>
+      <p begin="01:05.167" end="01:07.327" ttm:agent="v1">Don't know who you wanna be when I met her</p>
+      <p begin="01:07.327" end="01:08.827" ttm:agent="v1">Told me your nigga wan' be my level</p>
+      <p begin="01:08.028" end="01:09.528" ttm:agent="v1">Chorus</p>
+      <p begin="01:08.373" end="01:12.471" ttm:agent="v1" itunes:key="role" itunes:value="background">Show me somethin' I ain't never seen, won't be easy for me, yeah-yeah(Blatt)</p>
+      <p begin="01:12.471" end="01:16.619" ttm:agent="v1" itunes:key="role" itunes:value="background">All the time that I could hear 'em speak, that shit been hard to believe, yeah-yeah(Woah)</p>
+      <p begin="01:16.619" end="01:20.667" ttm:agent="v1">Tables turned but you gon' **** around and wish you still had your seat, yeah-yeah</p>
+      <p begin="01:20.667" end="01:24.652" ttm:agent="v1">She said, &quot;Tecca, boy, you think you the shit,&quot; but who ****in' with me? Woah, woah</p>
+      <p begin="01:24.652" end="01:26.152" ttm:agent="v1">Post-Chorus</p>
+      <p begin="01:24.998" end="01:27.757" ttm:agent="v1">Down with me, won't see them 'round if they not with me</p>
+      <p begin="01:27.757" end="01:29.920" ttm:agent="v1">She like, &quot;I needed you,&quot; I think God sent me</p>
+      <p begin="01:29.920" end="01:31.804" ttm:agent="v1">Gave me your heart, I said, &quot;Don't tempt me&quot;</p>
+      <p begin="01:31.804" end="01:34.161" ttm:agent="v1">She said, &quot;Don't break my heart,&quot; I said, &quot;Don't let me&quot;</p>
+      <p begin="01:34.161" end="01:36.126" ttm:agent="v1">I don't even try, no, they won't get me</p>
+      <p begin="01:36.126" end="01:38.301" ttm:agent="v1">Get these racks, see, I been on the road steady</p>
+      <p begin="01:38.301" end="01:40.541" ttm:agent="v1">Nowadays, I don't need nobody</p>
+      <p begin="01:40.541" end="01:44.541" ttm:agent="v1">It's easy, I don't even know many</p>
+    </div>
+  </body>
+</tt>

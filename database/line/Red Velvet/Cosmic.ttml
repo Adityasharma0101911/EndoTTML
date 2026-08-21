@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Cosmic</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Red Velvet</ttm:agent>
+      <ttm:item type="album">Cosmic</ttm:item>
+      <ttm:item type="spotify_id">2H7euNHOF7uADN6dfsWoZa</ttm:item>
+      <itunes:duration>03:45.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:08.070" end="00:12.220" ttm:agent="v1" itunes:key="role" itunes:value="background">외딴 별 그 funny story (it's electric)</p>
+      <p begin="00:12.220" end="00:18.530" ttm:agent="v1">그 소란스런 landing, 너를 만난 별난 사건</p>
+      <p begin="00:18.530" end="00:22.830" ttm:agent="v1">첫 번째 별은 차가워, 몇 번째 은하를 건너</p>
+      <p begin="00:22.830" end="00:25.810" ttm:agent="v1">멋대로 불시착한</p>
+      <p begin="00:25.810" end="00:29.490" ttm:agent="v1">그대란 낯선 이방인을 버려둘까?</p>
+      <p begin="00:29.490" end="00:31.620" ttm:agent="v1">솔직히 너무 신경 쓰여</p>
+      <p begin="00:31.620" end="00:33.940" ttm:agent="v1">재미 삼아 놀려줄까?</p>
+      <p begin="00:33.940" end="00:35.480" ttm:agent="v1">Hey, what did you do</p>
+      <p begin="00:35.480" end="00:40.260" ttm:agent="v1" itunes:key="role" itunes:value="background">To my mind? 네가 궁금해져 (네가 궁금해져)</p>
+      <p begin="00:40.260" end="00:45.830" ttm:agent="v1" itunes:key="role" itunes:value="background">밤새 질문할 수도 있어, mmm (when the stars align)</p>
+      <p begin="00:45.830" end="00:50.620" ttm:agent="v1">오늘 밤이 맑다면 내일 떠나겠단 너</p>
+      <p begin="00:50.620" end="00:53.290" ttm:agent="v1">I got a plan, just you and I</p>
+      <p begin="00:53.290" end="01:01.290" ttm:agent="v1">조금 더 머무르면 어때? 나의 별이 조금 외롭대</p>
+      <p begin="01:01.800" end="01:07.510" ttm:agent="v1">아껴둔 노래를 들려줄게, love is cosmic</p>
+      <p begin="01:07.510" end="01:14.340" ttm:agent="v1">I'm riding on your rhythm through the solar system, come with me</p>
+      <p begin="01:14.340" end="01:21.660" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ayy, yeah) 우린 이 밤을 건너 둘이 cosmic love, oh-oh-oh</p>
+      <p begin="01:21.660" end="01:25.760" ttm:agent="v1">Riding your rhythm through the solar system</p>
+      <p begin="01:25.760" end="01:33.760" ttm:agent="v1">널 더 알고 싶어, cosmic love, oh-oh-oh</p>
+      <p begin="01:33.990" end="01:37.520" ttm:agent="v1">이런 감정 처음이라</p>
+      <p begin="01:37.520" end="01:44.690" ttm:agent="v1" itunes:key="role" itunes:value="background">곰곰이 생각해 봐도 물음표야, 낯선 이 소동도 (ah)</p>
+      <p begin="01:44.690" end="01:48.980" ttm:agent="v1">너에게도 내가 낯설지, 외계인 보듯 보던 걸</p>
+      <p begin="01:48.980" end="01:51.770" ttm:agent="v1">상처받을 수도 있어</p>
+      <p begin="01:51.770" end="01:57.240" ttm:agent="v1" itunes:key="role" itunes:value="background">내 별의 시간은 천천히 흘러가 (천천히 흘러가)</p>
+      <p begin="01:57.240" end="02:02.730" ttm:agent="v1" itunes:key="role" itunes:value="background">넌 서두르지 않아도 돼, yeah (when the stars align)</p>
+      <p begin="02:02.730" end="02:07.750" ttm:agent="v1">어쩜 우린 주인 없는 꿈을 찾는 여행자</p>
+      <p begin="02:07.750" end="02:10.380" ttm:agent="v1">헤매이던 작은 유성</p>
+      <p begin="02:10.380" end="02:18.380" ttm:agent="v1">조금 더 머무르면 어때? 나의 별이 조금 외롭대</p>
+      <p begin="02:18.650" end="02:24.590" ttm:agent="v1">아껴둔 노래를 들려줄게, love is cosmic</p>
+      <p begin="02:24.590" end="02:31.180" ttm:agent="v1">I'm riding on your rhythm through the solar system, come with me</p>
+      <p begin="02:31.180" end="02:39.180" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ayy, yeah) 우린 이 밤을 건너 둘이 cosmic love, oh-oh-oh</p>
+      <p begin="02:39.340" end="02:47.340" ttm:agent="v1">너는 성큼 다가와 그을린 손 내밀며, oh-oh-oh</p>
+      <p begin="02:47.760" end="02:54.100" ttm:agent="v1">함께 떠나자 해, 보지 못한 것들 찾자 해</p>
+      <p begin="02:54.100" end="03:02.100" ttm:agent="v1">I just can't say, &quot;Good night&quot;, oh, whoa-oh, oh-oh</p>
+      <p begin="03:04.080" end="03:09.790" ttm:agent="v1">I can never say, &quot;Good night&quot;, 'cause your love is cosmic</p>
+      <p begin="03:09.790" end="03:16.320" ttm:agent="v1">I'm riding on your rhythm through the solar system, come with me</p>
+      <p begin="03:16.320" end="03:23.970" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ayy, yeah) 우린 이 밤을 건너 둘이 cosmic love, oh-oh-oh (whoa-oh)</p>
+      <p begin="03:23.970" end="03:28.100" ttm:agent="v1" itunes:key="role" itunes:value="background">오늘 밤 떠나, 숨겨진 별 찾아 (oh-oh-oh-oh)</p>
+      <p begin="03:28.100" end="03:32.950" ttm:agent="v1">이름 붙일 거야, cosmic love, whoa, whoa-oh</p>
+      <p begin="03:32.950" end="03:36.950" ttm:agent="v1" itunes:key="role" itunes:value="background">Riding your rhythm (이 밤을 타고) through the solar system</p>
+      <p begin="03:36.950" end="03:43.160" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh-oh-oh) 널 더 알고 싶어, cosmic love, oh, yeah</p>
+      <p begin="03:43.160" end="03:47.160" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

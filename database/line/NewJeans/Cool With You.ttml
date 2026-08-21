@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Cool With You</ttm:title>
+      <ttm:agent type="person" xml:id="v1">NewJeans</ttm:agent>
+      <ttm:item type="album">NewJeans 2nd EP 'Get Up'</ttm:item>
+      <ttm:item type="spotify_id">02wk5BttM0QL38ERjLPQJB</ttm:item>
+      <itunes:duration>02:28.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:15.970" end="00:19.530" ttm:agent="v1">You know me like no other</p>
+      <p begin="00:19.530" end="00:23.180" ttm:agent="v1">다 표현하지 않아도</p>
+      <p begin="00:23.180" end="00:26.410" ttm:agent="v1" itunes:key="role" itunes:value="background">See me like no other (Mm)</p>
+      <p begin="00:26.410" end="00:30.340" ttm:agent="v1">And I think I like your point of view</p>
+      <p begin="00:30.340" end="00:33.630" ttm:agent="v1">다시 돌아와도 돼</p>
+      <p begin="00:33.630" end="00:37.610" ttm:agent="v1">I don't care what other people say</p>
+      <p begin="00:37.610" end="00:40.860" ttm:agent="v1">놓지 말아봐 줘</p>
+      <p begin="00:40.860" end="00:43.060" ttm:agent="v1">Dreaming of each other</p>
+      <p begin="00:43.060" end="00:46.350" ttm:agent="v1" itunes:key="role" itunes:value="background">You may be on my mind (Mind)</p>
+      <p begin="00:46.350" end="00:49.710" ttm:agent="v1" itunes:key="role" itunes:value="background">Everyday baby, say you're mine (Mine)</p>
+      <p begin="00:49.710" end="00:53.670" ttm:agent="v1" itunes:key="role" itunes:value="background">You and me on my mind (Mind)</p>
+      <p begin="00:53.670" end="00:56.320" ttm:agent="v1" itunes:key="role" itunes:value="background">Everywhere, baby, say you're mine (Mine)</p>
+      <p begin="00:56.320" end="00:57.820" ttm:agent="v1" itunes:key="role" itunes:value="background">(It feels)</p>
+      <p begin="00:57.190" end="01:00.530" ttm:agent="v1" itunes:key="role" itunes:value="background">Cool with you (너랑)</p>
+      <p begin="01:00.530" end="01:04.120" ttm:agent="v1" itunes:key="role" itunes:value="background">Cool with you (Gotta tell me now)</p>
+      <p begin="01:04.120" end="01:07.470" ttm:agent="v1" itunes:key="role" itunes:value="background">Cool with you (It just)</p>
+      <p begin="01:07.470" end="01:11.090" ttm:agent="v1" itunes:key="role" itunes:value="background">Cool with you (Haha)</p>
+      <p begin="01:11.090" end="01:12.700" ttm:agent="v1">이쯤에서 정말로</p>
+      <p begin="01:12.700" end="01:15.220" ttm:agent="v1">너는 어떤 결말로 가려 해</p>
+      <p begin="01:15.220" end="01:16.720" ttm:agent="v1">What's the best</p>
+      <p begin="01:16.320" end="01:18.030" ttm:agent="v1">너의 옆에 내가 있을 때</p>
+      <p begin="01:18.030" end="01:19.900" ttm:agent="v1">이런 말이 잘 안 나와</p>
+      <p begin="01:19.900" end="01:21.590" ttm:agent="v1">이제 더 말하지 않아도 알아</p>
+      <p begin="01:21.590" end="01:23.360" ttm:agent="v1">우리 둘이 만든 거리</p>
+      <p begin="01:23.360" end="01:25.560" ttm:agent="v1">건너서 여기</p>
+      <p begin="01:25.560" end="01:29.040" ttm:agent="v1" itunes:key="role" itunes:value="background">You may be on my mind (Mind)</p>
+      <p begin="01:29.040" end="01:32.610" ttm:agent="v1" itunes:key="role" itunes:value="background">Everyday baby, say you're mine (Mine)</p>
+      <p begin="01:32.610" end="01:36.270" ttm:agent="v1">You and me on my mind</p>
+      <p begin="01:36.270" end="01:39.110" ttm:agent="v1">Everywhere, baby, say you're mine</p>
+      <p begin="01:39.110" end="01:40.610" ttm:agent="v1" itunes:key="role" itunes:value="background">(It feels)</p>
+      <p begin="01:39.720" end="01:43.340" ttm:agent="v1" itunes:key="role" itunes:value="background">Cool with you (너랑)</p>
+      <p begin="01:43.340" end="01:46.940" ttm:agent="v1" itunes:key="role" itunes:value="background">Cool with you (Gotta tell me now)</p>
+      <p begin="01:46.940" end="01:50.510" ttm:agent="v1" itunes:key="role" itunes:value="background">Cool with you (It just)</p>
+      <p begin="01:50.510" end="01:53.850" ttm:agent="v1" itunes:key="role" itunes:value="background">Cool with you (Haha)</p>
+      <p begin="01:53.850" end="01:57.480" ttm:agent="v1" itunes:key="role" itunes:value="background">Cool with you (You know me like no other) (너랑)</p>
+      <p begin="01:57.480" end="02:01.030" ttm:agent="v1" itunes:key="role" itunes:value="background">Cool with you (Gotta tell me now)</p>
+      <p begin="02:01.030" end="02:04.760" ttm:agent="v1" itunes:key="role" itunes:value="background">Cool with you (See me like no other) (It just)</p>
+      <p begin="02:04.760" end="02:08.250" ttm:agent="v1" itunes:key="role" itunes:value="background">Cool with you (Haha)</p>
+      <p begin="02:08.250" end="02:12.250" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

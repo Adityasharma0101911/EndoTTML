@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Sienna</ttm:title>
+      <ttm:agent type="person" xml:id="v1">The Marías</ttm:agent>
+      <ttm:item type="album">Submarine</ttm:item>
+      <ttm:item type="spotify_id">0InIeZW4P6VO7dUGRM4AKH</ttm:item>
+      <itunes:duration>03:44.840</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:01.020" end="00:07.670" ttm:agent="v1">Please tell me not to go</p>
+      <p begin="00:07.670" end="00:14.180" ttm:agent="v1">We've been here long before</p>
+      <p begin="00:14.180" end="00:20.950" ttm:agent="v1">I live under your eyelids</p>
+      <p begin="00:20.950" end="00:27.070" ttm:agent="v1">I'll always be yours</p>
+      <p begin="00:27.070" end="00:30.100" ttm:agent="v1">I'll lay on your rooftop</p>
+      <p begin="00:30.100" end="00:33.370" ttm:agent="v1">In the freezing cold</p>
+      <p begin="00:33.370" end="00:36.740" ttm:agent="v1">And I'll watch the sunset</p>
+      <p begin="00:36.740" end="00:39.610" ttm:agent="v1">Wearing all your clothes</p>
+      <p begin="00:39.610" end="00:43.270" ttm:agent="v1">I can feel you with me</p>
+      <p begin="00:43.270" end="00:46.450" ttm:agent="v1">Like I did before</p>
+      <p begin="00:46.450" end="00:49.830" ttm:agent="v1">Like when I sang you a love song</p>
+      <p begin="00:49.830" end="00:52.410" ttm:agent="v1">By Norah Jones</p>
+      <p begin="00:52.410" end="00:57.750" ttm:agent="v1">Sienna</p>
+      <p begin="00:57.750" end="01:04.520" ttm:agent="v1">Would've been cute</p>
+      <p begin="01:04.520" end="01:12.480" ttm:agent="v1">Sienna</p>
+      <p begin="01:12.480" end="01:18.920" ttm:agent="v1">Would look just like you</p>
+      <p begin="01:18.920" end="01:26.670" ttm:agent="v1">I came clean</p>
+      <p begin="01:26.670" end="01:32.180" ttm:agent="v1">And it feels so good</p>
+      <p begin="01:32.180" end="01:38.790" ttm:agent="v1">But i feel seen</p>
+      <p begin="01:38.790" end="01:46.670" ttm:agent="v1">Only through you</p>
+      <p begin="01:46.670" end="01:49.210" ttm:agent="v1">I'll wait here tomorrow</p>
+      <p begin="01:49.210" end="01:52.930" ttm:agent="v1">Outside your door</p>
+      <p begin="01:52.930" end="01:55.710" ttm:agent="v1">Like i did in december</p>
+      <p begin="01:55.710" end="01:59.420" ttm:agent="v1">When you held me close</p>
+      <p begin="01:59.420" end="02:02.380" ttm:agent="v1">Coming up on your corner</p>
+      <p begin="02:02.380" end="02:05.500" ttm:agent="v1">Pulling out my hair</p>
+      <p begin="02:05.500" end="02:08.950" ttm:agent="v1">Hear the creak in the floorboards</p>
+      <p begin="02:08.950" end="02:11.250" ttm:agent="v1">Going up the stairs</p>
+      <p begin="02:11.250" end="02:19.150" ttm:agent="v1">Sienna</p>
+      <p begin="02:19.150" end="02:24.150" ttm:agent="v1">Would've been cute</p>
+      <p begin="02:24.150" end="02:32.080" ttm:agent="v1">Sienna</p>
+      <p begin="02:32.080" end="02:37.020" ttm:agent="v1">Would look just like you</p>
+      <p begin="02:37.020" end="02:39.820" ttm:agent="v1">With a temper like you</p>
+      <p begin="02:39.820" end="02:43.030" ttm:agent="v1">Run around like you</p>
+      <p begin="02:43.030" end="02:46.190" ttm:agent="v1">Jumping in the pool</p>
+      <p begin="02:46.190" end="02:50.130" ttm:agent="v1">Like you</p>
+      <p begin="02:50.130" end="02:52.400" ttm:agent="v1">Sing to all her pets</p>
+      <p begin="02:52.400" end="02:56.120" ttm:agent="v1">In the way I did</p>
+      <p begin="02:56.120" end="02:59.030" ttm:agent="v1">Be sensitive</p>
+      <p begin="02:59.030" end="03:05.080" ttm:agent="v1">Like you</p>
+      <p begin="03:05.080" end="03:07.480" ttm:agent="v1">And I smile when i think of</p>
+      <p begin="03:07.480" end="03:10.550" ttm:agent="v1">All the times we had</p>
+      <p begin="03:10.550" end="03:13.790" ttm:agent="v1">On the beach in the winter</p>
+      <p begin="03:13.790" end="03:17.130" ttm:agent="v1">When the waves were mad</p>
+      <p begin="03:17.130" end="03:20.570" ttm:agent="v1">Down by the water</p>
+      <p begin="03:20.570" end="03:24.760" ttm:agent="v1">Crystal clear</p>
+      <p begin="03:24.760" end="03:26.560" ttm:agent="v1">See her face in the forest</p>
+      <p begin="03:26.560" end="03:28.930" ttm:agent="v1">Then it disappears</p>
+      <p begin="03:28.930" end="03:32.930" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

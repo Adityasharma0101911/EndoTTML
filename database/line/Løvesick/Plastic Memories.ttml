@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Plastic Memories</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Løvesick</ttm:agent>
+      <ttm:item type="album">Plastic Memories</ttm:item>
+      <ttm:item type="spotify_id">3i7IEzzPd5T89RZ9hubXSZ</ttm:item>
+      <itunes:duration>02:21.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:11.800" end="00:15.120" ttm:agent="v1">I can't stop this without you</p>
+      <p begin="00:15.120" end="00:17.250" ttm:agent="v1" itunes:key="role" itunes:value="background">(You know that)</p>
+      <p begin="00:17.250" end="00:23.080" ttm:agent="v1">I wake up now without you here</p>
+      <p begin="00:23.080" end="00:28.660" ttm:agent="v1">I'll never get another chance to love someone again like you</p>
+      <p begin="00:28.660" end="00:33.640" ttm:agent="v1">Now I gotta get you out of my head before I lose myself now too</p>
+      <p begin="00:33.640" end="00:35.730" ttm:agent="v1">Why</p>
+      <p begin="00:35.730" end="00:38.480" ttm:agent="v1">Why can't we just run away together</p>
+      <p begin="00:38.480" end="00:41.350" ttm:agent="v1">Although I prolly know it's for the better</p>
+      <p begin="00:41.350" end="00:44.250" ttm:agent="v1">I, I just can't live without you</p>
+      <p begin="00:44.250" end="00:46.880" ttm:agent="v1">I'll try</p>
+      <p begin="00:46.880" end="00:49.520" ttm:agent="v1">To memorize the things we did together</p>
+      <p begin="00:49.520" end="00:52.110" ttm:agent="v1">Even though it only makes me sadder</p>
+      <p begin="00:52.110" end="00:55.620" ttm:agent="v1">I, I just don't know what to do</p>
+      <p begin="00:55.620" end="01:01.440" ttm:agent="v1">So alone yet I tell myself, that I'll never get over our love</p>
+      <p begin="01:01.440" end="01:04.370" ttm:agent="v1">And even though I've only known you for so long</p>
+      <p begin="01:04.370" end="01:06.730" ttm:agent="v1">You were the only one I could've thought of</p>
+      <p begin="01:06.730" end="01:12.530" ttm:agent="v1">But I can't save us, our memories will ever last</p>
+      <p begin="01:12.530" end="01:16.230" ttm:agent="v1">I'll remember this forever and ever</p>
+      <p begin="01:16.230" end="01:18.810" ttm:agent="v1">Sad we couldn't last</p>
+      <p begin="01:18.810" end="01:20.780" ttm:agent="v1">Can't get you out of my head</p>
+      <p begin="01:20.780" end="01:23.830" ttm:agent="v1">The flashing images of you</p>
+      <p begin="01:23.830" end="01:26.240" ttm:agent="v1">They be spinning around like a carousel</p>
+      <p begin="01:26.240" end="01:28.640" ttm:agent="v1">Just like the way how I don't know what to do</p>
+      <p begin="01:28.640" end="01:33.980" ttm:agent="v1">Your cherry scent, in my bedsheets</p>
+      <p begin="01:33.980" end="01:36.850" ttm:agent="v1">Makes me descent oh</p>
+      <p begin="01:36.850" end="01:39.790" ttm:agent="v1">And our promise ring stuck on my finger</p>
+      <p begin="01:39.790" end="01:44.950" ttm:agent="v1">Hold both my hands, you're all I would seek</p>
+      <p begin="01:44.950" end="01:47.900" ttm:agent="v1">Put me in trance oh</p>
+      <p begin="01:47.900" end="01:51.080" ttm:agent="v1">Make the memories in my head linger</p>
+      <p begin="01:51.080" end="01:56.680" ttm:agent="v1">So alone yet I tell myself, that I'll never get over our love</p>
+      <p begin="01:56.680" end="01:59.280" ttm:agent="v1">And even though I've only known you for so long</p>
+      <p begin="01:59.280" end="02:01.600" ttm:agent="v1">You were the only one I could've thought of</p>
+      <p begin="02:01.600" end="02:08.030" ttm:agent="v1">But I can't save us, our memories will ever last</p>
+      <p begin="02:08.030" end="02:11.670" ttm:agent="v1">I'll remember this forever and ever</p>
+      <p begin="02:11.670" end="02:13.560" ttm:agent="v1">Sad we couldn't last</p>
+      <p begin="02:13.560" end="02:17.560" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

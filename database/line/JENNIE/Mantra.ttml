@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Mantra</ttm:title>
+      <ttm:agent type="person" xml:id="v1">JENNIE</ttm:agent>
+      <ttm:item type="album">Ruby</ttm:item>
+      <ttm:item type="spotify_id">1kUyOJb3fzUo8r0OCz5SQk</ttm:item>
+      <itunes:duration>02:17.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.240" end="00:02.060" ttm:agent="v1">Pretty, pretty, pretty, pretty</p>
+      <p begin="00:02.060" end="00:04.750" ttm:agent="v1">This that pretty girl mantra, this that flaunt ya</p>
+      <p begin="00:04.750" end="00:06.250" ttm:agent="v1">Just touched down in LA</p>
+      <p begin="00:06.240" end="00:08.600" ttm:agent="v1">Pretty girls don't do drama 'less we wanna</p>
+      <p begin="00:08.600" end="00:10.360" ttm:agent="v1">It'll be depending on the day</p>
+      <p begin="00:10.360" end="00:12.810" ttm:agent="v1">Pretty girls packed in a defender, know I'ma defend her</p>
+      <p begin="00:12.810" end="00:14.470" ttm:agent="v1">Never let her catch no stray</p>
+      <p begin="00:14.470" end="00:17.030" ttm:agent="v1">This that pretty girl mantra, she's that stunna</p>
+      <p begin="00:17.030" end="00:18.680" ttm:agent="v1">Make you wanna swing both ways</p>
+      <p begin="00:18.680" end="00:20.180" ttm:agent="v1" itunes:key="role" itunes:value="background">Mix me with the drama (drama)</p>
+      <p begin="00:20.010" end="00:22.440" ttm:agent="v1" itunes:key="role" itunes:value="background">Check you like commas (ah-ah, ah-ah)</p>
+      <p begin="00:22.440" end="00:24.020" ttm:agent="v1" itunes:key="role" itunes:value="background">My clothes are pajamas (pajamas)</p>
+      <p begin="00:24.020" end="00:26.710" ttm:agent="v1" itunes:key="role" itunes:value="background">Straight from the cold plunge (ah-ah, ah-ah)</p>
+      <p begin="00:26.710" end="00:28.560" ttm:agent="v1">Daytime baddie use her mind</p>
+      <p begin="00:28.560" end="00:30.760" ttm:agent="v1" itunes:key="role" itunes:value="background">Quick switch of the fit for the night (night)</p>
+      <p begin="00:30.760" end="00:32.750" ttm:agent="v1">Swervin' through the lane, we'll be twenty minute late</p>
+      <p begin="00:32.750" end="00:34.310" ttm:agent="v1">'Cause we had to do an in and out drive by</p>
+      <p begin="00:34.310" end="00:36.370" ttm:agent="v1" itunes:key="role" itunes:value="background">It's not that deep (deep), I'm not that drunk (drunk)</p>
+      <p begin="00:36.370" end="00:38.520" ttm:agent="v1">Sometimes girls just gotta have fun</p>
+      <p begin="00:38.520" end="00:40.590" ttm:agent="v1">Throw it back, all that bass</p>
+      <p begin="00:40.590" end="00:42.530" ttm:agent="v1">Me and my sis, way too attached</p>
+      <p begin="00:42.530" end="00:44.720" ttm:agent="v1" itunes:key="role" itunes:value="background">It's not that deep (deep), we're not that dumb (dumb)</p>
+      <p begin="00:44.720" end="00:46.670" ttm:agent="v1">Look at them bonnies on the run</p>
+      <p begin="00:46.670" end="00:49.590" ttm:agent="v1" itunes:key="role" itunes:value="background">Inside glowin' like the sun (sun)</p>
+      <p begin="00:49.590" end="00:51.300" ttm:agent="v1" itunes:key="role" itunes:value="background">You're gonna feel this every day (day)</p>
+      <p begin="00:51.300" end="00:53.910" ttm:agent="v1">This that pretty girl mantra, this that flaunt ya</p>
+      <p begin="00:53.910" end="00:55.420" ttm:agent="v1">Just touched down in LA</p>
+      <p begin="00:55.420" end="00:58.020" ttm:agent="v1">Pretty girls don't do drama 'less we wanna</p>
+      <p begin="00:58.020" end="00:59.600" ttm:agent="v1">It'll be depending on the day</p>
+      <p begin="00:59.600" end="01:02.090" ttm:agent="v1">Pretty girls packed in a defender, know I'ma defend her</p>
+      <p begin="01:02.090" end="01:03.860" ttm:agent="v1">Never let her catch no stray</p>
+      <p begin="01:03.860" end="01:06.260" ttm:agent="v1">This that pretty girl mantra, she's that stunna</p>
+      <p begin="01:06.260" end="01:07.840" ttm:agent="v1">Make you wanna swing both ways</p>
+      <p begin="01:07.840" end="01:09.910" ttm:agent="v1" itunes:key="role" itunes:value="background">Love what it feel like (feel like)</p>
+      <p begin="01:09.910" end="01:11.970" ttm:agent="v1">To be off of the grid like all night</p>
+      <p begin="01:11.970" end="01:14.210" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, with my baddie, like (baddie, like)</p>
+      <p begin="01:14.210" end="01:16.230" ttm:agent="v1">We ain't even tryna talk no one</p>
+      <p begin="01:16.230" end="01:18.340" ttm:agent="v1">Swerve off all the creeps, no weird vibes</p>
+      <p begin="01:18.340" end="01:20.350" ttm:agent="v1">We ain't never let it ruin a good time</p>
+      <p begin="01:20.350" end="01:22.110" ttm:agent="v1">Ain't nobody gon' dim our good light</p>
+      <p begin="01:22.110" end="01:24.150" ttm:agent="v1">This them words we're livin' by</p>
+      <p begin="01:24.150" end="01:26.780" ttm:agent="v1">This that pretty girl mantra, this that flaunt ya</p>
+      <p begin="01:26.780" end="01:28.280" ttm:agent="v1" itunes:key="role" itunes:value="background">Just touched down in LA (ah)</p>
+      <p begin="01:28.230" end="01:30.760" ttm:agent="v1">Pretty girls don't do drama 'less we wanna</p>
+      <p begin="01:30.760" end="01:32.350" ttm:agent="v1" itunes:key="role" itunes:value="background">It'll be depending on the day (ah, ah, ah)</p>
+      <p begin="01:32.350" end="01:34.890" ttm:agent="v1">Pretty girls packed in a defender, know I'ma defend her</p>
+      <p begin="01:34.890" end="01:36.420" ttm:agent="v1" itunes:key="role" itunes:value="background">Never let her catch no stray (ah, ah)</p>
+      <p begin="01:36.420" end="01:38.960" ttm:agent="v1">This that pretty girl mantra, she's that stunna</p>
+      <p begin="01:38.960" end="01:40.570" ttm:agent="v1" itunes:key="role" itunes:value="background">Make you wanna swing both ways (ah, ah, ah)</p>
+      <p begin="01:40.570" end="01:43.150" ttm:agent="v1">This that pretty-girl mantra, this that flaunt ya</p>
+      <p begin="01:43.150" end="01:44.860" ttm:agent="v1" itunes:key="role" itunes:value="background">Just touched down in LA (ah, ah)</p>
+      <p begin="01:44.860" end="01:47.100" ttm:agent="v1">Pretty girls don't do trauma, no new drama</p>
+      <p begin="01:47.100" end="01:48.770" ttm:agent="v1" itunes:key="role" itunes:value="background">We already got a full day (ah, ah)</p>
+      <p begin="01:48.770" end="01:51.230" ttm:agent="v1">Pretty girls that you gon' remember, know that you could never</p>
+      <p begin="01:51.230" end="01:52.900" ttm:agent="v1" itunes:key="role" itunes:value="background">Nothing ever trigger me (ah, ah)</p>
+      <p begin="01:52.900" end="01:55.470" ttm:agent="v1">This that pretty girl mantra, she's that stunna</p>
+      <p begin="01:55.470" end="01:58.150" ttm:agent="v1" itunes:key="role" itunes:value="background">Everyone knows she is me (ah)</p>
+      <p begin="01:58.150" end="02:02.240" ttm:agent="v1">Hm-hm, hahahaha</p>
+      <p begin="02:02.240" end="02:10.240" ttm:agent="v1"/>
+      <p begin="02:10.890" end="02:12.930" ttm:agent="v1"/>
+      <p begin="02:12.930" end="02:14.430" ttm:agent="v1">Pretty</p>
+      <p begin="02:13.300" end="02:17.300" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

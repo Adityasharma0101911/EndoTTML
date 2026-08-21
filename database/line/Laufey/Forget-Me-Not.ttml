@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Forget-Me-Not</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Laufey</ttm:agent>
+      <ttm:item type="album">A Matter of Time (Standard Edition)</ttm:item>
+      <ttm:item type="spotify_id">5Hb5xUOOjwRf4rATXPtPWZ</ttm:item>
+      <itunes:duration>04:06.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:35.760" end="00:39.900" ttm:agent="v1">Hold up your chin</p>
+      <p begin="00:39.900" end="00:43.180" ttm:agent="v1">Deep breath in</p>
+      <p begin="00:43.180" end="00:47.660" ttm:agent="v1">It's alright</p>
+      <p begin="00:47.660" end="00:54.580" ttm:agent="v1">Here I begin missing him</p>
+      <p begin="00:54.580" end="00:59.540" ttm:agent="v1">It's my plight</p>
+      <p begin="00:59.540" end="01:05.280" ttm:agent="v1">Nothing worth having</p>
+      <p begin="01:05.280" end="01:11.420" ttm:agent="v1">Has come to me easily</p>
+      <p begin="01:11.420" end="01:17.360" ttm:agent="v1">I've sacrificed you</p>
+      <p begin="01:17.360" end="01:24.060" ttm:agent="v1">All of you, completely</p>
+      <p begin="01:24.060" end="01:29.510" ttm:agent="v1">Love you forever, don't let go of me</p>
+      <p begin="01:29.510" end="01:35.350" ttm:agent="v1">I left my own homeland to chase reverie</p>
+      <p begin="01:35.350" end="01:41.950" ttm:agent="v1">Gleymdu mér aldrei þó ég héðan flýg</p>
+      <p begin="01:41.950" end="01:48.510" ttm:agent="v1">Gleymdu mér aldrei, elskan mín</p>
+      <p begin="01:48.510" end="01:56.510" ttm:agent="v1"/>
+      <p begin="02:12.630" end="02:16.680" ttm:agent="v1">I miss the wind</p>
+      <p begin="02:16.680" end="02:23.540" ttm:agent="v1">Stone-cold kiss on my cheeks</p>
+      <p begin="02:23.540" end="02:29.290" ttm:agent="v1">Bends in your body</p>
+      <p begin="02:29.290" end="02:35.720" ttm:agent="v1">The hope of your spring</p>
+      <p begin="02:35.720" end="02:43.720" ttm:agent="v1">Millions now hear my soliloquy</p>
+      <p begin="02:47.340" end="02:55.340" ttm:agent="v1">I'm still that child on a black sand beach</p>
+      <p begin="02:59.380" end="03:05.250" ttm:agent="v1">Love you forever, don't let go of me</p>
+      <p begin="03:05.250" end="03:11.430" ttm:agent="v1">I'll die if I wither in your memory</p>
+      <p begin="03:11.430" end="03:17.630" ttm:agent="v1">Gleymdu mér aldrei þó ég héðan flýg</p>
+      <p begin="03:17.630" end="03:21.700" ttm:agent="v1">Gleymdu mér aldrei, elskan mín</p>
+      <p begin="03:21.700" end="03:25.700" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

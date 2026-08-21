@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>yes, and?</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Ariana Grande</ttm:agent>
+      <ttm:item type="album">eternal sunshine</ttm:item>
+      <ttm:item type="spotify_id">5D34wRmbFS29AjtTOP2QJe</ttm:item>
+      <itunes:duration>03:35.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:48.090" end="00:52.080" ttm:agent="v1">In case you haven't noticed</p>
+      <p begin="00:52.080" end="00:56.120" ttm:agent="v1">Well, everybody's tired</p>
+      <p begin="00:56.120" end="01:00.020" ttm:agent="v1">And healin' from somebody</p>
+      <p begin="01:00.020" end="01:04.080" ttm:agent="v1">Or somethin' we don't see just right</p>
+      <p begin="01:04.080" end="01:07.980" ttm:agent="v1" itunes:key="role" itunes:value="background">Boy, come on, put your lipstick on (no one can tell you nothin')</p>
+      <p begin="01:07.980" end="01:11.900" ttm:agent="v1" itunes:key="role" itunes:value="background">Come on and walk this way through the fire (don't care what's on their mind)</p>
+      <p begin="01:11.900" end="01:16.400" ttm:agent="v1">And if you find yourself in a dark situation</p>
+      <p begin="01:16.400" end="01:20.960" ttm:agent="v1">Just turn on your light and be like</p>
+      <p begin="01:20.960" end="01:23.630" ttm:agent="v1">&quot;Yes, and?&quot;</p>
+      <p begin="01:23.630" end="01:27.760" ttm:agent="v1">Say that shit with your chest, and</p>
+      <p begin="01:27.760" end="01:31.920" ttm:agent="v1">Be your own fuckin' best friend</p>
+      <p begin="01:31.920" end="01:33.950" ttm:agent="v1">Say that shit with your chest</p>
+      <p begin="01:33.950" end="01:35.850" ttm:agent="v1">Keep movin' like, &quot;What's next?&quot;</p>
+      <p begin="01:35.850" end="01:37.350" ttm:agent="v1">&quot;Yes, and?&quot;</p>
+      <p begin="01:36.580" end="01:40.170" ttm:agent="v1">Now I'm so done with caring</p>
+      <p begin="01:40.170" end="01:44.260" ttm:agent="v1">What you think, no, I won't hide</p>
+      <p begin="01:44.260" end="01:48.570" ttm:agent="v1">Underneath your own projections</p>
+      <p begin="01:48.570" end="01:52.360" ttm:agent="v1">Or change my most authentic life</p>
+      <p begin="01:52.360" end="01:56.420" ttm:agent="v1" itunes:key="role" itunes:value="background">Boy, come on, put your lipstick on (no one can tell you nothin')</p>
+      <p begin="01:56.420" end="02:00.310" ttm:agent="v1" itunes:key="role" itunes:value="background">Come on and walk this way through the fire (don't care what's on their mind)</p>
+      <p begin="02:00.310" end="02:04.550" ttm:agent="v1">And if you find yourself in a dark situation</p>
+      <p begin="02:04.550" end="02:09.440" ttm:agent="v1">Just turn on your light and be like</p>
+      <p begin="02:09.440" end="02:12.180" ttm:agent="v1">&quot;Yes, and?&quot;</p>
+      <p begin="02:12.180" end="02:16.150" ttm:agent="v1">Say that shit with your chest, and</p>
+      <p begin="02:16.150" end="02:20.190" ttm:agent="v1">Be your own fuckin' best friend</p>
+      <p begin="02:20.190" end="02:22.420" ttm:agent="v1">Say that shit with your chest</p>
+      <p begin="02:22.420" end="02:24.480" ttm:agent="v1">Keep movin' like, &quot;What's next?&quot;</p>
+      <p begin="02:24.480" end="02:27.140" ttm:agent="v1">&quot;Yes, and?&quot;</p>
+      <p begin="02:27.140" end="02:31.180" ttm:agent="v1">My tongue is sacred, I speak upon what I like</p>
+      <p begin="02:31.180" end="02:35.150" ttm:agent="v1">Protected, sexy, discerning with my time, my time</p>
+      <p begin="02:35.150" end="02:38.740" ttm:agent="v1">Your energy is yours and mine is mine</p>
+      <p begin="02:38.740" end="02:41.170" ttm:agent="v1">What's mine is mine</p>
+      <p begin="02:41.170" end="02:45.370" ttm:agent="v1">My face is sitting, I don't need no disguise</p>
+      <p begin="02:45.370" end="02:49.250" ttm:agent="v1">Don't comment on my body, do not reply</p>
+      <p begin="02:49.250" end="02:53.360" ttm:agent="v1">Your business is yours and mine is mine</p>
+      <p begin="02:53.360" end="02:57.060" ttm:agent="v1">Why do you care so much whose - I ride?</p>
+      <p begin="02:57.060" end="02:58.560" ttm:agent="v1">Why?</p>
+      <p begin="02:57.550" end="03:00.460" ttm:agent="v1">&quot;Yes, and?&quot;</p>
+      <p begin="03:00.460" end="03:04.720" ttm:agent="v1">Say that shit with your chest, and</p>
+      <p begin="03:04.720" end="03:08.690" ttm:agent="v1">Be your own fuckin' best friend</p>
+      <p begin="03:08.690" end="03:10.530" ttm:agent="v1">Say that shit with your chest</p>
+      <p begin="03:10.530" end="03:12.750" ttm:agent="v1">Keep movin' like, &quot;What's next?&quot;</p>
+      <p begin="03:12.750" end="03:14.250" ttm:agent="v1">&quot;Yes, and?&quot;</p>
+      <p begin="03:13.640" end="03:16.880" ttm:agent="v1">&quot;Yes, and?&quot;</p>
+      <p begin="03:16.880" end="03:20.930" ttm:agent="v1">Say that shit with your chest and</p>
+      <p begin="03:20.930" end="03:24.620" ttm:agent="v1">Be your own fuckin' best friend</p>
+      <p begin="03:24.620" end="03:26.740" ttm:agent="v1">Say that shit with your chest</p>
+      <p begin="03:26.740" end="03:28.700" ttm:agent="v1">Keep movin' like, &quot;What's next?&quot;</p>
+      <p begin="03:28.700" end="03:30.200" ttm:agent="v1" itunes:key="role" itunes:value="background">&quot;Yes, and?&quot; (Yeah)</p>
+      <p begin="03:30.060" end="03:34.060" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

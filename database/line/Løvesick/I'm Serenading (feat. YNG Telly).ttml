@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>I'm Serenading (feat. YNG Telly)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Løvesick</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">YNG Telly</ttm:agent>
+      <ttm:item type="album">I'm Serenading (feat. YNG Telly)</ttm:item>
+      <ttm:item type="spotify_id">72rG750B944o48oYfJ6uTq</ttm:item>
+      <itunes:duration>02:59.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:27.770" end="00:30.770" ttm:agent="v1">I think it's hard to believe that,</p>
+      <p begin="00:30.770" end="00:34.750" ttm:agent="v1">You are gone and now that I am blocked on your phone</p>
+      <p begin="00:34.750" end="00:37.320" ttm:agent="v1">All of the likes you received on,</p>
+      <p begin="00:37.320" end="00:41.380" ttm:agent="v1">Your latest post knowing that I won't be there no more</p>
+      <p begin="00:41.380" end="00:44.220" ttm:agent="v1">Are we just gonna skip the part where,</p>
+      <p begin="00:44.220" end="00:48.300" ttm:agent="v1">You deceived me, but no one sees me?</p>
+      <p begin="00:48.300" end="00:51.140" ttm:agent="v1">You're a thief 'cause you stole my heart and</p>
+      <p begin="00:51.140" end="00:52.730" ttm:agent="v1">No one believes me</p>
+      <p begin="00:52.730" end="00:54.570" ttm:agent="v1">You know you need me</p>
+      <p begin="00:54.570" end="00:57.300" ttm:agent="v1">Oh woah woah</p>
+      <p begin="00:57.300" end="00:58.800" ttm:agent="v1">It keeps on raining</p>
+      <p begin="00:58.510" end="01:01.420" ttm:agent="v1">The way you're fading in my head</p>
+      <p begin="01:01.420" end="01:03.830" ttm:agent="v1">No oh woah</p>
+      <p begin="01:03.830" end="01:08.330" ttm:agent="v1">I'm serenading, I keep on racing till I'm dead</p>
+      <p begin="01:08.330" end="01:10.710" ttm:agent="v1">Still, still I must</p>
+      <p begin="01:10.710" end="01:15.200" ttm:agent="v1">Take on this pain 'cause I don't want our ways just to move on</p>
+      <p begin="01:15.200" end="01:17.860" ttm:agent="v1">Feels, is it love?</p>
+      <p begin="01:17.860" end="01:19.360" ttm:agent="v1">I can't escape</p>
+      <p begin="01:19.160" end="01:22.050" ttm:agent="v1">Your evil ways I improved on</p>
+      <p begin="01:22.050" end="01:24.910" ttm:agent="v1">Now you wanna go oh away girl</p>
+      <p begin="01:24.910" end="01:29.470" ttm:agent="v1">But you know that we'll never go</p>
+      <p begin="01:29.470" end="01:32.110" ttm:agent="v1">I think it's hard to believe that</p>
+      <p begin="01:32.110" end="01:35.520" ttm:agent="v1">But girl your words I can not deceive that</p>
+      <p begin="01:35.520" end="01:39.740" ttm:agent="v1">I might, I am so caught up with life</p>
+      <p begin="01:39.740" end="01:41.640" ttm:agent="v1" itunes:key="role" itunes:value="background">(You caught me up girl)</p>
+      <p begin="01:41.640" end="01:45.320" ttm:agent="v1">To realize the other side</p>
+      <p begin="01:45.320" end="01:49.360" ttm:agent="v1">So you don't need my advice 'cause you know I'm not fine</p>
+      <p begin="01:49.360" end="01:52.280" ttm:agent="v1">I think you lied when you said that</p>
+      <p begin="01:52.280" end="01:55.740" ttm:agent="v1">But girl you tell me you never meant that</p>
+      <p begin="01:55.740" end="01:59.170" ttm:agent="v1">Keep on lying, I'm fighting, I'm serenading</p>
+      <p begin="01:59.170" end="02:03.660" ttm:agent="v1">But I keep on waiting even though you're hating on me</p>
+      <p begin="02:03.660" end="02:05.160" ttm:agent="v1">Woah oh</p>
+      <p begin="02:04.700" end="02:06.530" ttm:agent="v1">I told you I loved you</p>
+      <p begin="02:06.530" end="02:08.360" ttm:agent="v1" itunes:key="role" itunes:value="background">(I loved you)</p>
+      <p begin="02:08.360" end="02:10.280" ttm:agent="v1">All the words it's true</p>
+      <p begin="02:10.280" end="02:11.780" ttm:agent="v1" itunes:key="role" itunes:value="background">(You know it is true)</p>
+      <p begin="02:11.760" end="02:15.270" ttm:agent="v1">I will wait for you</p>
+      <p begin="02:15.270" end="02:17.000" ttm:agent="v1">Just come on home I'm through</p>
+      <p begin="02:17.000" end="02:19.480" ttm:agent="v1">Oh woah woah</p>
+      <p begin="02:19.480" end="02:21.030" ttm:agent="v1">It keeps on raining</p>
+      <p begin="02:21.030" end="02:23.910" ttm:agent="v1">The way you're fading in my head</p>
+      <p begin="02:23.910" end="02:26.080" ttm:agent="v1">No oh woah</p>
+      <p begin="02:26.080" end="02:30.560" ttm:agent="v1">I'm serenading, I keep on racing till I'm dead</p>
+      <p begin="02:30.560" end="02:33.230" ttm:agent="v1">Still, still I must</p>
+      <p begin="02:33.230" end="02:37.410" ttm:agent="v1">Take on this pain 'cause I don't want our ways just to move on</p>
+      <p begin="02:37.410" end="02:40.150" ttm:agent="v1">Feels, is it love?</p>
+      <p begin="02:40.150" end="02:41.650" ttm:agent="v1">I can't escape</p>
+      <p begin="02:41.420" end="02:44.570" ttm:agent="v1">Your evil ways I improved on</p>
+      <p begin="02:44.570" end="02:48.570" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Water - Remix</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Tyla</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Travis Scott</ttm:agent>
+      <ttm:item type="album">TYLA</ttm:item>
+      <ttm:item type="spotify_id">2Y4ImmYsxc4bclzGlmvlzo</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.463" end="00:01.963" ttm:agent="v1">[Intro: Tyla &amp; Travis Scott]</p>
+      <p begin="00:01.179" end="00:05.276" ttm:agent="v1" itunes:key="role" itunes:value="background">Make me sweat (Sweat, s-sweat)</p>
+      <p begin="00:05.276" end="00:09.322" ttm:agent="v1" itunes:key="role" itunes:value="background">Make me lose my breath (Breath, my breath)</p>
+      <p begin="00:09.322" end="00:13.368" ttm:agent="v1" itunes:key="role" itunes:value="background">Make me sweat (Sweat)</p>
+      <p begin="00:13.368" end="00:14.955" ttm:agent="v1" itunes:key="role" itunes:value="background">Make me lose my breath (Breath, my breath)</p>
+      <p begin="00:14.955" end="00:16.455" ttm:agent="v1"/>
+      <p begin="00:15.201" end="00:17.133" ttm:agent="v1">[Verse 1: Tyla]</p>
+      <p begin="00:17.133" end="00:20.984" ttm:agent="v1">Normally, I can keep my cool</p>
+      <p begin="00:20.984" end="00:25.062" ttm:agent="v1">But tonight, I'm wildin'</p>
+      <p begin="00:25.062" end="00:29.343" ttm:agent="v1" itunes:key="role" itunes:value="background">I'ma be (Yeah) in a dangerous mood</p>
+      <p begin="00:29.343" end="00:33.401" ttm:agent="v1">Can you match my timing? Mm, mm</p>
+      <p begin="00:33.401" end="00:38.655" ttm:agent="v1" itunes:key="role" itunes:value="background">Tellin' me (Yeah) that you really 'bout it</p>
+      <p begin="00:38.655" end="00:41.435" ttm:agent="v1">Why try hide it? Ooh</p>
+      <p begin="00:41.435" end="00:44.788" ttm:agent="v1">Talk is cheap, so show me</p>
+      <p begin="00:44.788" end="00:48.418" ttm:agent="v1">That you understand how I like it</p>
+      <p begin="00:48.418" end="00:49.918" ttm:agent="v1"/>
+      <p begin="00:48.597" end="00:50.097" ttm:agent="v1">[Pre-Chorus: Tyla]</p>
+      <p begin="00:48.724" end="00:52.728" ttm:agent="v1">Can you blow my mind?</p>
+      <p begin="00:52.728" end="00:55.937" ttm:agent="v1">Set off my whole body</p>
+      <p begin="00:55.937" end="01:01.093" ttm:agent="v1" itunes:key="role" itunes:value="background">If I give you my time (Ooh)</p>
+      <p begin="01:01.093" end="01:04.242" ttm:agent="v1">Can you snatch my soul from me?</p>
+      <p begin="01:04.242" end="01:07.763" ttm:agent="v1">I don't wanna wait, come take it</p>
+      <p begin="01:07.763" end="01:12.293" ttm:agent="v1">Take me where I ain't been before</p>
+      <p begin="01:12.293" end="01:17.411" ttm:agent="v1">Can you blow my mind?</p>
+      <p begin="01:17.411" end="01:19.147" ttm:agent="v1" itunes:key="role" itunes:value="background">Set off my whole body (Whole body)</p>
+      <p begin="01:19.147" end="01:20.647" ttm:agent="v1"/>
+      <p begin="01:19.403" end="01:22.717" ttm:agent="v1">[Chorus: Tyla]</p>
+      <p begin="01:22.717" end="01:26.764" ttm:agent="v1">Make me sweat, make me hotter</p>
+      <p begin="01:26.764" end="01:31.024" ttm:agent="v1">Make me lose my breath, make me water</p>
+      <p begin="01:31.024" end="01:34.891" ttm:agent="v1">Make me sweat, make me hotter</p>
+      <p begin="01:34.891" end="01:36.391" ttm:agent="v1">Make me lose my breath, make me water</p>
+      <p begin="01:36.147" end="01:37.647" ttm:agent="v1"/>
+      <p begin="01:36.346" end="01:40.384" ttm:agent="v1">[Verse 2: Travis Scott]</p>
+      <p begin="01:40.384" end="01:42.991" ttm:agent="v1" itunes:key="role" itunes:value="background">When you low, keep you high like flame (Flame)</p>
+      <p begin="01:42.991" end="01:44.737" ttm:agent="v1" itunes:key="role" itunes:value="background">Can make your whole life change (Change)</p>
+      <p begin="01:44.737" end="01:46.583" ttm:agent="v1" itunes:key="role" itunes:value="background">She's a palm body, yeah, but the wrist plain (Plain)</p>
+      <p begin="01:46.583" end="01:48.331" ttm:agent="v1">Eliante after with a bust down chain</p>
+      <p begin="01:48.331" end="01:50.536" ttm:agent="v1">The way that thing move, girl, that waist change</p>
+      <p begin="01:50.536" end="01:52.608" ttm:agent="v1">I'm lovin' how it bounce like like you got</p>
+      <p begin="01:52.608" end="01:55.492" ttm:agent="v1">I know a couple things we can exchange</p>
+      <p begin="01:55.492" end="01:56.992" ttm:agent="v1" itunes:key="role" itunes:value="background">Create the AP on time (On time)</p>
+      <p begin="01:56.489" end="01:58.767" ttm:agent="v1" itunes:key="role" itunes:value="background">And you the only one that outshine it (Outshine it)</p>
+      <p begin="01:58.767" end="02:00.919" ttm:agent="v1" itunes:key="role" itunes:value="background">Don't matter if you just flood to find diamond (Find diamond)</p>
+      <p begin="02:00.919" end="02:04.668" ttm:agent="v1" itunes:key="role" itunes:value="background">I know, yeah, iconic (Iconic)</p>
+      <p begin="02:04.668" end="02:07.093" ttm:agent="v1" itunes:key="role" itunes:value="background">You deserve some wrist that's diamonds (Wrist that's)</p>
+      <p begin="02:07.093" end="02:09.025" ttm:agent="v1" itunes:key="role" itunes:value="background">You deserve a trip to the islands (Yeah)</p>
+      <p begin="02:09.025" end="02:11.337" ttm:agent="v1">If we post up, baby, don't comment</p>
+      <p begin="02:11.337" end="02:13.176" ttm:agent="v1" itunes:key="role" itunes:value="background">You keep it wet, that's a real life challenge (Life challenge)</p>
+      <p begin="02:13.176" end="02:15.290" ttm:agent="v1" itunes:key="role" itunes:value="background">All that ass gotta pour out of gallons (Yeah)</p>
+      <p begin="02:15.290" end="02:17.349" ttm:agent="v1" itunes:key="role" itunes:value="background">Beauty in the top, keep balance (Balance)</p>
+      <p begin="02:17.349" end="02:20.177" ttm:agent="v1" itunes:key="role" itunes:value="background">Gucci in her bag, Gucci wallet (Yeah)</p>
+      <p begin="02:20.177" end="02:21.719" ttm:agent="v1" itunes:key="role" itunes:value="background">You ain't gotta hide your talent (Talent)</p>
+      <p begin="02:21.719" end="02:23.688" ttm:agent="v1" itunes:key="role" itunes:value="background">Even if you did, I better find it (Yeah)</p>
+      <p begin="02:23.688" end="02:25.621" ttm:agent="v1">You know I'm callin' from the H</p>
+      <p begin="02:25.621" end="02:27.121" ttm:agent="v1">But it's plus two-seven when I dial in</p>
+      <p begin="02:27.094" end="02:28.594" ttm:agent="v1"/>
+      <p begin="02:27.365" end="02:28.865" ttm:agent="v1">[Chorus: Tyla &amp; Travis Scott]</p>
+      <p begin="02:27.790" end="02:30.281" ttm:agent="v1" itunes:key="role" itunes:value="background">Make me sweat (Sweat, s-sweat)</p>
+      <p begin="02:30.281" end="02:32.961" ttm:agent="v1" itunes:key="role" itunes:value="background">Make me lose my breath (Breath, my breath)</p>
+      <p begin="02:32.961" end="02:39.334" ttm:agent="v1" itunes:key="role" itunes:value="background">Make me sweat (Sweat)</p>
+      <p begin="02:39.334" end="02:45.294" ttm:agent="v1" itunes:key="role" itunes:value="background">Make me lose my breath (Breath, my breath, make me sweat)</p>
+      <p begin="02:45.294" end="02:48.881" ttm:agent="v1" itunes:key="role" itunes:value="background">Make me sweat, make me hotter (Hotter)</p>
+      <p begin="02:48.881" end="02:52.996" ttm:agent="v1">Make me lose my breath, make me water</p>
+      <p begin="02:52.996" end="02:56.937" ttm:agent="v1" itunes:key="role" itunes:value="background">Make me sweat (Sweat), make me hotter (Hotter)</p>
+      <p begin="02:56.937" end="03:01.271" ttm:agent="v1">Make me lose my breath, make me water</p>
+      <p begin="03:01.271" end="03:02.771" ttm:agent="v1"/>
+      <p begin="03:01.597" end="03:03.097" ttm:agent="v1">[Outro: Tyla]</p>
+      <p begin="03:01.820" end="03:05.422" ttm:agent="v1">Make me sweat, make me hotter</p>
+      <p begin="03:05.422" end="03:09.287" ttm:agent="v1">Make me lose my breath, make me water</p>
+      <p begin="03:09.287" end="03:13.403" ttm:agent="v1">Make me sweat, make me hotter</p>
+      <p begin="03:13.403" end="03:17.403" ttm:agent="v1">Make me lose my breath, make me water</p>
+    </div>
+  </body>
+</tt>

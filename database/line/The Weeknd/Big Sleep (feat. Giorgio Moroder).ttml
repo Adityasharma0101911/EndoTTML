@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Big Sleep (feat. Giorgio Moroder)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">The Weeknd</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Giorgio Moroder</ttm:agent>
+      <ttm:item type="album">Hurry Up Tomorrow</ttm:item>
+      <ttm:item type="spotify_id">4sWQbsLLH2NEbO79DSZCL9</ttm:item>
+      <itunes:duration>03:45.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:06.940" end="00:11.330" ttm:agent="v1">La, la, la, la, la, la</p>
+      <p begin="00:11.330" end="00:15.280" ttm:agent="v1">La, la, la, la, la, la</p>
+      <p begin="00:15.280" end="00:21.790" ttm:agent="v1">La-la, la-la, la-la</p>
+      <p begin="00:21.790" end="00:25.810" ttm:agent="v1">You know I love it when you're angry</p>
+      <p begin="00:25.810" end="00:28.920" ttm:agent="v1">I'm looking at you like, like</p>
+      <p begin="00:28.920" end="00:31.220" ttm:agent="v1">Nah-nah-nah, nah</p>
+      <p begin="00:31.220" end="00:33.830" ttm:agent="v1">As I make you go</p>
+      <p begin="00:33.830" end="00:37.100" ttm:agent="v1">I don't want you to go away</p>
+      <p begin="00:37.100" end="00:43.090" ttm:agent="v1">I can't, I can't</p>
+      <p begin="00:43.090" end="00:51.090" ttm:agent="v1"/>
+      <p begin="01:14.690" end="01:19.070" ttm:agent="v1">Well, you used up your borrowed life</p>
+      <p begin="01:19.070" end="01:23.460" ttm:agent="v1">And you wasted your borrowed time</p>
+      <p begin="01:23.460" end="01:31.460" ttm:agent="v1">Big sleep, big sleep</p>
+      <p begin="01:32.440" end="01:37.020" ttm:agent="v1">Well, you barely put up a fight</p>
+      <p begin="01:37.020" end="01:41.370" ttm:agent="v1">Ready for the forever night</p>
+      <p begin="01:41.370" end="01:48.340" ttm:agent="v1">Big sleep, big sleep</p>
+      <p begin="01:48.340" end="01:50.510" ttm:agent="v1"/>
+      <p begin="01:50.510" end="01:53.200" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ooh)</p>
+      <p begin="01:53.200" end="02:01.200" ttm:agent="v1"/>
+      <p begin="02:04.720" end="02:12.720" ttm:agent="v1">Oh, oh-oh, oh-oh, oh-oh, oh-oh</p>
+      <p begin="02:17.450" end="02:25.450" ttm:agent="v1">Oh-oh, oh-oh, oh-oh, oh-oh</p>
+      <p begin="02:27.350" end="02:31.710" ttm:agent="v1">Now I lay me down to sleep</p>
+      <p begin="02:31.710" end="02:36.350" ttm:agent="v1">Pray the Lord my soul to keep</p>
+      <p begin="02:36.350" end="02:40.780" ttm:agent="v1">Angels watch me through the night</p>
+      <p begin="02:40.780" end="02:44.500" ttm:agent="v1">Wake me up with light</p>
+      <p begin="02:44.500" end="02:46.940" ttm:agent="v1"/>
+      <p begin="02:46.940" end="02:53.960" ttm:agent="v1">Oh, oh-oh, oh</p>
+      <p begin="02:53.960" end="03:00.850" ttm:agent="v1">Oh-oh, oh-oh, oh-oh, oh</p>
+      <p begin="03:00.850" end="03:04.350" ttm:agent="v1"/>
+      <p begin="03:04.350" end="03:11.200" ttm:agent="v1">Soul resurrecting</p>
+      <p begin="03:11.200" end="03:16.330" ttm:agent="v1">As He comes to life</p>
+      <p begin="03:16.330" end="03:19.630" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ooh)</p>
+      <p begin="03:19.630" end="03:21.960" ttm:agent="v1"/>
+      <p begin="03:21.960" end="03:29.960" ttm:agent="v1">Oh-oh, oh-oh, oh-oh, oh-oh</p>
+      <p begin="03:30.270" end="03:37.140" ttm:agent="v1">Oh-oh, oh-oh, oh-oh, oh-oh</p>
+      <p begin="03:37.140" end="03:41.140" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>No Surprises</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Radiohead</ttm:agent>
+      <ttm:item type="album">OK Computer</ttm:item>
+      <ttm:item type="spotify_id">10nyNJ6zNy2YVYLrcwLccB</ttm:item>
+      <itunes:duration>03:48.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:26.840" end="00:34.840" ttm:agent="v1">A heart that's full up like a landfill</p>
+      <p begin="00:35.950" end="00:42.580" ttm:agent="v1">A job that slowly kills you</p>
+      <p begin="00:42.580" end="00:49.230" ttm:agent="v1">Bruises that won't heal</p>
+      <p begin="00:49.230" end="00:52.040" ttm:agent="v1"/>
+      <p begin="00:52.040" end="00:58.210" ttm:agent="v1">You look so tired, unhappy</p>
+      <p begin="00:58.210" end="01:04.570" ttm:agent="v1">Bring down the government</p>
+      <p begin="01:04.570" end="01:12.570" ttm:agent="v1">They don't, they don't speak for us</p>
+      <p begin="01:14.230" end="01:17.320" ttm:agent="v1"/>
+      <p begin="01:17.320" end="01:23.120" ttm:agent="v1">I'll take a quiet life</p>
+      <p begin="01:23.120" end="01:29.540" ttm:agent="v1">A handshake of carbon monoxide</p>
+      <p begin="01:29.540" end="01:35.860" ttm:agent="v1">No alarms and no surprises</p>
+      <p begin="01:35.860" end="01:41.970" ttm:agent="v1">No alarms and no surprises</p>
+      <p begin="01:41.970" end="01:48.290" ttm:agent="v1">No alarms and no surprises</p>
+      <p begin="01:48.290" end="01:54.680" ttm:agent="v1">Silent</p>
+      <p begin="01:54.680" end="02:01.220" ttm:agent="v1">Silent</p>
+      <p begin="02:01.220" end="02:06.520" ttm:agent="v1">This is my final fit</p>
+      <p begin="02:06.520" end="02:13.780" ttm:agent="v1">My final bellyache with</p>
+      <p begin="02:13.780" end="02:20.080" ttm:agent="v1">No alarms and no surprises</p>
+      <p begin="02:20.080" end="02:26.100" ttm:agent="v1">No alarms and no surprises</p>
+      <p begin="02:26.100" end="02:34.100" ttm:agent="v1">No alarms and no surprises, please</p>
+      <p begin="02:37.070" end="02:45.070" ttm:agent="v1"/>
+      <p begin="02:56.600" end="03:02.160" ttm:agent="v1">Such a pretty house</p>
+      <p begin="03:02.160" end="03:08.630" ttm:agent="v1">And such a pretty garden</p>
+      <p begin="03:08.630" end="03:14.760" ttm:agent="v1">No alarms and no surprises</p>
+      <p begin="03:14.760" end="03:20.820" ttm:agent="v1">No alarms and no surprises</p>
+      <p begin="03:20.820" end="03:28.820" ttm:agent="v1">No alarms and no surprises, please</p>
+      <p begin="03:28.980" end="03:32.980" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

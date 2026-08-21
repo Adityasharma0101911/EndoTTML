@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Take Me Back To LA</ttm:title>
+      <ttm:agent type="person" xml:id="v1">The Weeknd</ttm:agent>
+      <ttm:item type="album">Hurry Up Tomorrow</ttm:item>
+      <ttm:item type="spotify_id">7rVmzyFA7f4rNGl9onF21E</ttm:item>
+      <itunes:duration>04:13.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:02.860" end="00:06.290" ttm:agent="v1">Take me back to L.A.</p>
+      <p begin="00:06.290" end="00:10.770" ttm:agent="v1">Where the sun would kiss on my face</p>
+      <p begin="00:10.770" end="00:14.850" ttm:agent="v1">Now the sunshine tracks my skin</p>
+      <p begin="00:14.850" end="00:20.380" ttm:agent="v1">I stayed too long</p>
+      <p begin="00:20.380" end="00:24.940" ttm:agent="v1">Take me back to a time</p>
+      <p begin="00:24.940" end="00:29.520" ttm:agent="v1">When my blood never tasted like wine</p>
+      <p begin="00:29.520" end="00:32.720" ttm:agent="v1">My love could fill a sea</p>
+      <p begin="00:32.720" end="00:38.280" ttm:agent="v1">But now I can't even feel the breeze</p>
+      <p begin="00:38.280" end="00:43.270" ttm:agent="v1" itunes:key="role" itunes:value="background">And it hurts when I think about (think about)</p>
+      <p begin="00:43.270" end="00:47.840" ttm:agent="v1">The nights we would always shout</p>
+      <p begin="00:47.840" end="00:52.360" ttm:agent="v1">My voice cracking when we scream</p>
+      <p begin="00:52.360" end="00:56.950" ttm:agent="v1">You scream, we scream</p>
+      <p begin="00:56.950" end="01:01.640" ttm:agent="v1" itunes:key="role" itunes:value="background">And I watched while you wiped your eyes (wiped your eyes)</p>
+      <p begin="01:01.640" end="01:06.200" ttm:agent="v1">Then I learned to cover mine</p>
+      <p begin="01:06.200" end="01:11.270" ttm:agent="v1">And that's when I realized that</p>
+      <p begin="01:11.270" end="01:16.910" ttm:agent="v1">It's better when I'm by myself, yeah</p>
+      <p begin="01:16.910" end="01:22.170" ttm:agent="v1">By myself, uh</p>
+      <p begin="01:22.170" end="01:27.730" ttm:agent="v1">By myself, yeah</p>
+      <p begin="01:27.730" end="01:35.080" ttm:agent="v1">Oh, it's better when I'm by myself</p>
+      <p begin="01:35.080" end="01:38.510" ttm:agent="v1">Take me back to a place</p>
+      <p begin="01:38.510" end="01:43.340" ttm:agent="v1">Where the snow would fall on my face</p>
+      <p begin="01:43.340" end="01:47.220" ttm:agent="v1">And I miss my city lights</p>
+      <p begin="01:47.220" end="01:52.610" ttm:agent="v1">I left too young</p>
+      <p begin="01:52.610" end="01:57.360" ttm:agent="v1">Take me back to a time</p>
+      <p begin="01:57.360" end="02:01.660" ttm:agent="v1">The trophies that I had would still shine</p>
+      <p begin="02:01.660" end="02:05.750" ttm:agent="v1">Now I have nothing real left</p>
+      <p begin="02:05.750" end="02:10.510" ttm:agent="v1">I want my soul</p>
+      <p begin="02:10.510" end="02:15.570" ttm:agent="v1" itunes:key="role" itunes:value="background">And it hurts when I think about (think about)</p>
+      <p begin="02:15.570" end="02:20.120" ttm:agent="v1">The days I would tell myself</p>
+      <p begin="02:20.120" end="02:24.790" ttm:agent="v1">It's okay for me to scream</p>
+      <p begin="02:24.790" end="02:29.030" ttm:agent="v1">To scream, to scream</p>
+      <p begin="02:29.030" end="02:33.820" ttm:agent="v1" itunes:key="role" itunes:value="background">I put my hand over the fire (over the fire)</p>
+      <p begin="02:33.820" end="02:38.670" ttm:agent="v1" itunes:key="role" itunes:value="background">And see if I can still cry (can still cry)</p>
+      <p begin="02:38.670" end="02:43.290" ttm:agent="v1">And that's when I realize that</p>
+      <p begin="02:43.290" end="02:47.390" ttm:agent="v1">I hate it when I'm by myself</p>
+      <p begin="02:47.390" end="02:49.700" ttm:agent="v1"/>
+      <p begin="02:49.700" end="02:54.410" ttm:agent="v1" itunes:key="role" itunes:value="background">By myself (whoa, oh-oh, oh-oh)</p>
+      <p begin="02:54.410" end="02:57.330" ttm:agent="v1">By myself</p>
+      <p begin="02:57.330" end="02:59.820" ttm:agent="v1"/>
+      <p begin="02:59.820" end="03:05.510" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, I hate it when I'm by myself (oh)</p>
+      <p begin="03:05.510" end="03:07.820" ttm:agent="v1"/>
+      <p begin="03:07.820" end="03:12.100" ttm:agent="v1">Oh, by myself, uh</p>
+      <p begin="03:12.100" end="03:20.100" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, by myself (I don't wanna be, I don't wanna be)</p>
+      <p begin="03:20.390" end="03:24.540" ttm:agent="v1">I hate it when I'm by myself</p>
+      <p begin="03:24.540" end="03:26.760" ttm:agent="v1"/>
+      <p begin="03:26.760" end="03:30.460" ttm:agent="v1">By myself</p>
+      <p begin="03:30.460" end="03:36.140" ttm:agent="v1" itunes:key="role" itunes:value="background">Cold, by myself (na-na-na-na-na-na)</p>
+      <p begin="03:36.140" end="03:40.510" ttm:agent="v1">By my-, oh</p>
+      <p begin="03:40.510" end="03:43.030" ttm:agent="v1">By myself</p>
+      <p begin="03:43.030" end="03:45.170" ttm:agent="v1"/>
+      <p begin="03:45.170" end="03:49.710" ttm:agent="v1">By myself</p>
+      <p begin="03:49.710" end="03:54.420" ttm:agent="v1">By myself</p>
+      <p begin="03:54.420" end="03:55.920" ttm:agent="v1">By myself</p>
+      <p begin="03:54.900" end="03:58.900" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

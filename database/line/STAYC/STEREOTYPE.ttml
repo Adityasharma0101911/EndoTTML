@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>STEREOTYPE</ttm:title>
+      <ttm:agent type="person" xml:id="v1">STAYC</ttm:agent>
+      <ttm:item type="album">STEREOTYPE</ttm:item>
+      <ttm:item type="spotify_id">2bZIDMpzVooosmPHn0tHnd</ttm:item>
+      <itunes:duration>03:12.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:03.240" end="00:06.890" ttm:agent="v1">Ah, ah</p>
+      <p begin="00:06.890" end="00:08.900" ttm:agent="v1">There's something to tell you</p>
+      <p begin="00:08.900" end="00:10.400" ttm:agent="v1">You want me to share it with you?</p>
+      <p begin="00:10.150" end="00:12.640" ttm:agent="v1">STAYC girls, it's going down</p>
+      <p begin="00:12.640" end="00:15.610" ttm:agent="v1">오늘 유난히 티가 더 나는 걸</p>
+      <p begin="00:15.610" end="00:18.930" ttm:agent="v1">모두 쳐다보는 게 다 보여</p>
+      <p begin="00:18.930" end="00:25.860" ttm:agent="v1">왠지 그럴수록 더 난 당당해져 기분 좋아지는 걸</p>
+      <p begin="00:25.860" end="00:28.750" ttm:agent="v1">머릴 넘기며 어디든 지나가네</p>
+      <p begin="00:28.750" end="00:32.750" ttm:agent="v1">내 달콤한 향수가 흩날리게 yeah-yeah</p>
+      <p begin="00:32.750" end="00:34.900" ttm:agent="v1">항상 날 꾸미는 게 좋아</p>
+      <p begin="00:34.900" end="00:39.270" ttm:agent="v1">예쁜 게 좋아 근데 들어봐 yeah</p>
+      <p begin="00:39.270" end="00:42.200" ttm:agent="v1">나도 알아 내 모습이</p>
+      <p begin="00:42.200" end="00:45.690" ttm:agent="v1">이뻐 보일지도 당돌한 걸지도</p>
+      <p begin="00:45.690" end="00:48.660" ttm:agent="v1">자꾸만 널 유혹하듯</p>
+      <p begin="00:48.660" end="00:51.380" ttm:agent="v1">보이겠지만 미안하지만</p>
+      <p begin="00:51.380" end="00:55.270" ttm:agent="v1">색안경을 끼고 보지 마요</p>
+      <p begin="00:55.270" end="00:57.920" ttm:agent="v1">난 좀 다른 여자인데</p>
+      <p begin="00:57.920" end="01:02.620" ttm:agent="v1">겉은 화려해도 아직 두려운 걸 you should know</p>
+      <p begin="01:02.620" end="01:04.670" ttm:agent="v1">I'm a good girl, yeah</p>
+      <p begin="01:04.670" end="01:07.960" ttm:agent="v1">너무 세게 안으면 숨 막혀요</p>
+      <p begin="01:07.960" end="01:11.240" ttm:agent="v1">조금 서투를지도 난 아직도</p>
+      <p begin="01:11.240" end="01:14.260" ttm:agent="v1">색안경을 끼고 보지 마요</p>
+      <p begin="01:14.260" end="01:19.420" ttm:agent="v1">Oh baby, baby, baby</p>
+      <p begin="01:19.420" end="01:22.960" ttm:agent="v1" itunes:key="role" itunes:value="background">패션은 과감한 게 좋아 like it (uh-huh)</p>
+      <p begin="01:22.960" end="01:26.280" ttm:agent="v1" itunes:key="role" itunes:value="background">튀는 게 좋아 어떻게든 소화 (yeah)</p>
+      <p begin="01:26.280" end="01:29.260" ttm:agent="v1">가끔 나조차 진짜 내 맘을 몰라</p>
+      <p begin="01:29.260" end="01:32.450" ttm:agent="v1">그런 나지만</p>
+      <p begin="01:32.450" end="01:35.530" ttm:agent="v1">나도 알아 내 모습이</p>
+      <p begin="01:35.530" end="01:38.940" ttm:agent="v1">이뻐 보일지도 당돌한 걸지도</p>
+      <p begin="01:38.940" end="01:42.000" ttm:agent="v1">자꾸만 널 유혹하듯</p>
+      <p begin="01:42.000" end="01:44.980" ttm:agent="v1">보이겠지만 미안하지만</p>
+      <p begin="01:44.980" end="01:48.740" ttm:agent="v1">색안경을 끼고 보지 마요</p>
+      <p begin="01:48.740" end="01:51.490" ttm:agent="v1">난 좀 다른 여자인데</p>
+      <p begin="01:51.490" end="01:56.130" ttm:agent="v1">겉은 화려해도 아직 두려운 걸 you should know</p>
+      <p begin="01:56.130" end="01:58.280" ttm:agent="v1">I'm a good girl, yeah</p>
+      <p begin="01:58.280" end="02:01.410" ttm:agent="v1">너무 세게 안으면 숨 막혀요</p>
+      <p begin="02:01.410" end="02:04.660" ttm:agent="v1">조금 서투를지도 난 아직도</p>
+      <p begin="02:04.660" end="02:07.650" ttm:agent="v1">색안경을 끼고 보지 마요</p>
+      <p begin="02:07.650" end="02:11.060" ttm:agent="v1">Oh baby, baby, baby</p>
+      <p begin="02:11.060" end="02:14.420" ttm:agent="v1" itunes:key="role" itunes:value="background">Alright (alright), alright (alright)</p>
+      <p begin="02:14.420" end="02:17.250" ttm:agent="v1">드러나는 모습뿐인걸</p>
+      <p begin="02:17.250" end="02:20.630" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh why (oh why), oh why (oh why)</p>
+      <p begin="02:20.630" end="02:24.320" ttm:agent="v1">눈으로만 날 판단하지 않길</p>
+      <p begin="02:24.320" end="02:27.540" ttm:agent="v1">Oh 꾸미지 않은 내 모습</p>
+      <p begin="02:27.540" end="02:30.600" ttm:agent="v1">Oh 있는 그대로의 모습</p>
+      <p begin="02:30.600" end="02:33.600" ttm:agent="v1">좋아해 줘 아직 여린 내 맘</p>
+      <p begin="02:33.600" end="02:36.910" ttm:agent="v1">꼭 알아줬으면 해 yeah</p>
+      <p begin="02:36.910" end="02:40.430" ttm:agent="v1">색안경을 끼고 보지 마요</p>
+      <p begin="02:40.430" end="02:43.340" ttm:agent="v1">난 좀 다른 여자인데</p>
+      <p begin="02:43.340" end="02:47.990" ttm:agent="v1">겉은 화려해도 아직 두려운 걸 you should know</p>
+      <p begin="02:47.990" end="02:50.080" ttm:agent="v1">I'm a good girl, yeah</p>
+      <p begin="02:50.080" end="02:53.170" ttm:agent="v1">너무 세게 안으면 숨 막혀요</p>
+      <p begin="02:53.170" end="02:56.550" ttm:agent="v1">조금 서투를지도 난 아직도</p>
+      <p begin="02:56.550" end="02:59.600" ttm:agent="v1">색안경을 끼고 보지 마요</p>
+      <p begin="02:59.600" end="03:01.370" ttm:agent="v1">Oh baby, baby, baby</p>
+      <p begin="03:01.370" end="03:05.370" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

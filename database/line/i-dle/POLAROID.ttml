@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>POLAROID</ttm:title>
+      <ttm:agent type="person" xml:id="v1">i-dle</ttm:agent>
+      <ttm:item type="album">I NEVER DIE</ttm:item>
+      <ttm:item type="spotify_id">1XCoTc12Trl56sgCPP4R8M</ttm:item>
+      <itunes:duration>03:39.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:12.000" end="00:15.600" ttm:agent="v1">철없는 우릴 사진에 담아서</p>
+      <p begin="00:15.600" end="00:18.820" ttm:agent="v1">잊지 않게 간직하고 싶어 난</p>
+      <p begin="00:18.820" end="00:24.240" ttm:agent="v1">In my pocket, in my pocket</p>
+      <p begin="00:24.240" end="00:27.500" ttm:agent="v1">A lot of people want us to grow up</p>
+      <p begin="00:27.500" end="00:30.820" ttm:agent="v1">시간은 참 빠르게만 가는데</p>
+      <p begin="00:30.820" end="00:35.600" ttm:agent="v1" itunes:key="role" itunes:value="background">I want pleasure, want pleasure (umm)</p>
+      <p begin="00:35.600" end="00:41.000" ttm:agent="v1">그땐 왜 모든 게 다 그저 어려웠을까?</p>
+      <p begin="00:41.000" end="00:43.420" ttm:agent="v1">Don't be sad</p>
+      <p begin="00:43.420" end="00:47.300" ttm:agent="v1">Let's forget everything with the flash</p>
+      <p begin="00:47.300" end="00:51.480" ttm:agent="v1">Can I take out the polaroid?</p>
+      <p begin="00:51.480" end="00:54.330" ttm:agent="v1">And then we smile brightly</p>
+      <p begin="00:54.330" end="00:58.490" ttm:agent="v1">슬퍼지더라도 울지는 않을게</p>
+      <p begin="00:58.490" end="01:00.570" ttm:agent="v1">Let's make a funny face</p>
+      <p begin="01:00.570" end="01:03.360" ttm:agent="v1">Take out the polaroid</p>
+      <p begin="01:03.360" end="01:06.430" ttm:agent="v1">We shouldn't forget this, please remember</p>
+      <p begin="01:06.430" end="01:10.180" ttm:agent="v1">우리 사진 속에 그때 그 미소에</p>
+      <p begin="01:10.180" end="01:11.870" ttm:agent="v1">Let's make a funny face</p>
+      <p begin="01:11.870" end="01:17.580" ttm:agent="v1">Ah, ah, ah</p>
+      <p begin="01:17.580" end="01:23.300" ttm:agent="v1">Ah, ah, ah</p>
+      <p begin="01:23.300" end="01:28.460" ttm:agent="v1">Sometimes I think we can look back</p>
+      <p begin="01:28.460" end="01:35.400" ttm:agent="v1">'Cause we've been too busy, we've been too busy</p>
+      <p begin="01:35.400" end="01:40.800" ttm:agent="v1" itunes:key="role" itunes:value="background">잠깐 쉬어가자 우리 (우리)</p>
+      <p begin="01:40.800" end="01:47.280" ttm:agent="v1" itunes:key="role" itunes:value="background">행복할 수 있게, 더 웃을 수 있게 (hoo)</p>
+      <p begin="01:47.280" end="01:52.710" ttm:agent="v1">그땐 왜 모든 게 다 그저 어려웠을까?</p>
+      <p begin="01:52.710" end="01:55.000" ttm:agent="v1">Don't be sad</p>
+      <p begin="01:55.000" end="01:59.280" ttm:agent="v1">Let's forget everything with the flash</p>
+      <p begin="01:59.280" end="02:02.990" ttm:agent="v1">Can I take out the polaroid?</p>
+      <p begin="02:02.990" end="02:05.990" ttm:agent="v1">And then we smile brightly</p>
+      <p begin="02:05.990" end="02:10.160" ttm:agent="v1">슬퍼지더라도 울지는 않을게</p>
+      <p begin="02:10.160" end="02:12.000" ttm:agent="v1">Let's make a funny face</p>
+      <p begin="02:12.000" end="02:15.070" ttm:agent="v1">Take out the polaroid</p>
+      <p begin="02:15.070" end="02:18.220" ttm:agent="v1">We shouldn't forget this, please remember</p>
+      <p begin="02:18.220" end="02:22.130" ttm:agent="v1">우리 사진 속에 그때 그 미소에</p>
+      <p begin="02:22.130" end="02:23.800" ttm:agent="v1">Let's make a funny face</p>
+      <p begin="02:23.800" end="02:25.890" ttm:agent="v1">Ah, ah, ah</p>
+      <p begin="02:25.890" end="02:29.780" ttm:agent="v1">Polaroid, we should keep this memory</p>
+      <p begin="02:29.780" end="02:33.970" ttm:agent="v1">Ah, ah, ah</p>
+      <p begin="02:33.970" end="02:35.640" ttm:agent="v1">Take out the polaroid</p>
+      <p begin="02:35.640" end="02:37.580" ttm:agent="v1">Ah, ah, ah</p>
+      <p begin="02:37.580" end="02:41.970" ttm:agent="v1">Polaroid, we should keep this memory</p>
+      <p begin="02:41.970" end="02:46.600" ttm:agent="v1">Ah, ah, ah</p>
+      <p begin="02:46.600" end="02:51.120" ttm:agent="v1">Can I take out the polaroid?</p>
+      <p begin="02:51.120" end="02:53.800" ttm:agent="v1">And then we smile brightly</p>
+      <p begin="02:53.800" end="02:58.000" ttm:agent="v1">슬퍼지더라도 울지는 않을게</p>
+      <p begin="02:58.000" end="02:59.740" ttm:agent="v1">Let's make a funny face</p>
+      <p begin="02:59.740" end="03:02.990" ttm:agent="v1">Take out the polaroid</p>
+      <p begin="03:02.990" end="03:05.850" ttm:agent="v1">We shouldn't forget this, please remember</p>
+      <p begin="03:05.850" end="03:09.670" ttm:agent="v1">우리 사진 속에 그때 그 미소에</p>
+      <p begin="03:09.670" end="03:11.680" ttm:agent="v1">Let's make a funny face</p>
+      <p begin="03:11.680" end="03:13.770" ttm:agent="v1">Ah, ah, ah</p>
+      <p begin="03:13.770" end="03:17.640" ttm:agent="v1">Polaroid, we should keep this memory</p>
+      <p begin="03:17.640" end="03:22.000" ttm:agent="v1">Ah, ah, ah</p>
+      <p begin="03:22.000" end="03:23.660" ttm:agent="v1">Take out the polaroid</p>
+      <p begin="03:23.660" end="03:29.780" ttm:agent="v1">Ah, ah, ah</p>
+      <p begin="03:29.780" end="03:34.020" ttm:agent="v1">Ah, ah, ah</p>
+      <p begin="03:34.020" end="03:38.020" ttm:agent="v1">Let's make a funny face</p>
+    </div>
+  </body>
+</tt>

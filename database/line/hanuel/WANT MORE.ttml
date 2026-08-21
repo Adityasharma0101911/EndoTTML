@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>WANT MORE</ttm:title>
+      <ttm:agent type="person" xml:id="v1">hanuel</ttm:agent>
+      <ttm:item type="album">HOW</ttm:item>
+      <ttm:item type="spotify_id">0RP12oJNE0WMUDWhrqWYOV</ttm:item>
+      <itunes:duration>03:20.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:11.870" end="00:13.440" ttm:agent="v1">Tell me you're fine</p>
+      <p begin="00:13.440" end="00:15.270" ttm:agent="v1">I've been up all night</p>
+      <p begin="00:15.270" end="00:21.560" ttm:agent="v1" itunes:key="role" itunes:value="background">I just want you maybe right by my side (Hmm)</p>
+      <p begin="00:21.560" end="00:24.720" ttm:agent="v1">Is it alright for me to come and see you?</p>
+      <p begin="00:24.720" end="00:26.400" ttm:agent="v1">I don't know why</p>
+      <p begin="00:26.400" end="00:27.930" ttm:agent="v1">You've been on my mind</p>
+      <p begin="00:27.930" end="00:35.030" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm trying to forget every little thing inside (Hmm)</p>
+      <p begin="00:35.030" end="00:38.180" ttm:agent="v1">Just tell me to go without you</p>
+      <p begin="00:38.180" end="00:41.220" ttm:agent="v1">So long to you, ready, adios</p>
+      <p begin="00:41.220" end="00:44.130" ttm:agent="v1">Don't look back or you're gonna turn to stone</p>
+      <p begin="00:44.130" end="00:46.050" ttm:agent="v1">We been on for so long</p>
+      <p begin="00:46.050" end="00:48.630" ttm:agent="v1">Feeling young and immature</p>
+      <p begin="00:48.630" end="00:52.490" ttm:agent="v1">Don't know if I want more</p>
+      <p begin="00:52.490" end="00:55.600" ttm:agent="v1">Second chances been overdue</p>
+      <p begin="00:55.600" end="00:57.190" ttm:agent="v1">I've been running into problems</p>
+      <p begin="00:57.190" end="01:00.360" ttm:agent="v1">Cause of who? who?</p>
+      <p begin="01:00.360" end="01:02.970" ttm:agent="v1">You know, you know, you know</p>
+      <p begin="01:02.970" end="01:04.530" ttm:agent="v1">Tell me you're fine</p>
+      <p begin="01:04.530" end="01:06.150" ttm:agent="v1">I've been up all night</p>
+      <p begin="01:06.150" end="01:12.640" ttm:agent="v1" itunes:key="role" itunes:value="background">I just want you maybe right by my side (you by my side, hmm)</p>
+      <p begin="01:12.640" end="01:15.820" ttm:agent="v1">Is it alright for me to come and see you?</p>
+      <p begin="01:15.820" end="01:17.370" ttm:agent="v1">I don't know why</p>
+      <p begin="01:17.370" end="01:18.980" ttm:agent="v1">You've been on my mind</p>
+      <p begin="01:18.980" end="01:26.100" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm trying to forget every little thing inside (Hmm)</p>
+      <p begin="01:26.100" end="01:29.340" ttm:agent="v1">Just tell me to go without you</p>
+      <p begin="01:29.340" end="01:32.400" ttm:agent="v1">So can you come tell me where you are</p>
+      <p begin="01:32.400" end="01:37.270" ttm:agent="v1">I've been lost just trying to go back home</p>
+      <p begin="01:37.270" end="01:43.560" ttm:agent="v1" itunes:key="role" itunes:value="background">Just hold me, hold me, hold me yeah (yeah)</p>
+      <p begin="01:43.560" end="01:46.780" ttm:agent="v1">What you know about falling for someone like</p>
+      <p begin="01:46.780" end="01:50.780" ttm:agent="v1">I just wanted more love but you're all a lie</p>
+      <p begin="01:50.780" end="01:55.340" ttm:agent="v1">You feel the same I do</p>
+      <p begin="01:55.340" end="01:58.200" ttm:agent="v1">Beautiful</p>
+      <p begin="01:58.200" end="02:01.130" ttm:agent="v1">Tell me oh, who you are?</p>
+      <p begin="02:01.130" end="02:04.310" ttm:agent="v1">Can we one more time?</p>
+      <p begin="02:04.310" end="02:09.030" ttm:agent="v1">I don't know why</p>
+      <p begin="02:09.030" end="02:11.130" ttm:agent="v1">Can you see it now?</p>
+      <p begin="02:11.130" end="02:12.630" ttm:agent="v1">Tell me how you are</p>
+      <p begin="02:12.540" end="02:15.350" ttm:agent="v1">Can you it feel now?</p>
+      <p begin="02:15.350" end="02:19.820" ttm:agent="v1">Was I good enough to you?</p>
+      <p begin="02:19.820" end="02:21.460" ttm:agent="v1">Tell me you're fine</p>
+      <p begin="02:21.460" end="02:23.280" ttm:agent="v1">I've been up all night</p>
+      <p begin="02:23.280" end="02:29.670" ttm:agent="v1" itunes:key="role" itunes:value="background">I just want you maybe right by my side (you by my side, hmm)</p>
+      <p begin="02:29.670" end="02:32.790" ttm:agent="v1">Is it alright for me to come and see you?</p>
+      <p begin="02:32.790" end="02:34.290" ttm:agent="v1">I don't know why</p>
+      <p begin="02:34.080" end="02:35.950" ttm:agent="v1">You've been on my mind</p>
+      <p begin="02:35.950" end="02:43.080" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm trying to forget every little thing inside (Hmm)</p>
+      <p begin="02:43.080" end="02:46.450" ttm:agent="v1">Just tell me to go without you</p>
+      <p begin="02:46.450" end="02:50.450" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

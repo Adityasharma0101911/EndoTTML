@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Good Luck, Babe!</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Chappell Roan</ttm:agent>
+      <ttm:item type="album">Good Luck, Babe!</ttm:item>
+      <ttm:item type="spotify_id">0WbMK4wrZ1wFSty9F7FCgu</ttm:item>
+      <itunes:duration>03:38.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:12.690" end="00:16.070" ttm:agent="v1">It's fine, it's cool</p>
+      <p begin="00:16.070" end="00:20.350" ttm:agent="v1">You can say that we are nothin', but you know the truth</p>
+      <p begin="00:20.350" end="00:24.440" ttm:agent="v1">And guess I'm the fool</p>
+      <p begin="00:24.440" end="00:29.610" ttm:agent="v1">With her arms out like an angel through the car sunroof</p>
+      <p begin="00:29.610" end="00:33.650" ttm:agent="v1">I don't wanna call it off, but you don't wanna call it love</p>
+      <p begin="00:33.650" end="00:37.000" ttm:agent="v1">You only wanna be the one that I call &quot;Baby&quot;</p>
+      <p begin="00:37.000" end="00:41.180" ttm:agent="v1">You can kiss a hundred boys in bars</p>
+      <p begin="00:41.180" end="00:45.260" ttm:agent="v1">Shoot another shot, try to stop the feeling</p>
+      <p begin="00:45.260" end="00:49.380" ttm:agent="v1">You can say it's just the way you are</p>
+      <p begin="00:49.380" end="00:53.340" ttm:agent="v1">Make a new excuse, another stupid reason</p>
+      <p begin="00:53.340" end="00:55.280" ttm:agent="v1" itunes:key="role" itunes:value="background">Good luck, babe! (Well, good luck!)</p>
+      <p begin="00:55.280" end="00:57.420" ttm:agent="v1" itunes:key="role" itunes:value="background">Well, good luck, babe! (Well, good luck!)</p>
+      <p begin="00:57.420" end="01:01.650" ttm:agent="v1">You'd have to stop the world just to stop the feeling</p>
+      <p begin="01:01.650" end="01:03.560" ttm:agent="v1" itunes:key="role" itunes:value="background">Good luck, babe! (Well, good luck!)</p>
+      <p begin="01:03.560" end="01:05.810" ttm:agent="v1" itunes:key="role" itunes:value="background">Well, good luck, babe! (Well, good luck!)</p>
+      <p begin="01:05.810" end="01:10.150" ttm:agent="v1">You'd have to stop the world just to stop the feeling</p>
+      <p begin="01:10.150" end="01:13.850" ttm:agent="v1">I'm cliché, who cares?</p>
+      <p begin="01:13.850" end="01:17.830" ttm:agent="v1">It's a sexually explicit kind of love affair</p>
+      <p begin="01:17.830" end="01:21.980" ttm:agent="v1">And I cry, it's not fair</p>
+      <p begin="01:21.980" end="01:27.240" ttm:agent="v1">I just need a little lovin', I just need a little air</p>
+      <p begin="01:27.240" end="01:31.490" ttm:agent="v1">I think I'm gonna call it off even if you call it love</p>
+      <p begin="01:31.490" end="01:34.720" ttm:agent="v1">I just wanna love someone who calls me &quot;Baby&quot;</p>
+      <p begin="01:34.720" end="01:38.840" ttm:agent="v1">You can kiss a hundred boys in bars</p>
+      <p begin="01:38.840" end="01:43.080" ttm:agent="v1">Shoot another shot, try to stop the feeling</p>
+      <p begin="01:43.080" end="01:47.050" ttm:agent="v1">You can say it's just the way you are</p>
+      <p begin="01:47.050" end="01:50.830" ttm:agent="v1">Make a new excuse, another stupid reason</p>
+      <p begin="01:50.830" end="01:52.830" ttm:agent="v1" itunes:key="role" itunes:value="background">Good luck, babe! (Well, good luck!)</p>
+      <p begin="01:52.830" end="01:55.180" ttm:agent="v1" itunes:key="role" itunes:value="background">Well, good luck, babe! (Well, good luck!)</p>
+      <p begin="01:55.180" end="01:59.250" ttm:agent="v1">You'd have to stop the world just to stop the feeling</p>
+      <p begin="01:59.250" end="02:01.050" ttm:agent="v1" itunes:key="role" itunes:value="background">Good luck, babe! (Well, good luck!)</p>
+      <p begin="02:01.050" end="02:03.370" ttm:agent="v1" itunes:key="role" itunes:value="background">Well, good luck, babe! (Well, good luck!)</p>
+      <p begin="02:03.370" end="02:08.420" ttm:agent="v1">You'd have to stop the world just to stop the feeling</p>
+      <p begin="02:08.420" end="02:14.820" ttm:agent="v1">Ooh, yeah</p>
+      <p begin="02:14.820" end="02:16.320" ttm:agent="v1">Ooh</p>
+      <p begin="02:16.310" end="02:19.840" ttm:agent="v1">And when you wake up next to him in the middle of the night</p>
+      <p begin="02:19.840" end="02:23.760" ttm:agent="v1">With your head in your hands, you're nothing more than his wife</p>
+      <p begin="02:23.760" end="02:27.920" ttm:agent="v1">And when you think about me all of those years ago</p>
+      <p begin="02:27.920" end="02:31.920" ttm:agent="v1">You're standing face-to-face with &quot;I told you so&quot;</p>
+      <p begin="02:31.920" end="02:36.030" ttm:agent="v1">You know I hate to say it, &quot;I told you so&quot;</p>
+      <p begin="02:36.030" end="02:40.610" ttm:agent="v1">You know I hate to say, but I told you so</p>
+      <p begin="02:40.610" end="02:44.670" ttm:agent="v1">You can kiss a hundred boys in bars</p>
+      <p begin="02:44.670" end="02:48.620" ttm:agent="v1" itunes:key="role" itunes:value="background">Shoot another shot, try to stop the feeling (well, I told you so)</p>
+      <p begin="02:48.620" end="02:52.930" ttm:agent="v1">You can say it's just the way you are</p>
+      <p begin="02:52.930" end="02:56.730" ttm:agent="v1">Make a new excuse, another stupid reason</p>
+      <p begin="02:56.730" end="02:58.580" ttm:agent="v1" itunes:key="role" itunes:value="background">Good luck, babe! (Well, good luck!)</p>
+      <p begin="02:58.580" end="03:00.850" ttm:agent="v1" itunes:key="role" itunes:value="background">Well, good luck, babe! (Well, good luck!)</p>
+      <p begin="03:00.850" end="03:04.790" ttm:agent="v1">You'd have to stop the world just to stop the feeling</p>
+      <p begin="03:04.790" end="03:06.840" ttm:agent="v1" itunes:key="role" itunes:value="background">Good luck, babe! (Well, good luck!)</p>
+      <p begin="03:06.840" end="03:09.190" ttm:agent="v1" itunes:key="role" itunes:value="background">Well, good luck, babe! (Well, good luck!)</p>
+      <p begin="03:09.190" end="03:13.270" ttm:agent="v1">You'd have to stop the world just to stop the feeling</p>
+      <p begin="03:13.270" end="03:17.680" ttm:agent="v1">You'd have to stop the world just to stop the feeling</p>
+      <p begin="03:17.680" end="03:22.780" ttm:agent="v1">You'd have to stop the world just to stop the feeling</p>
+      <p begin="03:22.780" end="03:26.700" ttm:agent="v1">You'd have to stop the world just to stop the feeling</p>
+      <p begin="03:26.700" end="03:30.700" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

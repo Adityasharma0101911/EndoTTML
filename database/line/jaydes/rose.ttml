@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>rose</ttm:title>
+      <ttm:agent type="person" xml:id="v1">jaydes</ttm:agent>
+      <ttm:item type="album">ghetto cupid</ttm:item>
+      <ttm:item type="spotify_id">3ERCJ0CCHOtr6V0RmpnmLc</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:02.655" end="00:10.655" ttm:agent="v1">Knew from the start it would end this way</p>
+      <p begin="00:15.440" end="00:23.440" ttm:agent="v1">Tell me how it feels to fade away, away from me</p>
+      <p begin="00:27.509" end="00:34.099" ttm:agent="v1">Why won't you run away from this world to escape</p>
+      <p begin="00:34.099" end="00:40.689" ttm:agent="v1" itunes:key="role" itunes:value="background">(Run away from this world to escape)</p>
+      <p begin="00:40.689" end="00:47.066" ttm:agent="v1">I can't believe a word you said to me</p>
+      <p begin="00:47.066" end="00:53.019" ttm:agent="v1">Don't say it to me</p>
+      <p begin="00:53.019" end="01:01.019" ttm:agent="v1">Knew from the start it would end this way</p>
+      <p begin="01:04.685" end="01:12.685" ttm:agent="v1">Tell me how it feels to fade away, away from me</p>
+      <p begin="01:17.891" end="01:24.694" ttm:agent="v1">Why won't you run away from this world to escape</p>
+      <p begin="01:24.694" end="01:30.221" ttm:agent="v1" itunes:key="role" itunes:value="background">(Run away from this world to escape)</p>
+      <p begin="01:30.221" end="01:37.024" ttm:agent="v1">I can't believe a word you said to me</p>
+      <p begin="01:37.024" end="01:41.024" ttm:agent="v1">Don't say it to me</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Can't Love You Anymore (With OHHYUK)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">IU</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">OHHYUK</ttm:agent>
+      <ttm:item type="album">Palette</ttm:item>
+      <ttm:item type="spotify_id">5MvxeZPiiLAuB5gI8k3ynk</ttm:item>
+      <itunes:duration>03:15.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:14.180" end="00:17.860" ttm:agent="v1">미리 말할게 사과는 안 해</p>
+      <p begin="00:17.860" end="00:21.670" ttm:agent="v1">아무 말 없이 너 후회 안 해?</p>
+      <p begin="00:21.670" end="00:25.570" ttm:agent="v1">다 관심 없잖아 친구야 뭐야?</p>
+      <p begin="00:25.570" end="00:28.830" ttm:agent="v1">Oh, you know what to do</p>
+      <p begin="00:28.830" end="00:32.310" ttm:agent="v1">피곤해, 그만 오늘은 놔 줘</p>
+      <p begin="00:32.310" end="00:36.060" ttm:agent="v1">더 이상 반복하긴 싫어</p>
+      <p begin="00:36.060" end="00:39.550" ttm:agent="v1">또 다 내가 나빠, 아마 그래</p>
+      <p begin="00:39.550" end="00:42.990" ttm:agent="v1">난 널 미워하나 봐</p>
+      <p begin="00:42.990" end="00:47.550" ttm:agent="v1">사랑이 잘 안돼, 떠올려 봐도</p>
+      <p begin="00:47.550" end="00:51.490" ttm:agent="v1">피부를 비비고 안아봐도</p>
+      <p begin="00:51.490" end="00:57.620" ttm:agent="v1">입술을 맞춰도 참 생각대로 되지 않아</p>
+      <p begin="00:57.620" end="01:02.080" ttm:agent="v1">웃긴 것 같아, 되돌려보려고</p>
+      <p begin="01:02.080" end="01:05.030" ttm:agent="v1">서로 모른 척해도</p>
+      <p begin="01:05.030" end="01:13.030" ttm:agent="v1">이제 와 우리가 어떻게 다시 사랑 같은 걸 하겠어?</p>
+      <p begin="01:15.980" end="01:19.750" ttm:agent="v1">다섯 번째 미안하단 말이</p>
+      <p begin="01:19.750" end="01:23.240" ttm:agent="v1">이젠 너에게는 지겨운 건지</p>
+      <p begin="01:23.240" end="01:27.780" ttm:agent="v1">마지막일 거란 예감이 들어</p>
+      <p begin="01:27.780" end="01:30.780" ttm:agent="v1">Oh, you know what to do</p>
+      <p begin="01:30.780" end="01:34.450" ttm:agent="v1">이건 내가 오늘 하루 종일</p>
+      <p begin="01:34.450" end="01:37.970" ttm:agent="v1">그린 저녁은 분명 아니야</p>
+      <p begin="01:37.970" end="01:42.070" ttm:agent="v1">널 보면 자꾸 네 안에 내가 보여서</p>
+      <p begin="01:42.070" end="01:44.760" ttm:agent="v1">이젠 내가 싫어</p>
+      <p begin="01:44.760" end="01:49.270" ttm:agent="v1">사랑이 잘 안돼, 떠올려 봐도</p>
+      <p begin="01:49.270" end="01:53.520" ttm:agent="v1">피부를 비비고 안아봐도</p>
+      <p begin="01:53.520" end="01:59.700" ttm:agent="v1">입술을 맞춰도 참 생각대로 되지 않아</p>
+      <p begin="01:59.700" end="02:03.730" ttm:agent="v1">웃긴 것 같아, 되돌려보려고</p>
+      <p begin="02:03.730" end="02:06.850" ttm:agent="v1">계속 모른 척해도</p>
+      <p begin="02:06.850" end="02:14.850" ttm:agent="v1">이제 와 우리가 어떻게 다시 사랑 같은 걸 하겠어?</p>
+      <p begin="02:15.040" end="02:16.880" ttm:agent="v1" itunes:key="role" itunes:value="background">어디야? (넌 어디야?)</p>
+      <p begin="02:16.880" end="02:18.430" ttm:agent="v1" itunes:key="role" itunes:value="background">집이야 (난 택시야)</p>
+      <p begin="02:18.430" end="02:21.320" ttm:agent="v1">집에 거의 다 와가니?</p>
+      <p begin="02:21.320" end="02:24.150" ttm:agent="v1" itunes:key="role" itunes:value="background">아아, 미안해 (뭐 어떤 게?)</p>
+      <p begin="02:24.150" end="02:25.900" ttm:agent="v1" itunes:key="role" itunes:value="background">그냥 다 (들어가)</p>
+      <p begin="02:25.900" end="02:28.480" ttm:agent="v1">나 지갑 거기 두고 왔어</p>
+      <p begin="02:28.480" end="02:30.580" ttm:agent="v1">아아, 있잖아</p>
+      <p begin="02:30.580" end="02:32.130" ttm:agent="v1" itunes:key="role" itunes:value="background">아니야 (말해 봐?)</p>
+      <p begin="02:32.130" end="02:36.130" ttm:agent="v1">이제 더 사랑하지 않는 것 같아</p>
+      <p begin="02:36.130" end="02:42.930" ttm:agent="v1" itunes:key="role" itunes:value="background">아아아, 아아아 (음, 음)</p>
+      <p begin="02:42.930" end="02:47.510" ttm:agent="v1">사랑이 잘 안돼, 떠올려 봐도</p>
+      <p begin="02:47.510" end="02:51.590" ttm:agent="v1">피부를 비비고 안아봐도</p>
+      <p begin="02:51.590" end="02:58.020" ttm:agent="v1">입술을 맞춰도 참 생각대로 되지 않아</p>
+      <p begin="02:58.020" end="03:02.040" ttm:agent="v1">웃긴 것 같아, 되돌려보려고</p>
+      <p begin="03:02.040" end="03:04.880" ttm:agent="v1">서로 모른 척해도</p>
+      <p begin="03:04.880" end="03:12.880" ttm:agent="v1">이제 와 우리가 어떻게 다시 사랑 같은 걸 하겠어?</p>
+      <p begin="03:13.560" end="03:17.560" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

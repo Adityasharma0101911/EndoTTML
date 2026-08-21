@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Falling Behind</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Laufey</ttm:agent>
+      <ttm:item type="album">Everything I Know About Love</ttm:item>
+      <ttm:item type="spotify_id">4KGGeE7RJsgLNZmnxGFlOj</ttm:item>
+      <itunes:duration>02:54.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:12.040" end="00:14.880" ttm:agent="v1">Moved out to a new city</p>
+      <p begin="00:14.880" end="00:17.540" ttm:agent="v1">June is dawning down on me</p>
+      <p begin="00:17.540" end="00:23.240" ttm:agent="v1">And all that I can find</p>
+      <p begin="00:23.240" end="00:26.290" ttm:agent="v1">A sickly romance in the air</p>
+      <p begin="00:26.290" end="00:31.590" ttm:agent="v1">Lovers stroll without a care in sight</p>
+      <p begin="00:31.590" end="00:36.550" ttm:agent="v1">Ooh, this can't be right</p>
+      <p begin="00:36.550" end="00:40.750" ttm:agent="v1">'Cause the sun's engaged to the sky</p>
+      <p begin="00:40.750" end="00:43.510" ttm:agent="v1">And my best friend's found a new guy</p>
+      <p begin="00:43.510" end="00:46.530" ttm:agent="v1">I'm only getting older</p>
+      <p begin="00:46.530" end="00:52.560" ttm:agent="v1">I've never had a shoulder to cry on</p>
+      <p begin="00:52.560" end="00:56.550" ttm:agent="v1">Someone to call mine</p>
+      <p begin="00:56.550" end="01:02.390" ttm:agent="v1">Everybody's falling in love and I'm falling behind</p>
+      <p begin="01:02.390" end="01:10.390" ttm:agent="v1"/>
+      <p begin="01:14.050" end="01:16.700" ttm:agent="v1">Touched the ocean, fell right in</p>
+      <p begin="01:16.700" end="01:19.460" ttm:agent="v1">Stepped outside and burned my skin</p>
+      <p begin="01:19.460" end="01:25.500" ttm:agent="v1">My life won't go my way</p>
+      <p begin="01:25.500" end="01:28.490" ttm:agent="v1">Bossa nova in my room</p>
+      <p begin="01:28.490" end="01:34.160" ttm:agent="v1">Hope that I'll find someone too to love</p>
+      <p begin="01:34.160" end="01:36.780" ttm:agent="v1">Because</p>
+      <p begin="01:36.780" end="01:40.070" ttm:agent="v1">The sun's engaged to the sky</p>
+      <p begin="01:40.070" end="01:42.920" ttm:agent="v1">And my best friend's found a new guy</p>
+      <p begin="01:42.920" end="01:45.820" ttm:agent="v1">I'm only getting older</p>
+      <p begin="01:45.820" end="01:51.670" ttm:agent="v1">I've never had a shoulder to cry on</p>
+      <p begin="01:51.670" end="01:55.860" ttm:agent="v1">Someone to call mine</p>
+      <p begin="01:55.860" end="02:01.740" ttm:agent="v1">Everybody's falling in love and I'm falling behind</p>
+      <p begin="02:01.740" end="02:04.660" ttm:agent="v1">Everybody's falling in love</p>
+      <p begin="02:04.660" end="02:12.110" ttm:agent="v1">Everybody's falling in love, oh</p>
+      <p begin="02:12.110" end="02:20.110" ttm:agent="v1">Everybody's falling in love but me</p>
+      <p begin="02:24.660" end="02:26.980" ttm:agent="v1" itunes:key="role" itunes:value="background">(One, two, three)</p>
+      <p begin="02:26.980" end="02:30.980" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

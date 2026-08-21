@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Double Life - From &quot;Despicable Me 4&quot;</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Pharrell Williams</ttm:agent>
+      <ttm:item type="album">Double Life (From &quot;Despicable Me 4&quot;)</ttm:item>
+      <ttm:item type="spotify_id">07oO1U722crtVcavi6frX6</ttm:item>
+      <itunes:duration>03:10.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:02.160" end="00:06.090" ttm:agent="v1">Yeah, brraaa</p>
+      <p begin="00:06.090" end="00:08.400" ttm:agent="v1">Yeah</p>
+      <p begin="00:08.400" end="00:10.480" ttm:agent="v1" itunes:key="role" itunes:value="background">Hey, what are you hiding? (watch)</p>
+      <p begin="00:10.480" end="00:12.310" ttm:agent="v1" itunes:key="role" itunes:value="background">What you do when you're gone? (hey, hey)</p>
+      <p begin="00:12.310" end="00:14.130" ttm:agent="v1" itunes:key="role" itunes:value="background">Nothing wrong being private (watch)</p>
+      <p begin="00:14.130" end="00:16.220" ttm:agent="v1" itunes:key="role" itunes:value="background">Make sure it ain't wrong (yeah)</p>
+      <p begin="00:16.220" end="00:18.310" ttm:agent="v1" itunes:key="role" itunes:value="background">Your life double-sided (watch)</p>
+      <p begin="00:18.310" end="00:20.180" ttm:agent="v1">Two-faced like coins</p>
+      <p begin="00:20.180" end="00:22.200" ttm:agent="v1" itunes:key="role" itunes:value="background">What side do I get? (watch)</p>
+      <p begin="00:22.200" end="00:23.700" ttm:agent="v1">What side are you on?</p>
+      <p begin="00:23.350" end="00:26.460" ttm:agent="v1" itunes:key="role" itunes:value="background">So, what have you done? (brra)</p>
+      <p begin="00:26.460" end="00:30.160" ttm:agent="v1" itunes:key="role" itunes:value="background">Some of your dirt has come to light (yeah, why were you?)</p>
+      <p begin="00:30.160" end="00:34.260" ttm:agent="v1" itunes:key="role" itunes:value="background">Speedin' up that hill until the brakes come off (yeah, hey)</p>
+      <p begin="00:34.260" end="00:37.390" ttm:agent="v1">And someone saw you in a fight</p>
+      <p begin="00:37.390" end="00:41.130" ttm:agent="v1">Am I right?</p>
+      <p begin="00:41.130" end="00:46.020" ttm:agent="v1">It doesn't matter to you if you get heads or tails</p>
+      <p begin="00:46.020" end="00:49.130" ttm:agent="v1">You just don't like the flip all thе time</p>
+      <p begin="00:49.130" end="00:53.380" ttm:agent="v1">But if you spin it, then you get to see both sidеs</p>
+      <p begin="00:53.380" end="00:57.230" ttm:agent="v1">Oh, the thrill of the double life</p>
+      <p begin="00:57.230" end="01:00.300" ttm:agent="v1" itunes:key="role" itunes:value="background">Lie detector time (watch)</p>
+      <p begin="01:00.300" end="01:04.130" ttm:agent="v1" itunes:key="role" itunes:value="background">Do you feel bad when you lie? (watch)</p>
+      <p begin="01:04.130" end="01:08.040" ttm:agent="v1" itunes:key="role" itunes:value="background">The look on your face says the best life (watch)</p>
+      <p begin="01:08.040" end="01:11.280" ttm:agent="v1">And then come home like it's fine</p>
+      <p begin="01:11.280" end="01:13.280" ttm:agent="v1" itunes:key="role" itunes:value="background">Am I right? (watch)</p>
+      <p begin="01:13.280" end="01:16.360" ttm:agent="v1">So, what have you done?</p>
+      <p begin="01:16.360" end="01:20.390" ttm:agent="v1" itunes:key="role" itunes:value="background">Some of your dirt has come to light (why were you?)</p>
+      <p begin="01:20.390" end="01:24.230" ttm:agent="v1" itunes:key="role" itunes:value="background">Speedin' up that hill until the brakes come off (hey)</p>
+      <p begin="01:24.230" end="01:27.480" ttm:agent="v1">And someone saw you in a fight</p>
+      <p begin="01:27.480" end="01:31.360" ttm:agent="v1" itunes:key="role" itunes:value="background">Am I right? (ah)</p>
+      <p begin="01:31.360" end="01:35.850" ttm:agent="v1">It doesn't matter to you if you get heads or tails</p>
+      <p begin="01:35.850" end="01:39.240" ttm:agent="v1">You just don't like the flip all the time</p>
+      <p begin="01:39.240" end="01:43.460" ttm:agent="v1">But if you spin it, then you get to see both sides</p>
+      <p begin="01:43.460" end="01:46.140" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, the thrill of the double life (brraaa)</p>
+      <p begin="01:46.140" end="01:48.110" ttm:agent="v1">Who will you be tonight?</p>
+      <p begin="01:48.110" end="01:50.060" ttm:agent="v1" itunes:key="role" itunes:value="background">That's the question (brraaa)</p>
+      <p begin="01:50.060" end="01:52.170" ttm:agent="v1">Who will Gru be tonight?</p>
+      <p begin="01:52.170" end="01:57.910" ttm:agent="v1">That's the question</p>
+      <p begin="01:57.910" end="01:59.680" ttm:agent="v1" itunes:key="role" itunes:value="background">I know you heard the rumors (hey)</p>
+      <p begin="01:59.680" end="02:05.950" ttm:agent="v1" itunes:key="role" itunes:value="background">You must get over to it right away (oh)</p>
+      <p begin="02:05.950" end="02:11.710" ttm:agent="v1" itunes:key="role" itunes:value="background">If anyone can do it, you gotta get there soon, it's not okay (hey)</p>
+      <p begin="02:11.710" end="02:15.440" ttm:agent="v1" itunes:key="role" itunes:value="background">You got cars to drive, plenty jets to fly (blah, blah)</p>
+      <p begin="02:15.440" end="02:19.310" ttm:agent="v1">When will you arrive? You're running out of time</p>
+      <p begin="02:19.310" end="02:23.280" ttm:agent="v1">Don't you see that everything is on the line?</p>
+      <p begin="02:23.280" end="02:27.200" ttm:agent="v1">So I'm sorry, but you have to choose a side</p>
+      <p begin="02:27.200" end="02:31.390" ttm:agent="v1" itunes:key="role" itunes:value="background">You'll never know when it's your time to go (side, hey)</p>
+      <p begin="02:31.390" end="02:35.900" ttm:agent="v1" itunes:key="role" itunes:value="background">And where you end up in life, that's cold (side)</p>
+      <p begin="02:35.900" end="02:39.220" ttm:agent="v1" itunes:key="role" itunes:value="background">You can't ignore, you're spending your life (blah, blah, side)</p>
+      <p begin="02:39.220" end="02:43.140" ttm:agent="v1" itunes:key="role" itunes:value="background">Your watch is broken 'cause you spent all your time (side)</p>
+      <p begin="02:43.140" end="02:47.390" ttm:agent="v1" itunes:key="role" itunes:value="background">It's now or never unless everything rights (side)</p>
+      <p begin="02:47.390" end="02:53.860" ttm:agent="v1" itunes:key="role" itunes:value="background">Before the spinning stops, you must pick a side (hey-hey, brraaa)</p>
+      <p begin="02:53.860" end="02:56.250" ttm:agent="v1">Who will you be tonight?</p>
+      <p begin="02:56.250" end="02:58.010" ttm:agent="v1" itunes:key="role" itunes:value="background">That's the question (yeah, yeah)</p>
+      <p begin="02:58.010" end="03:00.190" ttm:agent="v1">Who will Gru be tonight?</p>
+      <p begin="03:00.190" end="03:01.920" ttm:agent="v1">That's the question</p>
+      <p begin="03:01.920" end="03:04.280" ttm:agent="v1" itunes:key="role" itunes:value="background">Who will you be tonight? (hey)</p>
+      <p begin="03:04.280" end="03:06.250" ttm:agent="v1" itunes:key="role" itunes:value="background">That's the question (hey)</p>
+      <p begin="03:06.250" end="03:08.320" ttm:agent="v1" itunes:key="role" itunes:value="background">Who will Gru be tonight? (ayy)</p>
+      <p begin="03:08.320" end="03:09.820" ttm:agent="v1">That's the question</p>
+      <p begin="03:09.710" end="03:13.710" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

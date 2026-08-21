@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>MEMORIZING 2</ttm:title>
+      <ttm:agent type="person" xml:id="v1">DJ DELACROIX</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">OXXED</ttm:agent>
+      <ttm:agent type="person" xml:id="v3">!NFNX</ttm:agent>
+      <ttm:item type="album">MEMORIZING 2</ttm:item>
+      <ttm:item type="spotify_id">5HNh8yFshtfPBjia8qax5W</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.000" end="00:08.000" ttm:agent="v1">by:DJ DELACROIX/OXXED/!NFNX</p>
+      <p begin="00:27.152" end="00:31.251" ttm:agent="v1">Memorizing……Memorizing……</p>
+      <p begin="00:31.251" end="00:39.251" ttm:agent="v1">Memorizing……Memorizing……</p>
+      <p begin="00:54.464" end="00:56.153" ttm:agent="v1">Toma toma toma toma</p>
+      <p begin="00:56.153" end="00:58.482" ttm:agent="v1">Toma toma toma toma</p>
+      <p begin="00:58.482" end="01:00.887" ttm:agent="v1">Toma toma toma toma</p>
+      <p begin="01:00.887" end="01:03.184" ttm:agent="v1">Toma toma toma toma</p>
+      <p begin="01:03.184" end="01:05.259" ttm:agent="v1">Toma toma toma toma</p>
+      <p begin="01:05.259" end="01:07.603" ttm:agent="v1">Toma toma toma toma</p>
+      <p begin="01:07.603" end="01:09.774" ttm:agent="v1">Toma toma toma toma</p>
+      <p begin="01:09.774" end="01:12.053" ttm:agent="v1">Toma toma toma toma</p>
+      <p begin="01:12.053" end="01:14.414" ttm:agent="v1">（oh!）Toma toma toma toma</p>
+      <p begin="01:14.414" end="01:16.830" ttm:agent="v1">Toma toma toma toma</p>
+      <p begin="01:16.830" end="01:19.174" ttm:agent="v1">Toma toma toma toma</p>
+      <p begin="01:19.174" end="01:21.028" ttm:agent="v1">Toma toma toma toma</p>
+      <p begin="01:21.028" end="01:23.434" ttm:agent="v1">Toma toma toma toma</p>
+      <p begin="01:23.434" end="01:25.813" ttm:agent="v1">Toma toma toma toma</p>
+      <p begin="01:25.813" end="01:29.813" ttm:agent="v1">Toma toma toma toma</p>
+    </div>
+  </body>
+</tt>

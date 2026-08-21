@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>stay the night pluggnb</ttm:title>
+      <ttm:agent type="person" xml:id="v1">cadenkala</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">tabris</ttm:agent>
+      <ttm:agent type="person" xml:id="v3">KHALI</ttm:agent>
+      <ttm:item type="album">stay the night pluggnb</ttm:item>
+      <ttm:item type="spotify_id">0MpbU5LCgRgyeqQei3B6zp</ttm:item>
+      <itunes:duration>02:08.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.600" end="00:03.600" ttm:agent="v1">I know that we are upside down</p>
+      <p begin="00:03.600" end="00:06.830" ttm:agent="v1">So hold your tongue and hear me out</p>
+      <p begin="00:06.830" end="00:09.110" ttm:agent="v1">I know that we were made to break</p>
+      <p begin="00:09.110" end="00:13.010" ttm:agent="v1">So what? I don't mind</p>
+      <p begin="00:13.010" end="00:16.170" ttm:agent="v1">You kill the lights, I'll draw the blinds</p>
+      <p begin="00:16.170" end="00:19.370" ttm:agent="v1">Don't dull the sparkle in your eyes</p>
+      <p begin="00:19.370" end="00:21.670" ttm:agent="v1">I know that we were made to break</p>
+      <p begin="00:21.670" end="00:25.670" ttm:agent="v1">So what? I don't mind</p>
+      <p begin="00:25.670" end="00:28.780" ttm:agent="v1">Are you gonna stay the night?</p>
+      <p begin="00:28.780" end="00:32.520" ttm:agent="v1">Are you gonna stay the night?</p>
+      <p begin="00:32.520" end="00:34.320" ttm:agent="v1">Oh-oh, oh-oh, oh-oh, oh-oh</p>
+      <p begin="00:34.320" end="00:38.140" ttm:agent="v1">Are you gonna stay the night?</p>
+      <p begin="00:38.140" end="00:41.250" ttm:agent="v1">Are you gonna stay the night?</p>
+      <p begin="00:41.250" end="00:44.390" ttm:agent="v1">Doesn't mean we're bound for life</p>
+      <p begin="00:44.390" end="00:46.860" ttm:agent="v1">So-o, oh-oh, oh-oh, oh-oh</p>
+      <p begin="00:46.860" end="00:50.800" ttm:agent="v1">Are you gonna stay the night?</p>
+      <p begin="00:50.800" end="00:53.780" ttm:agent="v1">I am a fire, you're gasoline</p>
+      <p begin="00:53.780" end="00:56.960" ttm:agent="v1">Come pour yourself all over me</p>
+      <p begin="00:56.960" end="01:03.240" ttm:agent="v1">We'll let this place go down in flames, only one more time</p>
+      <p begin="01:03.240" end="01:06.340" ttm:agent="v1">You kill the lights, I'll draw the blinds</p>
+      <p begin="01:06.340" end="01:09.620" ttm:agent="v1">Don't dull the sparkle in your eyes</p>
+      <p begin="01:09.620" end="01:11.880" ttm:agent="v1">I know that we were made to break</p>
+      <p begin="01:11.880" end="01:15.920" ttm:agent="v1">So what? I don't mind</p>
+      <p begin="01:15.920" end="01:19.020" ttm:agent="v1">Are you gonna stay the night?</p>
+      <p begin="01:19.020" end="01:22.840" ttm:agent="v1">Are you gonna stay the night?</p>
+      <p begin="01:22.840" end="01:24.500" ttm:agent="v1">Oh-oh, oh-oh, oh-oh, oh-oh</p>
+      <p begin="01:24.500" end="01:28.340" ttm:agent="v1">Are you gonna stay the night?</p>
+      <p begin="01:28.340" end="01:31.530" ttm:agent="v1" itunes:key="role" itunes:value="background">Are you gonna stay the night? (When we get burned)</p>
+      <p begin="01:31.530" end="01:34.600" ttm:agent="v1" itunes:key="role" itunes:value="background">Doesn't mean we're bound for life (We never learn)</p>
+      <p begin="01:34.600" end="01:37.080" ttm:agent="v1">So-o, oh-oh, oh-oh, oh-oh</p>
+      <p begin="01:37.080" end="01:40.880" ttm:agent="v1">Are you gonna stay the night?</p>
+      <p begin="01:40.880" end="01:43.980" ttm:agent="v1">Are you gonna stay the night?</p>
+      <p begin="01:43.980" end="01:47.120" ttm:agent="v1">Doesn't mean we're bound for life</p>
+      <p begin="01:47.120" end="01:49.560" ttm:agent="v1">So-o, oh-oh, oh-oh, oh-oh</p>
+      <p begin="01:49.560" end="01:53.560" ttm:agent="v1">Are you gonna stay the night?</p>
+    </div>
+  </body>
+</tt>

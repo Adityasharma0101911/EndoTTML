@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Landed in Brooklyn</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Khantrast</ttm:agent>
+      <ttm:item type="album">Chinatowns Favorite</ttm:item>
+      <ttm:item type="spotify_id">5y1vSdwJ6bEQ2ome9v5Okr</ttm:item>
+      <itunes:duration>01:52.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:04.790" end="00:06.730" ttm:agent="v1" itunes:key="role" itunes:value="background">(Just landed in Brooklyn)</p>
+      <p begin="00:06.730" end="00:08.630" ttm:agent="v1" itunes:key="role" itunes:value="background">(Went to the hood for some, bop)</p>
+      <p begin="00:08.630" end="00:10.870" ttm:agent="v1" itunes:key="role" itunes:value="background">(Just landed in Brooklyn)</p>
+      <p begin="00:10.870" end="00:14.220" ttm:agent="v1" itunes:key="role" itunes:value="background">Like-like damn (damn), I'm on my villager tip (on my villager)</p>
+      <p begin="00:14.220" end="00:16.230" ttm:agent="v1">Bro-bro came through with that fire, like</p>
+      <p begin="00:16.230" end="00:18.140" ttm:agent="v1" itunes:key="role" itunes:value="background">He came with a literal stick (grrah)</p>
+      <p begin="00:18.140" end="00:19.640" ttm:agent="v1">Black tea, takin' Hennessy sips</p>
+      <p begin="00:19.640" end="00:21.790" ttm:agent="v1">With a rake in my grip in place of a blick</p>
+      <p begin="00:21.790" end="00:25.690" ttm:agent="v1">Yo-yo-yo Saru, I heard the hood need a Rush Hour Six</p>
+      <p begin="00:25.690" end="00:28.490" ttm:agent="v1" itunes:key="role" itunes:value="background">Say less 'cause I just landed in (damn)</p>
+      <p begin="00:28.490" end="00:29.990" ttm:agent="v1" itunes:key="role" itunes:value="background">Just landed in Brooklyn, huh (just landed in)</p>
+      <p begin="00:29.960" end="00:31.860" ttm:agent="v1" itunes:key="role" itunes:value="background">Went to the hood for some bop (I need some bop)</p>
+      <p begin="00:31.860" end="00:33.630" ttm:agent="v1">Shawty said she from Bushwick, but</p>
+      <p begin="00:33.630" end="00:35.640" ttm:agent="v1">She on Penn Ave givin' top, like</p>
+      <p begin="00:35.640" end="00:39.540" ttm:agent="v1">She hoppin' on villager dick, she swallow my kids off the wok, wait</p>
+      <p begin="00:39.540" end="00:41.220" ttm:agent="v1" itunes:key="role" itunes:value="background">I just landed in the hood (shh)</p>
+      <p begin="00:41.220" end="00:43.070" ttm:agent="v1">Finna smoke me a fresh pack of opps</p>
+      <p begin="00:43.070" end="00:45.380" ttm:agent="v1">Wait, fresh out the boat, and I'm strapped, bitch</p>
+      <p begin="00:45.380" end="00:46.880" ttm:agent="v1">I'm lit off the oolong and liquor</p>
+      <p begin="00:46.800" end="00:49.040" ttm:agent="v1">Who want the, who want the smoke? They get packed up</p>
+      <p begin="00:49.040" end="00:50.700" ttm:agent="v1">Get turned to a frame on a picture</p>
+      <p begin="00:50.700" end="00:52.770" ttm:agent="v1">My-my bro got a cig and a straw hat</p>
+      <p begin="00:52.770" end="00:54.660" ttm:agent="v1">Came from a village of scammers and killers</p>
+      <p begin="00:54.660" end="00:56.570" ttm:agent="v1">From the struggle, and I could bet</p>
+      <p begin="00:56.570" end="00:58.370" ttm:agent="v1">I'm the only chink that could say</p>
+      <p begin="00:58.370" end="01:00.030" ttm:agent="v1">This for the homies I broke bread with</p>
+      <p begin="01:00.030" end="01:02.300" ttm:agent="v1">Split a fifty when we was still on EBT</p>
+      <p begin="01:02.300" end="01:04.030" ttm:agent="v1">I'm tryna move the whole gang out the hood</p>
+      <p begin="01:04.030" end="01:06.100" ttm:agent="v1">'Til the family good, whole team gon' eat</p>
+      <p begin="01:06.100" end="01:08.420" ttm:agent="v1">Ain't about blood or 'bout money, this family ties</p>
+      <p begin="01:08.420" end="01:10.030" ttm:agent="v1">If I'm Kendrick then they Baby Keem</p>
+      <p begin="01:10.030" end="01:11.540" ttm:agent="v1">Pray for the day when the brodies gon' eat</p>
+      <p begin="01:11.540" end="01:13.640" ttm:agent="v1">'Til then the motto is, &quot;By any means&quot;</p>
+      <p begin="01:13.640" end="01:15.810" ttm:agent="v1">Look, I'm with the gang, and we cliqued up</p>
+      <p begin="01:15.810" end="01:18.370" ttm:agent="v1">We mobbin' deep and y'all look like some shook ones, like</p>
+      <p begin="01:18.370" end="01:19.870" ttm:agent="v1">Rest of y'all? Suck my dick</p>
+      <p begin="01:19.680" end="01:21.860" ttm:agent="v1">Like, how my seed taste when it fill ya whole lung up?</p>
+      <p begin="01:21.860" end="01:25.600" ttm:agent="v1">Like, I do this shit so my brothers don't gotta be bussin' they ass for no come up</p>
+      <p begin="01:25.600" end="01:27.570" ttm:agent="v1">Like, what? Bitch, I'm the one</p>
+      <p begin="01:27.570" end="01:30.150" ttm:agent="v1" itunes:key="role" itunes:value="background">I leave them ticked like they got a stutter, wait (wait)</p>
+      <p begin="01:30.150" end="01:31.980" ttm:agent="v1" itunes:key="role" itunes:value="background">Just landed in Brooklyn, huh (grrah)</p>
+      <p begin="01:31.980" end="01:33.840" ttm:agent="v1" itunes:key="role" itunes:value="background">Went to the hood for some bop (bop)</p>
+      <p begin="01:33.840" end="01:35.720" ttm:agent="v1">Shawty said she from Bushwick, but</p>
+      <p begin="01:35.720" end="01:37.920" ttm:agent="v1" itunes:key="role" itunes:value="background">She on Penn Ave givin' top, like (like)</p>
+      <p begin="01:37.920" end="01:41.580" ttm:agent="v1">She hoppin' on villager dick, she swallow my kids off the wok, wait</p>
+      <p begin="01:41.580" end="01:43.270" ttm:agent="v1" itunes:key="role" itunes:value="background">I just landed in the hood (shh)</p>
+      <p begin="01:43.270" end="01:44.770" ttm:agent="v1">Finna' smoke me a fresh pack of opps!</p>
+      <p begin="01:44.740" end="01:48.740" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

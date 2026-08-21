@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>YES or YES</ttm:title>
+      <ttm:agent type="person" xml:id="v1">TWICE</ttm:agent>
+      <ttm:item type="album">YES or YES</ttm:item>
+      <ttm:item type="spotify_id">26OVhEqFDQH0Ij77QtmGP9</ttm:item>
+      <itunes:duration>03:58.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.890" end="00:02.740" ttm:agent="v1">Hey boy</p>
+      <p begin="00:02.740" end="00:06.490" ttm:agent="v1">Look, I'm gonna make this simple for you</p>
+      <p begin="00:06.490" end="00:08.860" ttm:agent="v1">You got two choices...</p>
+      <p begin="00:08.860" end="00:13.710" ttm:agent="v1">Yes or yes?</p>
+      <p begin="00:13.710" end="00:15.860" ttm:agent="v1"/>
+      <p begin="00:15.860" end="00:19.110" ttm:agent="v1">Ah ah ah ah ah</p>
+      <p begin="00:19.110" end="00:22.590" ttm:agent="v1">둘 중에 하나만 골라 Yes or yes?</p>
+      <p begin="00:22.590" end="00:26.370" ttm:agent="v1">Ah ah ah ah ah ah ah</p>
+      <p begin="00:26.370" end="00:29.590" ttm:agent="v1">하나만 선택해 어서 Yes or yes?</p>
+      <p begin="00:29.590" end="00:33.510" ttm:agent="v1" itunes:key="role" itunes:value="background">내가 이렇게도 이기적이었던가 (Ah, ah)</p>
+      <p begin="00:33.510" end="00:37.510" ttm:agent="v1">뭔가 이렇게 갖고 싶던 적 있었나, 있었나</p>
+      <p begin="00:37.510" end="00:39.690" ttm:agent="v1">다 놀라, 다 놀라 내 뻔뻔함에</p>
+      <p begin="00:39.690" end="00:42.320" ttm:agent="v1"/>
+      <p begin="00:42.320" end="00:43.820" ttm:agent="v1" itunes:key="role" itunes:value="background">(Come on and tell me yes)</p>
+      <p begin="00:43.500" end="00:47.470" ttm:agent="v1" itunes:key="role" itunes:value="background">생각보다 과감해진 나의 Scenario (Ah, ah)</p>
+      <p begin="00:47.470" end="00:50.420" ttm:agent="v1">이 정도 플랜이면 완벽해 만족해, 만족해</p>
+      <p begin="00:50.420" end="00:53.640" ttm:agent="v1">I don't care, I don't care</p>
+      <p begin="00:53.640" end="00:55.560" ttm:agent="v1">누가 뭐래도 ooh ooh ooh ooh</p>
+      <p begin="00:55.560" end="00:57.610" ttm:agent="v1" itunes:key="role" itunes:value="background">(You better tell me yes)</p>
+      <p begin="00:57.610" end="01:00.620" ttm:agent="v1">내 맘은 정했어 Yes!</p>
+      <p begin="01:00.620" end="01:03.850" ttm:agent="v1">그럼 이제 네 대답을 들을 차례</p>
+      <p begin="01:03.850" end="01:07.300" ttm:agent="v1">힘들면 보기를 줄게 넌 고르기만 해</p>
+      <p begin="01:07.300" end="01:10.740" ttm:agent="v1">고민할 필요도 없게 해줄게</p>
+      <p begin="01:10.740" end="01:14.520" ttm:agent="v1">뭘 고를지 몰라 준비해봤어</p>
+      <p begin="01:14.520" end="01:17.970" ttm:agent="v1">둘 중에 하나만 골라 Yes or yes?</p>
+      <p begin="01:17.970" end="01:21.410" ttm:agent="v1">네 마음을 몰라 준비해봤어</p>
+      <p begin="01:21.410" end="01:25.230" ttm:agent="v1">하나만 선택해 어서 Yes or yes?</p>
+      <p begin="01:25.230" end="01:28.430" ttm:agent="v1">싫어는 싫어 나 아니면 우리?</p>
+      <p begin="01:28.430" end="01:31.640" ttm:agent="v1">선택을 존중해 거절은 거절해</p>
+      <p begin="01:31.640" end="01:35.620" ttm:agent="v1">선택지는 하나 자 선택은 네 맘</p>
+      <p begin="01:35.620" end="01:39.140" ttm:agent="v1">It's all up to you</p>
+      <p begin="01:39.140" end="01:42.690" ttm:agent="v1">둘 중에 하나만 골라 Yes or yes?</p>
+      <p begin="01:42.690" end="01:44.200" ttm:agent="v1" itunes:key="role" itunes:value="background">진심일까? (Do not guess)</p>
+      <p begin="01:44.200" end="01:46.080" ttm:agent="v1" itunes:key="role" itunes:value="background">진심이니? (Do not ask)</p>
+      <p begin="01:46.080" end="01:49.590" ttm:agent="v1">애매한 좌우 말고 확실히 위아래로</p>
+      <p begin="01:49.590" end="01:51.660" ttm:agent="v1">There's no letters N &amp; O</p>
+      <p begin="01:51.660" end="01:53.250" ttm:agent="v1">지워버릴래 오늘부로</p>
+      <p begin="01:53.250" end="01:54.990" ttm:agent="v1" itunes:key="role" itunes:value="background">복잡하게 고민할 필요 (Uh, uh, uh)</p>
+      <p begin="01:54.990" end="01:56.740" ttm:agent="v1">없어 정답은 Yes yes yo!</p>
+      <p begin="01:56.740" end="01:59.920" ttm:agent="v1">없던 이기심도 자극하는 너의 눈과</p>
+      <p begin="01:59.920" end="02:03.490" ttm:agent="v1" itunes:key="role" itunes:value="background">널 향한 호기심이 만나서 (Ah, ah)</p>
+      <p begin="02:03.490" end="02:06.160" ttm:agent="v1" itunes:key="role" itunes:value="background">타올라 (타올라) 타오른다 (타오른다)</p>
+      <p begin="02:06.160" end="02:08.820" ttm:agent="v1">My heart burn, burn, burn</p>
+      <p begin="02:08.820" end="02:10.430" ttm:agent="v1" itunes:key="role" itunes:value="background">(You better hurry up)</p>
+      <p begin="02:10.430" end="02:12.840" ttm:agent="v1">조금 쉽게 말하자면</p>
+      <p begin="02:12.840" end="02:16.880" ttm:agent="v1" itunes:key="role" itunes:value="background">넌 뭘 골라도 날 만나게 될 거야 (Waiting for you)</p>
+      <p begin="02:16.880" end="02:18.750" ttm:agent="v1">뭐 좀 황당하긴 해도</p>
+      <p begin="02:18.750" end="02:20.380" ttm:agent="v1" itunes:key="role" itunes:value="background">억지라고 해도 (Whoa)</p>
+      <p begin="02:20.380" end="02:24.040" ttm:agent="v1">절대 후회하지 않게 해줄게</p>
+      <p begin="02:24.040" end="02:27.240" ttm:agent="v1">뭘 고를지 몰라 준비해봤어</p>
+      <p begin="02:27.240" end="02:31.390" ttm:agent="v1">둘 중에 하나만 골라 Yes or yes?</p>
+      <p begin="02:31.390" end="02:34.590" ttm:agent="v1">네 마음을 몰라 준비해봤어</p>
+      <p begin="02:34.590" end="02:38.250" ttm:agent="v1">하나만 선택해 어서 Yes or yes?</p>
+      <p begin="02:38.250" end="02:41.150" ttm:agent="v1">싫어는 싫어 나 아니면 우리?</p>
+      <p begin="02:41.150" end="02:44.710" ttm:agent="v1">선택을 존중해 거절은 거절해</p>
+      <p begin="02:44.710" end="02:48.140" ttm:agent="v1">선택지는 하나 자 선택은 네 맘</p>
+      <p begin="02:48.140" end="02:54.670" ttm:agent="v1">Now it's all up to you</p>
+      <p begin="02:54.670" end="02:56.170" ttm:agent="v1" itunes:key="role" itunes:value="background">Maybe not (No! No!)</p>
+      <p begin="02:55.660" end="02:57.560" ttm:agent="v1" itunes:key="role" itunes:value="background">Maybe yes (No! No!)</p>
+      <p begin="02:57.560" end="03:02.000" ttm:agent="v1">좀 더 선명하게 네 맘을 내게 보여봐</p>
+      <p begin="03:02.000" end="03:07.960" ttm:agent="v1">귀 기울여봐 무슨 소리가 들리지 않니?</p>
+      <p begin="03:07.960" end="03:11.410" ttm:agent="v1">It's simple, Y-E-S, hey!</p>
+      <p begin="03:11.410" end="03:14.690" ttm:agent="v1" itunes:key="role" itunes:value="background">둘 중에 하나만 골라 Yes or yes? (Hey)</p>
+      <p begin="03:14.690" end="03:17.860" ttm:agent="v1" itunes:key="role" itunes:value="background">하나만 선택해 어서 Yes or yes? (Oh)</p>
+      <p begin="03:17.860" end="03:21.390" ttm:agent="v1">하나 더 보태서 Yes or yes?</p>
+      <p begin="03:21.390" end="03:24.870" ttm:agent="v1">골라봐 자 선택은 네 맘</p>
+      <p begin="03:24.870" end="03:29.130" ttm:agent="v1" itunes:key="role" itunes:value="background">뭘 고를지 몰라 준비해봤어 (Oh!)</p>
+      <p begin="03:29.130" end="03:31.730" ttm:agent="v1" itunes:key="role" itunes:value="background">둘 중에 하나만 골라 Yes or yes? (Oh, oh...)</p>
+      <p begin="03:31.730" end="03:35.270" ttm:agent="v1" itunes:key="role" itunes:value="background">네 마음을 몰라 준비해봤어 (준비해봤어 bae)</p>
+      <p begin="03:35.270" end="03:38.760" ttm:agent="v1" itunes:key="role" itunes:value="background">하나만 선택해 어서 Yes or yes? (Whoa...)</p>
+      <p begin="03:38.760" end="03:41.950" ttm:agent="v1">싫어는 싫어 나 아니면 우리?</p>
+      <p begin="03:41.950" end="03:45.770" ttm:agent="v1" itunes:key="role" itunes:value="background">선택을 존중해 거절은 거절해 (Oh whoa)</p>
+      <p begin="03:45.770" end="03:49.720" ttm:agent="v1">선택지는 하나 자 선택은 네 맘</p>
+      <p begin="03:49.720" end="03:53.470" ttm:agent="v1" itunes:key="role" itunes:value="background">It's all up to you (It's all up to you, ooh)</p>
+      <p begin="03:53.470" end="03:55.680" ttm:agent="v1">하나만 선택해 어서 Yes or yes?</p>
+      <p begin="03:55.680" end="03:59.680" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Me Gustas Tu</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Manu Chao</ttm:agent>
+      <ttm:item type="album">Próxima Estación: Esperanza</ttm:item>
+      <ttm:item type="spotify_id">6b37xrsNCWYIUphFBazqD6</ttm:item>
+      <itunes:duration>04:00.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.090" end="00:04.070" ttm:agent="v1">¿Qué horas son, mi corazón?</p>
+      <p begin="00:04.070" end="00:06.120" ttm:agent="v1">Te lo dije bien clarito</p>
+      <p begin="00:06.120" end="00:10.820" ttm:agent="v1">Permanece a la escucha</p>
+      <p begin="00:10.820" end="00:12.970" ttm:agent="v1">Permanece a la escucha</p>
+      <p begin="00:12.970" end="00:17.160" ttm:agent="v1">Doce de la noche en La Habana, Cuba</p>
+      <p begin="00:17.160" end="00:21.040" ttm:agent="v1">Once de la noche en San Salvador, El Salvador</p>
+      <p begin="00:21.040" end="00:23.860" ttm:agent="v1">Once de la noche en Managua, Nicaragua</p>
+      <p begin="00:23.860" end="00:26.410" ttm:agent="v1">Me gustan los aviones, me gustas tú</p>
+      <p begin="00:26.410" end="00:29.060" ttm:agent="v1">Me gusta viajar, me gustas tú</p>
+      <p begin="00:29.060" end="00:31.880" ttm:agent="v1">Me gusta la mañana, me gustas tú</p>
+      <p begin="00:31.880" end="00:34.660" ttm:agent="v1">Me gusta el viento, me gustas tú</p>
+      <p begin="00:34.660" end="00:37.350" ttm:agent="v1">Me gusta soñar, me gustas tú</p>
+      <p begin="00:37.350" end="00:40.530" ttm:agent="v1">Me gusta la mar, me gustas tú</p>
+      <p begin="00:40.530" end="00:43.340" ttm:agent="v1">¿Qué voy a hacer?, je ne sais pas</p>
+      <p begin="00:43.340" end="00:46.000" ttm:agent="v1">¿Qué voy a hacer?, je ne sais plus</p>
+      <p begin="00:46.000" end="00:48.980" ttm:agent="v1">¿Qué voy a hacer?, je suis perdu</p>
+      <p begin="00:48.980" end="00:50.940" ttm:agent="v1">¿Qué horas son, mi corazón?</p>
+      <p begin="00:50.940" end="00:53.690" ttm:agent="v1">Me gusta la moto, me gustas tú</p>
+      <p begin="00:53.690" end="00:56.530" ttm:agent="v1">Me gusta correr, me gustas tú</p>
+      <p begin="00:56.530" end="00:59.380" ttm:agent="v1">Me gusta la lluvia, me gustas tú</p>
+      <p begin="00:59.380" end="01:01.810" ttm:agent="v1">Me gusta volver, me gustas tú</p>
+      <p begin="01:01.810" end="01:04.660" ttm:agent="v1">Me gusta marihuana, me gustas tú</p>
+      <p begin="01:04.660" end="01:07.450" ttm:agent="v1">Me gusta Colombiana, me gustas tú</p>
+      <p begin="01:07.450" end="01:10.160" ttm:agent="v1">Me gusta la montaña, me gustas tú</p>
+      <p begin="01:10.160" end="01:13.420" ttm:agent="v1" itunes:key="role" itunes:value="background">Me gusta la noche (me gustas tú)</p>
+      <p begin="01:13.420" end="01:16.060" ttm:agent="v1">¿Qué voy a hacer?, je ne sais pas</p>
+      <p begin="01:16.060" end="01:18.740" ttm:agent="v1">¿Qué voy a hacer?, je ne sais plus</p>
+      <p begin="01:18.740" end="01:21.520" ttm:agent="v1">¿Qué voy a hacer?, je suis perdu</p>
+      <p begin="01:21.520" end="01:25.920" ttm:agent="v1">¿Qué horas son, mi corazón?</p>
+      <p begin="01:25.920" end="01:32.440" ttm:agent="v1"/>
+      <p begin="01:32.440" end="01:34.800" ttm:agent="v1">Doce, un minuto</p>
+      <p begin="01:34.800" end="01:37.500" ttm:agent="v1">Me gusta la cena, me gustas tú</p>
+      <p begin="01:37.500" end="01:40.110" ttm:agent="v1" itunes:key="role" itunes:value="background">Me gusta la vecina, me gustas tú (Radio Reloj)</p>
+      <p begin="01:40.110" end="01:42.920" ttm:agent="v1" itunes:key="role" itunes:value="background">Me gusta su cocina, me gustas tú (una de la mañana)</p>
+      <p begin="01:42.920" end="01:45.630" ttm:agent="v1">Me gusta camelar, me gustas tú</p>
+      <p begin="01:45.630" end="01:48.390" ttm:agent="v1">Me gusta la guitarra, me gustas tú</p>
+      <p begin="01:48.390" end="01:51.480" ttm:agent="v1">Me gusta el reggae, me gustas tú</p>
+      <p begin="01:51.480" end="01:54.270" ttm:agent="v1">¿Qué voy a hacer?, je ne sais pas</p>
+      <p begin="01:54.270" end="01:56.950" ttm:agent="v1">¿Qué voy a hacer?, je ne sais plus</p>
+      <p begin="01:56.950" end="01:59.710" ttm:agent="v1">¿Qué voy a hacer?, je suis perdu</p>
+      <p begin="01:59.710" end="02:01.930" ttm:agent="v1">¿Qué horas son, mi corazón?</p>
+      <p begin="02:01.930" end="02:04.640" ttm:agent="v1">Me gusta la canela, me gustas tú</p>
+      <p begin="02:04.640" end="02:07.460" ttm:agent="v1">Me gusta el fuego, me gustas tú</p>
+      <p begin="02:07.460" end="02:10.290" ttm:agent="v1">Me gusta menear, me gustas tú</p>
+      <p begin="02:10.290" end="02:12.780" ttm:agent="v1">Me gusta La Coruña, me gustas tú</p>
+      <p begin="02:12.780" end="02:15.500" ttm:agent="v1">Me gusta Malasaña, me gustas tú</p>
+      <p begin="02:15.500" end="02:18.390" ttm:agent="v1">Me gusta la castaña, me gustas tú</p>
+      <p begin="02:18.390" end="02:21.460" ttm:agent="v1">Me gusta Guatemala, me gustas tú</p>
+      <p begin="02:21.460" end="02:24.250" ttm:agent="v1">¿Qué voy a hacer?, je ne sais pas</p>
+      <p begin="02:24.250" end="02:27.200" ttm:agent="v1">¿Qué voy a hacer?, je ne sais plus</p>
+      <p begin="02:27.200" end="02:29.790" ttm:agent="v1">¿Qué voy a hacer?, je suis perdu</p>
+      <p begin="02:29.790" end="02:32.530" ttm:agent="v1">¿Qué horas son, mi corazón?</p>
+      <p begin="02:32.530" end="02:35.100" ttm:agent="v1">¿Qué voy a hacer?, je ne sais pas</p>
+      <p begin="02:35.100" end="02:38.070" ttm:agent="v1">¿Qué voy a hacer?, je ne sais plus</p>
+      <p begin="02:38.070" end="02:40.790" ttm:agent="v1">¿Qué voy a hacer?, je suis perdu</p>
+      <p begin="02:40.790" end="02:43.370" ttm:agent="v1">¿Qué horas son, mi corazón?</p>
+      <p begin="02:43.370" end="02:46.190" ttm:agent="v1">¿Qué voy a hacer?, je ne sais pas</p>
+      <p begin="02:46.190" end="02:48.840" ttm:agent="v1">¿Qué voy a hacer?, je ne sais plus</p>
+      <p begin="02:48.840" end="02:51.500" ttm:agent="v1">¿Qué voy a hacer?, je suis perdu</p>
+      <p begin="02:51.500" end="02:56.910" ttm:agent="v1">¿Qué horas son, mi corazón?</p>
+      <p begin="02:56.910" end="02:59.890" ttm:agent="v1">¿Qué horas son, mi corazón?</p>
+      <p begin="02:59.890" end="03:02.410" ttm:agent="v1">¿Qué horas son, mi corazón?</p>
+      <p begin="03:02.410" end="03:07.920" ttm:agent="v1">¿Qué horas son, mi corazón?</p>
+      <p begin="03:07.920" end="03:13.300" ttm:agent="v1">¿Qué horas son, mi corazón?</p>
+      <p begin="03:13.300" end="03:17.330" ttm:agent="v1">¿Qué horas son, mi corazón?</p>
+      <p begin="03:17.330" end="03:20.950" ttm:agent="v1">Cuatro de la mañana</p>
+      <p begin="03:20.950" end="03:23.500" ttm:agent="v1">A la bin, a la ban, a la bin-bon-bam</p>
+      <p begin="03:23.500" end="03:26.420" ttm:agent="v1">A la bin, a la ban, a la bin-bon-bam</p>
+      <p begin="03:26.420" end="03:29.220" ttm:agent="v1">Obladí obladá obladí-da-da</p>
+      <p begin="03:29.220" end="03:33.520" ttm:agent="v1">A la bin, a la ban, a la bin-bon-bam</p>
+      <p begin="03:33.520" end="03:41.520" ttm:agent="v1"/>
+      <p begin="03:48.350" end="03:52.220" ttm:agent="v1">Radio reloj</p>
+      <p begin="03:52.220" end="03:55.160" ttm:agent="v1">Cinco de la mañana</p>
+      <p begin="03:55.160" end="03:57.600" ttm:agent="v1">No todo lo que es oro brilla</p>
+      <p begin="03:57.600" end="03:59.160" ttm:agent="v1">Remedio chino e infalible</p>
+      <p begin="03:59.160" end="04:03.160" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

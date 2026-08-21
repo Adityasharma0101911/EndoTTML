@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Tell Me</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Wonder Girls</ttm:agent>
+      <ttm:item type="album">The Wonder Years</ttm:item>
+      <ttm:item type="spotify_id">2UuKZDzjZ7cVMOvpmuAMYj</ttm:item>
+      <itunes:duration>03:37.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:18.410" end="00:21.790" ttm:agent="v1">너도 날 좋아할 줄은 몰랐어</p>
+      <p begin="00:21.790" end="00:26.250" ttm:agent="v1">어쩌면 좋아 너무나 좋아</p>
+      <p begin="00:26.250" end="00:28.020" ttm:agent="v1">꿈만 같아서 나</p>
+      <p begin="00:28.020" end="00:33.420" ttm:agent="v1">내 자신을 자꾸 꼬집어 봐 너무나 좋아</p>
+      <p begin="00:33.420" end="00:37.450" ttm:agent="v1">니가 날 혹시 안 좋아할까봐</p>
+      <p begin="00:37.450" end="00:41.380" ttm:agent="v1">혼자 얼마나 애 태운지 몰라</p>
+      <p begin="00:41.380" end="00:44.540" ttm:agent="v1">그런데 니가 날 사랑한다니</p>
+      <p begin="00:44.540" end="00:46.380" ttm:agent="v1">어머나!</p>
+      <p begin="00:46.380" end="00:48.740" ttm:agent="v1">다시 한 번 말해봐</p>
+      <p begin="00:48.740" end="00:52.540" ttm:agent="v1">Tell me, tell me, t-t-t-t-t-tell me</p>
+      <p begin="00:52.540" end="00:56.590" ttm:agent="v1">나를 사랑한다고 날 기다려 왔다고</p>
+      <p begin="00:56.590" end="01:00.090" ttm:agent="v1">Tell me, tell me, t-t-t-t-t-tell me</p>
+      <p begin="01:00.090" end="01:04.060" ttm:agent="v1">내가 필요하다 말해, 말해줘요</p>
+      <p begin="01:04.060" end="01:07.540" ttm:agent="v1">Tell me, tell me, t-t-t-t-t-tell me</p>
+      <p begin="01:07.540" end="01:11.420" ttm:agent="v1">자꾸만 듣고 싶어 계속 내게 말해줘</p>
+      <p begin="01:11.420" end="01:15.330" ttm:agent="v1">Tell me, tell me, t-t-t-t-t-tell me</p>
+      <p begin="01:15.330" end="01:19.060" ttm:agent="v1">꿈이 아니라고 말해, 말해줘요</p>
+      <p begin="01:19.060" end="01:22.350" ttm:agent="v1">어쩜 내 가슴이 이렇게 뛰니</p>
+      <p begin="01:22.350" end="01:26.350" ttm:agent="v1">가슴이 정말 터질 것 같아</p>
+      <p begin="01:26.350" end="01:31.600" ttm:agent="v1">네가 날 볼 때면 전기에 감전된 사람처럼</p>
+      <p begin="01:31.600" end="01:34.360" ttm:agent="v1">전기가 올라</p>
+      <p begin="01:34.360" end="01:41.300" ttm:agent="v1">얼마나 오래 꿈꿨는지 몰라</p>
+      <p begin="01:41.300" end="01:44.690" ttm:agent="v1">그런데 네가 날 사랑한다니</p>
+      <p begin="01:44.690" end="01:46.460" ttm:agent="v1">어머나!</p>
+      <p begin="01:46.460" end="01:48.880" ttm:agent="v1">다시 한 번 말해봐</p>
+      <p begin="01:48.880" end="01:52.770" ttm:agent="v1">Tell me, tell me, t-t-t-t-t-tell me</p>
+      <p begin="01:52.770" end="01:56.620" ttm:agent="v1">나를 사랑한다고 날 기다려 왔다고</p>
+      <p begin="01:56.620" end="02:00.320" ttm:agent="v1">Tell me, tell me, t-t-t-t-t-tell me</p>
+      <p begin="02:00.320" end="02:04.270" ttm:agent="v1">내가 필요하다 말해, 말해줘요</p>
+      <p begin="02:04.270" end="02:07.860" ttm:agent="v1">Tell me, tell me, t-t-t-t-t-tell me</p>
+      <p begin="02:07.860" end="02:11.840" ttm:agent="v1">자꾸만 듣고 싶어 계속 내게 말해줘</p>
+      <p begin="02:11.840" end="02:15.260" ttm:agent="v1">Tell me, tell me, t-t-t-t-t-tell me</p>
+      <p begin="02:15.260" end="02:20.670" ttm:agent="v1">꿈이 아니라고 말해, 말해줘요</p>
+      <p begin="02:20.670" end="02:28.670" ttm:agent="v1"/>
+      <p begin="02:34.810" end="02:36.660" ttm:agent="v1">Tell me, tell me, tell me you</p>
+      <p begin="02:36.660" end="02:38.780" ttm:agent="v1">Want me, want me, want me too</p>
+      <p begin="02:38.780" end="02:40.470" ttm:agent="v1">Tell me, tell me, tell me you</p>
+      <p begin="02:40.470" end="02:42.250" ttm:agent="v1">Love me too, love me too</p>
+      <p begin="02:42.250" end="02:45.830" ttm:agent="v1">얼마나 오래 기다린지 몰라</p>
+      <p begin="02:45.830" end="02:49.740" ttm:agent="v1">얼마나 오래 꿈꿨는지 몰라</p>
+      <p begin="02:49.740" end="02:52.900" ttm:agent="v1">그런데 네가 날 사랑한다니</p>
+      <p begin="02:52.900" end="02:54.780" ttm:agent="v1">어머나!</p>
+      <p begin="02:54.780" end="02:57.440" ttm:agent="v1">다시 한 번 말해봐</p>
+      <p begin="02:57.440" end="03:01.090" ttm:agent="v1">Tell me, tell me, t-t-t-t-t-tell me</p>
+      <p begin="03:01.090" end="03:04.930" ttm:agent="v1">나를 사랑한다고 날 기다려 왔다고</p>
+      <p begin="03:04.930" end="03:08.580" ttm:agent="v1">Tell me, tell me, t-t-t-t-t-tell me</p>
+      <p begin="03:08.580" end="03:12.710" ttm:agent="v1">내가 필요하다 말해, 말해줘요</p>
+      <p begin="03:12.710" end="03:16.260" ttm:agent="v1">Tell me, tell me, t-t-t-t-t-tell me</p>
+      <p begin="03:16.260" end="03:20.150" ttm:agent="v1">자꾸만 듣고 싶어 계속 내게 말해줘</p>
+      <p begin="03:20.150" end="03:23.860" ttm:agent="v1">Tell me, tell me, t-t-t-t-t-tell me</p>
+      <p begin="03:23.860" end="03:27.820" ttm:agent="v1">꿈이 아니라고 말해, 말해줘요</p>
+      <p begin="03:27.820" end="03:31.250" ttm:agent="v1">Tell me, tell me, t-t-t-t-t-tell me</p>
+      <p begin="03:31.250" end="03:32.750" ttm:agent="v1">T-t-t-t-t-tell me</p>
+      <p begin="03:32.230" end="03:36.230" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Way Back Home</ttm:title>
+      <ttm:agent type="person" xml:id="v1">SHAUN</ttm:agent>
+      <ttm:item type="album">Take</ttm:item>
+      <ttm:item type="spotify_id">3NxuezMdSLgt4OwHzBoUhL</ttm:item>
+      <itunes:duration>03:34.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.520" end="00:04.920" ttm:agent="v1">Meomchun sigan sok jamdeun neoreul chajaga</p>
+      <p begin="00:04.920" end="00:09.340" ttm:agent="v1">Amuri magado gyeolguk neoui gyeotin geol</p>
+      <p begin="00:09.340" end="00:14.380" ttm:agent="v1">Gilgo gin yeohaengeul kkeutnae ijen doraga</p>
+      <p begin="00:14.380" end="00:20.180" ttm:agent="v1">Neoraneun jib euro jigeum dasi way back home</p>
+      <p begin="00:20.180" end="00:28.180" ttm:agent="v1"/>
+      <p begin="00:39.240" end="00:44.380" ttm:agent="v1">Amuri himkkeot dadaedo dasi yeollin seorab gata</p>
+      <p begin="00:44.380" end="00:49.240" ttm:agent="v1">Haneullo nopi nallin neon jakku naege doedorawa</p>
+      <p begin="00:49.240" end="00:57.240" ttm:agent="v1">Himdeulge samkin ibyeoldo da geudaeroin geol oh, oh, oh</p>
+      <p begin="00:57.340" end="01:02.390" ttm:agent="v1">Su eopsi tteonan gil wieseo nan neoreul balgyeonhago</p>
+      <p begin="01:02.390" end="01:07.290" ttm:agent="v1">Biuryeo haetdeon mameun tto ireoke neoro chaolla</p>
+      <p begin="01:07.290" end="01:12.060" ttm:agent="v1">Balggeoreumui kkeute neul niga budichyeo</p>
+      <p begin="01:12.060" end="01:17.140" ttm:agent="v1">Geuman geuman</p>
+      <p begin="01:17.140" end="01:21.610" ttm:agent="v1">Meomchun sigan sok jamdeun neoreul chajaga</p>
+      <p begin="01:21.610" end="01:26.230" ttm:agent="v1">Amuri magado gyeolguk neoui gyeotin geol</p>
+      <p begin="01:26.230" end="01:31.360" ttm:agent="v1">Gilgo gin yeohaengeul kkeutnae ijen doraga</p>
+      <p begin="01:31.360" end="01:37.210" ttm:agent="v1">Neoraneun jib euro jigeum dasi way back home</p>
+      <p begin="01:37.210" end="01:45.210" ttm:agent="v1"/>
+      <p begin="01:55.050" end="02:00.050" ttm:agent="v1">Joyonghi jamdeun bangeul yeoreo gieogeul kkeonae deureo</p>
+      <p begin="02:00.050" end="02:04.700" ttm:agent="v1">Buseojin sigan wieseo seonmyeonghi neoneun tteoolla</p>
+      <p begin="02:04.700" end="02:09.660" ttm:agent="v1">Gil irheun mam soge neol gadun chae sara</p>
+      <p begin="02:09.660" end="02:14.610" ttm:agent="v1">Geuman geuman</p>
+      <p begin="02:14.610" end="02:19.200" ttm:agent="v1">Meomchun sigan sok jamdeun neoreul chajaga</p>
+      <p begin="02:19.200" end="02:23.760" ttm:agent="v1">Amuri magado gyeolguk neoui gyeotin geol</p>
+      <p begin="02:23.760" end="02:28.880" ttm:agent="v1">Gilgo gin yeohaengeul kkeutnae ijen doraga</p>
+      <p begin="02:28.880" end="02:34.270" ttm:agent="v1">Neoraneun jib euro jigeum dasi way back home</p>
+      <p begin="02:34.270" end="02:39.020" ttm:agent="v1">Sesangeul dwijibeo chajeuryeo hae</p>
+      <p begin="02:39.020" end="02:44.320" ttm:agent="v1">Ojik neoro wanggyeol doen iyagireul</p>
+      <p begin="02:44.320" end="02:52.320" ttm:agent="v1">Modeun geol ilheodo nan neo hanamyeon dwae</p>
+      <p begin="02:54.440" end="03:02.270" ttm:agent="v1"/>
+      <p begin="03:02.270" end="03:08.240" ttm:agent="v1">Bichi da kkeojin yeogi nareul anajwo</p>
+      <p begin="03:08.240" end="03:12.360" ttm:agent="v1"/>
+      <p begin="03:12.360" end="03:16.940" ttm:agent="v1">Nuneul gam eumyeon sori eopsi milryeowa</p>
+      <p begin="03:16.940" end="03:21.460" ttm:agent="v1">I maeum geu wiro neon tto han gyeop ssayeoga</p>
+      <p begin="03:21.460" end="03:26.510" ttm:agent="v1">Naegen geu nugudo anin niga piryohae</p>
+      <p begin="03:26.510" end="03:31.220" ttm:agent="v1">Dorawa nae gyeote geunal kkaji I'm not done</p>
+      <p begin="03:31.220" end="03:35.220" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

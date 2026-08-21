@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Halle Berry (feat. Juicy J)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">$NOT</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Juicy J</ttm:agent>
+      <ttm:item type="album">Ethereal</ttm:item>
+      <ttm:item type="spotify_id">5w8FbtPcL5zOx9BiIZViNy</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:02.490" end="00:06.420" ttm:agent="v1">She got the low cut like Halle Berry</p>
+      <p begin="00:06.420" end="00:10.587" ttm:agent="v1">Haha, yuh-yuh</p>
+      <p begin="00:10.587" end="00:12.087" ttm:agent="v1" itunes:key="role" itunes:value="background">(Donnie Katana)</p>
+      <p begin="00:11.652" end="00:13.152" ttm:agent="v1">Ayy</p>
+      <p begin="00:12.374" end="00:13.874" ttm:agent="v1"/>
+      <p begin="00:12.566" end="00:15.193" ttm:agent="v1" itunes:key="role" itunes:value="background">She got the low cut like Halle Berry (Ah)</p>
+      <p begin="00:15.193" end="00:18.555" ttm:agent="v1" itunes:key="role" itunes:value="background">Ain't never seen nothin' like that, she got me starin' (Wet)</p>
+      <p begin="00:18.555" end="00:21.729" ttm:agent="v1">Her p***y poppin' when the leather seats cherry (Yuh</p>
+      <p begin="00:21.729" end="00:24.588" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm steppin' in my Crocs with the Louis sleeves (Uh-huh)</p>
+      <p begin="00:24.588" end="00:27.606" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm half awake, jaw-locked, I can't even speak (Ah)</p>
+      <p begin="00:27.606" end="00:31.128" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm drivin' in my '97 black Mercedes (Yuh)</p>
+      <p begin="00:31.128" end="00:34.402" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm in the ocean on a boat, feelin' wavy (Wavy)</p>
+      <p begin="00:34.402" end="00:37.681" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm pushin' coke like I'm in the 1980s (Yuh)</p>
+      <p begin="00:37.681" end="00:40.641" ttm:agent="v1">I'm pullin' up, what the ****? Got me braz</p>
+      <p begin="00:40.641" end="00:42.454" ttm:agent="v1"/>
+      <p begin="00:42.454" end="00:43.954" ttm:agent="v1">Trippy</p>
+      <p begin="00:42.665" end="00:44.536" ttm:agent="v1">What Juicy say? He be like, &quot;Shut the **** up</p>
+      <p begin="00:44.536" end="00:46.036" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yeah)</p>
+      <p begin="00:45.279" end="00:46.779" ttm:agent="v1"/>
+      <p begin="00:45.533" end="00:48.397" ttm:agent="v1">Juicy J the plug, I'm well-connected in this b***h (Mhm</p>
+      <p begin="00:48.397" end="00:51.734" ttm:agent="v1">So many bottles to my section like BMF was in this b***h (Ayy</p>
+      <p begin="00:51.734" end="00:54.978" ttm:agent="v1">I ain't gotta shoot my shot, this Memphis pimpin' don't miss</p>
+      <p begin="00:54.978" end="00:58.134" ttm:agent="v1">If she look at me too long, you know she coming home with</p>
+      <p begin="00:58.134" end="01:01.418" ttm:agent="v1">After bottle service I get swallow service, she a freak</p>
+      <p begin="01:01.418" end="01:04.670" ttm:agent="v1">She gon' lick the lollipop before we make it to the suite</p>
+      <p begin="01:04.670" end="01:08.151" ttm:agent="v1">She impatient, she hate waiting, this shit's amazing</p>
+      <p begin="01:08.151" end="01:11.706" ttm:agent="v1" itunes:key="role" itunes:value="background">Don't want no mani-pedi, she keep begging for a facial (Ah)</p>
+      <p begin="01:11.706" end="01:15.034" ttm:agent="v1">Smoking on this Cali weed, this shit here look like tie-dye</p>
+      <p begin="01:15.034" end="01:18.158" ttm:agent="v1">I landed two hours ago but I'm still sky high</p>
+      <p begin="01:18.158" end="01:21.081" ttm:agent="v1">This Instagram model with me, she ain't all that pretty</p>
+      <p begin="01:21.081" end="01:24.353" ttm:agent="v1">If I take another shot, this b***h gon' look like Halle Berr</p>
+      <p begin="01:24.353" end="01:26.454" ttm:agent="v1" itunes:key="role" itunes:value="background">God damn (She ain't bad at all)</p>
+      <p begin="01:26.454" end="01:27.954" ttm:agent="v1">She ain't all that pretty</p>
+      <p begin="01:27.706" end="01:30.493" ttm:agent="v1">If I take another shot, this b***h gon' look like Halle Berr</p>
+      <p begin="01:30.493" end="01:31.993" ttm:agent="v1"/>
+      <p begin="01:30.766" end="01:33.571" ttm:agent="v1" itunes:key="role" itunes:value="background">She got the low cut like Halle Berry (Ah)</p>
+      <p begin="01:33.571" end="01:36.729" ttm:agent="v1" itunes:key="role" itunes:value="background">Ain't never seen nothin' like that, she got me starin' (Wet)</p>
+      <p begin="01:36.729" end="01:40.044" ttm:agent="v1">Her p***y poppin' when the leather seats cherry (Huh</p>
+      <p begin="01:40.044" end="01:42.723" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm steppin' in my Crocs with the Louis sleeves (Uh-huh)</p>
+      <p begin="01:42.723" end="01:46.191" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm half awake, jaw-locked, I can't even speak (Ah)</p>
+      <p begin="01:46.191" end="01:49.296" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm drivin' in my '97 black Mercedes (Yuh)</p>
+      <p begin="01:49.296" end="01:52.691" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm in the ocean on a boat, feelin' wavy (Wavy)</p>
+      <p begin="01:52.691" end="01:55.750" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm pushin' coke like I'm in the 1980s (Yuh)</p>
+      <p begin="01:55.750" end="01:59.750" ttm:agent="v1">I'm pullin' up, what the ****? Got me braz</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Darling, I (feat. Teezo Touchdown)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Tyler</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">The Creator</ttm:agent>
+      <ttm:agent type="person" xml:id="v3">Teezo Touchdown</ttm:agent>
+      <ttm:item type="album">CHROMAKOPIA</ttm:item>
+      <ttm:item type="spotify_id">0VaeksJaXy5R1nvcTMh3Xk</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.648" end="00:05.379" ttm:agent="v1">Whatever you do, don't ever tell no bitch you love her</p>
+      <p begin="00:05.379" end="00:08.765" ttm:agent="v1" itunes:key="role" itunes:value="background">If you don't mean it, don't tell us (Check)</p>
+      <p begin="00:08.765" end="00:10.265" ttm:agent="v1"/>
+      <p begin="00:08.979" end="00:14.124" ttm:agent="v1" itunes:key="role" itunes:value="background">Darling, I keep— (Keep falling in love)</p>
+      <p begin="00:14.124" end="00:19.004" ttm:agent="v1" itunes:key="role" itunes:value="background">Darling, I keep— (Keep falling in love)</p>
+      <p begin="00:19.004" end="00:24.025" ttm:agent="v1" itunes:key="role" itunes:value="background">Da-da, da, keep (Keep falling in love)</p>
+      <p begin="00:24.025" end="00:29.235" ttm:agent="v1" itunes:key="role" itunes:value="background">Forever is too long (C'mon)</p>
+      <p begin="00:29.235" end="00:30.735" ttm:agent="v1"/>
+      <p begin="00:29.421" end="00:33.490" ttm:agent="v1">Ooh, I got a problem, I don't know if I can change</p>
+      <p begin="00:33.490" end="00:38.553" ttm:agent="v1">Ooh, they wanna tie me down, that bondage just might break</p>
+      <p begin="00:38.553" end="00:40.902" ttm:agent="v1">I can't sign the dotted line</p>
+      <p begin="00:40.902" end="00:45.740" ttm:agent="v1">Just how long is forever?</p>
+      <p begin="00:45.740" end="00:48.258" ttm:agent="v1" itunes:key="role" itunes:value="background">(It's too long, ah-hoo)</p>
+      <p begin="00:48.258" end="00:49.758" ttm:agent="v1"/>
+      <p begin="00:48.491" end="00:53.104" ttm:agent="v1" itunes:key="role" itunes:value="background">Darling, I keep— (Keep falling in love, keep falling in love)</p>
+      <p begin="00:53.104" end="00:58.046" ttm:agent="v1" itunes:key="role" itunes:value="background">Darling, I keep— (Keep falling in love)</p>
+      <p begin="00:58.046" end="01:03.342" ttm:agent="v1" itunes:key="role" itunes:value="background">Da-da, da, keep (Keep falling in love)</p>
+      <p begin="01:03.342" end="01:05.806" ttm:agent="v1">Forever is too long</p>
+      <p begin="01:05.806" end="01:07.306" ttm:agent="v1"/>
+      <p begin="01:06.091" end="01:08.146" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yuh, let that fire, check it, yo)</p>
+      <p begin="01:08.146" end="01:10.482" ttm:agent="v1">I drive my Bimmer in the summer when I'm ready to drift</p>
+      <p begin="01:10.482" end="01:12.729" ttm:agent="v1">LaFerrari handle better, and it's pretty as shit</p>
+      <p begin="01:12.729" end="01:15.162" ttm:agent="v1">Feel safe in the Rolls, big boy when I drive</p>
+      <p begin="01:15.162" end="01:17.575" ttm:agent="v1" itunes:key="role" itunes:value="background">Love 'em all for different reasons at the same damn time (Oh, yeah, yeah)</p>
+      <p begin="01:17.575" end="01:19.850" ttm:agent="v1" itunes:key="role" itunes:value="background">See, monogamy, that shit is not for me (Nah)</p>
+      <p begin="01:19.850" end="01:22.247" ttm:agent="v1" itunes:key="role" itunes:value="background">One option for everybody? Don't you lie to me (Don't you lie)</p>
+      <p begin="01:22.247" end="01:24.808" ttm:agent="v1">Too many grooves, I'm too curious to try to be</p>
+      <p begin="01:24.808" end="01:27.140" ttm:agent="v1">Hidin' things, feelin' shame build inside of me</p>
+      <p begin="01:27.140" end="01:29.954" ttm:agent="v1" itunes:key="role" itunes:value="background">'Cause honestly (Psh), T is not perfect</p>
+      <p begin="01:29.954" end="01:32.572" ttm:agent="v1">So how can I get everything from one person?</p>
+      <p begin="01:32.572" end="01:34.812" ttm:agent="v1">I'm at the altar, but I'm still searchin'</p>
+      <p begin="01:34.812" end="01:37.206" ttm:agent="v1">I'm only human, if it ain't work</p>
+      <p begin="01:37.206" end="01:40.146" ttm:agent="v1">Things change and nothing stay the same</p>
+      <p begin="01:40.146" end="01:41.646" ttm:agent="v1">I believe, maybe lettin' go</p>
+      <p begin="01:41.408" end="01:42.908" ttm:agent="v1">It's a beautiful thing</p>
+      <p begin="01:42.450" end="01:44.690" ttm:agent="v1">Perfect for the time being, y'all ain't do nothin' wrong</p>
+      <p begin="01:44.690" end="01:46.854" ttm:agent="v1">Life is short, but forever is so goddamn long</p>
+      <p begin="01:46.854" end="01:49.005" ttm:agent="v1">I like alone time, I'm on my own time</p>
+      <p begin="01:49.005" end="01:51.551" ttm:agent="v1">I love this girl, though, I hit the gold mine</p>
+      <p begin="01:51.551" end="01:53.928" ttm:agent="v1">I'm thinkin' new crib, I'm thinkin' two kids</p>
+      <p begin="01:53.928" end="01:57.779" ttm:agent="v1">Until I get infatuated with a new bitch</p>
+      <p begin="01:57.779" end="01:59.552" ttm:agent="v1" itunes:key="role" itunes:value="background">But when that grey hair finally come (Uh-huh)</p>
+      <p begin="01:59.552" end="02:01.792" ttm:agent="v1" itunes:key="role" itunes:value="background">At least I felt somethin' if I ain't find the one (Yuh)</p>
+      <p begin="02:01.792" end="02:04.141" ttm:agent="v1">Nobody could fulfill me like this music shit does</p>
+      <p begin="02:04.141" end="02:07.000" ttm:agent="v1" itunes:key="role" itunes:value="background">So I'll be lonely with these Grammys when it's all said and done, c'mon (Oh)</p>
+      <p begin="02:07.000" end="02:08.500" ttm:agent="v1"/>
+      <p begin="02:07.251" end="02:11.554" ttm:agent="v1" itunes:key="role" itunes:value="background">Darling, I keep— (Keep falling in love, baby, I)</p>
+      <p begin="02:11.554" end="02:16.227" ttm:agent="v1" itunes:key="role" itunes:value="background">Darling, I keep— (Keep falling in love, keep falling in love)</p>
+      <p begin="02:16.227" end="02:21.571" ttm:agent="v1" itunes:key="role" itunes:value="background">Da-da, da, keep (Keep falling in love)</p>
+      <p begin="02:21.571" end="02:29.571" ttm:agent="v1" itunes:key="role" itunes:value="background">Forever is too long (Yeah, keep falling in love)</p>
+      <p begin="02:29.856" end="02:31.356" ttm:agent="v1">Yeah, baby</p>
+      <p begin="02:31.345" end="02:32.845" ttm:agent="v1"/>
+      <p begin="02:31.638" end="02:34.138" ttm:agent="v1" itunes:key="role" itunes:value="background">Keep falling (Keep falling)</p>
+      <p begin="02:34.138" end="02:36.499" ttm:agent="v1" itunes:key="role" itunes:value="background">Keep falling (Darling, I)</p>
+      <p begin="02:36.499" end="02:37.999" ttm:agent="v1" itunes:key="role" itunes:value="background">Keep falling (Keep falling)</p>
+      <p begin="02:37.583" end="02:41.184" ttm:agent="v1" itunes:key="role" itunes:value="background">Keep falling (I keep falling down)</p>
+      <p begin="02:41.184" end="02:45.971" ttm:agent="v1">Keep falling, keep falling</p>
+      <p begin="02:45.971" end="02:51.498" ttm:agent="v1" itunes:key="role" itunes:value="background">Come and catch me please (Oh, baby)</p>
+      <p begin="02:51.498" end="02:52.998" ttm:agent="v1"/>
+      <p begin="02:51.647" end="02:57.406" ttm:agent="v1">Everybody's different, you know? And it's not just sex</p>
+      <p begin="02:57.406" end="03:02.957" ttm:agent="v1" itunes:key="role" itunes:value="background">I get different things from different people, and I want you to explore too (Uh)</p>
+      <p begin="03:02.957" end="03:08.145" ttm:agent="v1" itunes:key="role" itunes:value="background">Have those moments and experiences (Uh), I don't own you (Da-da-da-da-da)</p>
+      <p begin="03:08.145" end="03:10.211" ttm:agent="v1" itunes:key="role" itunes:value="background">It's not fair just to be stuck with me (Ah-hoo)</p>
+      <p begin="03:10.211" end="03:11.711" ttm:agent="v1"/>
+      <p begin="03:10.352" end="03:15.217" ttm:agent="v1" itunes:key="role" itunes:value="background">Darling (Darling, darling), keep falling in love (Ooh)</p>
+      <p begin="03:15.217" end="03:20.068" ttm:agent="v1" itunes:key="role" itunes:value="background">Darling (Darling, I keep—), keep falling forever (Forever)</p>
+      <p begin="03:20.068" end="03:25.597" ttm:agent="v1" itunes:key="role" itunes:value="background">Da-da-da-da, I'm falling, I'm falling (Oh-oh-oh)</p>
+      <p begin="03:25.597" end="03:30.231" ttm:agent="v1" itunes:key="role" itunes:value="background">Forever, da-da-da (Oh, baby)</p>
+      <p begin="03:30.231" end="03:31.731" ttm:agent="v1"/>
+      <p begin="03:30.395" end="03:32.970" ttm:agent="v1" itunes:key="role" itunes:value="background">Keep falling (Keep falling)</p>
+      <p begin="03:32.970" end="03:35.365" ttm:agent="v1" itunes:key="role" itunes:value="background">Keep falling (Darling, I)</p>
+      <p begin="03:35.365" end="03:38.204" ttm:agent="v1" itunes:key="role" itunes:value="background">Keep falling (Keep falling)</p>
+      <p begin="03:38.204" end="03:40.445" ttm:agent="v1" itunes:key="role" itunes:value="background">Keep falling (I keep falling down)</p>
+      <p begin="03:40.445" end="03:44.993" ttm:agent="v1">Keep falling, keep falling</p>
+      <p begin="03:44.993" end="03:50.087" ttm:agent="v1" itunes:key="role" itunes:value="background">Come and catch me please (Forever)</p>
+      <p begin="03:50.087" end="03:54.973" ttm:agent="v1" itunes:key="role" itunes:value="background">Keep falling, keep falling (Forever is too long)</p>
+      <p begin="03:54.973" end="03:59.623" ttm:agent="v1" itunes:key="role" itunes:value="background">Keep falling, keep falling (Forever is too long)</p>
+      <p begin="03:59.623" end="04:04.551" ttm:agent="v1">Keep falling, keep falling</p>
+      <p begin="04:04.551" end="04:09.549" ttm:agent="v1"/>
+      <p begin="04:09.549" end="04:13.549" ttm:agent="v1">Transparency is key, be honest</p>
+    </div>
+  </body>
+</tt>

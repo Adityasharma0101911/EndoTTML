@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Freaky Friday (feat. Chris Brown)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Lil Dicky</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Chris Brown</ttm:agent>
+      <ttm:item type="album">Freaky Friday (feat. Chris Brown)</ttm:item>
+      <ttm:item type="spotify_id">10Igtw8bSDyyFs7KIsKngZ</ttm:item>
+      <itunes:duration>03:37.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:02.090" end="00:07.770" ttm:agent="v1">Lil dicky, ooh</p>
+      <p begin="00:07.770" end="00:10.050" ttm:agent="v1">Mustard on the beat, ho</p>
+      <p begin="00:10.050" end="00:12.600" ttm:agent="v1">I woke up Chris Breezy</p>
+      <p begin="00:12.600" end="00:15.130" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh my god I'm the man (oh shit)</p>
+      <p begin="00:15.130" end="00:17.550" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm so fly and I can dance (whoa, whoa shit)</p>
+      <p begin="00:17.550" end="00:19.860" ttm:agent="v1" itunes:key="role" itunes:value="background">There's tattoos on my neck (oh, ohhh)</p>
+      <p begin="00:19.860" end="00:22.190" ttm:agent="v1" itunes:key="role" itunes:value="background">I just FaceTimed Kanye (blip, blip)</p>
+      <p begin="00:22.190" end="00:24.580" ttm:agent="v1" itunes:key="role" itunes:value="background">I told him I'm his biggest fan yeah (yeah)</p>
+      <p begin="00:24.580" end="00:26.700" ttm:agent="v1" itunes:key="role" itunes:value="background">Got all these hoes in my DM (yeah, I do)</p>
+      <p begin="00:26.700" end="00:28.200" ttm:agent="v1">Hold up</p>
+      <p begin="00:27.690" end="00:29.190" ttm:agent="v1" itunes:key="role" itunes:value="background">Holy shit, I got a kid (oh!)</p>
+      <p begin="00:28.960" end="00:33.340" ttm:agent="v1">Ohh, I can sing so well</p>
+      <p begin="00:33.340" end="00:36.090" ttm:agent="v1" itunes:key="role" itunes:value="background">Wonder if I can say the n-word (wait for real?)</p>
+      <p begin="00:36.090" end="00:37.890" ttm:agent="v1">Wait, can I really say the n-word?</p>
+      <p begin="00:37.890" end="00:39.390" ttm:agent="v1" itunes:key="role" itunes:value="background">What up my nigga? (woo)</p>
+      <p begin="00:38.930" end="00:40.430" ttm:agent="v1">What up my nigga?</p>
+      <p begin="00:40.000" end="00:41.500" ttm:agent="v1">Big ups my nigga</p>
+      <p begin="00:41.260" end="00:42.760" ttm:agent="v1">We up my nigga</p>
+      <p begin="00:42.490" end="00:43.990" ttm:agent="v1">You pussy ass nigga</p>
+      <p begin="00:43.770" end="00:45.270" ttm:agent="v1">Man fuck y'all niggas</p>
+      <p begin="00:44.890" end="00:46.640" ttm:agent="v1">Cause I'm that nigga nigga, nigga</p>
+      <p begin="00:46.640" end="00:48.500" ttm:agent="v1">I'm that nigga</p>
+      <p begin="00:48.500" end="00:53.110" ttm:agent="v1" itunes:key="role" itunes:value="background">I woke up in Chris Brown's body (oh yeah)</p>
+      <p begin="00:53.110" end="00:57.690" ttm:agent="v1">Somehow this shit turned into Freaky Friday</p>
+      <p begin="00:57.690" end="01:00.310" ttm:agent="v1">But we got no choice but to turn</p>
+      <p begin="01:00.310" end="01:03.120" ttm:agent="v1" itunes:key="role" itunes:value="background">This bitch sideways (oh yeah, oh yeah)</p>
+      <p begin="01:03.120" end="01:06.700" ttm:agent="v1">I can't believe that it's Freaky Friday</p>
+      <p begin="01:06.700" end="01:09.240" ttm:agent="v1">Yeah it's Freaky Friday</p>
+      <p begin="01:09.240" end="01:11.560" ttm:agent="v1">I'm in Chris Brown's body</p>
+      <p begin="01:11.560" end="01:16.300" ttm:agent="v1">I drive his Ferrari and I'm light-skinned black</p>
+      <p begin="01:16.300" end="01:17.820" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ring ring, What the fuck?)</p>
+      <p begin="01:17.820" end="01:20.530" ttm:agent="v1" itunes:key="role" itunes:value="background">I woke up and I'm Lil dicky (Lil dicky)</p>
+      <p begin="01:20.530" end="01:22.750" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ugh, what the fuck?)</p>
+      <p begin="01:22.750" end="01:24.420" ttm:agent="v1">This shit is real weak</p>
+      <p begin="01:24.420" end="01:26.460" ttm:agent="v1">How his dick staying perched up on his balls like that?</p>
+      <p begin="01:26.460" end="01:28.600" ttm:agent="v1" itunes:key="role" itunes:value="background">Walking down the street and ain't nobody know my name (whoa)</p>
+      <p begin="01:28.600" end="01:31.090" ttm:agent="v1" itunes:key="role" itunes:value="background">Ain't no paparazzi flashing pictures this is great (whoa)</p>
+      <p begin="01:31.090" end="01:33.750" ttm:agent="v1">Ain't nobody judging 'cause I'm black or my controversial past</p>
+      <p begin="01:33.750" end="01:36.080" ttm:agent="v1" itunes:key="role" itunes:value="background">I'mma go and see a movie and relax (woo)</p>
+      <p begin="01:36.080" end="01:38.190" ttm:agent="v1" itunes:key="role" itunes:value="background">Ayy, I'm a Blood but I can finally wear blue (cool)</p>
+      <p begin="01:38.190" end="01:39.690" ttm:agent="v1">Why his momma calling all the time</p>
+      <p begin="01:39.550" end="01:41.050" ttm:agent="v1">Leave me the fuck alone, bitch</p>
+      <p begin="01:40.840" end="01:42.740" ttm:agent="v1">Wait, if I'm in dicky's body, Breezy is who?</p>
+      <p begin="01:42.740" end="01:44.240" ttm:agent="v1">Hope my daughter's in school</p>
+      <p begin="01:44.140" end="01:45.940" ttm:agent="v1">Fuck, if I was Chris Brown, where would I be?</p>
+      <p begin="01:45.940" end="01:47.440" ttm:agent="v1">What would I do?</p>
+      <p begin="01:46.880" end="01:50.940" ttm:agent="v1" itunes:key="role" itunes:value="background">I woke up in Chris Brown's body (ohh yeah)</p>
+      <p begin="01:50.940" end="01:55.110" ttm:agent="v1">Somehow this shit turned into Freaky Friday</p>
+      <p begin="01:55.110" end="01:57.870" ttm:agent="v1">But we got no choice but to turn</p>
+      <p begin="01:57.870" end="02:00.720" ttm:agent="v1" itunes:key="role" itunes:value="background">This bitch sideways (oh yeah, oh yeah)</p>
+      <p begin="02:00.720" end="02:04.320" ttm:agent="v1">I can't believe that it's Freaky Friday</p>
+      <p begin="02:04.320" end="02:06.740" ttm:agent="v1">Yeah it's Freaky Friday</p>
+      <p begin="02:06.740" end="02:09.160" ttm:agent="v1">I'm in Chris Brown's body</p>
+      <p begin="02:09.160" end="02:14.270" ttm:agent="v1">I look at my soft dick with delight, it's my dream dick</p>
+      <p begin="02:14.270" end="02:16.700" ttm:agent="v1">If I was Lil dicky in my body, where would I be</p>
+      <p begin="02:16.700" end="02:19.080" ttm:agent="v1">I'm trying to find myself like an introspective monk</p>
+      <p begin="02:19.080" end="02:21.220" ttm:agent="v1">I'm balling on the court, oh my god I can dunk</p>
+      <p begin="02:21.220" end="02:22.720" ttm:agent="v1">Snap a flick of my junk</p>
+      <p begin="02:22.520" end="02:24.080" ttm:agent="v1">My dick is trending on Twitter, fuck</p>
+      <p begin="02:24.080" end="02:26.180" ttm:agent="v1">Now I'm at the club, I talked my way to getting in</p>
+      <p begin="02:26.180" end="02:28.600" ttm:agent="v1">I look up in the VIP, my goodness there I am</p>
+      <p begin="02:28.600" end="02:30.900" ttm:agent="v1">I signal to him to let me in but he won't let me in</p>
+      <p begin="02:30.900" end="02:32.400" ttm:agent="v1">I don't know who that is</p>
+      <p begin="02:32.270" end="02:33.770" ttm:agent="v1">Wait, who the fuck he think he is?</p>
+      <p begin="02:33.530" end="02:35.760" ttm:agent="v1" itunes:key="role" itunes:value="background">Took a glass bottle, shatter it on the bouncer's head (woo)</p>
+      <p begin="02:35.760" end="02:37.260" ttm:agent="v1">Walked up to that motherfucker</p>
+      <p begin="02:37.020" end="02:38.520" ttm:agent="v1">Wait, think it through for a sec</p>
+      <p begin="02:38.260" end="02:40.350" ttm:agent="v1">If you hurting me then you only hurting yourself</p>
+      <p begin="02:40.350" end="02:41.850" ttm:agent="v1">But wait, I love myself</p>
+      <p begin="02:41.780" end="02:43.670" ttm:agent="v1">That was the key, now we're switching back</p>
+      <p begin="02:43.670" end="02:48.460" ttm:agent="v1" itunes:key="role" itunes:value="background">I woke up in Chris Brown's body (ohh yeah)</p>
+      <p begin="02:48.460" end="02:52.870" ttm:agent="v1">Somehow this shit turned into Freaky Friday</p>
+      <p begin="02:52.870" end="02:55.360" ttm:agent="v1">But we got no choice but to turn</p>
+      <p begin="02:55.360" end="02:58.220" ttm:agent="v1" itunes:key="role" itunes:value="background">This bitch sideways (oh yeah, oh yeah)</p>
+      <p begin="02:58.220" end="03:02.010" ttm:agent="v1">I can't believe that it's Freaky Friday</p>
+      <p begin="03:02.010" end="03:03.510" ttm:agent="v1">Wait what the fuck</p>
+      <p begin="03:03.450" end="03:07.540" ttm:agent="v1">And now I'm in Ed Sheeran's body</p>
+      <p begin="03:07.540" end="03:11.680" ttm:agent="v1">It's way less cool than being Chris Brown was</p>
+      <p begin="03:11.680" end="03:13.180" ttm:agent="v1">What the fuck again</p>
+      <p begin="03:12.850" end="03:16.790" ttm:agent="v1">I'm DJ Khaled, why am I yelling</p>
+      <p begin="03:16.790" end="03:19.520" ttm:agent="v1">Huh, I'm Kendall Jenner</p>
+      <p begin="03:19.520" end="03:24.580" ttm:agent="v1" itunes:key="role" itunes:value="background">I got a vagina, I'm gonna explore that right now (woo)</p>
+      <p begin="03:24.580" end="03:27.130" ttm:agent="v1" itunes:key="role" itunes:value="background">Holy shit, I got a vagina (uh)</p>
+      <p begin="03:27.130" end="03:28.980" ttm:agent="v1">I'm gonna learn</p>
+      <p begin="03:28.980" end="03:31.610" ttm:agent="v1">I'm gonna understand the inner workings of a woman</p>
+      <p begin="03:31.610" end="03:35.610" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

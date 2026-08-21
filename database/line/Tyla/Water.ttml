@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Water</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Tyla</ttm:agent>
+      <ttm:item type="album">Water</ttm:item>
+      <ttm:item type="spotify_id">5aIVCx5tnk0ntmdiinnYvw</ttm:item>
+      <itunes:duration>03:20.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.600" end="00:04.560" ttm:agent="v1">Make me sweat, make me hotter</p>
+      <p begin="00:04.560" end="00:08.800" ttm:agent="v1">Make me lose my breath, make me water</p>
+      <p begin="00:08.800" end="00:12.970" ttm:agent="v1">Make me sweat, make me hotter</p>
+      <p begin="00:12.970" end="00:16.490" ttm:agent="v1">Make me lose my breath, make me water</p>
+      <p begin="00:16.490" end="00:19.340" ttm:agent="v1">Normally</p>
+      <p begin="00:19.340" end="00:24.700" ttm:agent="v1">I can keep my cool, but tonight I'm wildin'</p>
+      <p begin="00:24.700" end="00:27.510" ttm:agent="v1" itunes:key="role" itunes:value="background">I'ma be (yeah)</p>
+      <p begin="00:27.510" end="00:33.090" ttm:agent="v1" itunes:key="role" itunes:value="background">In a dangerous mood, can you match my timing? (Mm, mm)</p>
+      <p begin="00:33.090" end="00:35.610" ttm:agent="v1" itunes:key="role" itunes:value="background">Telling me (yeah)</p>
+      <p begin="00:35.610" end="00:41.020" ttm:agent="v1">That you really 'bout it, why try hide it? Ooh</p>
+      <p begin="00:41.020" end="00:44.200" ttm:agent="v1">Talk is cheap, so show me</p>
+      <p begin="00:44.200" end="00:47.330" ttm:agent="v1">That you understand how I like it</p>
+      <p begin="00:47.330" end="00:52.450" ttm:agent="v1">Can you blow my mind?</p>
+      <p begin="00:52.450" end="00:55.100" ttm:agent="v1">Set off my whole body</p>
+      <p begin="00:55.100" end="01:00.520" ttm:agent="v1" itunes:key="role" itunes:value="background">If I give you my time (ooh)</p>
+      <p begin="01:00.520" end="01:03.720" ttm:agent="v1">Can you snatch my soul from me?</p>
+      <p begin="01:03.720" end="01:07.650" ttm:agent="v1">I don't wanna wait, come take it</p>
+      <p begin="01:07.650" end="01:11.820" ttm:agent="v1">Take me where I ain't been before</p>
+      <p begin="01:11.820" end="01:16.970" ttm:agent="v1">Can you blow my mind?</p>
+      <p begin="01:16.970" end="01:22.600" ttm:agent="v1">Set off my whole body, whole body</p>
+      <p begin="01:22.600" end="01:26.790" ttm:agent="v1">Make me sweat, make me hotter</p>
+      <p begin="01:26.790" end="01:30.750" ttm:agent="v1">Make me lose my breath, make me water</p>
+      <p begin="01:30.750" end="01:34.980" ttm:agent="v1">Make me sweat, make me hotter</p>
+      <p begin="01:34.980" end="01:39.490" ttm:agent="v1">Make me lose my breath, make me water</p>
+      <p begin="01:39.490" end="01:41.350" ttm:agent="v1">Hopefully</p>
+      <p begin="01:41.350" end="01:46.340" ttm:agent="v1" itunes:key="role" itunes:value="background">You can last all night, don't get too excited (ooh)</p>
+      <p begin="01:46.340" end="01:49.340" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, privacy (mm)</p>
+      <p begin="01:49.340" end="01:53.540" ttm:agent="v1">You ain't gotta go nowhere, you can stay inside it</p>
+      <p begin="01:53.540" end="01:57.840" ttm:agent="v1" itunes:key="role" itunes:value="background">Can you blow my mind? (Oh)</p>
+      <p begin="01:57.840" end="02:00.980" ttm:agent="v1">Set off my whole body</p>
+      <p begin="02:00.980" end="02:06.140" ttm:agent="v1" itunes:key="role" itunes:value="background">If I give you my time (if I give you my time)</p>
+      <p begin="02:06.140" end="02:09.310" ttm:agent="v1">Can you snatch my soul from me?</p>
+      <p begin="02:09.310" end="02:13.170" ttm:agent="v1">I don't wanna wait, come take it</p>
+      <p begin="02:13.170" end="02:17.520" ttm:agent="v1" itunes:key="role" itunes:value="background">Take me where I ain't been before (before)</p>
+      <p begin="02:17.520" end="02:22.430" ttm:agent="v1">Can you blow my mind?</p>
+      <p begin="02:22.430" end="02:28.240" ttm:agent="v1" itunes:key="role" itunes:value="background">Set off my whole body, whole body (haaibo!)</p>
+      <p begin="02:28.240" end="02:32.460" ttm:agent="v1" itunes:key="role" itunes:value="background">Make me sweat, make me hotter (hotter)</p>
+      <p begin="02:32.460" end="02:36.570" ttm:agent="v1">Make me lose my breath, make me water</p>
+      <p begin="02:36.570" end="02:40.490" ttm:agent="v1" itunes:key="role" itunes:value="background">Make me sweat (sweat), make me hotter (hotter)</p>
+      <p begin="02:40.490" end="02:44.680" ttm:agent="v1" itunes:key="role" itunes:value="background">Make me lose my breath, make me water (make me sweat)</p>
+      <p begin="02:44.680" end="02:48.620" ttm:agent="v1" itunes:key="role" itunes:value="background">Make me sweat, make me hotter (hotter)</p>
+      <p begin="02:48.620" end="02:52.820" ttm:agent="v1">Make me lose my breath, make me water</p>
+      <p begin="02:52.820" end="02:57.080" ttm:agent="v1" itunes:key="role" itunes:value="background">Make me sweat (sweat), make me hotter (hotter)</p>
+      <p begin="02:57.080" end="03:01.180" ttm:agent="v1">Make me lose my breath, make me water</p>
+      <p begin="03:01.180" end="03:05.100" ttm:agent="v1">Make me sweat, make me hotter</p>
+      <p begin="03:05.100" end="03:09.200" ttm:agent="v1">Make me lose my breath, make me water</p>
+      <p begin="03:09.200" end="03:13.560" ttm:agent="v1">Make me sweat, make me hotter</p>
+      <p begin="03:13.560" end="03:15.060" ttm:agent="v1">Make me lose my breath, make me water</p>
+      <p begin="03:14.330" end="03:18.330" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

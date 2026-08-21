@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Kitsch</ttm:title>
+      <ttm:agent type="person" xml:id="v1">IVE</ttm:agent>
+      <ttm:item type="album">I've IVE</ttm:item>
+      <ttm:item type="spotify_id">7foeH2Emgq8A3LWk3q6dat</ttm:item>
+      <itunes:duration>03:15.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:04.470" end="00:06.100" ttm:agent="v1">It's our time</p>
+      <p begin="00:06.100" end="00:09.150" ttm:agent="v1">우린 달라, 특별한 게 좋아</p>
+      <p begin="00:09.150" end="00:10.940" ttm:agent="v1">Oh, what a good time</p>
+      <p begin="00:10.940" end="00:13.950" ttm:agent="v1">난 잘 살아, 내 걱정은 낭비야</p>
+      <p begin="00:13.950" end="00:18.770" ttm:agent="v1">네가 보낸 DM을 읽고 나서 답이 없는 게</p>
+      <p begin="00:18.770" end="00:23.270" ttm:agent="v1" itunes:key="role" itunes:value="background">내 답이야 (that's my style)</p>
+      <p begin="00:23.270" end="00:24.840" ttm:agent="v1">O-O-T-D</p>
+      <p begin="00:24.840" end="00:27.970" ttm:agent="v1">하나까지 완전 우리답지</p>
+      <p begin="00:27.970" end="00:29.670" ttm:agent="v1">My favorite things</p>
+      <p begin="00:29.670" end="00:32.680" ttm:agent="v1">그런 것 들엔 좀 점수를 매기지 마</p>
+      <p begin="00:32.680" end="00:37.630" ttm:agent="v1">난 생겨 먹은 대로 사는 애야, 뭘 더 바래?</p>
+      <p begin="00:37.630" end="00:43.030" ttm:agent="v1" itunes:key="role" itunes:value="background">That's my style (that's my style, ah)</p>
+      <p begin="00:43.030" end="00:45.280" ttm:agent="v1">우리만의 자유로운 19's kitsch</p>
+      <p begin="00:45.280" end="00:47.660" ttm:agent="v1">지금까지 한적 없는 custom fit</p>
+      <p begin="00:47.660" end="00:49.920" ttm:agent="v1">올려 대는 나의 feed엔 like it</p>
+      <p begin="00:49.920" end="00:52.270" ttm:agent="v1">홀린 듯이 눌러, 모두 다 like it</p>
+      <p begin="00:52.270" end="00:54.820" ttm:agent="v1">내가 추는 춤을 다들 따라 춰</p>
+      <p begin="00:54.820" end="00:57.060" ttm:agent="v1">매일 너의 알고리즘에 난 떠</p>
+      <p begin="00:57.060" end="00:59.200" ttm:agent="v1">겉잡을 수 없이 올라 미친 score</p>
+      <p begin="00:59.200" end="01:01.770" ttm:agent="v1">그 누구도 예상 못할 19's kitsch</p>
+      <p begin="01:01.770" end="01:03.830" ttm:agent="v1">우리만의 자유로운 19's kitsch</p>
+      <p begin="01:03.830" end="01:06.460" ttm:agent="v1">우리-우리만의 자유로운 19's kitsch</p>
+      <p begin="01:06.460" end="01:08.660" ttm:agent="v1">우리만의 자유로운 19's kitsch</p>
+      <p begin="01:08.660" end="01:11.010" ttm:agent="v1">우리-우리만의 자유로운 19's kitsch</p>
+      <p begin="01:11.010" end="01:13.500" ttm:agent="v1">Kitsch, kitsch, kitsch</p>
+      <p begin="01:13.500" end="01:15.930" ttm:agent="v1">Kitsch, kitsch, kitsch, kitsch</p>
+      <p begin="01:15.930" end="01:18.020" ttm:agent="v1">우리만의 자유로운 19's kitsch</p>
+      <p begin="01:18.020" end="01:19.770" ttm:agent="v1">우리-우리만의 자유로운</p>
+      <p begin="01:19.770" end="01:21.620" ttm:agent="v1">달콤한 말</p>
+      <p begin="01:21.620" end="01:24.330" ttm:agent="v1">뒤에 숨긴 너의 의도대로</p>
+      <p begin="01:24.330" end="01:26.440" ttm:agent="v1">따라가진</p>
+      <p begin="01:26.440" end="01:29.030" ttm:agent="v1">않을 거야 난 똑똑하니까</p>
+      <p begin="01:29.030" end="01:34.190" ttm:agent="v1">난 절대 끌리지 않는 것에 끌려가지 않아</p>
+      <p begin="01:34.190" end="01:39.490" ttm:agent="v1" itunes:key="role" itunes:value="background">That's my style (that's my style, ah)</p>
+      <p begin="01:39.490" end="01:41.690" ttm:agent="v1">우리만의 자유로운 19's kitsch</p>
+      <p begin="01:41.690" end="01:44.160" ttm:agent="v1">지금까지 한적 없는 custom fit</p>
+      <p begin="01:44.160" end="01:46.560" ttm:agent="v1">올려 대는 나의 feed엔 like it</p>
+      <p begin="01:46.560" end="01:48.730" ttm:agent="v1">홀린 듯이 눌러, 모두 다 like it</p>
+      <p begin="01:48.730" end="01:51.140" ttm:agent="v1">내가 추는 춤을 다들 따라 춰</p>
+      <p begin="01:51.140" end="01:53.440" ttm:agent="v1">매일 너의 알고리즘에 난 떠</p>
+      <p begin="01:53.440" end="01:55.820" ttm:agent="v1">겉잡을 수 없이 올라 미친 score</p>
+      <p begin="01:55.820" end="01:58.370" ttm:agent="v1">그 누구도 예상 못할 19's kitsch</p>
+      <p begin="01:58.370" end="02:00.280" ttm:agent="v1">우리만의 자유로운 19's kitsch</p>
+      <p begin="02:00.280" end="02:02.900" ttm:agent="v1">우리-우리만의 자유로운 19's kitsch</p>
+      <p begin="02:02.900" end="02:05.140" ttm:agent="v1">우리만의 자유로운 19's kitsch</p>
+      <p begin="02:05.140" end="02:07.600" ttm:agent="v1">우리-우리만의 자유로운 19's kitsch</p>
+      <p begin="02:07.600" end="02:09.470" ttm:agent="v1">Kitsch, kitsch, kitsch</p>
+      <p begin="02:09.470" end="02:12.360" ttm:agent="v1">Kitsch, kitsch, kitsch, kitsch</p>
+      <p begin="02:12.360" end="02:14.470" ttm:agent="v1">우리만의 자유로운 19's kitsch</p>
+      <p begin="02:14.470" end="02:17.070" ttm:agent="v1">우리-우리만의 자유로운</p>
+      <p begin="02:17.070" end="02:19.030" ttm:agent="v1">Yeah, 모두 주목해</p>
+      <p begin="02:19.030" end="02:21.500" ttm:agent="v1">내가 좋아하는 것만 하면 뭐 어때?</p>
+      <p begin="02:21.500" end="02:24.130" ttm:agent="v1">Huh, this ain't your life</p>
+      <p begin="02:24.130" end="02:26.500" ttm:agent="v1">쓸데없는 생각 따위, go away</p>
+      <p begin="02:26.500" end="02:28.720" ttm:agent="v1">답답한 이 세상 앞엔</p>
+      <p begin="02:28.720" end="02:31.430" ttm:agent="v1">멋대로 할래</p>
+      <p begin="02:31.430" end="02:33.540" ttm:agent="v1">YOLO, say no, 너의 길을 가 now</p>
+      <p begin="02:33.540" end="02:35.740" ttm:agent="v1">잔소리는 quite down, 이제 그만, peace out</p>
+      <p begin="02:35.740" end="02:38.120" ttm:agent="v1">우리만의 자유로운 19's kitsch</p>
+      <p begin="02:38.120" end="02:40.660" ttm:agent="v1">지금까지 한적 없는 custom fit</p>
+      <p begin="02:40.660" end="02:42.990" ttm:agent="v1">올려 대는 나의 feed엔 like it</p>
+      <p begin="02:42.990" end="02:45.160" ttm:agent="v1">홀린 듯이 눌러, 모두 다 like it</p>
+      <p begin="02:45.160" end="02:47.590" ttm:agent="v1">내가 추는 춤을 다들 따라 춰</p>
+      <p begin="02:47.590" end="02:50.070" ttm:agent="v1">매일 너의 알고리즘에 난 떠</p>
+      <p begin="02:50.070" end="02:52.450" ttm:agent="v1">겉잡을 수 없이 올라 미친 score</p>
+      <p begin="02:52.450" end="02:54.780" ttm:agent="v1">그 누구도 예상 못할 19's kitsch</p>
+      <p begin="02:54.780" end="02:56.740" ttm:agent="v1">우리만의 자유로운 19's kitsch</p>
+      <p begin="02:56.740" end="02:59.420" ttm:agent="v1">우리-우리만의 자유로운 19's kitsch</p>
+      <p begin="02:59.420" end="03:01.420" ttm:agent="v1">우리만의 자유로운 19's kitsch</p>
+      <p begin="03:01.420" end="03:03.980" ttm:agent="v1">우리-우리만의 자유로운 19's kitsch</p>
+      <p begin="03:03.980" end="03:05.970" ttm:agent="v1">Kitsch, kitsch, kitsch</p>
+      <p begin="03:05.970" end="03:08.740" ttm:agent="v1">Kitsch, kitsch, kitsch, kitsch</p>
+      <p begin="03:08.740" end="03:10.860" ttm:agent="v1">우리만의 자유로운 19's kitsch</p>
+      <p begin="03:10.860" end="03:13.190" ttm:agent="v1">우리-우리만의 자유로운 19's kitsch</p>
+      <p begin="03:13.190" end="03:17.190" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

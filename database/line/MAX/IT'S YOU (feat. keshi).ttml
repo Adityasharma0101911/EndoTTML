@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>IT'S YOU (feat. keshi)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">MAX</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">keshi</ttm:agent>
+      <ttm:item type="album">LOVE IN STEREO</ttm:item>
+      <ttm:item type="spotify_id">1hWDc5jD5br9pXSOtubFlf</ttm:item>
+      <itunes:duration>02:53.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:04.860" end="00:10.330" ttm:agent="v1">Mm-hmm, oh yeah</p>
+      <p begin="00:10.330" end="00:12.710" ttm:agent="v1"/>
+      <p begin="00:12.710" end="00:15.940" ttm:agent="v1">It's you</p>
+      <p begin="00:15.940" end="00:20.920" ttm:agent="v1">Loving's so easy to do</p>
+      <p begin="00:20.920" end="00:23.570" ttm:agent="v1">Yeah, it's easy, baby</p>
+      <p begin="00:23.570" end="00:26.710" ttm:agent="v1">Oh, ooh-ooh</p>
+      <p begin="00:26.710" end="00:31.650" ttm:agent="v1">Think that I'm falling for you</p>
+      <p begin="00:31.650" end="00:36.390" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, it's easy (you got to get a hold of yourself)</p>
+      <p begin="00:36.390" end="00:38.730" ttm:agent="v1">Another Sunday afternoon</p>
+      <p begin="00:38.730" end="00:41.390" ttm:agent="v1">And I'm still in bed with you</p>
+      <p begin="00:41.390" end="00:46.150" ttm:agent="v1">Nothing else I wanna do, no</p>
+      <p begin="00:46.150" end="00:48.760" ttm:agent="v1" itunes:key="role" itunes:value="background">Order from that place you like (you like)</p>
+      <p begin="00:48.760" end="00:51.510" ttm:agent="v1" itunes:key="role" itunes:value="background">We don't need to go outside (outside)</p>
+      <p begin="00:51.510" end="00:55.580" ttm:agent="v1" itunes:key="role" itunes:value="background">Something 'bout you feels so right (feels so right)</p>
+      <p begin="00:55.580" end="00:58.470" ttm:agent="v1">Can we stay like this forever?</p>
+      <p begin="00:58.470" end="01:00.790" ttm:agent="v1">White dress or whatever</p>
+      <p begin="01:00.790" end="01:03.810" ttm:agent="v1">I keep dreaming there's a somewhere</p>
+      <p begin="01:03.810" end="01:06.310" ttm:agent="v1">That we grow old together</p>
+      <p begin="01:06.310" end="01:09.530" ttm:agent="v1">It's you</p>
+      <p begin="01:09.530" end="01:14.090" ttm:agent="v1">Loving's so easy to do</p>
+      <p begin="01:14.090" end="01:17.060" ttm:agent="v1">Yeah, it's easy, baby</p>
+      <p begin="01:17.060" end="01:20.030" ttm:agent="v1">Oh, ooh-ooh</p>
+      <p begin="01:20.030" end="01:24.830" ttm:agent="v1">Think that I'm falling for you</p>
+      <p begin="01:24.830" end="01:28.850" ttm:agent="v1">Yeah, it's easy</p>
+      <p begin="01:28.850" end="01:31.100" ttm:agent="v1">I met you at the right time</p>
+      <p begin="01:31.100" end="01:33.810" ttm:agent="v1">See you and I'm still excited</p>
+      <p begin="01:33.810" end="01:36.440" ttm:agent="v1">Sittin' in that shirt of mine</p>
+      <p begin="01:36.440" end="01:39.200" ttm:agent="v1">A little big but I like it</p>
+      <p begin="01:39.200" end="01:42.040" ttm:agent="v1">Snacks in the late night</p>
+      <p begin="01:42.040" end="01:44.620" ttm:agent="v1">We don't need to do fine dinin'</p>
+      <p begin="01:44.620" end="01:47.070" ttm:agent="v1">Make love when the sunrise</p>
+      <p begin="01:47.070" end="01:49.710" ttm:agent="v1">Pillow talk in silence</p>
+      <p begin="01:49.710" end="01:52.030" ttm:agent="v1" itunes:key="role" itunes:value="background">Like this forever (forever)</p>
+      <p begin="01:52.030" end="01:54.220" ttm:agent="v1">White dress or whatever</p>
+      <p begin="01:54.220" end="01:56.730" ttm:agent="v1">I keep dreamin' there's a somewhere</p>
+      <p begin="01:56.730" end="01:59.410" ttm:agent="v1">That we grow old together</p>
+      <p begin="01:59.410" end="02:02.340" ttm:agent="v1">In a van or in a mansion</p>
+      <p begin="02:02.340" end="02:04.880" ttm:agent="v1">Raining but we're dancing</p>
+      <p begin="02:04.880" end="02:10.200" ttm:agent="v1">There's a billion people out there, I can't believe the chances</p>
+      <p begin="02:10.200" end="02:13.380" ttm:agent="v1">It's you</p>
+      <p begin="02:13.380" end="02:18.180" ttm:agent="v1" itunes:key="role" itunes:value="background">Loving's so easy to do (to do)</p>
+      <p begin="02:18.180" end="02:20.750" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, it's easy, baby (yeah)</p>
+      <p begin="02:20.750" end="02:24.140" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, ooh-ooh (yeah-ooh, uh)</p>
+      <p begin="02:24.140" end="02:28.890" ttm:agent="v1" itunes:key="role" itunes:value="background">Think that I'm falling for you (for you, yeah)</p>
+      <p begin="02:28.890" end="02:34.740" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, it's easy (ooh)</p>
+      <p begin="02:34.740" end="02:39.420" ttm:agent="v1" itunes:key="role" itunes:value="background">Loving's so easy to do (ooh, ooh, ooh)</p>
+      <p begin="02:39.420" end="02:43.120" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, it's easy (it is easy)</p>
+      <p begin="02:43.120" end="02:47.120" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

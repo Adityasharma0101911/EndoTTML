@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>this is what winter feels like</ttm:title>
+      <ttm:agent type="person" xml:id="v1">JVKE</ttm:agent>
+      <ttm:item type="album">this is what winter feels like</ttm:item>
+      <ttm:item type="spotify_id">1TbxAY9cb9MbvTifjcvSkJ</ttm:item>
+      <itunes:duration>03:15.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:12.930" end="00:16.630" ttm:agent="v1" itunes:key="role" itunes:value="background">(Co-, oh)</p>
+      <p begin="00:16.630" end="00:20.420" ttm:agent="v1">I hope you leave and don't come back</p>
+      <p begin="00:20.420" end="00:28.420" ttm:agent="v1">'Cause I'm co-, oh</p>
+      <p begin="00:28.820" end="00:36.820" ttm:agent="v1">Baby, I'm co-, oh</p>
+      <p begin="00:37.300" end="00:39.520" ttm:agent="v1">Baby, I'm</p>
+      <p begin="00:39.520" end="00:41.630" ttm:agent="v1">Still cold</p>
+      <p begin="00:41.630" end="00:43.870" ttm:agent="v1">Cold like I'm seein' my breath</p>
+      <p begin="00:43.870" end="00:45.850" ttm:agent="v1">After the season you left</p>
+      <p begin="00:45.850" end="00:47.350" ttm:agent="v1">Baby, I'm stuck in my ways</p>
+      <p begin="00:47.320" end="00:49.330" ttm:agent="v1">They say the coldest hearts are hardest to break</p>
+      <p begin="00:49.330" end="00:51.580" ttm:agent="v1">That's probably how I ended up in this place</p>
+      <p begin="00:51.580" end="00:53.690" ttm:agent="v1">With no emotion left to process the pain</p>
+      <p begin="00:53.690" end="00:56.000" ttm:agent="v1" itunes:key="role" itunes:value="background">It's better this way (yeah)</p>
+      <p begin="00:56.000" end="01:00.240" ttm:agent="v1">Too numb to feel it burn</p>
+      <p begin="01:00.240" end="01:04.560" ttm:agent="v1">Too numb to let it hurt</p>
+      <p begin="01:04.560" end="01:08.070" ttm:agent="v1">I stare at my reflection</p>
+      <p begin="01:08.070" end="01:12.600" ttm:agent="v1">I don't recognize myself</p>
+      <p begin="01:12.600" end="01:17.030" ttm:agent="v1">I'm too numb to feel the pain</p>
+      <p begin="01:17.030" end="01:21.390" ttm:agent="v1">Too numb to feel a thing</p>
+      <p begin="01:21.390" end="01:23.480" ttm:agent="v1">You watched me bleed</p>
+      <p begin="01:23.480" end="01:27.270" ttm:agent="v1">I hope you leave and don't come back</p>
+      <p begin="01:27.270" end="01:35.270" ttm:agent="v1">'Cause I'm co-, oh</p>
+      <p begin="01:35.630" end="01:39.940" ttm:agent="v1">Baby, I'm co-, oh</p>
+      <p begin="01:39.940" end="01:43.940" ttm:agent="v1">I hope you leave and don't come back</p>
+      <p begin="01:43.940" end="01:47.370" ttm:agent="v1">'Cause I'm-</p>
+      <p begin="01:47.370" end="01:49.050" ttm:agent="v1">Call me on the phone, but I'm outta range</p>
+      <p begin="01:49.050" end="01:50.890" ttm:agent="v1">When I'm all up in the mountain ranges</p>
+      <p begin="01:50.890" end="01:52.890" ttm:agent="v1">And I know you won't put this on your playlist</p>
+      <p begin="01:52.890" end="01:54.930" ttm:agent="v1">Show your friends all mad I'm keepin' you nameless</p>
+      <p begin="01:54.930" end="01:56.760" ttm:agent="v1">I was down bad for you from the jump</p>
+      <p begin="01:56.760" end="01:59.310" ttm:agent="v1">Thought you were the one, now I gotta regain my trust</p>
+      <p begin="01:59.310" end="02:02.080" ttm:agent="v1">Matter fact, I don't trust no one, left me in the dust</p>
+      <p begin="02:02.080" end="02:04.990" ttm:agent="v1" itunes:key="role" itunes:value="background">Got me outta touch with emotions (yeah)</p>
+      <p begin="02:04.990" end="02:09.210" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm too numb to feel the pain (too numb to feel the pain)</p>
+      <p begin="02:09.210" end="02:13.580" ttm:agent="v1" itunes:key="role" itunes:value="background">Too numb to feel a thing (ah)</p>
+      <p begin="02:13.580" end="02:15.500" ttm:agent="v1">You watched me bleed</p>
+      <p begin="02:15.500" end="02:19.450" ttm:agent="v1">I hope you leave and don't come back</p>
+      <p begin="02:19.450" end="02:23.850" ttm:agent="v1">'Cause I'm co-, oh</p>
+      <p begin="02:23.850" end="02:27.850" ttm:agent="v1">I hope you leave and don't come back</p>
+      <p begin="02:27.850" end="02:32.280" ttm:agent="v1">'Cause I'm co-, oh</p>
+      <p begin="02:32.280" end="02:37.580" ttm:agent="v1">You watched me freeze and turned your back on me</p>
+      <p begin="02:37.580" end="02:39.750" ttm:agent="v1" itunes:key="role" itunes:value="background">So don't hit my line (don't hit my line)</p>
+      <p begin="02:39.750" end="02:41.970" ttm:agent="v1" itunes:key="role" itunes:value="background">Don't waste your time (don't waste your time)</p>
+      <p begin="02:41.970" end="02:44.480" ttm:agent="v1">I'm too far gone</p>
+      <p begin="02:44.480" end="02:49.080" ttm:agent="v1">Yeah, I swear that I'm co-, oh</p>
+      <p begin="02:49.080" end="02:52.930" ttm:agent="v1">I hope you leave and don't come back</p>
+      <p begin="02:52.930" end="02:57.230" ttm:agent="v1">'Cause I'm cold</p>
+      <p begin="02:57.230" end="03:01.180" ttm:agent="v1">I hope you leave and don't come back</p>
+      <p begin="03:01.180" end="03:05.670" ttm:agent="v1">'Cause I'm cold</p>
+      <p begin="03:05.670" end="03:09.530" ttm:agent="v1">I hope you leave and don't come back</p>
+      <p begin="03:09.530" end="03:11.030" ttm:agent="v1">'Cause I'm-</p>
+      <p begin="03:10.080" end="03:14.080" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

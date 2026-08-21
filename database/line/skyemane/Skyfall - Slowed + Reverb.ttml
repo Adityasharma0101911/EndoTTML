@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Skyfall - Slowed + Reverb</ttm:title>
+      <ttm:agent type="person" xml:id="v1">skyemane</ttm:agent>
+      <ttm:item type="album">Skyfall (Slowed + Reverb)</ttm:item>
+      <ttm:item type="spotify_id">7D0tMsj3R2aEEXBwlVo2Yt</ttm:item>
+      <itunes:duration>05:53.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:37.990" end="00:43.410" ttm:agent="v1">This is the end</p>
+      <p begin="00:43.410" end="00:51.410" ttm:agent="v1">Hold your breath and count to ten</p>
+      <p begin="00:51.420" end="00:59.410" ttm:agent="v1">Feel the earth move and then</p>
+      <p begin="00:59.410" end="01:07.410" ttm:agent="v1">Hear my heart burst again</p>
+      <p begin="01:08.330" end="01:14.150" ttm:agent="v1">For this is the end</p>
+      <p begin="01:14.150" end="01:22.000" ttm:agent="v1">I've drowned and dreamt this moment</p>
+      <p begin="01:22.000" end="01:30.000" ttm:agent="v1">So overdue, I owe them</p>
+      <p begin="01:30.020" end="01:38.020" ttm:agent="v1">Swept away, I'm stolen</p>
+      <p begin="01:38.520" end="01:42.560" ttm:agent="v1">Let the sky fall</p>
+      <p begin="01:42.560" end="01:46.130" ttm:agent="v1">When it crumbles</p>
+      <p begin="01:46.130" end="01:50.170" ttm:agent="v1">We will stand tall</p>
+      <p begin="01:50.170" end="01:54.110" ttm:agent="v1">Face it all together</p>
+      <p begin="01:54.110" end="01:58.190" ttm:agent="v1">Let the sky fall</p>
+      <p begin="01:58.190" end="02:01.850" ttm:agent="v1">When it crumbles</p>
+      <p begin="02:01.850" end="02:05.590" ttm:agent="v1">We will stand tall</p>
+      <p begin="02:05.590" end="02:08.500" ttm:agent="v1">Face it all together</p>
+      <p begin="02:08.500" end="02:16.160" ttm:agent="v1">At sky fall</p>
+      <p begin="02:16.160" end="02:24.050" ttm:agent="v1">It's at sky fall</p>
+      <p begin="02:24.050" end="02:31.240" ttm:agent="v1">Skyfall is where we start</p>
+      <p begin="02:31.240" end="02:38.850" ttm:agent="v1">A thousand miles and poles apart</p>
+      <p begin="02:38.850" end="02:43.740" ttm:agent="v1">Where worlds collide and days are dark</p>
+      <p begin="02:43.740" end="02:46.580" ttm:agent="v1">You may have my number</p>
+      <p begin="02:46.580" end="02:50.040" ttm:agent="v1">You can take my name</p>
+      <p begin="02:50.040" end="02:55.520" ttm:agent="v1">But you'll never have my heart</p>
+      <p begin="02:55.520" end="02:59.280" ttm:agent="v1">Let the sky fall</p>
+      <p begin="02:59.280" end="03:02.920" ttm:agent="v1">When it crumbles</p>
+      <p begin="03:02.920" end="03:06.820" ttm:agent="v1">We will stand tall</p>
+      <p begin="03:06.820" end="03:10.850" ttm:agent="v1">Face it all together</p>
+      <p begin="03:10.850" end="03:14.560" ttm:agent="v1">Let the sky fall</p>
+      <p begin="03:14.560" end="03:18.470" ttm:agent="v1">When it crumbles</p>
+      <p begin="03:18.470" end="03:22.200" ttm:agent="v1">We will stand tall</p>
+      <p begin="03:22.200" end="03:25.290" ttm:agent="v1">Face it all together</p>
+      <p begin="03:25.290" end="03:28.730" ttm:agent="v1">At sky fall</p>
+      <p begin="03:28.730" end="03:32.120" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let the sky fall)</p>
+      <p begin="03:32.120" end="03:36.190" ttm:agent="v1" itunes:key="role" itunes:value="background">(When it crumbles)</p>
+      <p begin="03:36.190" end="03:43.990" ttm:agent="v1" itunes:key="role" itunes:value="background">(We will stand tall)</p>
+      <p begin="03:43.990" end="03:47.600" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let the sky fall)</p>
+      <p begin="03:47.600" end="03:51.510" ttm:agent="v1" itunes:key="role" itunes:value="background">(When it crumbles)</p>
+      <p begin="03:51.510" end="03:56.660" ttm:agent="v1" itunes:key="role" itunes:value="background">(We will stand tall)</p>
+      <p begin="03:56.660" end="04:00.340" ttm:agent="v1">Where you go, I go</p>
+      <p begin="04:00.340" end="04:04.370" ttm:agent="v1">What you see, I see</p>
+      <p begin="04:04.370" end="04:08.030" ttm:agent="v1">I know I'd never be me</p>
+      <p begin="04:08.030" end="04:11.960" ttm:agent="v1">Without the security</p>
+      <p begin="04:11.960" end="04:15.960" ttm:agent="v1">Of your loving arms</p>
+      <p begin="04:15.960" end="04:19.780" ttm:agent="v1">Keeping me from harm</p>
+      <p begin="04:19.780" end="04:23.380" ttm:agent="v1">Put your hand in my hand</p>
+      <p begin="04:23.380" end="04:27.070" ttm:agent="v1">And we'll stand</p>
+      <p begin="04:27.070" end="04:30.970" ttm:agent="v1" itunes:key="role" itunes:value="background">Let the sky fall (let the sky fall)</p>
+      <p begin="04:30.970" end="04:34.660" ttm:agent="v1" itunes:key="role" itunes:value="background">When it crumbles (when it crumbles)</p>
+      <p begin="04:34.660" end="04:38.330" ttm:agent="v1">We will stand tall</p>
+      <p begin="04:38.330" end="04:42.020" ttm:agent="v1">Face it all together</p>
+      <p begin="04:42.020" end="04:46.060" ttm:agent="v1">Let the sky fall</p>
+      <p begin="04:46.060" end="04:49.450" ttm:agent="v1">When it crumbles</p>
+      <p begin="04:49.450" end="04:53.190" ttm:agent="v1">We will stand tall</p>
+      <p begin="04:53.190" end="04:56.150" ttm:agent="v1">Face it all together</p>
+      <p begin="04:56.150" end="04:59.400" ttm:agent="v1">At sky fall</p>
+      <p begin="04:59.400" end="05:06.930" ttm:agent="v1">Let the sky fall</p>
+      <p begin="05:06.930" end="05:10.990" ttm:agent="v1">We will stand tall</p>
+      <p begin="05:10.990" end="05:18.990" ttm:agent="v1">At sky-</p>
+      <p begin="05:26.830" end="05:34.830" ttm:agent="v1">Ooh, ooh-ooh</p>
+      <p begin="05:35.890" end="05:39.890" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

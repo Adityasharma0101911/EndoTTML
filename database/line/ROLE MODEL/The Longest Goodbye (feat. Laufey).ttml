@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>The Longest Goodbye (feat. Laufey)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">ROLE MODEL</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Laufey</ttm:agent>
+      <ttm:item type="album">The Longest Goodbye (feat. Laufey)</ttm:item>
+      <ttm:item type="spotify_id">4QlcY3H7hRb74XacY3tJJQ</ttm:item>
+      <itunes:duration>02:50.213</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:10.100" end="00:13.610" ttm:agent="v1">You were a brand new blue jean</p>
+      <p begin="00:13.610" end="00:16.170" ttm:agent="v1">Picket on the front lawn</p>
+      <p begin="00:16.170" end="00:20.940" ttm:agent="v1">A reason just to get off the floor</p>
+      <p begin="00:20.940" end="00:23.870" ttm:agent="v1">From a friend to a stranger</p>
+      <p begin="00:23.870" end="00:26.530" ttm:agent="v1">A simple rearranger</p>
+      <p begin="00:26.530" end="00:30.950" ttm:agent="v1">Should I even open that door?</p>
+      <p begin="00:30.950" end="00:34.360" ttm:agent="v1">It was a Sunday morning</p>
+      <p begin="00:34.360" end="00:36.880" ttm:agent="v1">Hanging by a shoelace</p>
+      <p begin="00:36.880" end="00:41.780" ttm:agent="v1">Felt like you were starting a war</p>
+      <p begin="00:41.780" end="00:44.560" ttm:agent="v1">Now you're changing and moving</p>
+      <p begin="00:44.560" end="00:47.280" ttm:agent="v1">I'll take my ass to Houston</p>
+      <p begin="00:47.280" end="00:55.280" ttm:agent="v1">'Cause I don't think you love me anymore</p>
+      <p begin="00:57.260" end="00:58.760" ttm:agent="v1" itunes:key="role" itunes:value="background">(That's all right)</p>
+      <p begin="00:58.310" end="01:06.310" ttm:agent="v1"/>
+      <p begin="01:13.220" end="01:16.210" ttm:agent="v1">You were a headache some days</p>
+      <p begin="01:16.210" end="01:18.950" ttm:agent="v1">But surely no one's perfect</p>
+      <p begin="01:18.950" end="01:23.940" ttm:agent="v1">But loving you's like doin' a chore</p>
+      <p begin="01:23.940" end="01:27.090" ttm:agent="v1">Instead of blamin' and bruisin'</p>
+      <p begin="01:27.090" end="01:29.860" ttm:agent="v1">And watching what I'm losin'</p>
+      <p begin="01:29.860" end="01:35.190" ttm:agent="v1">I don't think I love you anymore</p>
+      <p begin="01:35.190" end="01:39.420" ttm:agent="v1" itunes:key="role" itunes:value="background">And if this is my goodbye (Ooh-ooh)</p>
+      <p begin="01:39.420" end="01:45.290" ttm:agent="v1" itunes:key="role" itunes:value="background">It's been the longest of my life (Ooh, ooh-ooh)</p>
+      <p begin="01:45.290" end="01:48.330" ttm:agent="v1" itunes:key="role" itunes:value="background">I see my shoes have been filled (Ooh-ooh)</p>
+      <p begin="01:48.330" end="01:56.280" ttm:agent="v1" itunes:key="role" itunes:value="background">And still, all I can hope is that he's treating you nice (Ooh-ooh)</p>
+      <p begin="01:56.280" end="01:59.750" ttm:agent="v1">I see the new man you're holding</p>
+      <p begin="01:59.750" end="02:02.730" ttm:agent="v1">The bar is finally closing</p>
+      <p begin="02:02.730" end="02:07.370" ttm:agent="v1">I don't know what I'm bugging you for</p>
+      <p begin="02:07.370" end="02:10.770" ttm:agent="v1">Between the silence and the mileage</p>
+      <p begin="02:10.770" end="02:13.860" ttm:agent="v1">The feelings you were hiding</p>
+      <p begin="02:13.860" end="02:18.960" ttm:agent="v1">I don't think you love me anymore</p>
+      <p begin="02:18.960" end="02:24.760" ttm:agent="v1">And I don't think I love you anymore</p>
+      <p begin="02:24.760" end="02:32.150" ttm:agent="v1">But I don't think I'll ever be so sure</p>
+      <p begin="02:32.150" end="02:34.570" ttm:agent="v1" itunes:key="role" itunes:value="background">(One, two, three, ah)</p>
+      <p begin="02:34.570" end="02:38.570" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

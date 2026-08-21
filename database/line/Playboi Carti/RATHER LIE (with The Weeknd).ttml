@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>RATHER LIE (with The Weeknd)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Playboi Carti</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">The Weeknd</ttm:agent>
+      <ttm:item type="album">MUSIC</ttm:item>
+      <ttm:item type="spotify_id">68qeaZhtMZ6abrJCYt6nQn</ttm:item>
+      <itunes:duration>03:29.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:05.910" end="00:08.820" ttm:agent="v1">I'd rather lie than to lose you, girl</p>
+      <p begin="00:08.820" end="00:12.540" ttm:agent="v1">I'd rather lie than confuse you, girl</p>
+      <p begin="00:12.540" end="00:16.060" ttm:agent="v1">Truth is we lapped them, they want us gone</p>
+      <p begin="00:16.060" end="00:19.720" ttm:agent="v1">Truth is they can't handle me at the top</p>
+      <p begin="00:19.720" end="00:24.620" ttm:agent="v1">I'd rather spare you the details, my love</p>
+      <p begin="00:24.620" end="00:26.630" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, I'd rather (wake up, F1LTHY)</p>
+      <p begin="00:26.630" end="00:30.110" ttm:agent="v1" itunes:key="role" itunes:value="background">I'd rather lie than lose you, I'd rather lie (Swamp Izzo)</p>
+      <p begin="00:30.110" end="00:33.770" ttm:agent="v1">I'd rather, I'd rather</p>
+      <p begin="00:33.770" end="00:37.220" ttm:agent="v1">I'd rather lie than lose you, I'd rather lie</p>
+      <p begin="00:37.220" end="00:40.930" ttm:agent="v1">I'd rather, I'd rather</p>
+      <p begin="00:40.930" end="00:42.430" ttm:agent="v1">I'd rather lie than lose you</p>
+      <p begin="00:42.430" end="00:44.280" ttm:agent="v1">She wanna fuck, let's make up</p>
+      <p begin="00:44.280" end="00:45.780" ttm:agent="v1" itunes:key="role" itunes:value="background">Ex got a problem, tell him say somethin' (schyeah)</p>
+      <p begin="00:45.750" end="00:47.690" ttm:agent="v1" itunes:key="role" itunes:value="background">House in the hills, we'll lay up (schyeah)</p>
+      <p begin="00:47.690" end="00:49.640" ttm:agent="v1">Bae, you could stay, we could play fun</p>
+      <p begin="00:49.640" end="00:51.190" ttm:agent="v1">She don't do much, just lay</p>
+      <p begin="00:51.190" end="00:52.970" ttm:agent="v1">Anything she want, I can get done</p>
+      <p begin="00:52.970" end="00:54.980" ttm:agent="v1" itunes:key="role" itunes:value="background">Hundred thousand racks in the bando (schyeah)</p>
+      <p begin="00:54.980" end="00:56.680" ttm:agent="v1">Hundred thousand racks in the bando</p>
+      <p begin="00:56.680" end="00:58.400" ttm:agent="v1">She want a bag, and I get that</p>
+      <p begin="00:58.400" end="01:00.230" ttm:agent="v1">She tryna leave, told me she-, uh</p>
+      <p begin="01:00.230" end="01:02.270" ttm:agent="v1">Said that she leavin', she wanna-, uh</p>
+      <p begin="01:02.270" end="01:03.960" ttm:agent="v1">I'm off a bean, it's gettin' me-, uh</p>
+      <p begin="01:03.960" end="01:05.460" ttm:agent="v1">She bend right back, then we bool</p>
+      <p begin="01:05.460" end="01:07.210" ttm:agent="v1" itunes:key="role" itunes:value="background">At the top, we could swim in the pool (schyeah)</p>
+      <p begin="01:07.210" end="01:09.240" ttm:agent="v1" itunes:key="role" itunes:value="background">In that penthouse, I'm lovin' on you (ha)</p>
+      <p begin="01:09.240" end="01:11.120" ttm:agent="v1" itunes:key="role" itunes:value="background">Said she fuckin', she fuckin' with me, yeah (ha)</p>
+      <p begin="01:11.120" end="01:14.770" ttm:agent="v1">Oh, you already know I'd lie to you than lose and break your heart</p>
+      <p begin="01:14.770" end="01:18.510" ttm:agent="v1" itunes:key="role" itunes:value="background">I'd rather tell you a lie than tell you the truth and leave you stuck (schyeah)</p>
+      <p begin="01:18.510" end="01:20.010" ttm:agent="v1">How you gon' take it this far?</p>
+      <p begin="01:19.950" end="01:21.980" ttm:agent="v1" itunes:key="role" itunes:value="background">Baby, know that you fuck with a star (yeah)</p>
+      <p begin="01:21.980" end="01:24.830" ttm:agent="v1" itunes:key="role" itunes:value="background">Baby, know that you fuck with a star (yeah)</p>
+      <p begin="01:24.830" end="01:27.990" ttm:agent="v1">I'd rather lie than to lose you, girl</p>
+      <p begin="01:27.990" end="01:31.550" ttm:agent="v1">I'd rather lie than confuse you, girl</p>
+      <p begin="01:31.550" end="01:35.460" ttm:agent="v1">Truth is we lapped them, they want us gone</p>
+      <p begin="01:35.460" end="01:38.910" ttm:agent="v1">Truth is they can't handle me at the top</p>
+      <p begin="01:38.910" end="01:43.680" ttm:agent="v1">I'd rather spare you the details, my love</p>
+      <p begin="01:43.680" end="01:46.170" ttm:agent="v1">Oh, I'd rather</p>
+      <p begin="01:46.170" end="01:49.690" ttm:agent="v1">I'd rather lie than lose you, I'd rather lie</p>
+      <p begin="01:49.690" end="01:51.190" ttm:agent="v1">I'd rather</p>
+      <p begin="01:50.710" end="01:52.600" ttm:agent="v1">I'm back on the track, gettin' off like this</p>
+      <p begin="01:52.600" end="01:54.320" ttm:agent="v1">I'm back on the lean, I'ma talk like this</p>
+      <p begin="01:54.320" end="01:56.090" ttm:agent="v1">I'm back on that shit, I'ma walk like this</p>
+      <p begin="01:56.090" end="01:57.960" ttm:agent="v1">House got a view, we could fuck like this</p>
+      <p begin="01:57.960" end="01:59.920" ttm:agent="v1">Niggas get mad when I talk this shit</p>
+      <p begin="01:59.920" end="02:01.830" ttm:agent="v1" itunes:key="role" itunes:value="background">Niggas be mad 'cause I offed his bitch (hold on)</p>
+      <p begin="02:01.830" end="02:03.650" ttm:agent="v1">This nigga mad 'cause I fucked her</p>
+      <p begin="02:03.650" end="02:05.300" ttm:agent="v1">Bagged me a cougar, I'm younger</p>
+      <p begin="02:05.300" end="02:06.910" ttm:agent="v1">I'm diggin' deep like a plunger</p>
+      <p begin="02:06.910" end="02:09.140" ttm:agent="v1">I took her panties up off her</p>
+      <p begin="02:09.140" end="02:12.700" ttm:agent="v1" itunes:key="role" itunes:value="background">Opposites always attract, how you happy, then get mad? (Schyeah)</p>
+      <p begin="02:12.700" end="02:16.440" ttm:agent="v1">But I want you bad, and she wanna make up</p>
+      <p begin="02:16.440" end="02:19.020" ttm:agent="v1">I might just tell you that this true love, give you my kidney</p>
+      <p begin="02:19.020" end="02:20.570" ttm:agent="v1">Wrist filled up while I'm spinning</p>
+      <p begin="02:20.570" end="02:24.310" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm off the lean and molly at the same damn time, I can't even stay up (what?)</p>
+      <p begin="02:24.310" end="02:25.810" ttm:agent="v1">Wrist in the freezer</p>
+      <p begin="02:25.630" end="02:27.520" ttm:agent="v1">I'ma cash out 'cause you mine</p>
+      <p begin="02:27.520" end="02:29.130" ttm:agent="v1">I'ma pull up, get behind you</p>
+      <p begin="02:29.130" end="02:31.010" ttm:agent="v1">All of that ass, let me bite that</p>
+      <p begin="02:31.010" end="02:32.650" ttm:agent="v1">Give you my card, tell you, &quot;Swipe that&quot;</p>
+      <p begin="02:32.650" end="02:36.490" ttm:agent="v1">It wasn't you, it's me, it ain't me, it's you</p>
+      <p begin="02:36.490" end="02:40.100" ttm:agent="v1">I know it's hard to see, but I'd rather lie than lose</p>
+      <p begin="02:40.100" end="02:44.280" ttm:agent="v1">I'd rather, I'd rather, I'd rather</p>
+      <p begin="02:44.280" end="02:47.880" ttm:agent="v1" itunes:key="role" itunes:value="background">I'd rather lie than to lose you, girl (Swamp Izzo)</p>
+      <p begin="02:47.880" end="02:51.350" ttm:agent="v1">I'd rather lie than confuse you, girl</p>
+      <p begin="02:51.350" end="02:54.740" ttm:agent="v1">Truth is we lapped them, they want us gone</p>
+      <p begin="02:54.740" end="02:58.790" ttm:agent="v1">Truth is they can't handle me at the top</p>
+      <p begin="02:58.790" end="03:03.440" ttm:agent="v1">I'd rather spare you the details, my love</p>
+      <p begin="03:03.440" end="03:05.210" ttm:agent="v1">Oh, I'd rather</p>
+      <p begin="03:05.210" end="03:09.090" ttm:agent="v1" itunes:key="role" itunes:value="background">I'd rather lie than lose you, I'd rather lie (wake up, F1LTHY)</p>
+      <p begin="03:09.090" end="03:12.750" ttm:agent="v1">I'd rather, I'd rather</p>
+      <p begin="03:12.750" end="03:15.920" ttm:agent="v1">I'd rather lie than lose you, I'd rather lie</p>
+      <p begin="03:15.920" end="03:19.820" ttm:agent="v1">I'd rather, I'd rather</p>
+      <p begin="03:19.820" end="03:22.190" ttm:agent="v1">I'd rather lie than lose you</p>
+      <p begin="03:22.190" end="03:26.190" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

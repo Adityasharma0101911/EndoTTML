@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>wildflower</ttm:title>
+      <ttm:agent type="person" xml:id="v1">yung kai</ttm:agent>
+      <ttm:item type="album">stay with the ocean, i'll find you</ttm:item>
+      <ttm:item type="spotify_id">1IHQY9xFFfgYyjOWmbCVsE</ttm:item>
+      <itunes:duration>02:55.243</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:17.390" end="00:20.890" ttm:agent="v1">like a wildflower</p>
+      <p begin="00:20.890" end="00:28.890" ttm:agent="v1">so many colors but not enough to picture your smile</p>
+      <p begin="00:29.900" end="00:36.400" ttm:agent="v1">make it never fade it can make my day</p>
+      <p begin="00:36.400" end="00:40.370" ttm:agent="v1">just wait oh oh</p>
+      <p begin="00:40.370" end="00:44.740" ttm:agent="v1">I can be your love your sunlight</p>
+      <p begin="00:44.740" end="00:51.660" ttm:agent="v1">so keep your eyes on me, on me</p>
+      <p begin="00:51.660" end="00:55.520" ttm:agent="v1">dance to the daisies or any flower</p>
+      <p begin="00:55.520" end="00:59.750" ttm:agent="v1">or stand there and I can't tell you apart</p>
+      <p begin="00:59.750" end="01:04.250" ttm:agent="v1">I'll be rain for you even on sunny days</p>
+      <p begin="01:04.250" end="01:12.250" ttm:agent="v1">so paint my world with your color</p>
+      <p begin="01:26.490" end="01:31.470" ttm:agent="v1">let's lie in the sun, for hours and hours</p>
+      <p begin="01:31.470" end="01:35.670" ttm:agent="v1">til the day goes by and though</p>
+      <p begin="01:35.670" end="01:43.370" ttm:agent="v1">we might not be forever, just hold my hand anyways</p>
+      <p begin="01:43.370" end="01:47.560" ttm:agent="v1">let's bloom in ways where we can touch the stars</p>
+      <p begin="01:47.560" end="01:50.020" ttm:agent="v1">even though they're far</p>
+      <p begin="01:50.020" end="01:58.020" ttm:agent="v1">but if you wanna stay then I'll stay with you</p>
+      <p begin="01:59.710" end="02:03.660" ttm:agent="v1">dance to the daisies or any flower</p>
+      <p begin="02:03.660" end="02:07.750" ttm:agent="v1">or stand there and I can't tell you apart</p>
+      <p begin="02:07.750" end="02:12.180" ttm:agent="v1">I'll be rain for you even on sunny days</p>
+      <p begin="02:12.180" end="02:17.350" ttm:agent="v1">so paint my world with your color</p>
+      <p begin="02:17.350" end="02:21.350" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

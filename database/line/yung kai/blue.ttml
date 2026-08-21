@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>blue</ttm:title>
+      <ttm:agent type="person" xml:id="v1">yung kai</ttm:agent>
+      <ttm:item type="album">blue</ttm:item>
+      <ttm:item type="spotify_id">3be9ACTxtcL6Zm4vJRUiPG</ttm:item>
+      <itunes:duration>03:34.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:19.140" end="00:26.340" ttm:agent="v1">Your morning eyes, I could stare like watching stars</p>
+      <p begin="00:26.340" end="00:32.900" ttm:agent="v1">I could walk you by, and I'll tell without a thought</p>
+      <p begin="00:32.900" end="00:34.990" ttm:agent="v1">You'd be mine</p>
+      <p begin="00:34.990" end="00:40.360" ttm:agent="v1">Would you mind if i took your hand tonight</p>
+      <p begin="00:40.360" end="00:48.150" ttm:agent="v1">Know you're all that I want this life</p>
+      <p begin="00:48.150" end="00:50.720" ttm:agent="v1">I'll imagine we fell in love</p>
+      <p begin="00:50.720" end="00:54.640" ttm:agent="v1">I'll nap under moonlight skies with you</p>
+      <p begin="00:54.640" end="00:58.270" ttm:agent="v1">I think I'll picture us, you with the waves</p>
+      <p begin="00:58.270" end="01:02.160" ttm:agent="v1">The oceans colors on your face</p>
+      <p begin="01:02.160" end="01:06.260" ttm:agent="v1">I'll leave my heart with your air</p>
+      <p begin="01:06.260" end="01:09.810" ttm:agent="v1">So let me fly with you</p>
+      <p begin="01:09.810" end="01:14.450" ttm:agent="v1">Will you be forever with me</p>
+      <p begin="01:14.450" end="01:17.500" ttm:agent="v1"/>
+      <p begin="01:17.500" end="01:25.500" ttm:agent="v1">♫♫♫</p>
+      <p begin="01:46.860" end="01:52.500" ttm:agent="v1">My love will always stay by you</p>
+      <p begin="01:52.500" end="02:00.500" ttm:agent="v1">I'll keep it safe so don't you worry a thing, I'll tell you i love you more</p>
+      <p begin="02:01.400" end="02:08.170" ttm:agent="v1">It's stuck with you forever so promise you won't let it go</p>
+      <p begin="02:08.170" end="02:16.170" ttm:agent="v1">I'll trust the universe will always bring me to you</p>
+      <p begin="02:16.690" end="02:19.270" ttm:agent="v1">I'll imagine we fell in love</p>
+      <p begin="02:19.270" end="02:23.120" ttm:agent="v1">I'll nap under moonlight skies with you</p>
+      <p begin="02:23.120" end="02:26.730" ttm:agent="v1">I think I'll picture us, you with the waves</p>
+      <p begin="02:26.730" end="02:30.370" ttm:agent="v1">The oceans colors on your face</p>
+      <p begin="02:30.370" end="02:34.760" ttm:agent="v1">I'll leave my heart with your air</p>
+      <p begin="02:34.760" end="02:38.140" ttm:agent="v1">So let me fly with you</p>
+      <p begin="02:38.140" end="02:42.950" ttm:agent="v1">Will you be forever with me</p>
+      <p begin="02:42.950" end="02:50.950" ttm:agent="v1">♫♫♫</p>
+      <p begin="03:34.390" end="03:38.390" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Supernova</ttm:title>
+      <ttm:agent type="person" xml:id="v1">aespa</ttm:agent>
+      <ttm:item type="album">Armageddon - The 1st Album</ttm:item>
+      <ttm:item type="spotify_id">5lKnZbdGCBViitE1Ce5TZh</ttm:item>
+      <itunes:duration>02:59.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:02.820" end="00:07.130" ttm:agent="v1">I'm like some kind of supernova</p>
+      <p begin="00:07.130" end="00:08.630" ttm:agent="v1">Watch out</p>
+      <p begin="00:07.940" end="00:11.930" ttm:agent="v1">Look at me go, 재미 좀 볼</p>
+      <p begin="00:11.930" end="00:15.990" ttm:agent="v1">빛의 core, so hot, hot</p>
+      <p begin="00:15.990" end="00:19.900" ttm:agent="v1">문이 열려 서로의 존재를 느껴</p>
+      <p begin="00:19.900" end="00:24.890" ttm:agent="v1" itunes:key="role" itunes:value="background">마치 Discord, 날 닮은 너 (incoming!), 너 누구야? (Drop)</p>
+      <p begin="00:24.890" end="00:26.860" ttm:agent="v1">사건은 다가와, ah-oh, ayy</p>
+      <p begin="00:26.860" end="00:28.560" ttm:agent="v1">거세게 커져가, ah-oh, ayy</p>
+      <p begin="00:28.560" end="00:30.630" ttm:agent="v1">That tick, that tick, tick bomb</p>
+      <p begin="00:30.630" end="00:32.940" ttm:agent="v1">That tick, that tick, tick bomb</p>
+      <p begin="00:32.940" end="00:37.140" ttm:agent="v1" itunes:key="role" itunes:value="background">감히 건드리지 못할 걸 (누구도 말이야)</p>
+      <p begin="00:37.140" end="00:40.220" ttm:agent="v1" itunes:key="role" itunes:value="background">지금 내 안에선 (su-su-su-supernova)</p>
+      <p begin="00:40.220" end="00:46.370" ttm:agent="v1">Nova, can't stop hyperstellar</p>
+      <p begin="00:46.370" end="00:48.880" ttm:agent="v1">원초 그걸 찾아</p>
+      <p begin="00:48.880" end="00:50.700" ttm:agent="v1">Bring the light of a dying star</p>
+      <p begin="00:50.700" end="00:58.540" ttm:agent="v1">불러낸 내 우주를 봐봐, supernova</p>
+      <p begin="00:58.540" end="01:02.600" ttm:agent="v1" itunes:key="role" itunes:value="background">Ah, body bang (bang, bang, bang)</p>
+      <p begin="01:02.600" end="01:04.880" ttm:agent="v1">Make it feel too right</p>
+      <p begin="01:04.880" end="01:08.660" ttm:agent="v1">휩쓸린 energy, it's so special</p>
+      <p begin="01:08.660" end="01:12.570" ttm:agent="v1">잔인한 queen 이며 scene 이자 종결</p>
+      <p begin="01:12.570" end="01:16.670" ttm:agent="v1">이토록 거대한 내 안의 explosion</p>
+      <p begin="01:16.670" end="01:20.530" ttm:agent="v1" itunes:key="role" itunes:value="background">내 모든 세포 별로부터 만들어져 (under my control)</p>
+      <p begin="01:20.530" end="01:22.700" ttm:agent="v1">질문은 계속돼, ah-oh, ayy</p>
+      <p begin="01:22.700" end="01:24.730" ttm:agent="v1">우린 어디서 왔나, oh-ayy</p>
+      <p begin="01:24.730" end="01:28.200" ttm:agent="v1" itunes:key="role" itunes:value="background">느껴 내 안에선, huh (su-su-su-supernova)</p>
+      <p begin="01:28.200" end="01:34.120" ttm:agent="v1">Nova, can't stop hyperstellar</p>
+      <p begin="01:34.120" end="01:36.930" ttm:agent="v1">원초 그걸 찾아</p>
+      <p begin="01:36.930" end="01:38.840" ttm:agent="v1">Bring the light of a dying star</p>
+      <p begin="01:38.840" end="01:44.540" ttm:agent="v1">불러낸 내 우주를 봐봐, supernova</p>
+      <p begin="01:44.540" end="01:52.210" ttm:agent="v1">보이지 않는 힘으로 네게 손 내밀어 볼까?</p>
+      <p begin="01:52.210" end="01:56.560" ttm:agent="v1">가능한 모든 가능성, 무한 속의 너를 만나</p>
+      <p begin="01:56.560" end="02:00.780" ttm:agent="v1">It's about to bang, bang, don't forget my name</p>
+      <p begin="02:00.780" end="02:02.560" ttm:agent="v1">Su-su-su-supernova</p>
+      <p begin="02:02.560" end="02:04.790" ttm:agent="v1">사건은 다가와, ah-oh, ayy</p>
+      <p begin="02:04.790" end="02:06.670" ttm:agent="v1">거세게 커져가, ah-oh, ayy</p>
+      <p begin="02:06.670" end="02:08.650" ttm:agent="v1">질문은 계속돼, ah-oh, ayy</p>
+      <p begin="02:08.650" end="02:10.680" ttm:agent="v1">우린 어디서 왔나, oh-ayy</p>
+      <p begin="02:10.680" end="02:12.640" ttm:agent="v1">사건은 다가와, ah-oh, ayy</p>
+      <p begin="02:12.640" end="02:14.520" ttm:agent="v1">거세게 커져가, ah-oh, ayy</p>
+      <p begin="02:14.520" end="02:16.620" ttm:agent="v1">Tell me, tell me, tell me, oh, ayy</p>
+      <p begin="02:16.620" end="02:22.490" ttm:agent="v1">우린 어디서 왔나, oh, ayy, 우린 어디서 왔나, oh, ayy</p>
+      <p begin="02:22.490" end="02:26.870" ttm:agent="v1" itunes:key="role" itunes:value="background">Nova (nova), can't stop hyperstellar</p>
+      <p begin="02:26.870" end="02:31.040" ttm:agent="v1" itunes:key="role" itunes:value="background">(Hyperstellar) 원초 그걸 찾아</p>
+      <p begin="02:31.040" end="02:32.860" ttm:agent="v1" itunes:key="role" itunes:value="background">Bring the light of a dying star (light of a dying star)</p>
+      <p begin="02:32.860" end="02:38.850" ttm:agent="v1" itunes:key="role" itunes:value="background">불러낸 내 우주를 봐봐 (all the way), supernova (hey, huh)</p>
+      <p begin="02:38.850" end="02:40.740" ttm:agent="v1" itunes:key="role" itunes:value="background">사건은 다가와, ah-oh, ayy (new star)</p>
+      <p begin="02:40.740" end="02:42.600" ttm:agent="v1">거세게 커져가, ah-oh, ayy</p>
+      <p begin="02:42.600" end="02:44.860" ttm:agent="v1" itunes:key="role" itunes:value="background">질문은 계속돼 (nova), ah-oh, ayy (ah-ah)</p>
+      <p begin="02:44.860" end="02:46.710" ttm:agent="v1">우린 어디서 왔나, oh-ayy</p>
+      <p begin="02:46.710" end="02:48.970" ttm:agent="v1" itunes:key="role" itunes:value="background">사건은 다가와, ah-oh, ayy (yeah, yeah, yeah, yеah)</p>
+      <p begin="02:48.970" end="02:50.930" ttm:agent="v1" itunes:key="role" itunes:value="background">거세게 커져가, ah-oh, ayy (nova)</p>
+      <p begin="02:50.930" end="02:52.980" ttm:agent="v1" itunes:key="role" itunes:value="background">질문은 계속돼, ah-oh, ayy (bring the light of a dying star)</p>
+      <p begin="02:52.980" end="02:54.480" ttm:agent="v1">Supernova</p>
+      <p begin="02:53.710" end="02:57.710" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

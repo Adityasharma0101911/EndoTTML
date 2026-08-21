@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Shinpai Muyou</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Yuki Chiba</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">VALORANT</ttm:agent>
+      <ttm:item type="album">Shinpai Muyou</ttm:item>
+      <ttm:item type="spotify_id">1susvnKQ4rmj5AyAC1YuPR</ttm:item>
+      <itunes:duration>02:46.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:02.210" end="00:05.130" ttm:agent="v1">雄喜</p>
+      <p begin="00:05.130" end="00:07.870" ttm:agent="v1">雄喜</p>
+      <p begin="00:07.870" end="00:09.370" ttm:agent="v1">雄喜</p>
+      <p begin="00:08.350" end="00:11.020" ttm:agent="v1" itunes:key="role" itunes:value="background">(Koshy アッツー Koshy アッツー)</p>
+      <p begin="00:11.020" end="00:13.420" ttm:agent="v1">全 全然大丈夫 心配無用</p>
+      <p begin="00:13.420" end="00:16.480" ttm:agent="v1">あん あんま気にしない細かい事</p>
+      <p begin="00:16.480" end="00:19.090" ttm:agent="v1">なんだかんだなってくなるように</p>
+      <p begin="00:19.090" end="00:22.100" ttm:agent="v1" itunes:key="role" itunes:value="background">どんな苦難も超えて楽勝 (ah)</p>
+      <p begin="00:22.100" end="00:24.830" ttm:agent="v1">心配無用 心配無用</p>
+      <p begin="00:24.830" end="00:27.760" ttm:agent="v1">全然大丈夫 心配無用</p>
+      <p begin="00:27.760" end="00:30.460" ttm:agent="v1">あんま気にしない細かい事</p>
+      <p begin="00:30.460" end="00:33.990" ttm:agent="v1">なんだかんだなってくなるように</p>
+      <p begin="00:33.990" end="00:36.420" ttm:agent="v1">別に何が起きても大丈夫</p>
+      <p begin="00:36.420" end="00:39.080" ttm:agent="v1">どう転んでも起きて喜ぶ</p>
+      <p begin="00:39.080" end="00:41.880" ttm:agent="v1">そりゃ走り回ってりゃたまに転ぶ</p>
+      <p begin="00:41.880" end="00:44.960" ttm:agent="v1">こけるのは怖くない 先を急ぐ</p>
+      <p begin="00:44.960" end="00:47.930" ttm:agent="v1">ビビって何もしないなんて損んだし</p>
+      <p begin="00:47.930" end="00:50.530" ttm:agent="v1">まずは動くそっちの方が得</p>
+      <p begin="00:50.530" end="00:53.140" ttm:agent="v1">我慢とか溜め込むのは猛毒</p>
+      <p begin="00:53.140" end="00:56.470" ttm:agent="v1">この気持ちに素直な俺強欲</p>
+      <p begin="00:56.470" end="00:59.350" ttm:agent="v1">不可抗力 どうにもなんない</p>
+      <p begin="00:59.350" end="01:01.990" ttm:agent="v1">リスクを取りがち 取れない安牌</p>
+      <p begin="01:01.990" end="01:04.680" ttm:agent="v1">リスクある方がうまくいく案外</p>
+      <p begin="01:04.680" end="01:07.630" ttm:agent="v1">いつまでも平気 一生安泰</p>
+      <p begin="01:07.630" end="01:10.260" ttm:agent="v1">全然大丈夫 心配無用</p>
+      <p begin="01:10.260" end="01:13.100" ttm:agent="v1">あん あんま気にしない細かい事</p>
+      <p begin="01:13.100" end="01:15.980" ttm:agent="v1">なんだかんだなってくなるように</p>
+      <p begin="01:15.980" end="01:18.990" ttm:agent="v1" itunes:key="role" itunes:value="background">どんな苦難も超えて楽勝 (ah)</p>
+      <p begin="01:18.990" end="01:21.410" ttm:agent="v1">心配無用 心配無用</p>
+      <p begin="01:21.410" end="01:24.370" ttm:agent="v1">全然大丈夫 心配無用</p>
+      <p begin="01:24.370" end="01:27.100" ttm:agent="v1">あんま気にしない細かい事</p>
+      <p begin="01:27.100" end="01:30.050" ttm:agent="v1">なんだかんだなってくなるように</p>
+      <p begin="01:30.050" end="01:32.840" ttm:agent="v1">いつかはなくなるこの世の全部</p>
+      <p begin="01:32.840" end="01:35.650" ttm:agent="v1">だから今しかできない経験する</p>
+      <p begin="01:35.650" end="01:38.670" ttm:agent="v1">いい飯食って いいsex</p>
+      <p begin="01:38.670" end="01:41.570" ttm:agent="v1">毎回本番してない練習</p>
+      <p begin="01:41.570" end="01:44.140" ttm:agent="v1">地元で集まるいつものメンツ</p>
+      <p begin="01:44.140" end="01:47.070" ttm:agent="v1">心配すんなってよく言っている</p>
+      <p begin="01:47.070" end="01:49.870" ttm:agent="v1">アトランタで友達持つ拳銃</p>
+      <p begin="01:49.870" end="01:52.680" ttm:agent="v1">みんなが厳重 平和な連中</p>
+      <p begin="01:52.680" end="01:55.530" ttm:agent="v1">自信がないとなる心配性</p>
+      <p begin="01:55.530" end="01:59.730" ttm:agent="v1">俺自身のことを疑ったことはない1回も</p>
+      <p begin="01:59.730" end="02:01.280" ttm:agent="v1">ゼッテーイケる</p>
+      <p begin="02:01.280" end="02:03.960" ttm:agent="v1">いちいち考えない失敗を</p>
+      <p begin="02:03.960" end="02:06.520" ttm:agent="v1">全然大丈夫 心配無用</p>
+      <p begin="02:06.520" end="02:09.570" ttm:agent="v1">あん あんま気にしない細かい事</p>
+      <p begin="02:09.570" end="02:12.430" ttm:agent="v1">なんだかんだなってくなるように</p>
+      <p begin="02:12.430" end="02:15.260" ttm:agent="v1" itunes:key="role" itunes:value="background">どんな苦難も超えて楽勝 (ah)</p>
+      <p begin="02:15.260" end="02:18.000" ttm:agent="v1">心配無用 心配無用</p>
+      <p begin="02:18.000" end="02:20.870" ttm:agent="v1">全然大丈夫 心配無用</p>
+      <p begin="02:20.870" end="02:23.730" ttm:agent="v1">あんま気にしない細かい事</p>
+      <p begin="02:23.730" end="02:26.960" ttm:agent="v1">なんだかんだなってくなるように</p>
+      <p begin="02:26.960" end="02:30.960" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

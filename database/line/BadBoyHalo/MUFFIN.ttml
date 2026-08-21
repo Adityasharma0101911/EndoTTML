@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>MUFFIN</ttm:title>
+      <ttm:agent type="person" xml:id="v1">BadBoyHalo</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">CG5</ttm:agent>
+      <ttm:agent type="person" xml:id="v3">Hyper Potions</ttm:agent>
+      <ttm:agent type="person" xml:id="v4">Skeppy</ttm:agent>
+      <ttm:agent type="person" xml:id="v5">CaptainPuffy</ttm:agent>
+      <ttm:item type="album">MUFFIN</ttm:item>
+      <ttm:item type="spotify_id">0w9SSLVuq8ZlCdrfEuqQ6z</ttm:item>
+      <itunes:duration>03:44.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.050" end="00:03.010" ttm:agent="v1">Oh my gosh, I love you</p>
+      <p begin="00:03.010" end="00:05.430" ttm:agent="v1"/>
+      <p begin="00:05.430" end="00:09.970" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh, whoa)</p>
+      <p begin="00:09.970" end="00:12.570" ttm:agent="v1" itunes:key="role" itunes:value="background">(Nah, nah, nah, nah)</p>
+      <p begin="00:12.570" end="00:14.070" ttm:agent="v1">I'm thinkin'</p>
+      <p begin="00:13.950" end="00:16.160" ttm:agent="v1">Thinkin' about you, muffin</p>
+      <p begin="00:16.160" end="00:19.160" ttm:agent="v1">When I wake up, I'm thinkin'</p>
+      <p begin="00:19.160" end="00:21.550" ttm:agent="v1">Thinkin' about you, muffin</p>
+      <p begin="00:21.550" end="00:23.360" ttm:agent="v1">You know our love was</p>
+      <p begin="00:23.360" end="00:26.120" ttm:agent="v1">Ten times sweeter than candy</p>
+      <p begin="00:26.120" end="00:28.790" ttm:agent="v1">Ten times sweeter than cake</p>
+      <p begin="00:28.790" end="00:34.330" ttm:agent="v1">Thinkin', thinkin' about you</p>
+      <p begin="00:34.330" end="00:36.450" ttm:agent="v1">Ding-dong, trick or treat</p>
+      <p begin="00:36.450" end="00:38.940" ttm:agent="v1">I was knockin' at your door every week</p>
+      <p begin="00:38.940" end="00:41.280" ttm:agent="v1">And I saw you in my fortune cookie</p>
+      <p begin="00:41.280" end="00:44.130" ttm:agent="v1">What a great gift like a basket o' goodies</p>
+      <p begin="00:44.130" end="00:46.720" ttm:agent="v1">But you were cold as an ICEE</p>
+      <p begin="00:46.720" end="00:49.340" ttm:agent="v1">And I got a little bit of a brain freeze</p>
+      <p begin="00:49.340" end="00:51.100" ttm:agent="v1" itunes:key="role" itunes:value="background">I could speak your language (language!)</p>
+      <p begin="00:51.100" end="00:55.180" ttm:agent="v1">If you just let me, let me in</p>
+      <p begin="00:55.180" end="00:57.270" ttm:agent="v1">I don't need a dating app</p>
+      <p begin="00:57.270" end="01:00.120" ttm:agent="v1">'Cause I've got a Candy Crush on you</p>
+      <p begin="01:00.120" end="01:02.730" ttm:agent="v1">But you broke me like a Kit Kat</p>
+      <p begin="01:02.730" end="01:05.320" ttm:agent="v1">Left my Heart Not Found, rotting in the trash</p>
+      <p begin="01:05.320" end="01:08.510" ttm:agent="v1">Now I'm scrolling and paroling through your Instagram feed</p>
+      <p begin="01:08.510" end="01:11.290" ttm:agent="v1">No, I'm not trolling, but you're all I wanna see</p>
+      <p begin="01:11.290" end="01:13.810" ttm:agent="v1">Insanity approaching, man, I'm drinkin' jealousy</p>
+      <p begin="01:13.810" end="01:16.130" ttm:agent="v1">Like a Coca Coly, oh-wee</p>
+      <p begin="01:16.130" end="01:21.070" ttm:agent="v1">I'm gonna keep the doctor away</p>
+      <p begin="01:21.070" end="01:25.750" ttm:agent="v1">'Cause you're my apple every day</p>
+      <p begin="01:25.750" end="01:27.820" ttm:agent="v1">Every day I'm thinkin'</p>
+      <p begin="01:27.820" end="01:30.120" ttm:agent="v1">Thinkin' about you, muffin</p>
+      <p begin="01:30.120" end="01:32.980" ttm:agent="v1">When I wake up, I'm thinkin'</p>
+      <p begin="01:32.980" end="01:35.490" ttm:agent="v1">Thinkin' about you, muffin</p>
+      <p begin="01:35.490" end="01:37.200" ttm:agent="v1">You know our love was</p>
+      <p begin="01:37.200" end="01:39.830" ttm:agent="v1">Ten times sweeter than candy</p>
+      <p begin="01:39.830" end="01:42.660" ttm:agent="v1">Ten times sweeter than cake</p>
+      <p begin="01:42.660" end="01:47.460" ttm:agent="v1" itunes:key="role" itunes:value="background">Thinkin', thinkin' about you (alright, alright)</p>
+      <p begin="01:47.460" end="01:50.290" ttm:agent="v1" itunes:key="role" itunes:value="background">She an angel, like a food cake (hey)</p>
+      <p begin="01:50.290" end="01:52.520" ttm:agent="v1">Got a halo, and I'm lookin' like a double take</p>
+      <p begin="01:52.520" end="01:55.180" ttm:agent="v1" itunes:key="role" itunes:value="background">Stream with me, I'ma be your e-boy (e-boy)</p>
+      <p begin="01:55.180" end="01:58.280" ttm:agent="v1">We gon' mine diamonds, ayy, I know I'm a bad boy</p>
+      <p begin="01:58.280" end="02:00.760" ttm:agent="v1">I've been lookin' in a jar full of jelly beans</p>
+      <p begin="02:00.760" end="02:03.130" ttm:agent="v1">Fly me to the Moon Pie up in Tennessee</p>
+      <p begin="02:03.130" end="02:05.930" ttm:agent="v1">Baby, I'll find you, yeah, we were meant to be</p>
+      <p begin="02:05.930" end="02:08.240" ttm:agent="v1">With a Ring Pop, I'll get down on one knee</p>
+      <p begin="02:08.240" end="02:09.740" ttm:agent="v1" itunes:key="role" itunes:value="background">Marry me (mwah!)</p>
+      <p begin="02:09.370" end="02:11.460" ttm:agent="v1">Willy Wonka, Willy, Willy Wonka</p>
+      <p begin="02:11.460" end="02:14.700" ttm:agent="v1" itunes:key="role" itunes:value="background">I'ma be your chocolatier (Hypa)</p>
+      <p begin="02:14.700" end="02:16.680" ttm:agent="v1">Oompa loompa, doopity-doo</p>
+      <p begin="02:16.680" end="02:21.230" ttm:agent="v1" itunes:key="role" itunes:value="background">You're the one I need, so have no fear (ay-ya-ya-ya)</p>
+      <p begin="02:21.230" end="02:23.670" ttm:agent="v1">Can I call you mine? Be my valentine</p>
+      <p begin="02:23.670" end="02:26.300" ttm:agent="v1">The one of my dreams</p>
+      <p begin="02:26.300" end="02:30.070" ttm:agent="v1" itunes:key="role" itunes:value="background">Let me kiss you, like Hershey's (whoa-oh-oh)</p>
+      <p begin="02:30.070" end="02:35.080" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm gonna keep the doctor away (away, oh)</p>
+      <p begin="02:35.080" end="02:40.410" ttm:agent="v1">'Cause you're my apple every day</p>
+      <p begin="02:40.410" end="02:43.270" ttm:agent="v1" itunes:key="role" itunes:value="background">And every day I'm thinking (hey)</p>
+      <p begin="02:43.270" end="02:45.900" ttm:agent="v1" itunes:key="role" itunes:value="background">Every day I'm thinkin' (oh-oh-oh)</p>
+      <p begin="02:45.900" end="02:48.150" ttm:agent="v1">Every day I'm thinkin'</p>
+      <p begin="02:48.150" end="02:51.140" ttm:agent="v1" itunes:key="role" itunes:value="background">Thinkin' about you (language!)</p>
+      <p begin="02:51.140" end="02:54.350" ttm:agent="v1">Thinkin', thinkin' about you, muffin</p>
+      <p begin="02:54.350" end="02:57.170" ttm:agent="v1">When I wake up, I'm thinkin'</p>
+      <p begin="02:57.170" end="02:59.770" ttm:agent="v1">Thinkin' about you, muffin</p>
+      <p begin="02:59.770" end="03:01.740" ttm:agent="v1">You know our love was</p>
+      <p begin="03:01.740" end="03:04.470" ttm:agent="v1">Ten times sweeter than candy</p>
+      <p begin="03:04.470" end="03:06.770" ttm:agent="v1">Ten times sweeter than cake</p>
+      <p begin="03:06.770" end="03:09.880" ttm:agent="v1">Thinkin', thinkin' about you</p>
+      <p begin="03:09.880" end="03:12.430" ttm:agent="v1" itunes:key="role" itunes:value="background">You bet I'm thinking about you (hey, yeah, oh)</p>
+      <p begin="03:12.430" end="03:17.830" ttm:agent="v1">Hey! Da-da-da-da-da-da-da-da-da-da-da-da-da</p>
+      <p begin="03:17.830" end="03:21.980" ttm:agent="v1">Hey! Da-da-da-da-da-da-da-da-da-da</p>
+      <p begin="03:21.980" end="03:25.260" ttm:agent="v1">Your love was ten times sweeter than candy</p>
+      <p begin="03:25.260" end="03:27.820" ttm:agent="v1">Ten times sweeter than cake</p>
+      <p begin="03:27.820" end="03:30.640" ttm:agent="v1">Thinkin', thinkin' about you</p>
+      <p begin="03:30.640" end="03:34.640" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

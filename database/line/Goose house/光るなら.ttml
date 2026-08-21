@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>光るなら</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Goose house</ttm:agent>
+      <ttm:item type="album">Milk</ttm:item>
+      <ttm:item type="spotify_id">2BlDX1yfT0ea5wo0vjCKKa</ttm:item>
+      <itunes:duration>04:14.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:17.740" end="00:20.970" ttm:agent="v1">雨上がりの虹も</p>
+      <p begin="00:20.970" end="00:23.940" ttm:agent="v1">凛と咲いた花も</p>
+      <p begin="00:23.940" end="00:30.060" ttm:agent="v1">色づき溢れだす</p>
+      <p begin="00:30.060" end="00:35.370" ttm:agent="v1">茜色の空 仰ぐ君に</p>
+      <p begin="00:35.370" end="00:41.580" ttm:agent="v1">あの日 恋に落ちた</p>
+      <p begin="00:41.580" end="00:44.380" ttm:agent="v1">瞬間のドラマチック</p>
+      <p begin="00:44.380" end="00:47.500" ttm:agent="v1">フィルムの中の一コマも</p>
+      <p begin="00:47.500" end="00:52.410" ttm:agent="v1">消えないよ 心に</p>
+      <p begin="00:52.410" end="00:56.300" ttm:agent="v1">刻むから</p>
+      <p begin="00:56.300" end="00:59.290" ttm:agent="v1">君だよ 君なんだよ</p>
+      <p begin="00:59.290" end="01:02.300" ttm:agent="v1">教えてくれた</p>
+      <p begin="01:02.300" end="01:05.250" ttm:agent="v1">暗闇も光るなら</p>
+      <p begin="01:05.250" end="01:08.340" ttm:agent="v1">星空になる</p>
+      <p begin="01:08.340" end="01:11.260" ttm:agent="v1">悲しみを笑顔に</p>
+      <p begin="01:11.260" end="01:14.380" ttm:agent="v1">もう隠さないで</p>
+      <p begin="01:14.380" end="01:17.300" ttm:agent="v1">煌めくどんな星も</p>
+      <p begin="01:17.300" end="01:22.700" ttm:agent="v1">君を照らすから</p>
+      <p begin="01:22.700" end="01:25.460" ttm:agent="v1">眠りも忘れて</p>
+      <p begin="01:25.460" end="01:28.380" ttm:agent="v1">迎えた朝日が</p>
+      <p begin="01:28.380" end="01:34.180" ttm:agent="v1">やたらと突き刺さる</p>
+      <p begin="01:34.180" end="01:39.770" ttm:agent="v1">低気圧運ぶ 頭痛だって</p>
+      <p begin="01:39.770" end="01:45.980" ttm:agent="v1">忘れる 君に会えば</p>
+      <p begin="01:45.980" end="01:48.900" ttm:agent="v1">静寂はロマンティック</p>
+      <p begin="01:48.900" end="01:52.010" ttm:agent="v1">紅茶に溶けたシュガーのように</p>
+      <p begin="01:52.010" end="02:00.010" ttm:agent="v1">全身に巡るよ 君の声</p>
+      <p begin="02:00.770" end="02:03.780" ttm:agent="v1">君だよ 君なんだよ</p>
+      <p begin="02:03.780" end="02:06.770" ttm:agent="v1">笑顔をくれた</p>
+      <p begin="02:06.770" end="02:09.740" ttm:agent="v1">涙も光るなら</p>
+      <p begin="02:09.740" end="02:12.780" ttm:agent="v1">流星になる</p>
+      <p begin="02:12.780" end="02:15.740" ttm:agent="v1">傷ついたその手を</p>
+      <p begin="02:15.740" end="02:18.730" ttm:agent="v1">もう離さないで</p>
+      <p begin="02:18.730" end="02:21.690" ttm:agent="v1">願いを込めた空に</p>
+      <p begin="02:21.690" end="02:26.260" ttm:agent="v1">明日が来るから</p>
+      <p begin="02:26.260" end="02:32.130" ttm:agent="v1">導いてくれた光は君だよ</p>
+      <p begin="02:32.130" end="02:37.210" ttm:agent="v1">つられて僕も走り出した</p>
+      <p begin="02:37.210" end="02:43.540" ttm:agent="v1">知らぬ間にクロスし始めた</p>
+      <p begin="02:43.540" end="02:50.180" ttm:agent="v1">ほら今だ ここで光るなら</p>
+      <p begin="02:50.180" end="02:53.330" ttm:agent="v1">君だよ 君なんだよ</p>
+      <p begin="02:53.330" end="02:56.210" ttm:agent="v1">教えてくれた</p>
+      <p begin="02:56.210" end="03:02.220" ttm:agent="v1">暗闇は終わるから</p>
+      <p begin="03:02.220" end="03:05.330" ttm:agent="v1">君だよ 君なんだよ</p>
+      <p begin="03:05.330" end="03:08.260" ttm:agent="v1">教えてくれた</p>
+      <p begin="03:08.260" end="03:11.220" ttm:agent="v1">暗闇も光るなら</p>
+      <p begin="03:11.220" end="03:14.290" ttm:agent="v1">星空になる</p>
+      <p begin="03:14.290" end="03:17.220" ttm:agent="v1">悲しみを笑顔に</p>
+      <p begin="03:17.220" end="03:20.170" ttm:agent="v1">もう隠さないで</p>
+      <p begin="03:20.170" end="03:23.090" ttm:agent="v1">煌めくどんな星も</p>
+      <p begin="03:23.090" end="03:27.810" ttm:agent="v1">君を照らすから</p>
+      <p begin="03:27.810" end="03:33.090" ttm:agent="v1">答えはいつでも偶然？必然？</p>
+      <p begin="03:33.090" end="03:39.820" ttm:agent="v1">いつか選んだ道こそ運命になる</p>
+      <p begin="03:39.820" end="03:45.100" ttm:agent="v1">握りしめたその希望も不安も</p>
+      <p begin="03:45.100" end="03:53.100" ttm:agent="v1">きっと二人を動かす光になるから</p>
+      <p begin="03:54.310" end="03:58.310" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

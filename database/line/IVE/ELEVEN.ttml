@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>ELEVEN</ttm:title>
+      <ttm:agent type="person" xml:id="v1">IVE</ttm:agent>
+      <ttm:item type="album">ELEVEN</ttm:item>
+      <ttm:item type="spotify_id">7n2FZQsaLb7ZRfRPfEeIvr</ttm:item>
+      <itunes:duration>02:58.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:09.710" end="00:17.710" ttm:agent="v1">따분한 나의 눈빛이, 무표정했던 얼굴이</p>
+      <p begin="00:17.770" end="00:24.830" ttm:agent="v1">널 보며 빛나고 있어, 널 담은 눈동자는 odd</p>
+      <p begin="00:24.830" end="00:28.480" ttm:agent="v1">내 안에 빼곡하게 피어나는 blue</p>
+      <p begin="00:28.480" end="00:32.220" ttm:agent="v1">내가 지금 느끼는 이 감정들은 true</p>
+      <p begin="00:32.220" end="00:36.840" ttm:agent="v1">내 입술을 간지럽힌 낯선 그 이름</p>
+      <p begin="00:36.840" end="00:41.720" ttm:agent="v1">난 몰랐어 내 맘이 이리 다채로운지</p>
+      <p begin="00:41.720" end="00:45.810" ttm:agent="v1">긴 꿈을 꾸게 해, 이 방은 작은 Heaven</p>
+      <p begin="00:45.810" end="00:49.860" ttm:agent="v1">춤을 추곤 해 실컷 어지러울 만큼</p>
+      <p begin="00:49.860" end="00:53.460" ttm:agent="v1">Oh my, oh my God, 한 칸 더 채우고 있어</p>
+      <p begin="00:53.460" end="00:56.250" ttm:agent="v1">잘 봐, one, two, three, four, five, six, seven</p>
+      <p begin="00:56.250" end="00:59.560" ttm:agent="v1">You make me feel like 11</p>
+      <p begin="00:59.560" end="01:02.110" ttm:agent="v1"/>
+      <p begin="01:02.110" end="01:10.110" ttm:agent="v1">투명한 너와 나의 사이 가만히 들여다보다</p>
+      <p begin="01:10.170" end="01:17.120" ttm:agent="v1">일렁인 물결 속으로 더 빠져드는 걸</p>
+      <p begin="01:17.120" end="01:20.890" ttm:agent="v1">그날 향기로운 보랏빛의 mood</p>
+      <p begin="01:20.890" end="01:24.830" ttm:agent="v1">셀 수 없이 반복해도 기분 좋은 꿈</p>
+      <p begin="01:24.830" end="01:29.320" ttm:agent="v1">감히 누가 이렇게 날 설레게 할 줄?</p>
+      <p begin="01:29.320" end="01:34.070" ttm:agent="v1">난 몰랐어 내 맘이 이리 다채로운지</p>
+      <p begin="01:34.070" end="01:38.290" ttm:agent="v1">긴 꿈을 꾸게 해, 이 방은 작은 Heaven</p>
+      <p begin="01:38.290" end="01:42.200" ttm:agent="v1">춤을 추곤 해 실컷 어지러울 만큼</p>
+      <p begin="01:42.200" end="01:45.710" ttm:agent="v1">Oh my, oh my God, 한 칸 더 채우고 있어</p>
+      <p begin="01:45.710" end="01:48.620" ttm:agent="v1">잘 봐, one, two, three, four, five, six, seven</p>
+      <p begin="01:48.620" end="01:53.020" ttm:agent="v1">You make me feel like 11</p>
+      <p begin="01:53.020" end="01:57.000" ttm:agent="v1">내 앞에 있는 너를, 그 눈에 비친 나를</p>
+      <p begin="01:57.000" end="02:01.190" ttm:agent="v1" itunes:key="role" itunes:value="background">Ah-ya, ah-ya, ah-ya (그 눈에 비친 나를 가만히 바라봐)</p>
+      <p begin="02:01.190" end="02:04.960" ttm:agent="v1">내 앞에 있는 너를, 그 눈에 비친 나를</p>
+      <p begin="02:04.960" end="02:06.560" ttm:agent="v1">가만히 바라봐</p>
+      <p begin="02:06.560" end="02:09.240" ttm:agent="v1">Don't say now</p>
+      <p begin="02:09.240" end="02:13.120" ttm:agent="v1">서둘러 오진 마</p>
+      <p begin="02:13.120" end="02:17.970" ttm:agent="v1">이 순간이 좋아 난</p>
+      <p begin="02:17.970" end="02:22.610" ttm:agent="v1" itunes:key="role" itunes:value="background">미처 몰랐어 내 맘이 이리 다채로운지 (whoa, whoa, whoa)</p>
+      <p begin="02:22.610" end="02:26.820" ttm:agent="v1">긴 꿈을 꾸게 해, 이 방은 작은 Heaven</p>
+      <p begin="02:26.820" end="02:30.650" ttm:agent="v1">춤을 추곤 해 실컷 어지러울 만큼</p>
+      <p begin="02:30.650" end="02:34.340" ttm:agent="v1">Oh my, oh my God, 한 칸 더 채우고 있어</p>
+      <p begin="02:34.340" end="02:37.220" ttm:agent="v1">잘 봐, one, two, three, four, five, six, seven</p>
+      <p begin="02:37.220" end="02:41.750" ttm:agent="v1">You make me feel like 11</p>
+      <p begin="02:41.750" end="02:45.580" ttm:agent="v1">내 앞에 있는 너를, 그 눈에 비친 나를</p>
+      <p begin="02:45.580" end="02:49.530" ttm:agent="v1">Ah-ya, ah-ya, ah-ya</p>
+      <p begin="02:49.530" end="02:53.560" ttm:agent="v1">내 앞에 있는 너를, 그 눈에 비친 나를</p>
+      <p begin="02:53.560" end="02:55.210" ttm:agent="v1">사랑하게 됐거든</p>
+      <p begin="02:55.210" end="02:59.210" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

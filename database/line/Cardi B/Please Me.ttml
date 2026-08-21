@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Please Me</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Cardi B</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Bruno Mars</ttm:agent>
+      <ttm:item type="album">Please Me</ttm:item>
+      <ttm:item type="spotify_id">0PG9fbaaHFHfre2gUVo7AN</ttm:item>
+      <itunes:duration>03:21.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.510" end="00:03.880" ttm:agent="v1">Uh, uh, yeah, come on</p>
+      <p begin="00:03.880" end="00:06.010" ttm:agent="v1">Please me, baby</p>
+      <p begin="00:06.010" end="00:09.530" ttm:agent="v1">Turn around and just tease me, baby</p>
+      <p begin="00:09.530" end="00:12.840" ttm:agent="v1">You got what I want and what I need, baby</p>
+      <p begin="00:12.840" end="00:14.340" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let me hear you say)</p>
+      <p begin="00:14.090" end="00:15.590" ttm:agent="v1">Please</p>
+      <p begin="00:14.730" end="00:16.230" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let me hear you say)</p>
+      <p begin="00:15.820" end="00:18.100" ttm:agent="v1">Please</p>
+      <p begin="00:18.100" end="00:20.300" ttm:agent="v1">Please me, baby</p>
+      <p begin="00:20.300" end="00:24.040" ttm:agent="v1">Turn around and just tease me, baby</p>
+      <p begin="00:24.040" end="00:27.360" ttm:agent="v1">You got what I want and what I need, baby</p>
+      <p begin="00:27.360" end="00:28.860" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let me hear you say)</p>
+      <p begin="00:28.400" end="00:29.900" ttm:agent="v1">Please</p>
+      <p begin="00:29.050" end="00:30.550" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let me hear you say)</p>
+      <p begin="00:30.280" end="00:33.240" ttm:agent="v1" itunes:key="role" itunes:value="background">Please (woo)</p>
+      <p begin="00:33.240" end="00:36.390" ttm:agent="v1" itunes:key="role" itunes:value="background">Lollipoppin' (poppin'), twerkin' in some J's (ooh)</p>
+      <p begin="00:36.390" end="00:39.870" ttm:agent="v1" itunes:key="role" itunes:value="background">On the dance floor (uh-huh), no panties in the way (nope)</p>
+      <p begin="00:39.870" end="00:43.400" ttm:agent="v1" itunes:key="role" itunes:value="background">I take my time with it (ow), bring you close to me (ow)</p>
+      <p begin="00:43.400" end="00:45.130" ttm:agent="v1">Don't want no young dumb shit</p>
+      <p begin="00:45.130" end="00:46.910" ttm:agent="v1">Better fuck me like we listenin' to Jodeci</p>
+      <p begin="00:46.910" end="00:49.110" ttm:agent="v1" itunes:key="role" itunes:value="background">I was tryna lay low (low), takin' it slow (slow)</p>
+      <p begin="00:49.110" end="00:50.950" ttm:agent="v1" itunes:key="role" itunes:value="background">When I'm fuckin' again (ayy)</p>
+      <p begin="00:50.950" end="00:53.660" ttm:agent="v1">Gotta celebrate, if you're man look good, better put him away</p>
+      <p begin="00:53.660" end="00:57.470" ttm:agent="v1">If you can't sweat the weave out, you shouldn't even be out</p>
+      <p begin="00:57.470" end="01:01.010" ttm:agent="v1">Dinner reservations like the pussy, you gon' eat out</p>
+      <p begin="01:01.010" end="01:04.200" ttm:agent="v1">I'm gonna ride it, do it just how you like it</p>
+      <p begin="01:04.200" end="01:08.230" ttm:agent="v1">Tonight and after that</p>
+      <p begin="01:08.230" end="01:10.700" ttm:agent="v1">Let's do it one more time</p>
+      <p begin="01:10.700" end="01:15.430" ttm:agent="v1">Girl, I ain't one for beggin', but now you got me beggin'</p>
+      <p begin="01:15.430" end="01:17.690" ttm:agent="v1">Please me, baby</p>
+      <p begin="01:17.690" end="01:21.150" ttm:agent="v1">Turn around and just tease me, baby</p>
+      <p begin="01:21.150" end="01:24.560" ttm:agent="v1">You got what I want and what I need, baby</p>
+      <p begin="01:24.560" end="01:26.060" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let me hear you say)</p>
+      <p begin="01:25.730" end="01:27.230" ttm:agent="v1">Please</p>
+      <p begin="01:26.390" end="01:27.890" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let me hear you say)</p>
+      <p begin="01:27.520" end="01:29.810" ttm:agent="v1" itunes:key="role" itunes:value="background">Please (woo)</p>
+      <p begin="01:29.810" end="01:31.990" ttm:agent="v1">Please me, baby</p>
+      <p begin="01:31.990" end="01:35.630" ttm:agent="v1">Turn around and just tease me, baby</p>
+      <p begin="01:35.630" end="01:38.880" ttm:agent="v1">You got what I want and what I need, baby</p>
+      <p begin="01:38.880" end="01:40.380" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let me hear you say)</p>
+      <p begin="01:40.010" end="01:41.510" ttm:agent="v1">Please</p>
+      <p begin="01:40.670" end="01:42.170" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let me hear you say)</p>
+      <p begin="01:42.020" end="01:44.440" ttm:agent="v1" itunes:key="role" itunes:value="background">Please (woo)</p>
+      <p begin="01:44.440" end="01:46.290" ttm:agent="v1" itunes:key="role" itunes:value="background">Booty so round (round), booty so soft (soft)</p>
+      <p begin="01:46.290" end="01:48.190" ttm:agent="v1" itunes:key="role" itunes:value="background">Bet you wanna smack it again (ayy)</p>
+      <p begin="01:48.190" end="01:49.690" ttm:agent="v1">Let me demonstrate</p>
+      <p begin="01:49.380" end="01:51.230" ttm:agent="v1">Hit it one time, make it levitate</p>
+      <p begin="01:51.230" end="01:53.070" ttm:agent="v1" itunes:key="role" itunes:value="background">Titties out like blaka (blaka)</p>
+      <p begin="01:53.070" end="01:54.830" ttm:agent="v1" itunes:key="role" itunes:value="background">Broke bitches watch out now (watch out)</p>
+      <p begin="01:54.830" end="01:56.550" ttm:agent="v1" itunes:key="role" itunes:value="background">Your pussy basura (basura)</p>
+      <p begin="01:56.550" end="01:58.410" ttm:agent="v1" itunes:key="role" itunes:value="background">My pussy horchata (oh)</p>
+      <p begin="01:58.410" end="02:01.570" ttm:agent="v1">I'm gonna ride it, do it just how you like it</p>
+      <p begin="02:01.570" end="02:05.500" ttm:agent="v1" itunes:key="role" itunes:value="background">Tonight and after that (ooh)</p>
+      <p begin="02:05.500" end="02:08.050" ttm:agent="v1">Let's do it one more time</p>
+      <p begin="02:08.050" end="02:12.690" ttm:agent="v1">Girl, I ain't one for beggin', but now you got me beggin'</p>
+      <p begin="02:12.690" end="02:15.090" ttm:agent="v1">Please me, baby</p>
+      <p begin="02:15.090" end="02:18.460" ttm:agent="v1">Turn around and just tease me, baby</p>
+      <p begin="02:18.460" end="02:21.920" ttm:agent="v1">You got what I want and what I need, baby</p>
+      <p begin="02:21.920" end="02:23.420" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let me hear you say)</p>
+      <p begin="02:22.920" end="02:24.420" ttm:agent="v1">Please</p>
+      <p begin="02:23.660" end="02:25.160" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let me hear you say)</p>
+      <p begin="02:24.620" end="02:27.050" ttm:agent="v1" itunes:key="role" itunes:value="background">Please (woo)</p>
+      <p begin="02:27.050" end="02:28.550" ttm:agent="v1">Come on</p>
+      <p begin="02:28.330" end="02:30.650" ttm:agent="v1">Come on, back it up for me</p>
+      <p begin="02:30.650" end="02:32.150" ttm:agent="v1">Come on</p>
+      <p begin="02:31.810" end="02:34.130" ttm:agent="v1">Ooh, twerk it on me slowly</p>
+      <p begin="02:34.130" end="02:35.630" ttm:agent="v1">Come on</p>
+      <p begin="02:35.320" end="02:41.950" ttm:agent="v1">Girl, let me put this lovin' on you</p>
+      <p begin="02:41.950" end="02:43.590" ttm:agent="v1" itunes:key="role" itunes:value="background">You better say that shit (uh)</p>
+      <p begin="02:43.590" end="02:45.400" ttm:agent="v1" itunes:key="role" itunes:value="background">Cardi don't play that shit (yeah)</p>
+      <p begin="02:45.400" end="02:48.410" ttm:agent="v1">Do my back like I do these records, break that shit</p>
+      <p begin="02:48.410" end="02:51.210" ttm:agent="v1" itunes:key="role" itunes:value="background">Please me, baby (uh)</p>
+      <p begin="02:51.210" end="02:54.670" ttm:agent="v1" itunes:key="role" itunes:value="background">Turn around and just tease me, baby (uh, ooh)</p>
+      <p begin="02:54.670" end="02:57.650" ttm:agent="v1" itunes:key="role" itunes:value="background">You got what I want and need, baby (yes)</p>
+      <p begin="02:57.650" end="02:59.150" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let me hear you say)</p>
+      <p begin="02:58.770" end="03:00.270" ttm:agent="v1">Please</p>
+      <p begin="02:59.400" end="03:00.900" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let me hear you say)</p>
+      <p begin="03:00.600" end="03:02.880" ttm:agent="v1" itunes:key="role" itunes:value="background">Please (woo)</p>
+      <p begin="03:02.880" end="03:05.460" ttm:agent="v1">Please me, baby</p>
+      <p begin="03:05.460" end="03:09.060" ttm:agent="v1">Turn around and tease me, baby</p>
+      <p begin="03:09.060" end="03:12.100" ttm:agent="v1">You got what I want and need, baby</p>
+      <p begin="03:12.100" end="03:13.600" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let me hear you say)</p>
+      <p begin="03:13.060" end="03:14.560" ttm:agent="v1">Please</p>
+      <p begin="03:13.830" end="03:15.330" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let me hear you say)</p>
+      <p begin="03:14.840" end="03:18.840" ttm:agent="v1" itunes:key="role" itunes:value="background">Please (woo)</p>
+    </div>
+  </body>
+</tt>

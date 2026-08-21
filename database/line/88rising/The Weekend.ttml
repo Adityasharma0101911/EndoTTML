@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>The Weekend</ttm:title>
+      <ttm:agent type="person" xml:id="v1">88rising</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">BIBI</ttm:agent>
+      <ttm:item type="album">The Weekend</ttm:item>
+      <ttm:item type="spotify_id">0v2Qgk39gLXMIJi6BY34Fz</ttm:item>
+      <itunes:duration>02:48.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:02.960" end="00:05.210" ttm:agent="v1">I think I'm losing my mind</p>
+      <p begin="00:05.210" end="00:07.760" ttm:agent="v1">When I saw you dancin'</p>
+      <p begin="00:07.760" end="00:09.260" ttm:agent="v1">Walk passed by and said &quot;Hi&quot;</p>
+      <p begin="00:08.980" end="00:11.660" ttm:agent="v1">Staring game is fine, take me to the back seat</p>
+      <p begin="00:11.660" end="00:14.050" ttm:agent="v1">You're right, only me and you that would be nice</p>
+      <p begin="00:14.050" end="00:16.430" ttm:agent="v1">You're right, every freaking night, just you and I</p>
+      <p begin="00:16.430" end="00:18.840" ttm:agent="v1">You're right, now I know what is love and what is life</p>
+      <p begin="00:18.840" end="00:21.200" ttm:agent="v1">You're right, my love, you're always right, my love, okay</p>
+      <p begin="00:21.200" end="00:23.280" ttm:agent="v1">I'm waiting for you ring-ring-ring</p>
+      <p begin="00:23.280" end="00:26.140" ttm:agent="v1">Your smell's sexy, lingers on me</p>
+      <p begin="00:26.140" end="00:29.190" ttm:agent="v1">Stick out the tongue now, swallow really hard, uh, but you only call...</p>
+      <p begin="00:29.190" end="00:33.530" ttm:agent="v1">You only call me on the weekend</p>
+      <p begin="00:33.530" end="00:38.280" ttm:agent="v1">You only love me when we freakin'</p>
+      <p begin="00:38.280" end="00:42.910" ttm:agent="v1">You got me jumpin' off the deep end</p>
+      <p begin="00:42.910" end="00:45.460" ttm:agent="v1">You only call me on the-</p>
+      <p begin="00:45.460" end="00:47.750" ttm:agent="v1">You only call me on the-</p>
+      <p begin="00:47.750" end="00:51.860" ttm:agent="v1">You only call me on the weekend</p>
+      <p begin="00:51.860" end="00:56.620" ttm:agent="v1">Wait a minute, wait a minute, we were just getting started</p>
+      <p begin="00:56.620" end="00:59.350" ttm:agent="v1">І don't wanna, I don't wanna bе broken-hearted</p>
+      <p begin="00:59.350" end="01:01.630" ttm:agent="v1" itunes:key="role" itunes:value="background">Every time (Every time)</p>
+      <p begin="01:01.630" end="01:03.620" ttm:agent="v1" itunes:key="role" itunes:value="background">Every time (Every time)</p>
+      <p begin="01:03.620" end="01:06.140" ttm:agent="v1" itunes:key="role" itunes:value="background">They hit rewind (They hit rewind)</p>
+      <p begin="01:06.140" end="01:07.640" ttm:agent="v1">They change their mind</p>
+      <p begin="01:07.400" end="01:10.800" ttm:agent="v1">Ooh, and why, why, why, why, why</p>
+      <p begin="01:10.800" end="01:15.210" ttm:agent="v1" itunes:key="role" itunes:value="background">Why, why, why, why, why aren't you into me? (Aren't you into me?)</p>
+      <p begin="01:15.210" end="01:17.820" ttm:agent="v1" itunes:key="role" itunes:value="background">Aren't you into me? (Aren't you into me?)</p>
+      <p begin="01:17.820" end="01:20.240" ttm:agent="v1">And why, why, why, why, why</p>
+      <p begin="01:20.240" end="01:25.490" ttm:agent="v1">And why, why, why, why, why aren't you into me?</p>
+      <p begin="01:25.490" end="01:30.280" ttm:agent="v1">You only call me on the weekend</p>
+      <p begin="01:30.280" end="01:35.070" ttm:agent="v1">You only love me when we freakin'</p>
+      <p begin="01:35.070" end="01:39.750" ttm:agent="v1">You got me jumpin' off the deep end</p>
+      <p begin="01:39.750" end="01:42.100" ttm:agent="v1">You only call me on the-</p>
+      <p begin="01:42.100" end="01:46.530" ttm:agent="v1">You only call me on the weekend</p>
+      <p begin="01:46.530" end="01:48.540" ttm:agent="v1">วันเวลาล่วงเลยและเราก็หลงลืมเราที่เคย</p>
+      <p begin="01:48.540" end="01:50.040" ttm:agent="v1">I never stop fallin' for you</p>
+      <p begin="01:49.760" end="01:51.260" ttm:agent="v1">You never stop playin' with my head</p>
+      <p begin="01:50.790" end="01:52.290" ttm:agent="v1">My heart, it starts bleeding again</p>
+      <p begin="01:52.180" end="01:53.680" ttm:agent="v1">If you were dead, I would get hurt</p>
+      <p begin="01:53.200" end="01:55.790" ttm:agent="v1">I wanna go, I wanna go, I wanna go, I wanna go</p>
+      <p begin="01:55.790" end="01:58.360" ttm:agent="v1">I wanna go out from the freaking loop right now</p>
+      <p begin="01:58.360" end="02:03.340" ttm:agent="v1">Beat you, cut down, sit and feel the sound of yeah, yeah, yeah, yeah, yeah, yeah, yeah</p>
+      <p begin="02:03.340" end="02:08.200" ttm:agent="v1">You only call me on the weekend</p>
+      <p begin="02:08.200" end="02:12.990" ttm:agent="v1">You only love me when we freakin'</p>
+      <p begin="02:12.990" end="02:17.530" ttm:agent="v1">You got me jumpin' off the deep end</p>
+      <p begin="02:17.530" end="02:20.000" ttm:agent="v1">You only call me on the-</p>
+      <p begin="02:20.000" end="02:22.360" ttm:agent="v1">You only call me on the-</p>
+      <p begin="02:22.360" end="02:25.900" ttm:agent="v1">You only call me on the weekend</p>
+      <p begin="02:25.900" end="02:29.900" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

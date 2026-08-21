@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Love Hangover (feat. Dominic Fike)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">JENNIE</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Dominic Fike</ttm:agent>
+      <ttm:item type="album">Ruby</ttm:item>
+      <ttm:item type="spotify_id">0rx7xu0RmZLpJjKNVZjSVv</ttm:item>
+      <itunes:duration>03:00.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:01.830" end="00:04.450" ttm:agent="v1">I'm over, I'm so over</p>
+      <p begin="00:04.450" end="00:06.370" ttm:agent="v1" itunes:key="role" itunes:value="background">This love hangover (yeah, go)</p>
+      <p begin="00:06.370" end="00:08.350" ttm:agent="v1">Fight me, fight me, fight me</p>
+      <p begin="00:08.350" end="00:09.890" ttm:agent="v1">You made me so unlike me</p>
+      <p begin="00:09.890" end="00:11.480" ttm:agent="v1">I don't wanna talk, come behind me</p>
+      <p begin="00:11.480" end="00:13.140" ttm:agent="v1">Know you ain't the one, but you might be</p>
+      <p begin="00:13.140" end="00:15.560" ttm:agent="v1">Who sent you? Who sent you? Who sent you?</p>
+      <p begin="00:15.560" end="00:19.300" ttm:agent="v1" itunes:key="role" itunes:value="background">Who sent you 'round again? (Sent you 'round, who sent you 'round?)</p>
+      <p begin="00:19.300" end="00:21.370" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm so, I'm so shady (yeah)</p>
+      <p begin="00:21.370" end="00:22.980" ttm:agent="v1">I don't really mind when you play me</p>
+      <p begin="00:22.980" end="00:24.510" ttm:agent="v1">Wanna switch it up, go crazy</p>
+      <p begin="00:24.510" end="00:26.070" ttm:agent="v1">I ain't gonna leave 'til you hate me</p>
+      <p begin="00:26.070" end="00:28.200" ttm:agent="v1">Who sent you? Who sent you? Who sent you?</p>
+      <p begin="00:28.200" end="00:31.550" ttm:agent="v1" itunes:key="role" itunes:value="background">Who sent you 'round? (Who sent you 'round?)</p>
+      <p begin="00:31.550" end="00:35.150" ttm:agent="v1" itunes:key="role" itunes:value="background">We say it's over, but I keep messing with you (yeah)</p>
+      <p begin="00:35.150" end="00:39.950" ttm:agent="v1">And every time I do, I wake up with this love hangover</p>
+      <p begin="00:39.950" end="00:44.670" ttm:agent="v1">You got me pouring for two, I swore l'd never do it again</p>
+      <p begin="00:44.670" end="00:48.170" ttm:agent="v1" itunes:key="role" itunes:value="background">Until you came over (uh), I started lying with you (yeah)</p>
+      <p begin="00:48.170" end="00:52.850" ttm:agent="v1">And every time I do, I wake up with this love hangover</p>
+      <p begin="00:52.850" end="00:57.270" ttm:agent="v1">Uh-oh, I swear I'll never do it again</p>
+      <p begin="00:57.270" end="01:01.570" ttm:agent="v1" itunes:key="role" itunes:value="background">Ah, sh-, I did it again (call me back, call me back, call me back)</p>
+      <p begin="01:01.570" end="01:05.080" ttm:agent="v1">Oh, but you know l'm gonna do it again</p>
+      <p begin="01:05.080" end="01:09.230" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh, sh-, oh, sh-, call me back, call me back, call me back)</p>
+      <p begin="01:09.230" end="01:11.430" ttm:agent="v1">Yeah, you know I'm gonna do it again</p>
+      <p begin="01:11.430" end="01:14.180" ttm:agent="v1">I had woke up in a daze, my sweat was cold, my lip was cracked</p>
+      <p begin="01:14.180" end="01:17.360" ttm:agent="v1">I can't leave this chick, I had to single, double, triple back</p>
+      <p begin="01:17.360" end="01:20.520" ttm:agent="v1">She gon' leave me, but she wants to keep me on, what's up with that?</p>
+      <p begin="01:20.520" end="01:23.270" ttm:agent="v1">I don't even really got time for all that sh- right now, l'm a baby father</p>
+      <p begin="01:23.270" end="01:25.430" ttm:agent="v1">And all them jokes she told at dinner last night</p>
+      <p begin="01:25.430" end="01:26.970" ttm:agent="v1">Ain't had me dead, I was playing possum</p>
+      <p begin="01:26.970" end="01:28.470" ttm:agent="v1">And when the waiter brought the check</p>
+      <p begin="01:28.310" end="01:30.480" ttm:agent="v1">She said, &quot;Let's head to mine,&quot; I said, &quot;Okay, awesome&quot;</p>
+      <p begin="01:30.480" end="01:33.740" ttm:agent="v1">One minute, we growin' apart, and next, I'm in her apartment</p>
+      <p begin="01:33.740" end="01:36.970" ttm:agent="v1">Just watching her get naked and not thinking with my heart</p>
+      <p begin="01:36.970" end="01:38.970" ttm:agent="v1">I ain't even really got time for all that sh- right now</p>
+      <p begin="01:38.970" end="01:40.720" ttm:agent="v1">But if she wanted it right now</p>
+      <p begin="01:40.720" end="01:42.900" ttm:agent="v1">Then I could meet you there right now</p>
+      <p begin="01:42.900" end="01:45.130" ttm:agent="v1" itunes:key="role" itunes:value="background">Even though you barely even drink (uh-huh)</p>
+      <p begin="01:45.130" end="01:46.820" ttm:agent="v1" itunes:key="role" itunes:value="background">We hardly even spoke (uh-huh)</p>
+      <p begin="01:46.820" end="01:49.570" ttm:agent="v1">But I know when I wake up that I'm still gon' feel that hangover, babe</p>
+      <p begin="01:49.570" end="01:53.220" ttm:agent="v1" itunes:key="role" itunes:value="background">I say it's over, but I keep messing with you (yeah)</p>
+      <p begin="01:53.220" end="01:57.740" ttm:agent="v1" itunes:key="role" itunes:value="background">And every time I do, I wake up with this love hangover (uh-huh)</p>
+      <p begin="01:57.740" end="02:02.450" ttm:agent="v1" itunes:key="role" itunes:value="background">You got me pouring for two (uh-huh), I swore l'd never do it again</p>
+      <p begin="02:02.450" end="02:06.140" ttm:agent="v1" itunes:key="role" itunes:value="background">Until you came over (uh), I started lying with you (yeah)</p>
+      <p begin="02:06.140" end="02:10.700" ttm:agent="v1">And every time I do, I wake up with this love hangover</p>
+      <p begin="02:10.700" end="02:15.100" ttm:agent="v1">Uh-oh, I swear I'll never do it again</p>
+      <p begin="02:15.100" end="02:19.390" ttm:agent="v1" itunes:key="role" itunes:value="background">Ah, sh-, I did it again (call me back, call me back, call me back)</p>
+      <p begin="02:19.390" end="02:23.960" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh (oh, sh-), but you know l'm gonna do it again (uh-huh)</p>
+      <p begin="02:23.960" end="02:25.860" ttm:agent="v1" itunes:key="role" itunes:value="background">(Call me back, call me back, call me back, uh-huh)</p>
+      <p begin="02:25.860" end="02:28.930" ttm:agent="v1" itunes:key="role" itunes:value="background">(Thought you'd never do it again) yeah, you know I'm gonna do it again</p>
+      <p begin="02:28.930" end="02:32.240" ttm:agent="v1" itunes:key="role" itunes:value="background">Back, back, ba-ba-back (call me back, call me back, call me back)</p>
+      <p begin="02:32.240" end="02:35.540" ttm:agent="v1" itunes:key="role" itunes:value="background">Back, back, ba-ba-back (ah, sh-, ah, sh-, ay)</p>
+      <p begin="02:35.540" end="02:38.820" ttm:agent="v1" itunes:key="role" itunes:value="background">Back, back, ba-ba-back (call me back, call me back, call me back)</p>
+      <p begin="02:38.820" end="02:41.680" ttm:agent="v1" itunes:key="role" itunes:value="background">Back, back, ba-ba-back (ah, sh-, ah, sh-, ay)</p>
+      <p begin="02:41.680" end="02:43.180" ttm:agent="v1" itunes:key="role" itunes:value="background">(Call me) back, back, ba-ba-back</p>
+      <p begin="02:43.080" end="02:44.810" ttm:agent="v1">I single, double, triple back</p>
+      <p begin="02:44.810" end="02:46.640" ttm:agent="v1" itunes:key="role" itunes:value="background">(I hurry) ba-ba, ba-ba-back</p>
+      <p begin="02:46.640" end="02:48.200" ttm:agent="v1" itunes:key="role" itunes:value="background">Single, double, triple back (yeah)</p>
+      <p begin="02:48.200" end="02:49.700" ttm:agent="v1" itunes:key="role" itunes:value="background">Right now, right now (back, back, ba-ba-back)</p>
+      <p begin="02:49.570" end="02:51.070" ttm:agent="v1" itunes:key="role" itunes:value="background">Single, double, triple back (ah, sh-, ah, sh-)</p>
+      <p begin="02:51.060" end="02:52.770" ttm:agent="v1" itunes:key="role" itunes:value="background">(I hurry) back, back, ba-ba-back (I hurry)</p>
+      <p begin="02:52.770" end="02:54.480" ttm:agent="v1">Don't know what l'm saying at this point</p>
+      <p begin="02:54.480" end="02:58.480" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

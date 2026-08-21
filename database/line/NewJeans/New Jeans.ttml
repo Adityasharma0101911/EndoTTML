@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>New Jeans</ttm:title>
+      <ttm:agent type="person" xml:id="v1">NewJeans</ttm:agent>
+      <ttm:item type="album">NewJeans 'Super Shy'</ttm:item>
+      <ttm:item type="spotify_id">6rdkCkjk6D12xRpdMXy0I2</ttm:item>
+      <itunes:duration>01:49.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:14.880" end="00:16.570" ttm:agent="v1">Look, it's a new me</p>
+      <p begin="00:16.570" end="00:18.550" ttm:agent="v1">Switched it up, who's this?</p>
+      <p begin="00:18.550" end="00:20.100" ttm:agent="v1">Uril bwa NewJeans</p>
+      <p begin="00:20.100" end="00:22.630" ttm:agent="v1">So fresh, so clean</p>
+      <p begin="00:22.630" end="00:26.140" ttm:agent="v1">Eolmana, Gidaryeotdeon nal</p>
+      <p begin="00:26.140" end="00:29.760" ttm:agent="v1">Deudieo, time to step out</p>
+      <p begin="00:29.760" end="00:31.490" ttm:agent="v1">Tto han beon deo</p>
+      <p begin="00:31.490" end="00:36.380" ttm:agent="v1">Ready for sure to have some more</p>
+      <p begin="00:36.380" end="00:38.100" ttm:agent="v1">New hair, new tee</p>
+      <p begin="00:38.100" end="00:39.990" ttm:agent="v1">NewJeans, do you see?</p>
+      <p begin="00:39.990" end="00:41.660" ttm:agent="v1">New hair, new tee</p>
+      <p begin="00:41.660" end="00:43.440" ttm:agent="v1">NewJeans, do you see?</p>
+      <p begin="00:43.440" end="00:45.190" ttm:agent="v1">New hair, new tee</p>
+      <p begin="00:45.190" end="00:47.090" ttm:agent="v1">NewJeans, do you see?</p>
+      <p begin="00:47.090" end="00:48.830" ttm:agent="v1">New hair, new tee</p>
+      <p begin="00:48.830" end="00:50.400" ttm:agent="v1">NewJeans, do you see?</p>
+      <p begin="00:50.400" end="00:52.260" ttm:agent="v1">Make it feel like a game</p>
+      <p begin="00:52.260" end="00:54.090" ttm:agent="v1">Look at us, we go on and on again</p>
+      <p begin="00:54.090" end="00:55.870" ttm:agent="v1">We'll go on to the end</p>
+      <p begin="00:55.870" end="00:57.890" ttm:agent="v1">What we wanna do, on and on again</p>
+      <p begin="00:57.890" end="00:59.440" ttm:agent="v1">Make it feel like a game</p>
+      <p begin="00:59.440" end="01:01.300" ttm:agent="v1">Look at us, we go on and on again</p>
+      <p begin="01:01.300" end="01:02.910" ttm:agent="v1">We'll go on to the end</p>
+      <p begin="01:02.910" end="01:05.090" ttm:agent="v1">What we wanna do, on and on again</p>
+      <p begin="01:05.090" end="01:06.810" ttm:agent="v1">Look, it's a new me</p>
+      <p begin="01:06.810" end="01:08.620" ttm:agent="v1">Switched it up, who's this?</p>
+      <p begin="01:08.620" end="01:10.500" ttm:agent="v1">Deureobwa NewJeans</p>
+      <p begin="01:10.500" end="01:12.830" ttm:agent="v1">So fresh, so clean</p>
+      <p begin="01:12.830" end="01:16.460" ttm:agent="v1">Eolmana, Gidaryeotdeon nal</p>
+      <p begin="01:16.460" end="01:19.900" ttm:agent="v1">Deudieo, feeling's so right</p>
+      <p begin="01:19.900" end="01:21.620" ttm:agent="v1">Tto han beon deo</p>
+      <p begin="01:21.620" end="01:26.520" ttm:agent="v1">I need to know, you want some more</p>
+      <p begin="01:26.520" end="01:28.350" ttm:agent="v1">New hair, new tee</p>
+      <p begin="01:28.350" end="01:30.220" ttm:agent="v1">NewJeans, you and me</p>
+      <p begin="01:30.220" end="01:31.860" ttm:agent="v1">New hair, new tee</p>
+      <p begin="01:31.860" end="01:33.700" ttm:agent="v1">NewJeans, you and me</p>
+      <p begin="01:33.700" end="01:35.390" ttm:agent="v1">New hair, new tee</p>
+      <p begin="01:35.390" end="01:37.350" ttm:agent="v1">NewJeans, you and me</p>
+      <p begin="01:37.350" end="01:39.080" ttm:agent="v1">New hair, new tee</p>
+      <p begin="01:39.080" end="01:40.580" ttm:agent="v1">NewJeans, you and me</p>
+      <p begin="01:40.190" end="01:44.190" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Don't Copy My Flow</ttm:title>
+      <ttm:agent type="person" xml:id="v1">фрози</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Mwizz</ttm:agent>
+      <ttm:agent type="person" xml:id="v3">George Kipa</ttm:agent>
+      <ttm:item type="album">Don't Copy My Flow</ttm:item>
+      <ttm:item type="spotify_id">44HTE9IdjUk01DEAp54amH</ttm:item>
+      <itunes:duration>02:52.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:03.570" end="00:10.060" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ah, ah, ah, ooh) фрози</p>
+      <p begin="00:10.060" end="00:12.920" ttm:agent="v1">African in a Western, na, na</p>
+      <p begin="00:12.920" end="00:14.740" ttm:agent="v1">Can you be my best friend? Na</p>
+      <p begin="00:14.740" end="00:17.330" ttm:agent="v1">This ain't struggling love, there's no wrestling, na, na</p>
+      <p begin="00:17.330" end="00:19.970" ttm:agent="v1">So, can you be my best friend? Na</p>
+      <p begin="00:19.970" end="00:22.520" ttm:agent="v1">African in a Western, na, na</p>
+      <p begin="00:22.520" end="00:24.460" ttm:agent="v1">Can you be my best friend? Na</p>
+      <p begin="00:24.460" end="00:27.380" ttm:agent="v1">You're playing all these games so you're testing, na, na</p>
+      <p begin="00:27.380" end="00:30.530" ttm:agent="v1">So, can you be my best friend? Na</p>
+      <p begin="00:30.530" end="00:33.200" ttm:agent="v1">If love is strong, we grow</p>
+      <p begin="00:33.200" end="00:34.950" ttm:agent="v1">Mais c'est si tu crois</p>
+      <p begin="00:34.950" end="00:38.160" ttm:agent="v1" itunes:key="role" itunes:value="background">But I do not know (I do not know)</p>
+      <p begin="00:38.160" end="00:39.920" ttm:agent="v1">Je ne sais pas</p>
+      <p begin="00:39.920" end="00:42.380" ttm:agent="v1">Don't copy my flow, no</p>
+      <p begin="00:42.380" end="00:44.970" ttm:agent="v1">Just leave me alone and go</p>
+      <p begin="00:44.970" end="00:47.400" ttm:agent="v1">Don't copy my flow, no</p>
+      <p begin="00:47.400" end="00:49.920" ttm:agent="v1">Just leave me alone and go</p>
+      <p begin="00:49.920" end="00:52.200" ttm:agent="v1">Don't copy my flow, no</p>
+      <p begin="00:52.200" end="00:54.630" ttm:agent="v1">Just leave me alone and go</p>
+      <p begin="00:54.630" end="00:57.290" ttm:agent="v1">Don't copy my flow, no</p>
+      <p begin="00:57.290" end="00:59.370" ttm:agent="v1" itunes:key="role" itunes:value="background">(Just leave me alone and go)</p>
+      <p begin="00:59.370" end="01:01.920" ttm:agent="v1">African in a Western, na, na</p>
+      <p begin="01:01.920" end="01:03.830" ttm:agent="v1">Can you be my best friend? Na</p>
+      <p begin="01:03.830" end="01:06.760" ttm:agent="v1">This ain't struggling love, there's no wrestling, na, na</p>
+      <p begin="01:06.760" end="01:09.010" ttm:agent="v1">So, can you be my best friend? Na</p>
+      <p begin="01:09.010" end="01:11.910" ttm:agent="v1">African in a Western, na, na</p>
+      <p begin="01:11.910" end="01:13.450" ttm:agent="v1">Can you be my best friend? Na</p>
+      <p begin="01:13.450" end="01:16.610" ttm:agent="v1">You're playing all these games so you're testing, na, na</p>
+      <p begin="01:16.610" end="01:18.750" ttm:agent="v1">So, can you be my best friend? Na</p>
+      <p begin="01:18.750" end="01:20.820" ttm:agent="v1">Uno, dos, tres, cuatro, cinco</p>
+      <p begin="01:20.820" end="01:23.780" ttm:agent="v1">Look me in the eyes and tell me what you think, oh</p>
+      <p begin="01:23.780" end="01:26.110" ttm:agent="v1">Mi amigo paso la que paso</p>
+      <p begin="01:26.110" end="01:28.430" ttm:agent="v1">El finito, nice to meet you</p>
+      <p begin="01:28.430" end="01:30.820" ttm:agent="v1">Uno, dos, tres, cuatro, cinco</p>
+      <p begin="01:30.820" end="01:33.440" ttm:agent="v1">Look me in the eyes and tell me what you think, oh</p>
+      <p begin="01:33.440" end="01:35.820" ttm:agent="v1">Mi amigo paso la que paso</p>
+      <p begin="01:35.820" end="01:37.450" ttm:agent="v1">El finito, nice to meet you</p>
+      <p begin="01:37.450" end="01:39.790" ttm:agent="v1">You said you wanna copy, copy my flow</p>
+      <p begin="01:39.790" end="01:42.100" ttm:agent="v1">You said you wanna chill with me and my bro</p>
+      <p begin="01:42.100" end="01:44.790" ttm:agent="v1">So just tell me if you're really here for the show</p>
+      <p begin="01:44.790" end="01:48.390" ttm:agent="v1">And if you're really here for me, let me know</p>
+      <p begin="01:48.390" end="01:50.450" ttm:agent="v1">Uno, dos, tres, cuatro, cinco</p>
+      <p begin="01:50.450" end="01:53.050" ttm:agent="v1">Look me in the eyes and tell me what you think, oh</p>
+      <p begin="01:53.050" end="01:55.490" ttm:agent="v1">Mi amigo paso la que paso</p>
+      <p begin="01:55.490" end="01:59.440" ttm:agent="v1">El finito, nice to meet you, oh</p>
+      <p begin="01:59.440" end="02:07.440" ttm:agent="v1">Ohh, oh, oh-oh-oh, oh-oh, oh-oh, oh</p>
+      <p begin="02:26.420" end="02:28.090" ttm:agent="v1">Je ne sais pas</p>
+      <p begin="02:28.090" end="02:30.660" ttm:agent="v1">Don't copy my flow, no</p>
+      <p begin="02:30.660" end="02:33.220" ttm:agent="v1">Just leave me alone and go</p>
+      <p begin="02:33.220" end="02:35.620" ttm:agent="v1">Don't copy my flow, no</p>
+      <p begin="02:35.620" end="02:37.440" ttm:agent="v1">Just leave me alone and go</p>
+      <p begin="02:37.440" end="02:40.390" ttm:agent="v1">African in a Western, na, na</p>
+      <p begin="02:40.390" end="02:41.950" ttm:agent="v1">Can you be my best friend? Na</p>
+      <p begin="02:41.950" end="02:44.890" ttm:agent="v1">You're playing all these games so you're testing, na, na</p>
+      <p begin="02:44.890" end="02:48.050" ttm:agent="v1">So, can you be my best friend? Na</p>
+      <p begin="02:48.050" end="02:52.050" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Purple Heart Ski</ttm:title>
+      <ttm:agent type="person" xml:id="v1">LUCKI</ttm:agent>
+      <ttm:item type="album">s*x m*ney dr*gs</ttm:item>
+      <ttm:item type="spotify_id">4iAqSFIflshP5hl21N9TwN</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.762" end="00:02.262" ttm:agent="v1">[Intro]</p>
+      <p begin="00:01.779" end="00:03.279" ttm:agent="v1" itunes:key="role" itunes:value="background">(Icey, I'm so sick of you)</p>
+      <p begin="00:01.910" end="00:03.410" ttm:agent="v1"/>
+      <p begin="00:03.407" end="00:04.907" ttm:agent="v1">[Chorus]</p>
+      <p begin="00:03.632" end="00:05.612" ttm:agent="v1">Ayy, ayy</p>
+      <p begin="00:05.612" end="00:08.445" ttm:agent="v1">Been too long, been too many cities</p>
+      <p begin="00:08.445" end="00:11.885" ttm:agent="v1">Been too— haha, ayy, ayy</p>
+      <p begin="00:11.885" end="00:14.503" ttm:agent="v1">Been too long, been too many cities</p>
+      <p begin="00:14.503" end="00:17.543" ttm:agent="v1">Loverboy at heart, but still hard on the ho</p>
+      <p begin="00:17.543" end="00:20.296" ttm:agent="v1">I'm a purple-hearted ski, four thousand a coat</p>
+      <p begin="00:20.296" end="00:21.796" ttm:agent="v1">You can get it like me, if you patient, you close</p>
+      <p begin="00:20.898" end="00:22.398" ttm:agent="v1"/>
+      <p begin="00:21.367" end="00:23.220" ttm:agent="v1"/>
+      <p begin="00:23.220" end="00:24.720" ttm:agent="v1">[Verse]</p>
+      <p begin="00:23.403" end="00:26.364" ttm:agent="v1">If she pretty, I'll do it, but we takin' it slow</p>
+      <p begin="00:26.364" end="00:29.276" ttm:agent="v1">I got locked in with the jewelers, used to steal from the store</p>
+      <p begin="00:29.276" end="00:32.372" ttm:agent="v1">Who tried to tell me I'm a star? I still owe 'em for that</p>
+      <p begin="00:32.372" end="00:35.396" ttm:agent="v1">I'm still locked up with some niggas, probably holdin' me back</p>
+      <p begin="00:35.396" end="00:38.325" ttm:agent="v1">You got rich in Night City, say you ain't comin' back</p>
+      <p begin="00:38.325" end="00:41.383" ttm:agent="v1">Ayy, racks, on racks, on racks, ayy</p>
+      <p begin="00:41.383" end="00:44.632" ttm:agent="v1">Racks, on racks, on racks, wake up with a Barbie</p>
+      <p begin="00:44.632" end="00:47.729" ttm:agent="v1">Say it like you mean it, but it was never for me</p>
+      <p begin="00:47.729" end="00:50.607" ttm:agent="v1">Gotta see it to believe it, I'm a visionary probably</p>
+      <p begin="00:50.607" end="00:53.507" ttm:agent="v1">Niggas finished, that's a wrap, you know that's a different story</p>
+      <p begin="00:53.507" end="00:55.007" ttm:agent="v1">Racks, on racks, on racks, ayy</p>
+      <p begin="00:54.412" end="00:56.429" ttm:agent="v1"/>
+      <p begin="00:56.429" end="00:57.929" ttm:agent="v1">[Chorus]</p>
+      <p begin="00:56.780" end="00:59.510" ttm:agent="v1">Been too long, been too many cities</p>
+      <p begin="00:59.510" end="01:02.614" ttm:agent="v1">Been too long, been too many cities</p>
+      <p begin="01:02.614" end="01:05.797" ttm:agent="v1">Loverboy at heart, but still hard on the ho</p>
+      <p begin="01:05.797" end="01:08.434" ttm:agent="v1">I'm a purple-hearted ski, four thousand a coat</p>
+      <p begin="01:08.434" end="01:11.414" ttm:agent="v1">You can get it like me, if you patient, you close</p>
+      <p begin="01:11.414" end="01:14.455" ttm:agent="v1">Ayy, been too long, been too many cities</p>
+      <p begin="01:14.455" end="01:20.390" ttm:agent="v1">Loverboy at heart, but still hard on the— haha, ayy</p>
+      <p begin="01:20.390" end="01:23.548" ttm:agent="v1">I'm a purple-hearted ski, four thousand a coat</p>
+      <p begin="01:23.548" end="01:27.548" ttm:agent="v1">No bap, nigga</p>
+    </div>
+  </body>
+</tt>

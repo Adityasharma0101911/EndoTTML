@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>back to friends</ttm:title>
+      <ttm:agent type="person" xml:id="v1">sombr</ttm:agent>
+      <ttm:item type="album">back to friends</ttm:item>
+      <ttm:item type="spotify_id">0FTmksd2dxiE5e3rWyJXs6</ttm:item>
+      <itunes:duration>03:20.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:23.100" end="00:27.520" ttm:agent="v1">Touch my body tender</p>
+      <p begin="00:27.520" end="00:33.430" ttm:agent="v1">'Cause the feeling makes me weak</p>
+      <p begin="00:33.430" end="00:37.940" ttm:agent="v1">Kicking off the covers</p>
+      <p begin="00:37.940" end="00:44.040" ttm:agent="v1">I see the ceiling while you're looking down at me</p>
+      <p begin="00:44.040" end="00:48.910" ttm:agent="v1">How can we go back to being friends</p>
+      <p begin="00:48.910" end="00:54.260" ttm:agent="v1">When we just shared a bed?</p>
+      <p begin="00:54.260" end="00:59.180" ttm:agent="v1">How can you look at me and pretend</p>
+      <p begin="00:59.180" end="01:04.570" ttm:agent="v1">I'm someone you've never met?</p>
+      <p begin="01:04.570" end="01:08.900" ttm:agent="v1">It was last December</p>
+      <p begin="01:08.900" end="01:14.870" ttm:agent="v1">You were layin' on my chest</p>
+      <p begin="01:14.870" end="01:19.150" ttm:agent="v1">I still remember</p>
+      <p begin="01:19.150" end="01:25.480" ttm:agent="v1">I was scared to take a breath, didn't want you to move your head</p>
+      <p begin="01:25.480" end="01:30.340" ttm:agent="v1">How can we go back to being friends</p>
+      <p begin="01:30.340" end="01:35.820" ttm:agent="v1" itunes:key="role" itunes:value="background">When we just shared a bed? (Yeah)</p>
+      <p begin="01:35.820" end="01:40.420" ttm:agent="v1">How can you look at me and pretend</p>
+      <p begin="01:40.420" end="01:45.880" ttm:agent="v1">I'm someone you've never met?</p>
+      <p begin="01:45.880" end="01:52.670" ttm:agent="v1">The devil in your eyes</p>
+      <p begin="01:52.670" end="01:58.740" ttm:agent="v1">Won't deny the lies you've sold</p>
+      <p begin="01:58.740" end="02:02.670" ttm:agent="v1">I'm holding on too tight</p>
+      <p begin="02:02.670" end="02:10.670" ttm:agent="v1">While you let go, this is casual</p>
+      <p begin="02:17.050" end="02:22.140" ttm:agent="v1">How can we go back to being friends</p>
+      <p begin="02:22.140" end="02:27.400" ttm:agent="v1" itunes:key="role" itunes:value="background">When we just shared a bed? (Yeah)</p>
+      <p begin="02:27.400" end="02:32.160" ttm:agent="v1">How can you look at me and pretend</p>
+      <p begin="02:32.160" end="02:37.710" ttm:agent="v1">I'm someone you've never met?</p>
+      <p begin="02:37.710" end="02:42.570" ttm:agent="v1">How can we go back to being friends</p>
+      <p begin="02:42.570" end="02:48.030" ttm:agent="v1" itunes:key="role" itunes:value="background">When we just shared a bed? (Yeah)</p>
+      <p begin="02:48.030" end="02:52.880" ttm:agent="v1">How can you look at me and pretend</p>
+      <p begin="02:52.880" end="03:00.210" ttm:agent="v1">I'm someone you've never met?</p>
+      <p begin="03:00.210" end="03:08.210" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm someone you've never met (yeah)</p>
+      <p begin="03:18.240" end="03:22.240" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

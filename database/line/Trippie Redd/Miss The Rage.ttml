@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Miss The Rage</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Trippie Redd</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Playboi Carti</ttm:agent>
+      <ttm:item type="album">Trip At Knight</ttm:item>
+      <ttm:item type="spotify_id">5n4FTCMefvyKUjeWumdaWv</ttm:item>
+      <itunes:duration>03:57.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:01.820" end="00:04.620" ttm:agent="v1">I love Trippie Redd</p>
+      <p begin="00:04.620" end="00:07.920" ttm:agent="v1"/>
+      <p begin="00:07.920" end="00:10.280" ttm:agent="v1">Haha</p>
+      <p begin="00:10.280" end="00:16.400" ttm:agent="v1"/>
+      <p begin="00:16.400" end="00:19.190" ttm:agent="v1" itunes:key="role" itunes:value="background">I can't see a damn thing if it ain't guap (oh my, woah)</p>
+      <p begin="00:19.190" end="00:22.060" ttm:agent="v1">I can't see a damn thing if it ain't guap</p>
+      <p begin="00:22.060" end="00:24.460" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh my God, guap), yeah</p>
+      <p begin="00:24.460" end="00:27.640" ttm:agent="v1" itunes:key="role" itunes:value="background">They like Stevie (Stevie), they can't see me (see me)</p>
+      <p begin="00:27.640" end="00:29.140" ttm:agent="v1" itunes:key="role" itunes:value="background">They wanna be me (they wanna be me)</p>
+      <p begin="00:29.010" end="00:30.510" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm in that 'Ghini (in the Lamb' truck)</p>
+      <p begin="00:30.270" end="00:33.410" ttm:agent="v1" itunes:key="role" itunes:value="background">Whip like zucchini, water, Fiji (yeah)</p>
+      <p begin="00:33.410" end="00:35.120" ttm:agent="v1" itunes:key="role" itunes:value="background">It ain't leave me (yeah)</p>
+      <p begin="00:35.120" end="00:36.740" ttm:agent="v1" itunes:key="role" itunes:value="background">She wanna please me (yeah)</p>
+      <p begin="00:36.740" end="00:39.940" ttm:agent="v1" itunes:key="role" itunes:value="background">'Cause she needy (yeah), h- like Mimi (yeah)</p>
+      <p begin="00:39.940" end="00:42.710" ttm:agent="v1" itunes:key="role" itunes:value="background">Bae like Mya (Mya, yeah), h- like Mimi (yeah)</p>
+      <p begin="00:42.710" end="00:46.350" ttm:agent="v1" itunes:key="role" itunes:value="background">Bae like Mya (yeah), h- like Mimi (yeah)</p>
+      <p begin="00:46.350" end="00:49.180" ttm:agent="v1" itunes:key="role" itunes:value="background">Bae like Mya (yeah), h- like Mimi (yeah)</p>
+      <p begin="00:49.180" end="00:50.680" ttm:agent="v1">Bae like Mya</p>
+      <p begin="00:49.730" end="00:52.760" ttm:agent="v1" itunes:key="role" itunes:value="background">This ain't GTA, we sh- at helicopters (brrt), monsters (brrt)</p>
+      <p begin="00:52.760" end="00:55.750" ttm:agent="v1" itunes:key="role" itunes:value="background">We pull up with s- and hella - (bah), 'oppas (bah)</p>
+      <p begin="00:55.750" end="00:58.290" ttm:agent="v1" itunes:key="role" itunes:value="background">We don't f- with n-, they the cops (cops, bitch)</p>
+      <p begin="00:58.290" end="01:01.520" ttm:agent="v1" itunes:key="role" itunes:value="background">I put my heart and soul into the G- (in the G-)</p>
+      <p begin="01:01.520" end="01:05.360" ttm:agent="v1">B-, it's us, never them, you ain't that, b-, I'm him</p>
+      <p begin="01:05.360" end="01:07.770" ttm:agent="v1" itunes:key="role" itunes:value="background">You get zapped if it's static (static), keep that MAC, it go &quot;Pew&quot;</p>
+      <p begin="01:07.770" end="01:10.950" ttm:agent="v1">S- gas, smell the fumes, I'm in that 'Vette, it go &quot;Vroom&quot;</p>
+      <p begin="01:10.950" end="01:15.660" ttm:agent="v1">I'm a vet, lil' dude, you a pet, do what I say, not what I do</p>
+      <p begin="01:15.660" end="01:18.600" ttm:agent="v1">Tell him, &quot;Sit, &quot; b-, come here</p>
+      <p begin="01:18.600" end="01:21.870" ttm:agent="v1">I just seen some n- down the block that ain't from here</p>
+      <p begin="01:21.870" end="01:24.930" ttm:agent="v1">Know I got a lot but I need some damn more, yeah</p>
+      <p begin="01:24.930" end="01:27.800" ttm:agent="v1">If I catch the opps then I'm uppin' the damn score, yeah</p>
+      <p begin="01:27.800" end="01:33.840" ttm:agent="v1">Yeah, brrah, brrah, brrah, brrah</p>
+      <p begin="01:33.840" end="01:37.270" ttm:agent="v1"/>
+      <p begin="01:37.270" end="01:40.850" ttm:agent="v1" itunes:key="role" itunes:value="background">I can't see a damn thing if it ain't guap (oh my, woah)</p>
+      <p begin="01:40.850" end="01:45.220" ttm:agent="v1" itunes:key="role" itunes:value="background">I can't see a damn thing if it ain't guap (oh my God, guap), yeah</p>
+      <p begin="01:45.220" end="01:48.500" ttm:agent="v1" itunes:key="role" itunes:value="background">They like Stevie (Stevie), they can't see me (they can't see me)</p>
+      <p begin="01:48.500" end="01:50.350" ttm:agent="v1" itunes:key="role" itunes:value="background">They wanna be me (they wanna be me)</p>
+      <p begin="01:50.350" end="01:51.850" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm in that 'Ghini (in the Lamb' truck)</p>
+      <p begin="01:51.410" end="01:54.670" ttm:agent="v1" itunes:key="role" itunes:value="background">Whip like zucchini, water, Fiji (yeah)</p>
+      <p begin="01:54.670" end="01:58.010" ttm:agent="v1" itunes:key="role" itunes:value="background">It ain't leave me (yeah), she wanna please me (yeah)</p>
+      <p begin="01:58.010" end="02:01.060" ttm:agent="v1" itunes:key="role" itunes:value="background">'Cause she needy (yeah), h- like Mimi (yeah)</p>
+      <p begin="02:01.060" end="02:04.180" ttm:agent="v1">Bae like Mya, h- like Mimi</p>
+      <p begin="02:04.180" end="02:07.290" ttm:agent="v1" itunes:key="role" itunes:value="background">She like Mya (she like Carti), h- like Mimi</p>
+      <p begin="02:07.290" end="02:10.170" ttm:agent="v1" itunes:key="role" itunes:value="background">She like Mya (she like Carti, yeah, yeah, yeah), h- like Mimi</p>
+      <p begin="02:10.170" end="02:13.300" ttm:agent="v1" itunes:key="role" itunes:value="background">She like Mya (she like Carti, haha, no bap, hahaha)</p>
+      <p begin="02:13.300" end="02:16.830" ttm:agent="v1" itunes:key="role" itunes:value="background">She like Carti (yeah), man, I need it (yeah, yeah)</p>
+      <p begin="02:16.830" end="02:19.620" ttm:agent="v1" itunes:key="role" itunes:value="background">She taste like water (taste like water), h-, I need it (taste like water)</p>
+      <p begin="02:19.620" end="02:21.210" ttm:agent="v1" itunes:key="role" itunes:value="background">Come get your daughter (come get your daughter)</p>
+      <p begin="02:21.210" end="02:22.980" ttm:agent="v1">She too greasy</p>
+      <p begin="02:22.980" end="02:25.710" ttm:agent="v1" itunes:key="role" itunes:value="background">She so meaty (she so meaty), I'm not vegan (I'm not vegan, vegan)</p>
+      <p begin="02:25.710" end="02:27.450" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm gon' eat it (what? yeah)</p>
+      <p begin="02:27.450" end="02:29.250" ttm:agent="v1" itunes:key="role" itunes:value="background">I bet you'll I beat it (I bet you I'll beat it)</p>
+      <p begin="02:29.250" end="02:30.750" ttm:agent="v1" itunes:key="role" itunes:value="background">I put on the bust (put her on the bust)</p>
+      <p begin="02:30.650" end="02:32.150" ttm:agent="v1" itunes:key="role" itunes:value="background">I have to see it (I have to see it, bust)</p>
+      <p begin="02:32.150" end="02:33.680" ttm:agent="v1" itunes:key="role" itunes:value="background">I put her on the bus (put her on the bus)</p>
+      <p begin="02:33.680" end="02:35.420" ttm:agent="v1" itunes:key="role" itunes:value="background">I'ma leave that h- bleedin' (yeah, bust)</p>
+      <p begin="02:35.420" end="02:36.920" ttm:agent="v1" itunes:key="role" itunes:value="background">I'ma leave that h- geekin' (blatt, bleedin')</p>
+      <p begin="02:36.820" end="02:38.330" ttm:agent="v1" itunes:key="role" itunes:value="background">Have her gone by the weekend (blatt, yeah)</p>
+      <p begin="02:38.330" end="02:40.190" ttm:agent="v1" itunes:key="role" itunes:value="background">Got too much water (blatt, blatt)</p>
+      <p begin="02:40.190" end="02:41.690" ttm:agent="v1" itunes:key="role" itunes:value="background">Sh-got me leakin' (blatt, what?)</p>
+      <p begin="02:41.130" end="02:42.800" ttm:agent="v1" itunes:key="role" itunes:value="background">She got me leakin' (blatt, blatt)</p>
+      <p begin="02:42.800" end="02:45.820" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm on the deep end (blatt, what? yeah, blatt, what?)</p>
+      <p begin="02:45.820" end="02:49.330" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm on the deep end (yeah, yeah), yeah, haha</p>
+      <p begin="02:49.330" end="02:52.580" ttm:agent="v1" itunes:key="role" itunes:value="background">Brrah (haha) (yeah)</p>
+      <p begin="02:52.580" end="02:54.770" ttm:agent="v1" itunes:key="role" itunes:value="background">Brrah, brrah, brrah (yeah)</p>
+      <p begin="02:54.770" end="02:58.850" ttm:agent="v1" itunes:key="role" itunes:value="background">Hahahahaha, ah (yeah, King Vamp)</p>
+      <p begin="02:58.850" end="03:01.390" ttm:agent="v1" itunes:key="role" itunes:value="background">I can't see a damn thing if it ain't guap (oh my)</p>
+      <p begin="03:01.390" end="03:04.230" ttm:agent="v1">I can't see a damn thing if it ain't guap</p>
+      <p begin="03:04.230" end="03:06.370" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh, my God, guap), yeah (oh my God)</p>
+      <p begin="03:06.370" end="03:09.560" ttm:agent="v1" itunes:key="role" itunes:value="background">They like Stevie (Stevie), they can't see me (they can't see me)</p>
+      <p begin="03:09.560" end="03:11.250" ttm:agent="v1" itunes:key="role" itunes:value="background">They wanna be me (they wanna be me)</p>
+      <p begin="03:11.250" end="03:12.750" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm in that 'Ghini (in the Lamb' truck)</p>
+      <p begin="03:12.430" end="03:15.950" ttm:agent="v1" itunes:key="role" itunes:value="background">Whip like zucchini, water, Fiji (yeah)</p>
+      <p begin="03:15.950" end="03:19.240" ttm:agent="v1" itunes:key="role" itunes:value="background">It ain't leave me (yeah), she wanna please me (yeah)</p>
+      <p begin="03:19.240" end="03:22.000" ttm:agent="v1" itunes:key="role" itunes:value="background">'Cause she needy (yeah), h- like Mimi (haha, yeah)</p>
+      <p begin="03:22.000" end="03:25.060" ttm:agent="v1" itunes:key="role" itunes:value="background">Bae like Mya (yeah), h- like Mimi (yeah)</p>
+      <p begin="03:25.060" end="03:28.370" ttm:agent="v1" itunes:key="role" itunes:value="background">Bae like Mya (yeah), h- like Mimi (yeah)</p>
+      <p begin="03:28.370" end="03:31.310" ttm:agent="v1" itunes:key="role" itunes:value="background">Bae like Mya (yeah), h- like Mimi (yeah)</p>
+      <p begin="03:31.310" end="03:32.810" ttm:agent="v1">Bae like Mya</p>
+      <p begin="03:31.680" end="03:35.680" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

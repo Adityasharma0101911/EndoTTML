@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Islands (kompa pasión)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">фрози</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Tomo</ttm:agent>
+      <ttm:item type="album">Islands (kompa pasión)</ttm:item>
+      <ttm:item type="spotify_id">6LCIDTgSgQtpzXTW5FpW12</ttm:item>
+      <itunes:duration>02:06.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:10.090" end="00:12.910" ttm:agent="v1">She said she's from the islands</p>
+      <p begin="00:12.910" end="00:14.940" ttm:agent="v1">And I'm just tryna find her</p>
+      <p begin="00:14.940" end="00:17.870" ttm:agent="v1">Girl, you are my desire</p>
+      <p begin="00:17.870" end="00:19.870" ttm:agent="v1">You're all that I require</p>
+      <p begin="00:19.870" end="00:22.800" ttm:agent="v1">She said she's from the islands</p>
+      <p begin="00:22.800" end="00:24.830" ttm:agent="v1">And I'm just tryna find her</p>
+      <p begin="00:24.830" end="00:27.690" ttm:agent="v1">Girl, you are my desire</p>
+      <p begin="00:27.690" end="00:29.980" ttm:agent="v1">You're all that I require</p>
+      <p begin="00:29.980" end="00:32.370" ttm:agent="v1">From the islands, from the islands</p>
+      <p begin="00:32.370" end="00:35.140" ttm:agent="v1">Girl, you got a body like Rihanna, you a diamond</p>
+      <p begin="00:35.140" end="00:37.530" ttm:agent="v1">And I'ma blow in the sky, it's my timin'</p>
+      <p begin="00:37.530" end="00:39.540" ttm:agent="v1">I need a VVS ring that be shinin'</p>
+      <p begin="00:39.540" end="00:42.480" ttm:agent="v1" itunes:key="role" itunes:value="background">Woah, hold up, girl, I need to let you know (You know)</p>
+      <p begin="00:42.480" end="00:44.550" ttm:agent="v1">That you ain't no average ho</p>
+      <p begin="00:44.550" end="00:47.090" ttm:agent="v1">When I pull up late night, let's keep it on the low</p>
+      <p begin="00:47.090" end="00:49.690" ttm:agent="v1">Girl, am I your man? That's what I wanna know, oh</p>
+      <p begin="00:49.690" end="00:52.030" ttm:agent="v1">I got a feelin', got a feelin'</p>
+      <p begin="00:52.030" end="00:54.660" ttm:agent="v1">Tonight's the night, let's party, it's the weekend</p>
+      <p begin="00:54.660" end="00:57.400" ttm:agent="v1">Girl, your body got me sweatin' in my feelings</p>
+      <p begin="00:57.400" end="00:59.570" ttm:agent="v1">And you runnin' up a check, you a demon</p>
+      <p begin="00:59.570" end="01:02.390" ttm:agent="v1">Your hips don't lie, yeah, I'm tryna feel your vibe</p>
+      <p begin="01:02.390" end="01:04.710" ttm:agent="v1">Take your time, I ain't tryna steal your shine</p>
+      <p begin="01:04.710" end="01:07.380" ttm:agent="v1">Bend your body, I'm just tryna see you whine</p>
+      <p begin="01:07.380" end="01:09.300" ttm:agent="v1">I need your lovin', yeah, I'm tryna make you mine</p>
+      <p begin="01:09.300" end="01:12.250" ttm:agent="v1">She said she's from the islands</p>
+      <p begin="01:12.250" end="01:14.250" ttm:agent="v1">And I'm just tryna find her</p>
+      <p begin="01:14.250" end="01:17.150" ttm:agent="v1">Girl, you are my desire</p>
+      <p begin="01:17.150" end="01:19.270" ttm:agent="v1">You're all that I require</p>
+      <p begin="01:19.270" end="01:22.080" ttm:agent="v1">She said she's from the islands</p>
+      <p begin="01:22.080" end="01:24.340" ttm:agent="v1">And I'm just tryna find her</p>
+      <p begin="01:24.340" end="01:26.980" ttm:agent="v1">Girl, you are my desire</p>
+      <p begin="01:26.980" end="01:29.380" ttm:agent="v1">You're all that I require</p>
+      <p begin="01:29.380" end="01:31.980" ttm:agent="v1">She said she's from the islands</p>
+      <p begin="01:31.980" end="01:34.030" ttm:agent="v1">And I'm just tryna find her</p>
+      <p begin="01:34.030" end="01:36.830" ttm:agent="v1">Girl, you are my desire</p>
+      <p begin="01:36.830" end="01:39.280" ttm:agent="v1">You're all that I require</p>
+      <p begin="01:39.280" end="01:42.070" ttm:agent="v1">She said she's from the islands</p>
+      <p begin="01:42.070" end="01:44.130" ttm:agent="v1">And I'm just tryna find her</p>
+      <p begin="01:44.130" end="01:46.780" ttm:agent="v1">Girl, you are my desire</p>
+      <p begin="01:46.780" end="01:48.720" ttm:agent="v1">You're all that I require</p>
+      <p begin="01:48.720" end="01:52.720" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

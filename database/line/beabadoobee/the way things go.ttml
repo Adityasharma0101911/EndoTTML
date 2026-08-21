@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>the way things go</ttm:title>
+      <ttm:agent type="person" xml:id="v1">beabadoobee</ttm:agent>
+      <ttm:item type="album">the way things go</ttm:item>
+      <ttm:item type="spotify_id">5sA3i6SGkILMiZW6Fhx4wv</ttm:item>
+      <itunes:duration>03:08.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:11.910" end="00:18.920" ttm:agent="v1">And there's so much left to say, I guess I'm just the bigger guy</p>
+      <p begin="00:18.920" end="00:26.230" ttm:agent="v1">And there's too much on my mind that I don't even want to try</p>
+      <p begin="00:26.230" end="00:34.230" ttm:agent="v1">Guess it's not far from the ordinary, they do say love is blind</p>
+      <p begin="00:35.390" end="00:43.390" ttm:agent="v1">But I guess that's the way things go</p>
+      <p begin="00:43.980" end="00:47.470" ttm:agent="v1">Can't remember how to say your name</p>
+      <p begin="00:47.470" end="00:50.950" ttm:agent="v1">Let alone count all the freckles on your face</p>
+      <p begin="00:50.950" end="00:54.900" ttm:agent="v1">A distant memory I used to know</p>
+      <p begin="00:54.900" end="00:58.530" ttm:agent="v1">Oh, I guess that's just the way things go</p>
+      <p begin="00:58.530" end="01:02.940" ttm:agent="v1">Oh, I guess that's just the way things go</p>
+      <p begin="01:02.940" end="01:06.660" ttm:agent="v1">Can't remember when you said you called</p>
+      <p begin="01:06.660" end="01:10.190" ttm:agent="v1">Miles away and it was still my fault</p>
+      <p begin="01:10.190" end="01:13.980" ttm:agent="v1">The love you said you had, it sometimes showed</p>
+      <p begin="01:13.980" end="01:17.510" ttm:agent="v1">Oh, I guess that's just the way things go</p>
+      <p begin="01:17.510" end="01:21.300" ttm:agent="v1">Oh, I guess that's just the way things go</p>
+      <p begin="01:21.300" end="01:28.060" ttm:agent="v1">There's so much left to say, I guess I'm just the bigger guy</p>
+      <p begin="01:28.060" end="01:35.240" ttm:agent="v1">And there's too much on my mind that I don't even want to try</p>
+      <p begin="01:35.240" end="01:43.240" ttm:agent="v1">Guess it's not far from the ordinary, they do say love is blind</p>
+      <p begin="01:44.390" end="01:51.010" ttm:agent="v1">But I guess that's the way things go</p>
+      <p begin="01:51.010" end="01:53.090" ttm:agent="v1"/>
+      <p begin="01:53.090" end="01:56.530" ttm:agent="v1">Didn't think you'd ever stoop so low</p>
+      <p begin="01:56.530" end="02:00.100" ttm:agent="v1">Getting with the only girl you know</p>
+      <p begin="02:00.100" end="02:03.760" ttm:agent="v1">A lousy route that only makes me say</p>
+      <p begin="02:03.760" end="02:07.590" ttm:agent="v1">&quot;That's pretty lame, and that's the way things go&quot;</p>
+      <p begin="02:07.590" end="02:12.070" ttm:agent="v1">Oh, I guess that's just the way things go</p>
+      <p begin="02:12.070" end="02:15.790" ttm:agent="v1">Passed your house when I was on a train</p>
+      <p begin="02:15.790" end="02:19.140" ttm:agent="v1">In my mind, you'll always stay the same</p>
+      <p begin="02:19.140" end="02:23.100" ttm:agent="v1">I'm happy now, I ought to let you know</p>
+      <p begin="02:23.100" end="02:26.810" ttm:agent="v1">But I guess that's just the way things go</p>
+      <p begin="02:26.810" end="02:30.090" ttm:agent="v1">Oh, I guess that's just the way things go</p>
+      <p begin="02:30.090" end="02:33.810" ttm:agent="v1">And I don't mind that that's the way things go</p>
+      <p begin="02:33.810" end="02:37.420" ttm:agent="v1">And I don't mind, I don't mind</p>
+      <p begin="02:37.420" end="02:41.110" ttm:agent="v1">I don't mind, I don't mind</p>
+      <p begin="02:41.110" end="02:44.930" ttm:agent="v1">I don't mind, I don't mind</p>
+      <p begin="02:44.930" end="02:48.550" ttm:agent="v1">Oh, I guess that's just the way things go</p>
+      <p begin="02:48.550" end="02:52.800" ttm:agent="v1">Oh, I guess that's the way things go</p>
+      <p begin="02:52.800" end="02:56.800" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

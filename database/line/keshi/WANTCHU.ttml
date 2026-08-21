@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>WANTCHU</ttm:title>
+      <ttm:agent type="person" xml:id="v1">keshi</ttm:agent>
+      <ttm:item type="album">WANTCHU</ttm:item>
+      <ttm:item type="spotify_id">0XWf8CRB6IptewumZDi5b6</ttm:item>
+      <itunes:duration>03:20.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.560" end="00:04.550" ttm:agent="v1">Thinkin' 'bout you, I keep thinkin' 'bout you</p>
+      <p begin="00:04.550" end="00:09.510" ttm:agent="v1">I keep sayin' I don't want you, but I think that I do</p>
+      <p begin="00:09.510" end="00:14.670" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh) thinkin' 'bout you, keep thinkin' 'bout you (I keep)</p>
+      <p begin="00:14.670" end="00:19.210" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh) I keep sayin' I don't want you, but I think that I do (oh, oh)</p>
+      <p begin="00:19.210" end="00:24.620" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh) thinkin' 'bout you, keep thinkin' 'bout you (I keep)</p>
+      <p begin="00:24.620" end="00:29.940" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh) I keep sayin' I don't want you, but I think that I do</p>
+      <p begin="00:29.940" end="00:32.840" ttm:agent="v1">Baby</p>
+      <p begin="00:32.840" end="00:37.710" ttm:agent="v1">Is it wrong if I still call you baby?</p>
+      <p begin="00:37.710" end="00:42.750" ttm:agent="v1">Can't seem to sleep without you lately</p>
+      <p begin="00:42.750" end="00:49.480" ttm:agent="v1">Even though we ended on a maybe</p>
+      <p begin="00:49.480" end="00:51.930" ttm:agent="v1">Your heart rate is beatin'</p>
+      <p begin="00:51.930" end="00:54.460" ttm:agent="v1">Your body heat, your breathin'</p>
+      <p begin="00:54.460" end="00:57.050" ttm:agent="v1">And I can't shake the feelin'</p>
+      <p begin="00:57.050" end="00:59.690" ttm:agent="v1">You feel it like I feel it</p>
+      <p begin="00:59.690" end="01:04.420" ttm:agent="v1">We don't gotta talk, I know what you mean</p>
+      <p begin="01:04.420" end="01:09.760" ttm:agent="v1">And I don't wanna stop 'cause, baby, every time you leave, I'm</p>
+      <p begin="01:09.760" end="01:14.270" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh) thinkin' 'bout you, I keep thinkin' 'bout you (I keep)</p>
+      <p begin="01:14.270" end="01:19.960" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh) I keep sayin' I don't want you, but I think that I do (oh, oh)</p>
+      <p begin="01:19.960" end="01:24.060" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh) thinkin' 'bout you, I keep thinkin' 'bout you (I keep)</p>
+      <p begin="01:24.060" end="01:29.500" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh) I keep sayin' I don't want you (I do, baby), but I think that I do</p>
+      <p begin="01:29.500" end="01:32.570" ttm:agent="v1">Same things</p>
+      <p begin="01:32.570" end="01:37.330" ttm:agent="v1">Who says that we can't do the same things?</p>
+      <p begin="01:37.330" end="01:42.400" ttm:agent="v1" itunes:key="role" itunes:value="background">And even if you never take me (even if you never take me)</p>
+      <p begin="01:42.400" end="01:48.270" ttm:agent="v1">You know I'll always be your baby, mm</p>
+      <p begin="01:48.270" end="01:49.770" ttm:agent="v1" itunes:key="role" itunes:value="background">(Show me what you got?)</p>
+      <p begin="01:49.450" end="01:51.820" ttm:agent="v1" itunes:key="role" itunes:value="background">Your heart rate (heart rate) is beatin' (beatin')</p>
+      <p begin="01:51.820" end="01:54.200" ttm:agent="v1">Your body heat, your breathin'</p>
+      <p begin="01:54.200" end="01:57.150" ttm:agent="v1" itunes:key="role" itunes:value="background">And I can't shake (can't shake) the feelin' (feelin')</p>
+      <p begin="01:57.150" end="01:58.910" ttm:agent="v1">You feel it like I feel it</p>
+      <p begin="01:58.910" end="02:04.270" ttm:agent="v1">We don't gotta talk, I know what you mean</p>
+      <p begin="02:04.270" end="02:09.210" ttm:agent="v1">And I don't wanna stop 'cause, baby, every time you leave, I'm</p>
+      <p begin="02:09.210" end="02:13.760" ttm:agent="v1">Thinkin' 'bout you, I keep thinkin' 'bout you</p>
+      <p begin="02:13.760" end="02:19.380" ttm:agent="v1">I keep sayin' I don't want you, but I think that I do</p>
+      <p begin="02:19.380" end="02:26.700" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh, oh)</p>
+      <p begin="02:26.700" end="02:28.770" ttm:agent="v1" itunes:key="role" itunes:value="background">(I want you, I want you, oh, oh)</p>
+      <p begin="02:28.770" end="02:36.600" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh, oh)</p>
+      <p begin="02:36.600" end="02:39.330" ttm:agent="v1" itunes:key="role" itunes:value="background">(I want you, I want you)</p>
+      <p begin="02:39.330" end="02:43.310" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh) thinkin' 'bout you, I keep thinkin' 'bout you (I keep)</p>
+      <p begin="02:43.310" end="02:49.210" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh) I keep sayin' I don't want you, but I think that I do (oh, oh)</p>
+      <p begin="02:49.210" end="02:53.780" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh) thinkin' 'bout you, I keep thinkin' 'bout you (I keep)</p>
+      <p begin="02:53.780" end="02:59.400" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh) I keep sayin' I don't want you, but I think that I do</p>
+      <p begin="02:59.400" end="03:03.550" ttm:agent="v1" itunes:key="role" itunes:value="background">Thinkin' 'bout you, keep thinkin' 'bout you (I keep)</p>
+      <p begin="03:03.550" end="03:08.950" ttm:agent="v1">I keep sayin' I don't want you, but I think that I do</p>
+      <p begin="03:08.950" end="03:11.950" ttm:agent="v1" itunes:key="role" itunes:value="background">Baby (thinkin' 'bout you, keep thinkin' 'bout you)</p>
+      <p begin="03:11.950" end="03:15.950" ttm:agent="v1" itunes:key="role" itunes:value="background">Is it wrong if I still call you baby? (Keep sayin' I don't want you)</p>
+      <p begin="03:15.950" end="03:18.980" ttm:agent="v1" itunes:key="role" itunes:value="background">(But I think that I do)</p>
+      <p begin="03:18.980" end="03:22.980" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>
