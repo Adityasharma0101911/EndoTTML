@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Help Me</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Løvesick</ttm:agent>
+      <ttm:item type="album">Sorry Doesn't Fix A Broken Heart</ttm:item>
+      <ttm:item type="spotify_id">77iKR5kRiqIi1PzxaI1Z5Q</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.960" end="00:04.110" ttm:agent="v1">
+        <span begin="00:00.960" end="00:01.920">Don't </span>
+        <span begin="00:01.920" end="00:02.310">be </span>
+        <span begin="00:02.310" end="00:04.110">afraid</span>
+      </p>
+      <p begin="00:04.110" end="00:08.430" ttm:agent="v1">
+        <span begin="00:04.110" end="00:04.560">We </span>
+        <span begin="00:04.560" end="00:04.680">’ </span>
+        <span begin="00:04.680" end="00:04.740">re </span>
+        <span begin="00:04.740" end="00:04.800">the </span>
+        <span begin="00:04.800" end="00:05.280">ones </span>
+        <span begin="00:05.280" end="00:05.670">who'll </span>
+        <span begin="00:05.670" end="00:06.180">help </span>
+        <span begin="00:06.180" end="00:06.540">you </span>
+        <span begin="00:06.540" end="00:07.110">find </span>
+        <span begin="00:07.110" end="00:07.320">the </span>
+        <span begin="00:07.320" end="00:08.430">way</span>
+      </p>
+      <p begin="00:08.430" end="00:11.520" ttm:agent="v1">
+        <span begin="00:08.430" end="00:09.360">So </span>
+        <span begin="00:09.360" end="00:09.810">much </span>
+        <span begin="00:09.810" end="00:09.960">to </span>
+        <span begin="00:09.960" end="00:11.520">say</span>
+      </p>
+      <p begin="00:11.550" end="00:18.840" ttm:agent="v1">
+        <span begin="00:11.550" end="00:12.060">But </span>
+        <span begin="00:12.060" end="00:12.510">don't </span>
+        <span begin="00:12.510" end="00:13.170">be </span>
+        <span begin="00:13.170" end="00:14.070">here </span>
+        <span begin="00:14.070" end="00:14.130">to </span>
+        <span begin="00:14.130" end="00:18.840">stay</span>
+      </p>
+      <p begin="00:36.600" end="00:37.740" ttm:agent="v1">
+        <span begin="00:36.600" end="00:36.780">I </span>
+        <span begin="00:36.780" end="00:36.990">woke </span>
+        <span begin="00:36.990" end="00:37.110">up </span>
+        <span begin="00:37.110" end="00:37.290">in </span>
+        <span begin="00:37.290" end="00:37.740">despair</span>
+      </p>
+      <p begin="00:37.770" end="00:38.820" ttm:agent="v1">
+        <span begin="00:37.770" end="00:37.890">I </span>
+        <span begin="00:37.890" end="00:38.130">look </span>
+        <span begin="00:38.130" end="00:38.400">ahead </span>
+        <span begin="00:38.400" end="00:38.400">, </span>
+        <span begin="00:38.400" end="00:38.820">beware</span>
+      </p>
+      <p begin="00:38.820" end="00:41.070" ttm:agent="v1">
+        <span begin="00:38.820" end="00:38.970">To </span>
+        <span begin="00:38.970" end="00:39.240">find </span>
+        <span begin="00:39.240" end="00:39.480">three </span>
+        <span begin="00:39.480" end="00:39.780">little </span>
+        <span begin="00:39.780" end="00:40.020">ghosts </span>
+        <span begin="00:40.020" end="00:40.080">in </span>
+        <span begin="00:40.080" end="00:40.290">front </span>
+        <span begin="00:40.290" end="00:40.350">of </span>
+        <span begin="00:40.350" end="00:40.530">me </span>
+        <span begin="00:40.530" end="00:40.530">, </span>
+        <span begin="00:40.530" end="00:40.560">I </span>
+        <span begin="00:40.560" end="00:40.620">’ </span>
+        <span begin="00:40.620" end="00:40.710">m </span>
+        <span begin="00:40.710" end="00:41.070">scared</span>
+      </p>
+      <p begin="00:41.070" end="00:43.170" ttm:agent="v1">
+        <span begin="00:41.070" end="00:41.160">I </span>
+        <span begin="00:41.160" end="00:41.370">look </span>
+        <span begin="00:41.370" end="00:41.640">around </span>
+        <span begin="00:41.640" end="00:41.700">to </span>
+        <span begin="00:41.700" end="00:41.880">see </span>
+        <span begin="00:41.880" end="00:42.030">if </span>
+        <span begin="00:42.030" end="00:42.540">anyone </span>
+        <span begin="00:42.540" end="00:42.780">else </span>
+        <span begin="00:42.780" end="00:42.960">can </span>
+        <span begin="00:42.960" end="00:43.170">see</span>
+      </p>
+      <p begin="00:43.170" end="00:44.310" ttm:agent="v1">
+        <span begin="00:43.170" end="00:43.350">But </span>
+        <span begin="00:43.350" end="00:43.500">no </span>
+        <span begin="00:43.500" end="00:43.650">one </span>
+        <span begin="00:43.650" end="00:43.890">hears </span>
+        <span begin="00:43.890" end="00:44.040">my </span>
+        <span begin="00:44.040" end="00:44.310">pleas</span>
+      </p>
+      <p begin="00:44.340" end="00:45.390" ttm:agent="v1">
+        <span begin="00:44.340" end="00:44.460">Or </span>
+        <span begin="00:44.460" end="00:44.670">cares </span>
+        <span begin="00:44.670" end="00:44.760">to </span>
+        <span begin="00:44.760" end="00:44.910">hear </span>
+        <span begin="00:44.910" end="00:45.060">me </span>
+        <span begin="00:45.060" end="00:45.390">scream</span>
+      </p>
+      <p begin="00:45.420" end="00:46.500" ttm:agent="v1">
+        <span begin="00:45.420" end="00:45.540">I </span>
+        <span begin="00:45.540" end="00:45.690">doubt </span>
+        <span begin="00:45.690" end="00:45.810">that </span>
+        <span begin="00:45.810" end="00:46.170">people </span>
+        <span begin="00:46.170" end="00:46.500">care</span>
+      </p>
+      <p begin="00:46.500" end="00:47.610" ttm:agent="v1">
+        <span begin="00:46.500" end="00:46.800">Alone </span>
+        <span begin="00:46.800" end="00:46.890">and </span>
+        <span begin="00:46.890" end="00:47.160">so </span>
+        <span begin="00:47.160" end="00:47.610">aware</span>
+      </p>
+      <p begin="00:47.610" end="00:48.420" ttm:agent="v1">
+        <span begin="00:47.610" end="00:47.730">And </span>
+        <span begin="00:47.730" end="00:47.940">now </span>
+        <span begin="00:47.940" end="00:48.120">by </span>
+        <span begin="00:48.120" end="00:48.420">myself</span>
+      </p>
+      <p begin="00:48.420" end="00:49.740" ttm:agent="v1">
+        <span begin="00:48.420" end="00:48.552">I </span>
+        <span begin="00:48.552" end="00:48.684">’ </span>
+        <span begin="00:48.684" end="00:48.816">m </span>
+        <span begin="00:48.816" end="00:48.948">left </span>
+        <span begin="00:48.948" end="00:49.080">with </span>
+        <span begin="00:49.080" end="00:49.212">all </span>
+        <span begin="00:49.212" end="00:49.344">this </span>
+        <span begin="00:49.344" end="00:49.476">pain </span>
+        <span begin="00:49.476" end="00:49.608">to </span>
+        <span begin="00:49.608" end="00:49.740">bear</span>
+      </p>
+      <p begin="00:49.740" end="00:51.930" ttm:agent="v1">
+        <span begin="00:49.740" end="00:49.890">With </span>
+        <span begin="00:49.890" end="00:50.160">shivers </span>
+        <span begin="00:50.160" end="00:50.430">going </span>
+        <span begin="00:50.430" end="00:50.610">down </span>
+        <span begin="00:50.610" end="00:50.670">my </span>
+        <span begin="00:50.670" end="00:50.910">spine </span>
+        <span begin="00:50.910" end="00:51.000">and </span>
+        <span begin="00:51.000" end="00:51.240">ghosts  </span>
+        <span begin="00:51.240" end="00:51.450">long </span>
+        <span begin="00:51.450" end="00:51.660">gone </span>
+        <span begin="00:51.660" end="00:51.930">dead</span>
+      </p>
+      <p begin="00:51.930" end="00:54.480" ttm:agent="v1">
+        <span begin="00:51.930" end="00:52.080">But </span>
+        <span begin="00:52.080" end="00:52.320">then </span>
+        <span begin="00:52.320" end="00:52.680">this </span>
+        <span begin="00:52.680" end="00:52.920">is </span>
+        <span begin="00:52.920" end="00:53.070">what </span>
+        <span begin="00:53.070" end="00:53.250">they </span>
+        <span begin="00:53.250" end="00:54.480">said</span>
+      </p>
+      <p begin="00:54.480" end="00:56.310" ttm:agent="v1">
+        <span begin="00:54.480" end="00:55.050">Don't </span>
+        <span begin="00:55.050" end="00:55.350">be </span>
+        <span begin="00:55.350" end="00:56.310">afraid</span>
+      </p>
+      <p begin="00:56.340" end="00:58.890" ttm:agent="v1">
+        <span begin="00:56.340" end="00:56.460">We </span>
+        <span begin="00:56.460" end="00:56.490">’ </span>
+        <span begin="00:56.490" end="00:56.580">re </span>
+        <span begin="00:56.580" end="00:56.730">the </span>
+        <span begin="00:56.730" end="00:57.030">ones </span>
+        <span begin="00:57.030" end="00:57.240">who'll </span>
+        <span begin="00:57.240" end="00:57.570">help </span>
+        <span begin="00:57.570" end="00:57.780">you </span>
+        <span begin="00:57.780" end="00:58.140">find </span>
+        <span begin="00:58.140" end="00:58.230">the </span>
+        <span begin="00:58.230" end="00:58.890">way</span>
+      </p>
+      <p begin="00:58.890" end="01:00.630" ttm:agent="v1">
+        <span begin="00:58.890" end="00:59.430">So </span>
+        <span begin="00:59.430" end="00:59.760">much </span>
+        <span begin="00:59.760" end="00:59.850">to </span>
+        <span begin="00:59.850" end="01:00.630">say</span>
+      </p>
+      <p begin="01:00.750" end="01:03.240" ttm:agent="v1">
+        <span begin="01:00.750" end="01:01.050">But </span>
+        <span begin="01:01.050" end="01:01.350">don't </span>
+        <span begin="01:01.350" end="01:01.620">be </span>
+        <span begin="01:01.620" end="01:01.950">here </span>
+        <span begin="01:01.950" end="01:02.070">to </span>
+        <span begin="01:02.070" end="01:03.240">stay</span>
+      </p>
+      <p begin="01:03.240" end="01:03.810" ttm:agent="v1">
+        <span begin="01:03.240" end="01:03.525">Help </span>
+        <span begin="01:03.525" end="01:03.810">me</span>
+      </p>
+      <p begin="01:04.200" end="01:06.420" ttm:agent="v1">
+        <span begin="01:04.200" end="01:04.800">Someone </span>
+        <span begin="01:04.800" end="01:05.040">please </span>
+        <span begin="01:05.040" end="01:05.310">come </span>
+        <span begin="01:05.310" end="01:05.430">and </span>
+        <span begin="01:05.430" end="01:05.970">help </span>
+        <span begin="01:05.970" end="01:06.420">me</span>
+      </p>
+      <p begin="01:06.420" end="01:08.610" ttm:agent="v1">
+        <span begin="01:06.420" end="01:06.720">Need </span>
+        <span begin="01:06.720" end="01:07.440">somebody </span>
+        <span begin="01:07.440" end="01:07.560">to </span>
+        <span begin="01:07.560" end="01:08.190">tell </span>
+        <span begin="01:08.190" end="01:08.610">me</span>
+      </p>
+      <p begin="01:08.610" end="01:09.450" ttm:agent="v1">
+        <span begin="01:08.610" end="01:09.030">Please </span>
+        <span begin="01:09.030" end="01:09.030">, </span>
+        <span begin="01:09.030" end="01:09.450">please</span>
+      </p>
+      <p begin="01:09.450" end="01:11.340" ttm:agent="v1">
+        <span begin="01:09.450" end="01:09.660">What </span>
+        <span begin="01:09.660" end="01:09.750">the </span>
+        <span begin="01:09.750" end="01:10.080">hell </span>
+        <span begin="01:10.080" end="01:10.320">is </span>
+        <span begin="01:10.320" end="01:10.770">going </span>
+        <span begin="01:10.770" end="01:11.340">on</span>
+      </p>
+      <p begin="01:11.970" end="01:13.110" ttm:agent="v1">
+        <span begin="01:11.970" end="01:13.110">Crazy</span>
+      </p>
+      <p begin="01:13.110" end="01:15.180" ttm:agent="v1">
+        <span begin="01:13.110" end="01:13.290">I </span>
+        <span begin="01:13.290" end="01:13.590">might </span>
+        <span begin="01:13.590" end="01:13.770">be </span>
+        <span begin="01:13.770" end="01:14.160">going </span>
+        <span begin="01:14.160" end="01:15.180">crazy</span>
+      </p>
+      <p begin="01:15.180" end="01:17.340" ttm:agent="v1">
+        <span begin="01:15.180" end="01:15.510">Need </span>
+        <span begin="01:15.510" end="01:16.020">someone </span>
+        <span begin="01:16.020" end="01:16.260">here </span>
+        <span begin="01:16.260" end="01:16.350">to </span>
+        <span begin="01:16.350" end="01:16.920">tell </span>
+        <span begin="01:16.920" end="01:17.340">me</span>
+      </p>
+      <p begin="01:17.340" end="01:18.240" ttm:agent="v1">
+        <span begin="01:17.340" end="01:17.820">Please </span>
+        <span begin="01:17.820" end="01:17.820">, </span>
+        <span begin="01:17.820" end="01:18.240">please</span>
+      </p>
+      <p begin="01:18.240" end="01:28.890" ttm:agent="v1">
+        <span begin="01:18.240" end="01:18.480">How </span>
+        <span begin="01:18.480" end="01:18.810">do </span>
+        <span begin="01:18.810" end="01:19.050">I </span>
+        <span begin="01:19.050" end="01:19.350">get </span>
+        <span begin="01:19.350" end="01:21.030">along </span>
+        <span begin="01:21.030" end="01:28.890">?</span>
+      </p>
+      <p begin="01:28.890" end="01:30.210" ttm:agent="v1">
+        <span begin="01:28.890" end="01:29.100">You </span>
+        <span begin="01:29.100" end="01:29.130">’ </span>
+        <span begin="01:29.130" end="01:29.190">re </span>
+        <span begin="01:29.190" end="01:29.460">nothing </span>
+        <span begin="01:29.460" end="01:29.730">but </span>
+        <span begin="01:29.730" end="01:29.820">a </span>
+        <span begin="01:29.820" end="01:30.210">waste</span>
+      </p>
+      <p begin="01:30.210" end="01:31.200" ttm:agent="v1">
+        <span begin="01:30.210" end="01:30.330">You </span>
+        <span begin="01:30.330" end="01:30.570">should </span>
+        <span begin="01:30.570" end="01:30.720">know </span>
+        <span begin="01:30.720" end="01:30.900">your </span>
+        <span begin="01:30.900" end="01:31.200">place</span>
+      </p>
+      <p begin="01:31.200" end="01:32.370" ttm:agent="v1">
+        <span begin="01:31.200" end="01:31.380">Just </span>
+        <span begin="01:31.380" end="01:31.500">like </span>
+        <span begin="01:31.500" end="01:31.620">those </span>
+        <span begin="01:31.620" end="01:31.920">demons </span>
+        <span begin="01:31.920" end="01:32.010">in </span>
+        <span begin="01:32.010" end="01:32.160">my </span>
+        <span begin="01:32.160" end="01:32.370">head</span>
+      </p>
+      <p begin="01:32.370" end="01:33.420" ttm:agent="v1">
+        <span begin="01:32.370" end="01:32.430">It </span>
+        <span begin="01:32.430" end="01:32.730">fills </span>
+        <span begin="01:32.730" end="01:32.880">up </span>
+        <span begin="01:32.880" end="01:33.090">my </span>
+        <span begin="01:33.090" end="01:33.420">brain</span>
+      </p>
+      <p begin="01:33.420" end="01:35.610" ttm:agent="v1">
+        <span begin="01:33.420" end="01:33.570">All </span>
+        <span begin="01:33.570" end="01:33.690">I </span>
+        <span begin="01:33.690" end="01:33.810">am </span>
+        <span begin="01:33.810" end="01:34.050">doing </span>
+        <span begin="01:34.050" end="01:34.230">here </span>
+        <span begin="01:34.230" end="01:34.320">is </span>
+        <span begin="01:34.320" end="01:34.650">begging </span>
+        <span begin="01:34.650" end="01:34.770">as </span>
+        <span begin="01:34.770" end="01:34.800">I </span>
+        <span begin="01:34.800" end="01:34.830">’ </span>
+        <span begin="01:34.830" end="01:34.890">m </span>
+        <span begin="01:34.890" end="01:35.160">trying </span>
+        <span begin="01:35.160" end="01:35.310">my </span>
+        <span begin="01:35.310" end="01:35.610">best</span>
+      </p>
+      <p begin="01:35.610" end="01:36.660" ttm:agent="v1">
+        <span begin="01:35.610" end="01:35.760">But </span>
+        <span begin="01:35.760" end="01:35.850">it </span>
+        <span begin="01:35.850" end="01:36.300">becomes </span>
+        <span begin="01:36.300" end="01:36.390">a </span>
+        <span begin="01:36.390" end="01:36.660">mess</span>
+      </p>
+      <p begin="01:36.660" end="01:37.770" ttm:agent="v1">
+        <span begin="01:36.660" end="01:36.750">The </span>
+        <span begin="01:36.750" end="01:37.080">fire </span>
+        <span begin="01:37.080" end="01:37.290">in </span>
+        <span begin="01:37.290" end="01:37.470">my </span>
+        <span begin="01:37.470" end="01:37.770">head</span>
+      </p>
+      <p begin="01:37.770" end="01:38.790" ttm:agent="v1">
+        <span begin="01:37.770" end="01:37.974">It </span>
+        <span begin="01:37.974" end="01:38.178">’ </span>
+        <span begin="01:38.178" end="01:38.382">s </span>
+        <span begin="01:38.382" end="01:38.586">overwhelming </span>
+        <span begin="01:38.586" end="01:38.790">me</span>
+      </p>
+      <p begin="01:38.820" end="01:39.900" ttm:agent="v1">
+        <span begin="01:38.820" end="01:38.970">But </span>
+        <span begin="01:38.970" end="01:39.150">then </span>
+        <span begin="01:39.150" end="01:39.240">I </span>
+        <span begin="01:39.240" end="01:39.660">cannot </span>
+        <span begin="01:39.660" end="01:39.900">flee</span>
+      </p>
+      <p begin="01:39.900" end="01:42.120" ttm:agent="v1">
+        <span begin="01:39.900" end="01:39.930">I </span>
+        <span begin="01:39.930" end="01:39.960">’ </span>
+        <span begin="01:39.960" end="01:40.050">m </span>
+        <span begin="01:40.050" end="01:40.260">stuck </span>
+        <span begin="01:40.260" end="01:40.410">here </span>
+        <span begin="01:40.410" end="01:40.560">all </span>
+        <span begin="01:40.560" end="01:40.740">by </span>
+        <span begin="01:40.740" end="01:41.100">myself </span>
+        <span begin="01:41.100" end="01:41.100">, </span>
+        <span begin="01:41.100" end="01:41.370">alone </span>
+        <span begin="01:41.370" end="01:41.670">again </span>
+        <span begin="01:41.670" end="01:41.790">it </span>
+        <span begin="01:41.790" end="01:42.120">seems</span>
+      </p>
+      <p begin="01:42.120" end="01:44.310" ttm:agent="v1">
+        <span begin="01:42.120" end="01:42.270">With </span>
+        <span begin="01:42.270" end="01:42.390">all </span>
+        <span begin="01:42.390" end="01:42.540">this </span>
+        <span begin="01:42.540" end="01:42.720">pain </span>
+        <span begin="01:42.720" end="01:42.990">inside </span>
+        <span begin="01:42.990" end="01:43.080">my </span>
+        <span begin="01:43.080" end="01:43.260">head </span>
+        <span begin="01:43.260" end="01:43.350">and </span>
+        <span begin="01:43.350" end="01:43.620">ghosts </span>
+        <span begin="01:43.620" end="01:43.800">long </span>
+        <span begin="01:43.800" end="01:44.040">gone </span>
+        <span begin="01:44.040" end="01:44.310">dead</span>
+      </p>
+      <p begin="01:44.310" end="01:46.860" ttm:agent="v1">
+        <span begin="01:44.310" end="01:44.430">But </span>
+        <span begin="01:44.430" end="01:44.670">then </span>
+        <span begin="01:44.670" end="01:45.060">this </span>
+        <span begin="01:45.060" end="01:45.270">is </span>
+        <span begin="01:45.270" end="01:45.450">what </span>
+        <span begin="01:45.450" end="01:45.600">they </span>
+        <span begin="01:45.600" end="01:46.860">said</span>
+      </p>
+      <p begin="01:46.860" end="01:48.720" ttm:agent="v1">
+        <span begin="01:46.860" end="01:47.400">Don't </span>
+        <span begin="01:47.400" end="01:47.670">be </span>
+        <span begin="01:47.670" end="01:48.720">afraid</span>
+      </p>
+      <p begin="01:48.720" end="01:51.240" ttm:agent="v1">
+        <span begin="01:48.720" end="01:48.870">We </span>
+        <span begin="01:48.870" end="01:48.900">’ </span>
+        <span begin="01:48.900" end="01:48.960">re </span>
+        <span begin="01:48.960" end="01:49.080">the </span>
+        <span begin="01:49.080" end="01:49.410">ones </span>
+        <span begin="01:49.410" end="01:49.590">who'll </span>
+        <span begin="01:49.590" end="01:49.920">help </span>
+        <span begin="01:49.920" end="01:50.100">you </span>
+        <span begin="01:50.100" end="01:50.490">find </span>
+        <span begin="01:50.490" end="01:50.610">the </span>
+        <span begin="01:50.610" end="01:51.240">way</span>
+      </p>
+      <p begin="01:51.240" end="01:52.950" ttm:agent="v1">
+        <span begin="01:51.240" end="01:51.780">So </span>
+        <span begin="01:51.780" end="01:52.110">much </span>
+        <span begin="01:52.110" end="01:52.230">to </span>
+        <span begin="01:52.230" end="01:52.950">say</span>
+      </p>
+      <p begin="01:53.130" end="01:54.960" ttm:agent="v1">
+        <span begin="01:53.130" end="01:53.400">But </span>
+        <span begin="01:53.400" end="01:53.700">don't </span>
+        <span begin="01:53.700" end="01:54.000">be </span>
+        <span begin="01:54.000" end="01:54.300">here </span>
+        <span begin="01:54.300" end="01:54.420">to </span>
+        <span begin="01:54.420" end="01:54.960">stay</span>
+      </p>
+      <p begin="01:54.960" end="01:56.580" ttm:agent="v1">
+        <span begin="01:54.960" end="01:56.130">Help </span>
+        <span begin="01:56.130" end="01:56.580">me</span>
+      </p>
+      <p begin="01:56.580" end="01:58.590" ttm:agent="v1">
+        <span begin="01:56.580" end="01:57.180">Someone </span>
+        <span begin="01:57.180" end="01:57.420">please </span>
+        <span begin="01:57.420" end="01:57.690">come </span>
+        <span begin="01:57.690" end="01:57.810">and </span>
+        <span begin="01:57.810" end="01:58.350">help </span>
+        <span begin="01:58.350" end="01:58.590">me</span>
+      </p>
+      <p begin="01:58.800" end="02:00.990" ttm:agent="v1">
+        <span begin="01:58.800" end="01:59.100">Need </span>
+        <span begin="01:59.100" end="01:59.820">somebody </span>
+        <span begin="01:59.820" end="01:59.940">to </span>
+        <span begin="01:59.940" end="02:00.540">tell </span>
+        <span begin="02:00.540" end="02:00.990">me</span>
+      </p>
+      <p begin="02:00.990" end="02:01.830" ttm:agent="v1">
+        <span begin="02:00.990" end="02:01.470">Please </span>
+        <span begin="02:01.470" end="02:01.470">, </span>
+        <span begin="02:01.470" end="02:01.830">please</span>
+      </p>
+      <p begin="02:01.830" end="02:04.320" ttm:agent="v1">
+        <span begin="02:01.830" end="02:02.040">What </span>
+        <span begin="02:02.040" end="02:02.130">the </span>
+        <span begin="02:02.130" end="02:02.460">hell </span>
+        <span begin="02:02.460" end="02:02.730">is </span>
+        <span begin="02:02.730" end="02:03.150">going </span>
+        <span begin="02:03.150" end="02:04.320">on</span>
+      </p>
+      <p begin="02:04.320" end="02:05.460" ttm:agent="v1">
+        <span begin="02:04.320" end="02:05.460">Crazy</span>
+      </p>
+      <p begin="02:05.460" end="02:07.560" ttm:agent="v1">
+        <span begin="02:05.460" end="02:05.640">I </span>
+        <span begin="02:05.640" end="02:05.940">might </span>
+        <span begin="02:05.940" end="02:06.120">be </span>
+        <span begin="02:06.120" end="02:06.510">going </span>
+        <span begin="02:06.510" end="02:07.560">crazy</span>
+      </p>
+      <p begin="02:07.560" end="02:09.690" ttm:agent="v1">
+        <span begin="02:07.560" end="02:07.860">Need </span>
+        <span begin="02:07.860" end="02:08.370">someone </span>
+        <span begin="02:08.370" end="02:08.580">here </span>
+        <span begin="02:08.580" end="02:08.700">to </span>
+        <span begin="02:08.700" end="02:09.270">tell </span>
+        <span begin="02:09.270" end="02:09.690">me</span>
+      </p>
+      <p begin="02:09.690" end="02:10.560" ttm:agent="v1">
+        <span begin="02:09.690" end="02:10.170">Please </span>
+        <span begin="02:10.170" end="02:10.170">, </span>
+        <span begin="02:10.170" end="02:10.560">please</span>
+      </p>
+      <p begin="02:10.560" end="02:39.240" ttm:agent="v1">
+        <span begin="02:10.560" end="02:10.830">How </span>
+        <span begin="02:10.830" end="02:11.160">do </span>
+        <span begin="02:11.160" end="02:11.400">I </span>
+        <span begin="02:11.400" end="02:11.670">get </span>
+        <span begin="02:11.670" end="02:13.380">along </span>
+        <span begin="02:13.380" end="02:39.240">?</span>
+      </p>
+      <p begin="02:39.240" end="02:41.010" ttm:agent="v1">
+        <span begin="02:39.240" end="02:39.780">Don't </span>
+        <span begin="02:39.780" end="02:40.050">be </span>
+        <span begin="02:40.050" end="02:41.010">afraid</span>
+      </p>
+      <p begin="02:41.040" end="02:43.590" ttm:agent="v1">
+        <span begin="02:41.040" end="02:41.220">We </span>
+        <span begin="02:41.220" end="02:41.250">’ </span>
+        <span begin="02:41.250" end="02:41.310">re </span>
+        <span begin="02:41.310" end="02:41.430">the </span>
+        <span begin="02:41.430" end="02:41.760">ones </span>
+        <span begin="02:41.760" end="02:41.970">who'll </span>
+        <span begin="02:41.970" end="02:42.300">help </span>
+        <span begin="02:42.300" end="02:42.480">you </span>
+        <span begin="02:42.480" end="02:42.840">find </span>
+        <span begin="02:42.840" end="02:42.960">the </span>
+        <span begin="02:42.960" end="02:43.590">way</span>
+      </p>
+      <p begin="02:43.590" end="02:45.360" ttm:agent="v1">
+        <span begin="02:43.590" end="02:44.130">So </span>
+        <span begin="02:44.130" end="02:44.460">much </span>
+        <span begin="02:44.460" end="02:44.580">to </span>
+        <span begin="02:44.580" end="02:45.360">say</span>
+      </p>
+      <p begin="02:45.450" end="02:47.910" ttm:agent="v1">
+        <span begin="02:45.450" end="02:45.780">But </span>
+        <span begin="02:45.780" end="02:46.050">don't </span>
+        <span begin="02:46.050" end="02:46.350">be </span>
+        <span begin="02:46.350" end="02:46.680">here </span>
+        <span begin="02:46.680" end="02:46.770">to </span>
+        <span begin="02:46.770" end="02:47.910">stay</span>
+      </p>
+      <p begin="02:47.910" end="02:48.960" ttm:agent="v1">
+        <span begin="02:47.910" end="02:48.540">Save </span>
+        <span begin="02:48.540" end="02:48.960">me</span>
+      </p>
+      <p begin="02:48.960" end="02:51.180" ttm:agent="v1">
+        <span begin="02:48.960" end="02:49.560">Someone </span>
+        <span begin="02:49.560" end="02:49.830">please </span>
+        <span begin="02:49.830" end="02:50.040">come </span>
+        <span begin="02:50.040" end="02:50.160">and </span>
+        <span begin="02:50.160" end="02:50.730">save </span>
+        <span begin="02:50.730" end="02:51.180">me</span>
+      </p>
+      <p begin="02:51.180" end="02:53.340" ttm:agent="v1">
+        <span begin="02:51.180" end="02:51.450">Need </span>
+        <span begin="02:51.450" end="02:52.170">somebody </span>
+        <span begin="02:52.170" end="02:52.290">to </span>
+        <span begin="02:52.290" end="02:52.890">tell </span>
+        <span begin="02:52.890" end="02:53.340">me</span>
+      </p>
+      <p begin="02:53.340" end="02:54.210" ttm:agent="v1">
+        <span begin="02:53.340" end="02:53.820">Please </span>
+        <span begin="02:53.820" end="02:53.820">, </span>
+        <span begin="02:53.820" end="02:54.210">please</span>
+      </p>
+      <p begin="02:54.210" end="02:56.700" ttm:agent="v1">
+        <span begin="02:54.210" end="02:54.480">Just </span>
+        <span begin="02:54.480" end="02:54.750">how </span>
+        <span begin="02:54.750" end="02:55.020">to </span>
+        <span begin="02:55.020" end="02:55.530">move </span>
+        <span begin="02:55.530" end="02:56.700">on</span>
+      </p>
+      <p begin="02:56.700" end="02:59.490" ttm:agent="v1">
+        <span begin="02:56.700" end="02:57.840">Crazy </span>
+        <span begin="02:57.840" end="02:58.020">I </span>
+        <span begin="02:58.020" end="02:58.320">might </span>
+        <span begin="02:58.320" end="02:58.500">be </span>
+        <span begin="02:58.500" end="02:58.890">going </span>
+        <span begin="02:58.890" end="02:59.490">crazy</span>
+      </p>
+      <p begin="02:59.490" end="03:02.040" ttm:agent="v1">
+        <span begin="02:59.490" end="03:00.210">Need </span>
+        <span begin="03:00.210" end="03:00.720">someone </span>
+        <span begin="03:00.720" end="03:00.960">here </span>
+        <span begin="03:00.960" end="03:01.050">to </span>
+        <span begin="03:01.050" end="03:01.620">tell </span>
+        <span begin="03:01.620" end="03:02.040">me</span>
+      </p>
+      <p begin="03:02.040" end="03:02.940" ttm:agent="v1">
+        <span begin="03:02.040" end="03:02.550">Please </span>
+        <span begin="03:02.550" end="03:02.550">, </span>
+        <span begin="03:02.550" end="03:02.940">please</span>
+      </p>
+      <p begin="03:02.940" end="03:32.930" ttm:agent="v1">
+        <span begin="03:02.940" end="03:03.210">How </span>
+        <span begin="03:03.210" end="03:03.510">do </span>
+        <span begin="03:03.510" end="03:03.780">I </span>
+        <span begin="03:03.780" end="03:04.050">get </span>
+        <span begin="03:04.050" end="03:07.380">along </span>
+        <span begin="03:07.380" end="03:32.930">?</span>
+      </p>
+    </div>
+  </body>
+</tt>

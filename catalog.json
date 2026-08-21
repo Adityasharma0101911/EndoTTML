@@ -7,13 +7,13 @@
     "completed": 1816,
     "failed": 9,
     "pending": 7,
-    "syllable_synced": 875,
-    "line_synced": 880,
-    "plain": 61,
+    "syllable_synced": 896,
+    "line_synced": 860,
+    "plain": 60,
     "providers": {
-      "LRCLIB": 820,
-      "NetEase": 942,
-      "SyncedLyrics": 54
+      "LRCLIB": 800,
+      "NetEase": 963,
+      "SyncedLyrics": 53
     }
   },
   "tracks": [
@@ -15700,12 +15700,12 @@
       "artist": "lilbubblegum",
       "album": "lose it",
       "duration_seconds": null,
-      "file_path": "database\\plain\\lilbubblegum\\lose it.ttml",
-      "sync_type": "plain",
-      "provider": "SyncedLyrics",
-      "line_count": 0,
-      "word_count": 0,
-      "rel_path": "database/plain/lilbubblegum/lose it.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\lilbubblegum\\lose it.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 75,
+      "word_count": 464,
+      "rel_path": "database/syllable/lilbubblegum/lose it.ttml"
     },
     {
       "id": 1052,
@@ -15760,12 +15760,12 @@
       "artist": "Takayoshi",
       "album": "unconditionally",
       "duration_seconds": null,
-      "file_path": "database\\line\\Takayoshi\\unconditionally.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 24,
-      "word_count": 144,
-      "rel_path": "database/line/Takayoshi/unconditionally.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Takayoshi\\unconditionally.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 36,
+      "word_count": 218,
+      "rel_path": "database/syllable/Takayoshi/unconditionally.ttml"
     },
     {
       "id": 1056,
@@ -15940,12 +15940,12 @@
       "artist": "Nafeesisboujee",
       "album": "dream girl",
       "duration_seconds": null,
-      "file_path": "database\\line\\Nafeesisboujee\\dream girl.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 22,
-      "word_count": 145,
-      "rel_path": "database/line/Nafeesisboujee/dream girl.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Nafeesisboujee\\dream girl.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 52,
+      "word_count": 397,
+      "rel_path": "database/syllable/Nafeesisboujee/dream girl.ttml"
     },
     {
       "id": 1069,
@@ -16945,12 +16945,12 @@
       "artist": "LE SSERAFIM",
       "album": "DIFFERENT",
       "duration_seconds": null,
-      "file_path": "database\\line\\LE SSERAFIM\\DIFFERENT.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 39,
-      "word_count": 142,
-      "rel_path": "database/line/LE SSERAFIM/DIFFERENT.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\LE SSERAFIM\\DIFFERENT.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 63,
+      "word_count": 280,
+      "rel_path": "database/syllable/LE SSERAFIM/DIFFERENT.ttml"
     },
     {
       "id": 1137,
@@ -17125,12 +17125,12 @@
       "artist": "Tory Lanez",
       "album": "Alone At Prom",
       "duration_seconds": null,
-      "file_path": "database\\line\\Tory Lanez\\The Color Violet.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 38,
-      "word_count": 325,
-      "rel_path": "database/line/Tory Lanez/The Color Violet.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Tory Lanez\\The Color Violet.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 36,
+      "word_count": 397,
+      "rel_path": "database/syllable/Tory Lanez/The Color Violet.ttml"
     },
     {
       "id": 1149,
@@ -17425,12 +17425,12 @@
       "artist": "Softwilly, do not resurrect, Chills, Isaacwhy",
       "album": "KAIJU",
       "duration_seconds": null,
-      "file_path": "database\\line\\Softwilly\\KAIJU.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 59,
-      "word_count": 457,
-      "rel_path": "database/line/Softwilly/KAIJU.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Softwilly\\KAIJU.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 83,
+      "word_count": 507,
+      "rel_path": "database/syllable/Softwilly/KAIJU.ttml"
     },
     {
       "id": 1169,
@@ -17890,12 +17890,12 @@
       "artist": "The Weeknd",
       "album": "Trilogy",
       "duration_seconds": null,
-      "file_path": "database\\line\\The Weeknd\\The Party & The After Party.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 101,
-      "word_count": 734,
-      "rel_path": "database/line/The Weeknd/The Party & The After Party.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\The Weeknd\\The Party & The After Party.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 104,
+      "word_count": 795,
+      "rel_path": "database/syllable/The Weeknd/The Party & The After Party.ttml"
     },
     {
       "id": 1202,
@@ -18205,12 +18205,12 @@
       "artist": "The Weeknd",
       "album": "Trilogy",
       "duration_seconds": null,
-      "file_path": "database\\line\\The Weeknd\\Outside.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 59,
-      "word_count": 333,
-      "rel_path": "database/line/The Weeknd/Outside.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\The Weeknd\\Outside.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 51,
+      "word_count": 318,
+      "rel_path": "database/syllable/The Weeknd/Outside.ttml"
     },
     {
       "id": 1223,
@@ -18535,12 +18535,12 @@
       "artist": "The Weeknd",
       "album": "Hurry Up Tomorrow",
       "duration_seconds": null,
-      "file_path": "database\\line\\The Weeknd\\Drive.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 35,
-      "word_count": 288,
-      "rel_path": "database/line/The Weeknd/Drive.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\The Weeknd\\Drive.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 49,
+      "word_count": 410,
+      "rel_path": "database/syllable/The Weeknd/Drive.ttml"
     },
     {
       "id": 1245,
@@ -19195,12 +19195,12 @@
       "artist": "The Weeknd",
       "album": "My Dear Melancholy,",
       "duration_seconds": null,
-      "file_path": "database\\line\\The Weeknd\\Call Out My Name - A Cappella.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 39,
-      "word_count": 351,
-      "rel_path": "database/line/The Weeknd/Call Out My Name - A Cappella.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\The Weeknd\\Call Out My Name - A Cappella.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 48,
+      "word_count": 373,
+      "rel_path": "database/syllable/The Weeknd/Call Out My Name - A Cappella.ttml"
     },
     {
       "id": 1289,
@@ -19435,12 +19435,12 @@
       "artist": "Løvesick",
       "album": "100mph",
       "duration_seconds": null,
-      "file_path": "database\\line\\Løvesick\\100mph.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 65,
-      "word_count": 586,
-      "rel_path": "database/line/Løvesick/100mph.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Løvesick\\100mph.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 33,
+      "word_count": 220,
+      "rel_path": "database/syllable/Løvesick/100mph.ttml"
     },
     {
       "id": 1305,
@@ -19465,12 +19465,12 @@
       "artist": "Løvesick",
       "album": "Sorry Doesn't Fix A Broken Heart",
       "duration_seconds": null,
-      "file_path": "database\\line\\Løvesick\\Meant For Me.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 22,
-      "word_count": 136,
-      "rel_path": "database/line/Løvesick/Meant For Me.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Løvesick\\Meant For Me.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 53,
+      "word_count": 318,
+      "rel_path": "database/syllable/Løvesick/Meant For Me.ttml"
     },
     {
       "id": 1307,
@@ -19480,12 +19480,12 @@
       "artist": "Løvesick",
       "album": "Sorry Doesn't Fix A Broken Heart",
       "duration_seconds": null,
-      "file_path": "database\\line\\Løvesick\\Help Me.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 28,
-      "word_count": 180,
-      "rel_path": "database/line/Løvesick/Help Me.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Løvesick\\Help Me.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 69,
+      "word_count": 401,
+      "rel_path": "database/syllable/Løvesick/Help Me.ttml"
     },
     {
       "id": 1308,
@@ -20005,12 +20005,12 @@
       "artist": "NAV",
       "album": "NAV",
       "duration_seconds": null,
-      "file_path": "database\\line\\NAV\\Myself.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 57,
-      "word_count": 603,
-      "rel_path": "database/line/NAV/Myself.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\NAV\\Myself.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 46,
+      "word_count": 260,
+      "rel_path": "database/syllable/NAV/Myself.ttml"
     },
     {
       "id": 1343,
@@ -20140,12 +20140,12 @@
       "artist": "Harry Chapin",
       "album": "Verities & Balderdash",
       "duration_seconds": null,
-      "file_path": "database\\line\\Harry Chapin\\Cat's in the Cradle.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 60,
-      "word_count": 438,
-      "rel_path": "database/line/Harry Chapin/Cat's in the Cradle.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Harry Chapin\\Cat's in the Cradle.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 50,
+      "word_count": 494,
+      "rel_path": "database/syllable/Harry Chapin/Cat's in the Cradle.ttml"
     },
     {
       "id": 1352,
@@ -20260,12 +20260,12 @@
       "artist": "K/DA, Madison Beer, Kim Petras, League of Legends",
       "album": "ALL OUT",
       "duration_seconds": null,
-      "file_path": "database\\line\\K DA\\VILLAIN.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 60,
-      "word_count": 456,
-      "rel_path": "database/line/K DA/VILLAIN.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\K DA\\VILLAIN.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 71,
+      "word_count": 490,
+      "rel_path": "database/syllable/K DA/VILLAIN.ttml"
     },
     {
       "id": 1360,
@@ -20410,12 +20410,12 @@
       "artist": "8percent, Savage Ga$p",
       "album": "summer days",
       "duration_seconds": null,
-      "file_path": "database\\line\\8percent\\summer days.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 54,
-      "word_count": 556,
-      "rel_path": "database/line/8percent/summer days.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\8percent\\summer days.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 47,
+      "word_count": 336,
+      "rel_path": "database/syllable/8percent/summer days.ttml"
     },
     {
       "id": 1370,
@@ -20470,12 +20470,12 @@
       "artist": "SZA, Travis Scott",
       "album": "SOS",
       "duration_seconds": null,
-      "file_path": "database\\line\\SZA\\Open Arms (feat. Travis Scott).ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 54,
-      "word_count": 393,
-      "rel_path": "database/line/SZA/Open Arms (feat. Travis Scott).ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\SZA\\Open Arms (feat. Travis Scott).ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 51,
+      "word_count": 512,
+      "rel_path": "database/syllable/SZA/Open Arms (feat. Travis Scott).ttml"
     },
     {
       "id": 1374,
@@ -20635,12 +20635,12 @@
       "artist": "d4vd",
       "album": "WITHERED",
       "duration_seconds": null,
-      "file_path": "database\\line\\d4vd\\What Are You Waiting For.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 48,
-      "word_count": 346,
-      "rel_path": "database/line/d4vd/What Are You Waiting For.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\d4vd\\What Are You Waiting For.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 33,
+      "word_count": 229,
+      "rel_path": "database/syllable/d4vd/What Are You Waiting For.ttml"
     },
     {
       "id": 1385,
@@ -20725,12 +20725,12 @@
       "artist": "Dave",
       "album": "Starlight",
       "duration_seconds": null,
-      "file_path": "database\\line\\Dave\\Starlight.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 74,
-      "word_count": 545,
-      "rel_path": "database/line/Dave/Starlight.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Dave\\Starlight.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 50,
+      "word_count": 489,
+      "rel_path": "database/syllable/Dave/Starlight.ttml"
     },
     {
       "id": 1391,
@@ -21895,12 +21895,12 @@
       "artist": "Magdalena Bay",
       "album": "A Little Rhythm and a Wicked Feeling",
       "duration_seconds": null,
-      "file_path": "database\\line\\Magdalena Bay\\Killshot.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 75,
-      "word_count": 353,
-      "rel_path": "database/line/Magdalena Bay/Killshot.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Magdalena Bay\\Killshot.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 64,
+      "word_count": 302,
+      "rel_path": "database/syllable/Magdalena Bay/Killshot.ttml"
     },
     {
       "id": 1469,
