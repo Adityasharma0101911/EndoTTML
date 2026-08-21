@@ -1,18 +1,18 @@
 {
   "database": "EndoTTML",
   "schema_version": "2.0.0",
-  "total_tracks": 1807,
+  "total_tracks": 1810,
   "statistics": {
-    "total_tracks": 1822,
-    "completed": 1807,
+    "total_tracks": 1826,
+    "completed": 1810,
     "failed": 9,
-    "pending": 6,
-    "syllable_synced": 798,
+    "pending": 7,
+    "syllable_synced": 800,
     "line_synced": 946,
-    "plain": 63,
+    "plain": 64,
     "providers": {
       "LRCLIB": 882,
-      "NetEase": 867,
+      "NetEase": 870,
       "SyncedLyrics": 58
     }
   },
@@ -27121,6 +27121,51 @@
       "line_count": 31,
       "word_count": 253,
       "rel_path": "database/line/Omar Apollo/3 Boys.ttml"
+    },
+    {
+      "id": 1824,
+      "spotify_id": null,
+      "spotify_uri": null,
+      "title": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+      "artist": "",
+      "album": null,
+      "duration_seconds": null,
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\plain\\Unknown Artist\\https open.spotify.com track 0VjIjW4GlUZAMYd2vXMi3b.ttml",
+      "sync_type": "plain",
+      "provider": "NetEase",
+      "line_count": 0,
+      "word_count": 0,
+      "rel_path": "database/plain/Unknown Artist/https open.spotify.com track 0VjIjW4GlUZAMYd2vXMi3b.ttml"
+    },
+    {
+      "id": 1825,
+      "spotify_id": null,
+      "spotify_uri": null,
+      "title": "Blinding Lights",
+      "artist": "",
+      "album": null,
+      "duration_seconds": null,
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Unknown Artist\\Blinding Lights.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 35,
+      "word_count": 304,
+      "rel_path": "database/syllable/Unknown Artist/Blinding Lights.ttml"
+    },
+    {
+      "id": 1826,
+      "spotify_id": null,
+      "spotify_uri": null,
+      "title": "Queen – Bohemian Rhapsody",
+      "artist": "Queen",
+      "album": null,
+      "duration_seconds": null,
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Queen\\Queen – Bohemian Rhapsody.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 68,
+      "word_count": 515,
+      "rel_path": "database/syllable/Queen/Queen – Bohemian Rhapsody.ttml"
     }
   ]
 }
