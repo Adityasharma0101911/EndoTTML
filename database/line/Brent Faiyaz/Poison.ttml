@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Poison</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Brent Faiyaz</ttm:agent>
+      <ttm:item type="album">Poison</ttm:item>
+      <ttm:item type="spotify_id">5NijSs5dAwaIybq1GaRTIe</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:13.862" end="00:16.943" ttm:agent="v1">Know you ride it right</p>
+      <p begin="00:16.943" end="00:19.959" ttm:agent="v1">I might just die tonight</p>
+      <p begin="00:19.959" end="00:26.090" ttm:agent="v1">But you know i'm still coming through baby</p>
+      <p begin="00:26.090" end="00:28.992" ttm:agent="v1">I know its bad for me</p>
+      <p begin="00:28.992" end="00:32.359" ttm:agent="v1">And you know it tastes so sweet</p>
+      <p begin="00:32.359" end="00:38.398" ttm:agent="v1">I think i need your abuse baby</p>
+      <p begin="00:38.398" end="00:42.707" ttm:agent="v1">Girl you do damage to me</p>
+      <p begin="00:42.707" end="00:45.520" ttm:agent="v1">You know I love it, Yeah I love you</p>
+      <p begin="00:45.520" end="00:50.486" ttm:agent="v1">Ain't nothing better for me now</p>
+      <p begin="00:50.486" end="00:54.986" ttm:agent="v1">Girl you do damage to me</p>
+      <p begin="00:54.986" end="00:57.750" ttm:agent="v1">You know, I love it, yeah I love you</p>
+      <p begin="00:57.750" end="01:00.898" ttm:agent="v1">Ain't nothing better for me now</p>
+      <p begin="01:00.898" end="01:08.898" ttm:agent="v1">Than your poison baby</p>
+      <p begin="01:14.976" end="01:18.004" ttm:agent="v1">Angel of the night</p>
+      <p begin="01:18.004" end="01:21.038" ttm:agent="v1">Drown between your thighs</p>
+      <p begin="01:21.038" end="01:27.131" ttm:agent="v1">I'm still here, ain't no excuse baby</p>
+      <p begin="01:27.131" end="01:30.210" ttm:agent="v1">I see you in my sleep</p>
+      <p begin="01:30.210" end="01:33.234" ttm:agent="v1">I'm scarred beyond belief</p>
+      <p begin="01:33.234" end="01:39.455" ttm:agent="v1">Ain't nothing you can't make me do, baby</p>
+      <p begin="01:39.455" end="01:43.718" ttm:agent="v1">Girl you do damage to me</p>
+      <p begin="01:43.718" end="01:46.497" ttm:agent="v1">You know I love it, Yeah I love you</p>
+      <p begin="01:46.497" end="01:51.389" ttm:agent="v1">Ain't nothing better for me now</p>
+      <p begin="01:51.389" end="01:55.931" ttm:agent="v1">Girl you do damage to me</p>
+      <p begin="01:55.931" end="01:58.784" ttm:agent="v1">You know, I love it, yeah I love you</p>
+      <p begin="01:58.784" end="02:01.958" ttm:agent="v1">Ain't nothing better for me now</p>
+      <p begin="02:01.958" end="02:08.308" ttm:agent="v1">Than your poison baby</p>
+      <p begin="02:08.308" end="02:14.282" ttm:agent="v1">Girl you know I play my role when i'm inside that</p>
+      <p begin="02:14.282" end="02:19.418" ttm:agent="v1">With my hands around your throat I know you like that</p>
+      <p begin="02:19.418" end="02:23.176" ttm:agent="v1">Girl I'll do anything</p>
+      <p begin="02:23.176" end="02:31.176" ttm:agent="v1">To hear you scream my name, I love your game, I do, I do</p>
+      <p begin="02:51.141" end="02:59.141" ttm:agent="v1">Girl you do damage to me</p>
+      <p begin="03:00.563" end="03:06.548" ttm:agent="v1">But i love it babe</p>
+      <p begin="03:06.548" end="03:10.548" ttm:agent="v1">Oh you're poisonous baby</p>
+    </div>
+  </body>
+</tt>

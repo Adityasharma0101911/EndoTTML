@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Who Do I Trust</ttm:title>
+      <ttm:agent type="person" xml:id="v1">$NOT</ttm:agent>
+      <ttm:item type="album">Beautiful Havoc</ttm:item>
+      <ttm:item type="spotify_id">5l1nBXIrVDeuVx67WqPzLJ</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.250" end="00:01.797" ttm:agent="v1">[Intro]</p>
+      <p begin="00:01.797" end="00:03.297" ttm:agent="v1">You know?</p>
+      <p begin="00:03.157" end="00:08.577" ttm:agent="v1">Sometimes I just got to remind myself who I am</p>
+      <p begin="00:08.577" end="00:10.077" ttm:agent="v1">I'm locked in, man</p>
+      <p begin="00:09.123" end="00:10.623" ttm:agent="v1"/>
+      <p begin="00:09.634" end="00:13.364" ttm:agent="v1">[Chorus]</p>
+      <p begin="00:13.364" end="00:16.544" ttm:agent="v1" itunes:key="role" itunes:value="background">You speak highly of me, I hope you're doin' the same when I'm not there (Not there)</p>
+      <p begin="00:16.544" end="00:19.764" ttm:agent="v1">Ninety percent of the time, just give me a week, I won't care</p>
+      <p begin="00:19.764" end="00:21.988" ttm:agent="v1">Drove past the fiend, remembers me in a stolen</p>
+      <p begin="00:21.988" end="00:25.023" ttm:agent="v1">Try say Nemzzz ain't been outside then, well, you've gotta be joking</p>
+      <p begin="00:25.023" end="00:28.310" ttm:agent="v1">You're right, I should just leave you alone before you end up exploding</p>
+      <p begin="00:28.310" end="00:31.499" ttm:agent="v1">If I'm right, we caught your boy in the lab, found out what he was smoking</p>
+      <p begin="00:31.499" end="00:34.686" ttm:agent="v1" itunes:key="role" itunes:value="background">The real blend in with the fake, who do I trust? (No one)</p>
+      <p begin="00:34.686" end="00:36.284" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm trying to figure it out, I don't know how to love (I don't know how to love)</p>
+      <p begin="00:36.284" end="00:37.784" ttm:agent="v1"/>
+      <p begin="00:37.112" end="00:38.612" ttm:agent="v1">[Verse]</p>
+      <p begin="00:37.387" end="00:40.913" ttm:agent="v1" itunes:key="role" itunes:value="background">Ayy, 365, go hard, you know it's a must (You know it's a must)</p>
+      <p begin="00:40.913" end="00:44.450" ttm:agent="v1" itunes:key="role" itunes:value="background">You wasn't there at the start, we came out of mud (We came out of mud)</p>
+      <p begin="00:44.450" end="00:47.976" ttm:agent="v1" itunes:key="role" itunes:value="background">Slow feet don't eat, I stay in my lane to level up (Level up)</p>
+      <p begin="00:47.976" end="00:51.147" ttm:agent="v1" itunes:key="role" itunes:value="background">New me in the past but fast forward, this the level up (Level up)</p>
+      <p begin="00:51.147" end="00:53.638" ttm:agent="v1">Ting on bro, try it, you're not gettin' up</p>
+      <p begin="00:53.638" end="00:56.578" ttm:agent="v1">Ayy, I left it, I coulda just got ****ed to set him up</p>
+      <p begin="00:56.578" end="00:58.291" ttm:agent="v1">Job's not done, it ain't settling</p>
+      <p begin="00:58.291" end="00:59.791" ttm:agent="v1">Car broke down, I was peddling</p>
+      <p begin="00:59.650" end="01:01.282" ttm:agent="v1">Verbal, I don't find that frightening</p>
+      <p begin="01:01.282" end="01:02.782" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm locked in, I overly getting (Overly getting)</p>
+      <p begin="01:01.807" end="01:03.307" ttm:agent="v1"/>
+      <p begin="01:02.431" end="01:03.931" ttm:agent="v1">[Chorus]</p>
+      <p begin="01:03.495" end="01:07.004" ttm:agent="v1" itunes:key="role" itunes:value="background">You speak highly of me, I hope you're doin' the same when I'm not there (Not there)</p>
+      <p begin="01:07.004" end="01:09.897" ttm:agent="v1">Ninety percent of the time, just give me a week, I won't care</p>
+      <p begin="01:09.897" end="01:12.294" ttm:agent="v1">Drove past the fiend, remembers me in a stolen</p>
+      <p begin="01:12.294" end="01:15.256" ttm:agent="v1" itunes:key="role" itunes:value="background">Try say Nemzzz ain't been outside then, well, you've gotta be joking (Gotta be joking)</p>
+      <p begin="01:15.256" end="01:18.554" ttm:agent="v1">You're right, I should just leave you alone before you end up exploding</p>
+      <p begin="01:18.554" end="01:21.724" ttm:agent="v1">If I'm right, we caught your boy in the lab, found out what he was smoking</p>
+      <p begin="01:21.724" end="01:24.641" ttm:agent="v1">The real blend in with the fake, who do I trust?</p>
+      <p begin="01:24.641" end="01:28.641" ttm:agent="v1">I'm trying to figure it out, I don't know how to love</p>
+    </div>
+  </body>
+</tt>

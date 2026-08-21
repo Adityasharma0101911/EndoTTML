@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Coffin</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Lil Yachty</ttm:agent>
+      <ttm:item type="album">Lil Boat 3.5</ttm:item>
+      <ttm:item type="spotify_id">5vDNippoMr52KpXBO9b9KQ</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.280" end="00:01.780" ttm:agent="v1" itunes:key="role" itunes:value="background">(Buddah bless this beat)</p>
+      <p begin="00:01.720" end="00:03.220" ttm:agent="v1" itunes:key="role" itunes:value="background">It's us (Earl on the beat)</p>
+      <p begin="00:02.660" end="00:06.640" ttm:agent="v1">Strappin' the keeper, mm, uh, keepin' the keys on, uh</p>
+      <p begin="00:06.640" end="00:09.090" ttm:agent="v1">It's us, givin' the keys to the Wock' to my boys</p>
+      <p begin="00:09.090" end="00:12.770" ttm:agent="v1">Go, okay, slatt, okay, damn, 'crete, 'kay</p>
+      <p begin="00:12.770" end="00:14.270" ttm:agent="v1" itunes:key="role" itunes:value="background">Gimme the keys to the coupe, I'ma pull out (Brrt)</p>
+      <p begin="00:14.020" end="00:15.520" ttm:agent="v1" itunes:key="role" itunes:value="background">Gimme the keys to the 'crete, I'ma pull out ('Crete, 'crete)</p>
+      <p begin="00:15.490" end="00:18.940" ttm:agent="v1" itunes:key="role" itunes:value="background">Gimme the keys to the coupe, I'ma pull out (Skrrt)</p>
+      <p begin="00:18.940" end="00:22.540" ttm:agent="v1" itunes:key="role" itunes:value="background">Gimme the keys to the coupe, I'ma (Skrrt, uh)</p>
+      <p begin="00:22.540" end="00:25.810" ttm:agent="v1" itunes:key="role" itunes:value="background">Go, I'm on the top of this shit (Yeah)</p>
+      <p begin="00:25.810" end="00:27.970" ttm:agent="v1">Okay, okay , okay</p>
+      <p begin="00:27.970" end="00:29.590" ttm:agent="v1" itunes:key="role" itunes:value="background">(Earl on the beat) (Concrete Boys)</p>
+      <p begin="00:29.590" end="00:31.280" ttm:agent="v1">Gimme the keys to the coupe, I'ma pull out</p>
+      <p begin="00:31.280" end="00:32.920" ttm:agent="v1" itunes:key="role" itunes:value="background">Gotta wear condoms 'cause I do not pull out (Ew)</p>
+      <p begin="00:32.920" end="00:34.620" ttm:agent="v1">Walk in the spot, fifty deep with the tool out</p>
+      <p begin="00:34.620" end="00:36.530" ttm:agent="v1" itunes:key="role" itunes:value="background">They know that it us, show out at the cookout (Slatt, go)</p>
+      <p begin="00:36.530" end="00:39.520" ttm:agent="v1" itunes:key="role" itunes:value="background">We gettin' money, don't care 'bout what they on (Us)</p>
+      <p begin="00:39.520" end="00:41.400" ttm:agent="v1">Finger **** hunnids at home all alone</p>
+      <p begin="00:41.400" end="00:43.100" ttm:agent="v1" itunes:key="role" itunes:value="background">In a suit with a stick like Capone (Beep)</p>
+      <p begin="00:43.100" end="00:45.000" ttm:agent="v1">Bo for the Jackson, all Shamone</p>
+      <p begin="00:45.000" end="00:46.650" ttm:agent="v1" itunes:key="role" itunes:value="background">I took the chrome to chrome (Shamone)</p>
+      <p begin="00:46.650" end="00:48.320" ttm:agent="v1" itunes:key="role" itunes:value="background">I took his bitch, I boned (Beezy)</p>
+      <p begin="00:48.320" end="00:50.050" ttm:agent="v1">I made her leave her phone, yes</p>
+      <p begin="00:50.050" end="00:53.610" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yeah, oh) Who said we ain't made records? (Go)</p>
+      <p begin="00:53.610" end="00:55.270" ttm:agent="v1">Rich-ass still eatin' Checkers</p>
+      <p begin="00:55.270" end="00:56.960" ttm:agent="v1" itunes:key="role" itunes:value="background">Still pull up, double decker (Boys)</p>
+      <p begin="00:56.960" end="00:58.710" ttm:agent="v1">Still control the whole Mecca</p>
+      <p begin="00:58.710" end="01:00.520" ttm:agent="v1" itunes:key="role" itunes:value="background">Still that nigga, still (Still)</p>
+      <p begin="01:00.520" end="01:02.140" ttm:agent="v1">I still **** her, I will</p>
+      <p begin="01:02.140" end="01:03.840" ttm:agent="v1" itunes:key="role" itunes:value="background">Might put this bitch in my will (Will)</p>
+      <p begin="01:03.840" end="01:05.770" ttm:agent="v1">(Wait, hold on, you're gon' do what?</p>
+      <p begin="01:05.770" end="01:07.520" ttm:agent="v1">You're trippin', nigga, I'm from, nigga) Us, chill</p>
+      <p begin="01:07.520" end="01:09.090" ttm:agent="v1">****in' this bitch in the hills</p>
+      <p begin="01:09.090" end="01:10.710" ttm:agent="v1">I ain't even lick her, she wet as a eel</p>
+      <p begin="01:10.710" end="01:16.440" ttm:agent="v1" itunes:key="role" itunes:value="background">Ew, nigga, I'm just talkin' (Oh my God)</p>
+      <p begin="01:16.440" end="01:18.080" ttm:agent="v1">Get on these beats and I'm not even rappin'</p>
+      <p begin="01:18.080" end="01:19.710" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm literally flossin' and walkin' (Walk)</p>
+      <p begin="01:19.710" end="01:21.480" ttm:agent="v1">Get on these beats that I'm literally walkin'</p>
+      <p begin="01:21.480" end="01:23.200" ttm:agent="v1" itunes:key="role" itunes:value="background">On God, I really be flossin' (Walk)</p>
+      <p begin="01:23.200" end="01:24.960" ttm:agent="v1">Bitch in the sheets, hit that bitch from the back</p>
+      <p begin="01:24.960" end="01:28.960" ttm:agent="v1">Put the nigga inside of a coffin</p>
+    </div>
+  </body>
+</tt>

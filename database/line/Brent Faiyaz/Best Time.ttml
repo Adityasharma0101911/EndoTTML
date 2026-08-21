@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Best Time</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Brent Faiyaz</ttm:agent>
+      <ttm:item type="album">Larger Than Life</ttm:item>
+      <ttm:item type="spotify_id">1zgHn1EqUyA0HqNYMdJ5ia</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.510" end="00:08.510" ttm:agent="v1">[Verse: Brent Faiyaz]</p>
+      <p begin="00:09.893" end="00:14.116" ttm:agent="v1" itunes:key="role" itunes:value="background">I've been all over the world (You know)</p>
+      <p begin="00:14.116" end="00:16.944" ttm:agent="v1">But you the finest one</p>
+      <p begin="00:16.944" end="00:19.388" ttm:agent="v1">I done seen the finest dimes</p>
+      <p begin="00:19.388" end="00:22.679" ttm:agent="v1" itunes:key="role" itunes:value="background">But all the pretty girls come from VA (That's right)</p>
+      <p begin="00:22.679" end="00:25.011" ttm:agent="v1">Then it's New York and M-I-A</p>
+      <p begin="00:25.011" end="00:27.099" ttm:agent="v1">Then, it's PG and 'round in my way</p>
+      <p begin="00:27.099" end="00:31.413" ttm:agent="v1" itunes:key="role" itunes:value="background">So I never had to stay away (Should've never stayed away)</p>
+      <p begin="00:31.413" end="00:33.016" ttm:agent="v1">For long</p>
+      <p begin="00:33.016" end="00:34.991" ttm:agent="v1">Say you're goin' where?</p>
+      <p begin="00:34.991" end="00:37.227" ttm:agent="v1">Ain't nobody goin' if we ain't gon' be there</p>
+      <p begin="00:37.227" end="00:40.206" ttm:agent="v1">Keep her on your arm 'cause she gon' wanna stay</p>
+      <p begin="00:40.206" end="00:43.296" ttm:agent="v1" itunes:key="role" itunes:value="background">All the pretty girls wanna be there (That's right)</p>
+      <p begin="00:43.296" end="00:45.117" ttm:agent="v1">**** around and find out</p>
+      <p begin="00:45.117" end="00:47.643" ttm:agent="v1">She like one of mine, now she mine now</p>
+      <p begin="00:47.643" end="00:52.049" ttm:agent="v1" itunes:key="role" itunes:value="background">You just turn around and she come down (Should've never stayed away)</p>
+      <p begin="00:52.049" end="00:53.549" ttm:agent="v1" itunes:key="role" itunes:value="background">For long (For long)</p>
+      <p begin="00:52.464" end="00:53.964" ttm:agent="v1">Chorus: Tommy Richman &amp; Brent Faiyaz</p>
+      <p begin="00:53.052" end="00:56.111" ttm:agent="v1" itunes:key="role" itunes:value="background">The best time she's ever had (Yeah)</p>
+      <p begin="00:56.111" end="00:58.494" ttm:agent="v1" itunes:key="role" itunes:value="background">The best time she's ever had (Yeah)</p>
+      <p begin="00:58.494" end="01:03.800" ttm:agent="v1" itunes:key="role" itunes:value="background">The best time she's ever had (The best time, all the time)</p>
+      <p begin="01:03.800" end="01:06.235" ttm:agent="v1">The best time she's ever had</p>
+      <p begin="01:06.235" end="01:09.332" ttm:agent="v1" itunes:key="role" itunes:value="background">The best time she's ever had (Yeah)</p>
+      <p begin="01:09.332" end="01:13.332" ttm:agent="v1" itunes:key="role" itunes:value="background">The best time she's ever had (All the time, you know)</p>
+    </div>
+  </body>
+</tt>

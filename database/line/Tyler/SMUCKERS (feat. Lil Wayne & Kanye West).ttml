@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>SMUCKERS (feat. Lil Wayne &amp; Kanye West)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Tyler</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">The Creator</ttm:agent>
+      <ttm:agent type="person" xml:id="v3">Lil Wayne</ttm:agent>
+      <ttm:agent type="person" xml:id="v4">Kanye West</ttm:agent>
+      <ttm:item type="album">Cherry Bomb</ttm:item>
+      <ttm:item type="spotify_id">078C2jXg7XsMgW78Gfx1JA</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:01.560" end="00:03.060" ttm:agent="v1">For your boy</p>
+      <p begin="00:02.750" end="00:05.640" ttm:agent="v1">I'm watchin Freaks and Geeks with the trampoline on the floor</p>
+      <p begin="00:05.640" end="00:10.480" ttm:agent="v1">I'm tryna cop the new McLaren with the vertical doors, *******</p>
+      <p begin="00:10.480" end="00:13.360" ttm:agent="v1">Money, money, money, money; money ain't the motive</p>
+      <p begin="00:13.360" end="00:15.480" ttm:agent="v1">What's your name again? Nobody knows it</p>
+      <p begin="00:15.480" end="00:17.880" ttm:agent="v1">Don't speak to me *******, you not impo'tant</p>
+      <p begin="00:17.880" end="00:23.540" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm focused (2, 3, 4), bring in the horns</p>
+      <p begin="00:23.540" end="00:26.500" ttm:agent="v1">They say I'm nutty, I'm picnic basket, I'm short of a sandwich</p>
+      <p begin="00:26.500" end="00:28.660" ttm:agent="v1">I'm peanut butter, Boyce Watkin's a *******</p>
+      <p begin="00:28.660" end="00:30.900" ttm:agent="v1">Please come and get me, said I suck him at your neck</p>
+      <p begin="00:30.900" end="00:32.540" ttm:agent="v1">Like a hickey, boy I'm sicky</p>
+      <p begin="00:32.540" end="00:35.580" ttm:agent="v1">Like a HIV victim, ain't nobody ****** wit me</p>
+      <p begin="00:35.580" end="00:38.620" ttm:agent="v1">I got banned from New Zealand, Whitey called me a demon</p>
+      <p begin="00:38.620" end="00:41.640" ttm:agent="v1">And a terrorist, goddammit, I couldn't believe in it</p>
+      <p begin="00:41.640" end="00:44.560" ttm:agent="v1">Ban a kid from a country; I never fall, never timber</p>
+      <p begin="00:44.560" end="00:47.580" ttm:agent="v1">But you ****** up as a parent; your child idol's a nigger</p>
+      <p begin="00:47.580" end="00:50.820" ttm:agent="v1">I clearly don't give a *******, so you could run that *******t back</p>
+      <p begin="00:50.820" end="00:54.120" ttm:agent="v1">And ******* your loud pack, and ******* your Snapchat</p>
+      <p begin="00:54.120" end="00:57.060" ttm:agent="v1">Cherry Bomb the greatest ****** album since the days of sound</p>
+      <p begin="00:57.060" end="01:00.080" ttm:agent="v1">And that *******t gon pop just like that ******* that was never 'round</p>
+      <p begin="01:00.080" end="01:02.980" ttm:agent="v1">Damn, bout to drop, gas 'em up, thick exhaust</p>
+      <p begin="01:02.980" end="01:06.180" ttm:agent="v1">Young T, came quick, hard to beat, niggas is soft</p>
+      <p begin="01:06.180" end="01:09.120" ttm:agent="v1">We ain't lyin, we the truth, call him Simba, beats his hooves</p>
+      <p begin="01:09.120" end="01:11.440" ttm:agent="v1">Tyler the Creator sweatin Jesus juice</p>
+      <p begin="01:11.440" end="01:14.560" ttm:agent="v1">Put that ****** cow on my level, cause I'm raisin the stakes</p>
+      <p begin="01:14.560" end="01:17.600" ttm:agent="v1">Mom I made you a promise, it's no more section 8</p>
+      <p begin="01:17.600" end="01:20.700" ttm:agent="v1">When we ate its the steaks, now our section is great</p>
+      <p begin="01:20.700" end="01:23.760" ttm:agent="v1">Cause that's the level I'm at, my *******s pass 'em a plate</p>
+      <p begin="01:23.760" end="01:25.260" ttm:agent="v1">'Ye!</p>
+      <p begin="01:24.640" end="01:29.120" ttm:agent="v1">Why, oh why, why, why don't they like me?</p>
+      <p begin="01:29.120" end="01:31.040" ttm:agent="v1">Cause Nike gave a lot of *******s checks</p>
+      <p begin="01:31.040" end="01:36.500" ttm:agent="v1">But I'm the only ******* to ever check Nike</p>
+      <p begin="01:36.500" end="01:39.700" ttm:agent="v1">Richer than white people with black kids</p>
+      <p begin="01:39.700" end="01:42.840" ttm:agent="v1">Scarier than black people with ideas</p>
+      <p begin="01:42.840" end="01:44.840" ttm:agent="v1">Nobody can tell me where I'm headin</p>
+      <p begin="01:44.840" end="01:48.030" ttm:agent="v1">But I feel like Michael Jordan, Scottie Pippen at my weddin</p>
+      <p begin="01:48.030" end="01:51.060" ttm:agent="v1">They say I'm crazy, but that's the best thing goin for me</p>
+      <p begin="01:51.060" end="01:53.950" ttm:agent="v1">You can't Lynch Marshawn if Tom Brady throwin to me</p>
+      <p begin="01:53.950" end="01:56.770" ttm:agent="v1">I made a million mistakes, but I'm successful in spite of 'em</p>
+      <p begin="01:56.770" end="01:59.840" ttm:agent="v1">I believe you like a fat trainer takin a bite or somethin</p>
+      <p begin="01:59.840" end="02:02.100" ttm:agent="v1">I wanna turn the tanks to playgrounds</p>
+      <p begin="02:02.100" end="02:05.130" ttm:agent="v1">I dreamt of 2Pac; he asked me &quot;Are you still down?&quot;</p>
+      <p begin="02:05.130" end="02:08.450" ttm:agent="v1">Yeah my *******, it's on, it's on, it's on, it's on</p>
+      <p begin="02:08.450" end="02:11.580" ttm:agent="v1">I know they tell they white daughters &quot;Don't bring home Jerome&quot;</p>
+      <p begin="02:11.580" end="02:15.860" ttm:agent="v1">I am the free ******* archetype,I am the light and the beacon</p>
+      <p begin="02:15.860" end="02:17.670" ttm:agent="v1">You can ask the deacon</p>
+      <p begin="02:17.670" end="02:20.560" ttm:agent="v1">It's funny, when you get extra money</p>
+      <p begin="02:20.560" end="02:23.300" ttm:agent="v1">Every joke you tell just be extra funny</p>
+      <p begin="02:23.300" end="02:26.100" ttm:agent="v1">I mean, you can even dress extra bummy</p>
+      <p begin="02:26.100" end="02:28.900" ttm:agent="v1">****ing bathroom break, nose extra runny</p>
+      <p begin="02:28.900" end="02:31.880" ttm:agent="v1">And I gave you all I got, you still want extra from me</p>
+      <p begin="02:31.880" end="02:34.680" ttm:agent="v1">Oxford want a full-blown lecture from me</p>
+      <p begin="02:34.680" end="02:38.860" ttm:agent="v1">And the Lexus pull up, errr, like hop, I hopped out, like wassup?</p>
+      <p begin="02:38.860" end="02:46.860" ttm:agent="v1">Err-err-err, step back, hold up, my *******, you suck, hold up</p>
+      <p begin="02:49.400" end="02:50.900" ttm:agent="v1">I studied the proportions</p>
+      <p begin="02:50.900" end="02:53.500" ttm:agent="v1">Emotions runnin at a Autobahn speed-level</p>
+      <p begin="02:53.500" end="02:56.380" ttm:agent="v1">Had a drink with fear, and I was textin God</p>
+      <p begin="02:56.380" end="03:01.610" ttm:agent="v1">He said &quot;I gave you a big *******, so go extra hard&quot;</p>
+      <p begin="03:01.610" end="03:03.110" ttm:agent="v1">For your boy</p>
+      <p begin="03:02.810" end="03:05.700" ttm:agent="v1">I'm tryna pop the new McLaren with the vertical doors</p>
+      <p begin="03:05.700" end="03:09.160" ttm:agent="v1">I'm watchin Freak and Geeks, got a trampoline in my room</p>
+      <p begin="03:09.160" end="03:11.250" ttm:agent="v1">Damn</p>
+      <p begin="03:11.250" end="03:12.750" ttm:agent="v1" itunes:key="role" itunes:value="background">(2, 3, 4)</p>
+      <p begin="03:12.370" end="03:17.750" ttm:agent="v1">Hold your ****** horses, *******s really ****** thought that T lost it</p>
+      <p begin="03:17.750" end="03:20.040" ttm:agent="v1">Like I bet it at a auction, been exhausted</p>
+      <p begin="03:20.040" end="03:24.020" ttm:agent="v1">I been workin while y'all cylinders smoke like broken exhaust tips</p>
+      <p begin="03:24.020" end="03:26.110" ttm:agent="v1">****** losers</p>
+      <p begin="03:26.110" end="03:27.930" ttm:agent="v1">Hold your ****** ponies, my homie</p>
+      <p begin="03:27.930" end="03:29.670" ttm:agent="v1">I'll whip your donkey by my lonely</p>
+      <p begin="03:29.670" end="03:32.080" ttm:agent="v1" itunes:key="role" itunes:value="background">I eat ******* like Shoney's (Yeah)</p>
+      <p begin="03:32.080" end="03:34.210" ttm:agent="v1">It's Tunechi, homie, master of ceremonies</p>
+      <p begin="03:34.210" end="03:37.570" ttm:agent="v1">I knock 'em down, domino effect; no pepperoni</p>
+      <p begin="03:37.570" end="03:39.070" ttm:agent="v1">I swear</p>
+      <p begin="03:38.500" end="03:40.490" ttm:agent="v1">This them Golf boys, like them Hot Boy$</p>
+      <p begin="03:40.490" end="03:42.990" ttm:agent="v1">For the nine-nine and two-thousand</p>
+      <p begin="03:42.990" end="03:44.690" ttm:agent="v1">But its the two-thou'</p>
+      <p begin="03:44.690" end="03:46.610" ttm:agent="v1">And the one-four, and the one-five</p>
+      <p begin="03:46.610" end="03:48.460" ttm:agent="v1">Yo, what up Wayne?</p>
+      <p begin="03:48.460" end="03:50.270" ttm:agent="v1" itunes:key="role" itunes:value="background">(What up Slime, ******* go hard)</p>
+      <p begin="03:50.270" end="03:52.870" ttm:agent="v1">Yeah, I'mma go hard like before came</p>
+      <p begin="03:52.870" end="03:55.390" ttm:agent="v1">Got too much drive, need like ten lanes</p>
+      <p begin="03:55.390" end="03:57.730" ttm:agent="v1">Life is a broad and she give brain</p>
+      <p begin="03:57.730" end="04:00.110" ttm:agent="v1" itunes:key="role" itunes:value="background">That's that road head (yeah) thats a dream car</p>
+      <p begin="04:00.110" end="04:03.330" ttm:agent="v1">Got a full tank of that same year I was born</p>
+      <p begin="04:03.330" end="04:05.410" ttm:agent="v1">That's that one-nine-nine-one</p>
+      <p begin="04:05.410" end="04:07.910" ttm:agent="v1">'nother ******* like I, you won't find one</p>
+      <p begin="04:07.910" end="04:10.850" ttm:agent="v1">Cuz ******* I'm a god, a divine one</p>
+      <p begin="04:10.850" end="04:12.350" ttm:agent="v1">Tune</p>
+      <p begin="04:11.490" end="04:13.950" ttm:agent="v1" itunes:key="role" itunes:value="background">My trigger finger wise but my 9 dumb (Yeah)</p>
+      <p begin="04:13.950" end="04:17.290" ttm:agent="v1">Middle finger blind, so its ******* A-N-Y-one</p>
+      <p begin="04:17.290" end="04:20.150" ttm:agent="v1">*******, skate, and die son; a hundred ways to die son</p>
+      <p begin="04:20.150" end="04:23.450" ttm:agent="v1">I'm starin at a tramp-on-lean, make my eye jump</p>
+      <p begin="04:23.450" end="04:26.380" ttm:agent="v1">Use Adderall like alarm clocks, wake my high up</p>
+      <p begin="04:26.380" end="04:29.370" ttm:agent="v1">Steaks are high; well done, and prime cut, eat up</p>
+      <p begin="04:29.370" end="04:31.550" ttm:agent="v1">I stick my rollie in her mouth, let the time come</p>
+      <p begin="04:31.550" end="04:35.230" ttm:agent="v1">She got hair like Sheneneh, and eyes like Wanda</p>
+      <p begin="04:35.230" end="04:36.730" ttm:agent="v1">Oh my goodness</p>
+      <p begin="04:36.260" end="04:37.760" ttm:agent="v1">Wayne them ******* ugly</p>
+      <p begin="04:37.050" end="04:38.990" ttm:agent="v1">These *******s colder than Tommy buddy</p>
+      <p begin="04:38.990" end="04:42.290" ttm:agent="v1">'Ye we hittin models like Tony Parker be hittin bottles</p>
+      <p begin="04:42.290" end="04:45.370" ttm:agent="v1">******* I'm goin harder than yellow cabbies stoppin for Lionel</p>
+      <p begin="04:45.370" end="04:47.470" ttm:agent="v1" itunes:key="role" itunes:value="background">(Black ass *******) They be duckin us *******s</p>
+      <p begin="04:47.470" end="04:50.290" ttm:agent="v1">Shout out to Donald Sterling, boy lets get a scrimmage</p>
+      <p begin="04:50.290" end="04:52.230" ttm:agent="v1">And cut some *******s I'll bring the Clippers</p>
+      <p begin="04:52.230" end="04:54.550" ttm:agent="v1">And a couple owners that's kinda German</p>
+      <p begin="04:54.550" end="04:56.570" ttm:agent="v1">You bring the nooses, and a couple trees</p>
+      <p begin="04:56.570" end="04:58.750" ttm:agent="v1">Where the money grow, and get bodies burnin</p>
+      <p begin="04:58.750" end="05:02.330" ttm:agent="v1">Cause I'm tryna hang like I'm Mr. Cooper or Jews in Berlin</p>
+      <p begin="05:02.330" end="05:05.150" ttm:agent="v1">Or some *******s from Alabama, Birmingham</p>
+      <p begin="05:05.150" end="05:09.150" ttm:agent="v1">I need music so I'm over the street like Erick Sermon was</p>
+      <p begin="05:09.150" end="05:11.410" ttm:agent="v1">******* us, maybe we should team up</p>
+      <p begin="05:11.410" end="05:14.370" ttm:agent="v1">Anti-Golf boys, cuz I don't ******* with me either</p>
+      <p begin="05:14.370" end="05:16.350" ttm:agent="v1">I'm a liar, I'm a *******, uhh...</p>
+      <p begin="05:16.350" end="05:17.850" ttm:agent="v1">Son you need Jesus</p>
+      <p begin="05:17.750" end="05:21.060" ttm:agent="v1">But I heard he left Sunset to go on tour with Yeezus</p>
+      <p begin="05:21.060" end="05:24.250" ttm:agent="v1">Well, I'm prayin for the new Yeezys</p>
+      <p begin="05:24.250" end="05:27.570" ttm:agent="v1">And you *******es prayin that we squash the beef like zucchini</p>
+      <p begin="05:27.570" end="05:32.050" ttm:agent="v1">I know; it ain't gain, nor fame, nor tame, or lame, nor strange</p>
+      <p begin="05:32.050" end="05:40.050" ttm:agent="v1">Nah *******, it's Golf Wang</p>
+      <p begin="06:40.510" end="06:44.510" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

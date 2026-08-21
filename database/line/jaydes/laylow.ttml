@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>laylow</ttm:title>
+      <ttm:agent type="person" xml:id="v1">jaydes</ttm:agent>
+      <ttm:item type="album">ghetto cupid</ttm:item>
+      <itunes:duration>01:42.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.000" end="00:03.400" ttm:agent="v1">Yeah, yeah, yeah</p>
+      <p begin="00:03.400" end="00:04.900" ttm:agent="v1">Yeah, yeah, yeah</p>
+      <p begin="00:03.660" end="00:05.160" ttm:agent="v1" itunes:key="role" itunes:value="background">Mmberofthefall (Gang shit)</p>
+      <p begin="00:03.830" end="00:11.830" ttm:agent="v1">Go, go, ayy, yeah, ayy, what?</p>
+      <p begin="00:15.060" end="00:16.560" ttm:agent="v1">Oh yeah, ooh</p>
+      <p begin="00:15.520" end="00:17.050" ttm:agent="v1">Rushin' that boy, when I say so</p>
+      <p begin="00:17.050" end="00:19.450" ttm:agent="v1">We gon' give that boy, a halo</p>
+      <p begin="00:19.450" end="00:21.380" ttm:agent="v1">Put a ski on, it was case closed</p>
+      <p begin="00:21.380" end="00:23.370" ttm:agent="v1">Told you, &quot;I don't fuck with dem' lame hoes&quot;</p>
+      <p begin="00:23.370" end="00:25.260" ttm:agent="v1">My bitch show love but she lay low</p>
+      <p begin="00:25.260" end="00:27.270" ttm:agent="v1">Can't fuck, wit' a complainin' ho</p>
+      <p begin="00:27.270" end="00:28.770" ttm:agent="v1">Put a switch on a beam</p>
+      <p begin="00:28.660" end="00:31.120" ttm:agent="v1">'Cause, pussy-ass nigga love flamin'</p>
+      <p begin="00:31.120" end="00:33.210" ttm:agent="v1">Pussy-ass nigga, gon' flame 'nem</p>
+      <p begin="00:33.210" end="00:35.160" ttm:agent="v1">I'm too bool, gotta lay low</p>
+      <p begin="00:35.160" end="00:37.040" ttm:agent="v1">Two hoes wit' me, got tangled</p>
+      <p begin="00:37.040" end="00:39.190" ttm:agent="v1">Two straps wit' me, I stay calm</p>
+      <p begin="00:39.190" end="00:41.050" ttm:agent="v1">Rap nigga, love my name, or some?</p>
+      <p begin="00:41.050" end="00:43.090" ttm:agent="v1">Lil nigga's must be gay, or some'</p>
+      <p begin="00:43.090" end="00:45.020" ttm:agent="v1">Why would I switch on a day ones?</p>
+      <p begin="00:45.020" end="00:47.180" ttm:agent="v1">Really thought I heard you sayin' some</p>
+      <p begin="00:47.180" end="00:49.030" ttm:agent="v1">I guess they my bruddas</p>
+      <p begin="00:49.030" end="00:51.080" ttm:agent="v1">Lame ass bitch, I dubbed her</p>
+      <p begin="00:51.080" end="00:52.950" ttm:agent="v1">Lame ass bitch, I dubbed her</p>
+      <p begin="00:52.950" end="00:54.930" ttm:agent="v1">Why would I ever cuff that?</p>
+      <p begin="00:54.930" end="00:57.470" ttm:agent="v1">Why would I ever cuff that?</p>
+      <p begin="00:57.470" end="00:59.470" ttm:agent="v1">Bloodbath's wit' me, we slimed up</p>
+      <p begin="00:59.470" end="01:00.970" ttm:agent="v1">Goyard bag, keep my hand on that</p>
+      <p begin="01:00.750" end="01:02.960" ttm:agent="v1">OG to the sun, we takin' stacks</p>
+      <p begin="01:02.960" end="01:04.460" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah (Yeah)</p>
+      <p begin="01:03.160" end="01:11.160" ttm:agent="v1">Yeah, yeah, ayy</p>
+      <p begin="01:12.450" end="01:13.950" ttm:agent="v1">Yeah, ayy</p>
+      <p begin="01:12.560" end="01:14.060" ttm:agent="v1">Ooh</p>
+      <p begin="01:12.560" end="01:15.090" ttm:agent="v1">Yeah, One Piec-One Piece, smoke 'dat pushup</p>
+      <p begin="01:15.090" end="01:17.130" ttm:agent="v1">You want smoke? I'm in that pushup</p>
+      <p begin="01:17.130" end="01:19.360" ttm:agent="v1">You want smoke? Pussy boy, lookup</p>
+      <p begin="01:19.360" end="01:20.860" ttm:agent="v1">Yeah</p>
+      <p begin="01:19.940" end="01:21.880" ttm:agent="v1">Heavyweight, swervin'</p>
+      <p begin="01:21.880" end="01:24.030" ttm:agent="v1">I can't lie, this bitch for serpents</p>
+      <p begin="01:24.030" end="01:26.220" ttm:agent="v1">Pussy ass nigga, you ain't got no purpose</p>
+      <p begin="01:26.220" end="01:29.140" ttm:agent="v1">I just wake up and count these hunnids</p>
+      <p begin="01:29.140" end="01:31.600" ttm:agent="v1">I just wake up and pour that purp-purp</p>
+      <p begin="01:31.600" end="01:34.080" ttm:agent="v1">Bad lil' thot speakin' to me in Spanish</p>
+      <p begin="01:34.080" end="01:42.060" ttm:agent="v1">I'm off the Xan', I'm 'bout to vanish</p>
+      <p begin="01:42.060" end="01:46.060" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

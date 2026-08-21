@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Pump Me Up</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Krosfyah</ttm:agent>
+      <ttm:item type="album">Ultimate Party - Pump Me Up</ttm:item>
+      <ttm:item type="spotify_id">2Y5HQolNeqkwFXokC0ANta</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:06.333" end="00:07.833" ttm:agent="v1">「Let's PUMP ME UP」</p>
+      <p begin="00:06.869" end="00:08.369" ttm:agent="v1"/>
+      <p begin="00:07.395" end="00:10.059" ttm:agent="v1">Dancers is now！ Na Na Na Na Na</p>
+      <p begin="00:10.059" end="00:18.059" ttm:agent="v1">Magic dance！ Da Da Da Da Da</p>
+      <p begin="00:19.563" end="00:21.063" ttm:agent="v1"/>
+      <p begin="00:20.361" end="00:23.288" ttm:agent="v1">大歓声に背中押され</p>
+      <p begin="00:23.288" end="00:26.469" ttm:agent="v1" itunes:key="role" itunes:value="background">熱烈爆上げ　イ尓好口馬(ニーハオマー)</p>
+      <p begin="00:26.469" end="00:29.919" ttm:agent="v1">時代の区切りに堂々と</p>
+      <p begin="00:29.919" end="00:32.846" ttm:agent="v1">好き放題やっチャイナ　ノリノリよ！</p>
+      <p begin="00:32.846" end="00:34.346" ttm:agent="v1"/>
+      <p begin="00:33.372" end="00:36.299" ttm:agent="v1">落ち込み景気に回し蹴り</p>
+      <p begin="00:36.299" end="00:39.488" ttm:agent="v1">俺らの成長は　止まらない</p>
+      <p begin="00:39.488" end="00:42.941" ttm:agent="v1">眼光鋭いドラゴンも</p>
+      <p begin="00:42.941" end="00:45.596" ttm:agent="v1">Make some noiseで　ノリノリよ！</p>
+      <p begin="00:45.596" end="00:47.096" ttm:agent="v1"/>
+      <p begin="00:46.129" end="00:47.629" ttm:agent="v1">Oh Yeah！</p>
+      <p begin="00:47.453" end="00:48.953" ttm:agent="v1"/>
+      <p begin="00:47.751" end="00:50.108" ttm:agent="v1">さとり世代も　今夜だけ</p>
+      <p begin="00:50.108" end="00:54.628" ttm:agent="v1">ネオンのミラーボールに誘われ</p>
+      <p begin="00:54.628" end="00:56.128" ttm:agent="v1" itunes:key="role" itunes:value="background">全力(Dance)</p>
+      <p begin="00:55.427" end="00:56.927" ttm:agent="v1" itunes:key="role" itunes:value="background">イケイケ(Dance)</p>
+      <p begin="00:56.224" end="00:57.724" ttm:agent="v1" itunes:key="role" itunes:value="background">100 万ドルの切れ味(Dance)</p>
+      <p begin="00:57.544" end="01:00.153" ttm:agent="v1">団塊世代も驚愕</p>
+      <p begin="01:00.153" end="01:01.653" ttm:agent="v1"/>
+      <p begin="01:00.551" end="01:02.535" ttm:agent="v1">さぁ勝気で　本気で</p>
+      <p begin="01:02.535" end="01:04.128" ttm:agent="v1">意気がっチャイナ</p>
+      <p begin="01:04.128" end="01:07.320" ttm:agent="v1" itunes:key="role" itunes:value="background">吠えてみたいな　我愛イ尓(ウォーアイニー)</p>
+      <p begin="01:07.320" end="01:09.177" ttm:agent="v1">超大フィーバー　大フィーバー</p>
+      <p begin="01:09.177" end="01:10.773" ttm:agent="v1">盛り上げチャイナ</p>
+      <p begin="01:10.773" end="01:13.700" ttm:agent="v1">決めてみたいな　ピンポンスマッシュ</p>
+      <p begin="01:13.700" end="01:15.200" ttm:agent="v1"/>
+      <p begin="01:13.962" end="01:17.150" ttm:agent="v1">ほら　みんなみんな踊りましょう</p>
+      <p begin="01:17.150" end="01:20.331" ttm:agent="v1">平！成！最後の乱れ咲き</p>
+      <p begin="01:20.331" end="01:23.519" ttm:agent="v1">もっともっと騒ぎましょう</p>
+      <p begin="01:23.519" end="01:26.709" ttm:agent="v1">過去・今・未来と乗りこなせ！</p>
+      <p begin="01:26.709" end="01:28.209" ttm:agent="v1"/>
+      <p begin="01:27.245" end="01:30.162" ttm:agent="v1">Dancers is now！ Na Na Na Na Na</p>
+      <p begin="01:30.162" end="01:33.088" ttm:agent="v1">Magic dance！ Da Da Da Da Da</p>
+      <p begin="01:33.088" end="01:39.991" ttm:agent="v1"/>
+      <p begin="01:39.991" end="01:43.184" ttm:agent="v1">毎日全開フルエナジー</p>
+      <p begin="01:43.184" end="01:46.637" ttm:agent="v1">人生は勝負の　連続さ</p>
+      <p begin="01:46.637" end="01:49.825" ttm:agent="v1">油断大敵　生真面目に</p>
+      <p begin="01:49.825" end="01:52.742" ttm:agent="v1">俺らも意外と　ゴリゴリよ！</p>
+      <p begin="01:52.742" end="01:54.242" ttm:agent="v1"/>
+      <p begin="01:53.014" end="01:54.514" ttm:agent="v1">Oh Yeah！</p>
+      <p begin="01:54.338" end="01:55.838" ttm:agent="v1"/>
+      <p begin="01:54.871" end="01:57.265" ttm:agent="v1">意外とムズイ　ハイ・クオリティ</p>
+      <p begin="01:57.265" end="02:01.393" ttm:agent="v1">繰り出す多彩な雑技に酔いしれ</p>
+      <p begin="02:01.393" end="02:02.893" ttm:agent="v1" itunes:key="role" itunes:value="background">一気に(Rise)</p>
+      <p begin="02:02.188" end="02:03.688" ttm:agent="v1" itunes:key="role" itunes:value="background">トップに(Rise)</p>
+      <p begin="02:02.985" end="02:04.582" ttm:agent="v1" itunes:key="role" itunes:value="background">新時代の幕開け(Rise)</p>
+      <p begin="02:04.582" end="02:07.498" ttm:agent="v1">ジャイアントキリング楽勝</p>
+      <p begin="02:07.498" end="02:08.998" ttm:agent="v1"/>
+      <p begin="02:07.771" end="02:09.366" ttm:agent="v1">全部出し切って　出し切って</p>
+      <p begin="02:09.366" end="02:10.951" ttm:agent="v1">闘っチャイナ</p>
+      <p begin="02:10.951" end="02:13.879" ttm:agent="v1">Burnin' like a fire　燃えろ</p>
+      <p begin="02:13.879" end="02:15.996" ttm:agent="v1">超センセーション　センセーション</p>
+      <p begin="02:15.996" end="02:17.592" ttm:agent="v1">憧れチャイナ</p>
+      <p begin="02:17.592" end="02:20.520" ttm:agent="v1">いつかリアルに　偉人伝</p>
+      <p begin="02:20.520" end="02:22.020" ttm:agent="v1"/>
+      <p begin="02:20.553" end="02:23.970" ttm:agent="v1">マジ Wanna be が止まらない</p>
+      <p begin="02:23.970" end="02:27.423" ttm:agent="v1">平！成！最後の馬鹿騒ぎ</p>
+      <p begin="02:27.423" end="02:30.615" ttm:agent="v1">My dream　つかみましょう</p>
+      <p begin="02:30.615" end="02:33.531" ttm:agent="v1">過去・今・未来を乗り越えろ！</p>
+      <p begin="02:33.531" end="02:41.531" ttm:agent="v1"/>
+      <p begin="03:06.568" end="03:08.160" ttm:agent="v1">さぁ勝気で　本気で</p>
+      <p begin="03:08.160" end="03:10.019" ttm:agent="v1">意気がっチャイナ</p>
+      <p begin="03:10.019" end="03:12.945" ttm:agent="v1">握手したいな　パンダ</p>
+      <p begin="03:12.945" end="03:14.802" ttm:agent="v1">超大フィーバー　大フィーバー</p>
+      <p begin="03:14.802" end="03:16.398" ttm:agent="v1">ウーロン茶イナ</p>
+      <p begin="03:16.398" end="03:19.314" ttm:agent="v1">ご飯に合うな　回鍋肉</p>
+      <p begin="03:19.314" end="03:20.814" ttm:agent="v1"/>
+      <p begin="03:19.575" end="03:22.767" ttm:agent="v1">ほら　みんなみんな踊りましょう</p>
+      <p begin="03:22.767" end="03:25.956" ttm:agent="v1">平！成！最後の乱れ咲き</p>
+      <p begin="03:25.956" end="03:29.409" ttm:agent="v1">もっともっと騒ぎましょう</p>
+      <p begin="03:29.409" end="03:33.122" ttm:agent="v1">過去・今・未来を乗りこなせるさ！</p>
+      <p begin="03:33.122" end="03:41.122" ttm:agent="v1"/>
+      <p begin="03:58.367" end="04:02.367" ttm:agent="v1">「Let's PUMP ME UP」</p>
+    </div>
+  </body>
+</tt>

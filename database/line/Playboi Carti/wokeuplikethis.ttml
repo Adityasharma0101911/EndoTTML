@@ -5,7 +5,6 @@
       <ttm:title>wokeuplikethis*</ttm:title>
       <ttm:agent type="person" xml:id="v1">Playboi Carti</ttm:agent>
       <ttm:item type="album">Playboi Carti</ttm:item>
-      <itunes:duration>03:56.000</itunes:duration>
     </metadata>
     <styling>
       <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
@@ -17,82 +16,88 @@
   </head>
   <body>
     <div>
-      <p begin="00:08.150" end="00:13.730" ttm:agent="v1">Know I got a lot, lot</p>
-      <p begin="00:13.730" end="00:16.620" ttm:agent="v1">I'm a rockstar</p>
-      <p begin="00:16.620" end="00:19.740" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm a rockstar (know I got a lot, lot)</p>
-      <p begin="00:19.740" end="00:22.400" ttm:agent="v1">I'm a rockstar</p>
-      <p begin="00:22.400" end="00:24.800" ttm:agent="v1">I'm a rockstar</p>
-      <p begin="00:24.800" end="00:28.210" ttm:agent="v1">Woke up to niggas talkin' like me, talk</p>
-      <p begin="00:28.210" end="00:31.320" ttm:agent="v1">Woke up to niggas soundin' like me, talk</p>
-      <p begin="00:31.320" end="00:34.130" ttm:agent="v1">Woke up to niggas talkin' like me, talk</p>
-      <p begin="00:34.130" end="00:37.390" ttm:agent="v1">Woke up to niggas soundin' like me, talk</p>
-      <p begin="00:37.390" end="00:40.380" ttm:agent="v1">I woke up to niggas soundin' like me</p>
-      <p begin="00:40.380" end="00:43.670" ttm:agent="v1">Woke up to niggas talkin' like me</p>
-      <p begin="00:43.670" end="00:46.650" ttm:agent="v1">Woke up to niggas soundin' like me</p>
-      <p begin="00:46.650" end="00:49.000" ttm:agent="v1">Woke up to niggas talkin' like me</p>
-      <p begin="00:49.000" end="00:52.030" ttm:agent="v1">Oh, I think they like me, yeah, they like me</p>
-      <p begin="00:52.030" end="00:54.840" ttm:agent="v1">Diamonds on me, ice cream, ho, that slightly</p>
-      <p begin="00:54.840" end="00:57.860" ttm:agent="v1">My Draco bitch a Spike Lee, diamonds on me biting</p>
-      <p begin="00:57.860" end="00:59.590" ttm:agent="v1">I heard these niggas wanna fight me</p>
-      <p begin="00:59.590" end="01:03.080" ttm:agent="v1">Meet me at my next show but you better bring a pipe, B</p>
-      <p begin="01:03.080" end="01:04.580" ttm:agent="v1">We ain't fighting</p>
-      <p begin="01:03.700" end="01:07.190" ttm:agent="v1">I think she like me, exciting, ooh, so exciting</p>
-      <p begin="01:07.190" end="01:11.360" ttm:agent="v1">Fuck me, Bentley coupe I'm riding with a thottie, fuck</p>
-      <p begin="01:11.360" end="01:14.140" ttm:agent="v1">I just spent a hundred on my watch piece, fuck</p>
-      <p begin="01:14.140" end="01:17.300" ttm:agent="v1">I done fell in love with a thottie, fuck</p>
-      <p begin="01:17.300" end="01:20.290" ttm:agent="v1">She just wanna fuck me for my clout, fuck</p>
-      <p begin="01:20.290" end="01:23.430" ttm:agent="v1">Bitch, I'm off the lean, I crash the Audi, fuck</p>
-      <p begin="01:23.430" end="01:26.300" ttm:agent="v1">Might just spend 200 on this Audi, truck</p>
-      <p begin="01:26.300" end="01:29.460" ttm:agent="v1">Woke up to niggas talkin' like me, talk</p>
-      <p begin="01:29.460" end="01:32.490" ttm:agent="v1">Woke up to niggas soundin' like me, talk</p>
-      <p begin="01:32.490" end="01:35.670" ttm:agent="v1">Woke up to niggas talkin' like me, talk</p>
-      <p begin="01:35.670" end="01:38.490" ttm:agent="v1">Woke up to niggas soundin' like me, talk</p>
-      <p begin="01:38.490" end="01:41.540" ttm:agent="v1">I woke up to niggas soundin' like me</p>
-      <p begin="01:41.540" end="01:44.800" ttm:agent="v1">Woke up to niggas talkin' like me</p>
-      <p begin="01:44.800" end="01:47.810" ttm:agent="v1">Woke up to niggas soundin' like me</p>
-      <p begin="01:47.810" end="01:50.090" ttm:agent="v1">Woke up to niggas talkin' like me</p>
-      <p begin="01:50.090" end="01:53.210" ttm:agent="v1">Oh, I think they like me, yeah, in my white tee</p>
-      <p begin="01:53.210" end="01:56.220" ttm:agent="v1">Oh, no, no, no, baby, smoke so much dope need some Visine</p>
-      <p begin="01:56.220" end="01:59.000" ttm:agent="v1" itunes:key="role" itunes:value="background">These young nigga don't like me, but act just like me (why?)</p>
-      <p begin="01:59.000" end="02:02.330" ttm:agent="v1">Fucked all of y'all bitches, so they parties don't invite me</p>
-      <p begin="02:02.330" end="02:05.250" ttm:agent="v1">That bitch, that's your wifey, she so triflin'</p>
-      <p begin="02:05.250" end="02:08.110" ttm:agent="v1">I been gettin' money so don't nothin' really excite me</p>
-      <p begin="02:08.110" end="02:11.520" ttm:agent="v1">Carti poured a six in the four of the right lean</p>
-      <p begin="02:11.520" end="02:14.520" ttm:agent="v1">Damn, that boy askin' for some more like the Sprite clean</p>
-      <p begin="02:14.520" end="02:17.550" ttm:agent="v1">Yeah, that's that dirty, that's that dirty</p>
-      <p begin="02:17.550" end="02:20.520" ttm:agent="v1">That girl all up in my face like she ain't tried to swerve me</p>
-      <p begin="02:20.520" end="02:23.460" ttm:agent="v1">These boys all up in my lane, I swear they keep on merging</p>
-      <p begin="02:23.460" end="02:27.000" ttm:agent="v1">No, I cannot see a lame 'cause my Rolls-Royce got curtains</p>
-      <p begin="02:27.000" end="02:30.590" ttm:agent="v1">Woke up to niggas talkin' like me, talk</p>
-      <p begin="02:30.590" end="02:33.550" ttm:agent="v1">Woke up to niggas soundin' like me, talk</p>
-      <p begin="02:33.550" end="02:36.480" ttm:agent="v1">Woke up to niggas talkin' like me, talk</p>
-      <p begin="02:36.480" end="02:39.590" ttm:agent="v1">Woke up to niggas soundin' like me, talk</p>
-      <p begin="02:39.590" end="02:42.750" ttm:agent="v1">I woke up to niggas soundin' like me</p>
-      <p begin="02:42.750" end="02:45.740" ttm:agent="v1">Woke up to niggas talkin' like me</p>
-      <p begin="02:45.740" end="02:48.740" ttm:agent="v1">Woke up to niggas soundin' like me</p>
-      <p begin="02:48.740" end="02:51.240" ttm:agent="v1">Woke up to niggas talkin' like me</p>
-      <p begin="02:51.240" end="02:54.140" ttm:agent="v1">Oh, I think they like me, think she like me</p>
-      <p begin="02:54.140" end="02:56.980" ttm:agent="v1">The bitch want to indict me, she can't find me</p>
-      <p begin="02:56.980" end="02:59.940" ttm:agent="v1">I'm like dirty up the Sprite please, with some ice please</p>
-      <p begin="02:59.940" end="03:02.810" ttm:agent="v1">We pop beans and like to sip lean, oh, oh</p>
-      <p begin="03:02.810" end="03:05.270" ttm:agent="v1">Xans, Percs, molly, we got hella things</p>
-      <p begin="03:05.270" end="03:08.320" ttm:agent="v1">I'm in love with the guap, gave it a wedding ring</p>
-      <p begin="03:08.320" end="03:11.520" ttm:agent="v1">And I swear I had these thots before I got the fame</p>
-      <p begin="03:11.520" end="03:14.540" ttm:agent="v1">And I swear I had the Glock before I got the chain</p>
-      <p begin="03:14.540" end="03:17.560" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm in Bompton with Pirus and I don't even bang, yeah (slatt)</p>
-      <p begin="03:17.560" end="03:20.470" ttm:agent="v1">Shoutout G Weed and Yung L, yeah, ho, that the gang</p>
-      <p begin="03:20.470" end="03:23.490" ttm:agent="v1">Shoutout GiGi that's my boo, she know that I claim</p>
-      <p begin="03:23.490" end="03:26.980" ttm:agent="v1">Shootin' at these niggas like I'm in the paint</p>
-      <p begin="03:26.980" end="03:28.720" ttm:agent="v1">Woke up like this</p>
-      <p begin="03:28.720" end="03:31.620" ttm:agent="v1">Woke up to niggas talkin' like me, talk</p>
-      <p begin="03:31.620" end="03:34.580" ttm:agent="v1">Woke up to niggas soundin' like me, talk</p>
-      <p begin="03:34.580" end="03:37.580" ttm:agent="v1">Woke up to niggas talkin' like me, talk</p>
-      <p begin="03:37.580" end="03:40.700" ttm:agent="v1">Woke up to niggas soundin' like me, talk</p>
-      <p begin="03:40.700" end="03:44.000" ttm:agent="v1">I woke up to niggas soundin' like me</p>
-      <p begin="03:44.000" end="03:47.060" ttm:agent="v1">Woke up to niggas talkin' like me</p>
-      <p begin="03:47.060" end="03:49.730" ttm:agent="v1">Woke up to niggas soundin' like me</p>
-      <p begin="03:49.730" end="03:52.760" ttm:agent="v1">Woke up to niggas talkin' like me</p>
-      <p begin="03:52.760" end="03:56.760" ttm:agent="v1"/>
+      <p begin="00:08.202" end="00:13.883" ttm:agent="v1">Know I got a lot, lot</p>
+      <p begin="00:13.883" end="00:16.698" ttm:agent="v1">I'm a rockstar</p>
+      <p begin="00:16.698" end="00:19.704" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm a rockstar (Know I got a lot, lot)</p>
+      <p begin="00:19.704" end="00:22.813" ttm:agent="v1">I'm a rockstar</p>
+      <p begin="00:22.813" end="00:24.543" ttm:agent="v1">I'm a rockstar</p>
+      <p begin="00:24.543" end="00:26.043" ttm:agent="v1"/>
+      <p begin="00:24.901" end="00:27.894" ttm:agent="v1">Woke up to niggas talkin' like me, talk</p>
+      <p begin="00:27.894" end="00:31.109" ttm:agent="v1">Woke up to niggas soundin' like me, talk</p>
+      <p begin="00:31.109" end="00:34.104" ttm:agent="v1">Woke up to niggas talkin' like me, talk</p>
+      <p begin="00:34.104" end="00:37.247" ttm:agent="v1">Woke up to niggas soundin' like me, talk</p>
+      <p begin="00:37.247" end="00:40.126" ttm:agent="v1">I woke up to niggas soundin' like me</p>
+      <p begin="00:40.126" end="00:43.451" ttm:agent="v1">Woke up to niggas talkin' like me</p>
+      <p begin="00:43.451" end="00:46.325" ttm:agent="v1">Woke up to niggas soundin' like me</p>
+      <p begin="00:46.325" end="00:48.751" ttm:agent="v1">Woke up to niggas talkin' like me</p>
+      <p begin="00:48.751" end="00:50.251" ttm:agent="v1"/>
+      <p begin="00:48.904" end="00:51.739" ttm:agent="v1">Oh, I think they like me, yeah, they like me</p>
+      <p begin="00:51.739" end="00:54.742" ttm:agent="v1">Diamonds on me, ice cream, ho, that slightly</p>
+      <p begin="00:54.742" end="00:57.638" ttm:agent="v1">My Draco bitch a Spike Lee, diamonds on me biting</p>
+      <p begin="00:57.638" end="00:59.436" ttm:agent="v1">I heard these niggas wanna fight me</p>
+      <p begin="00:59.436" end="01:02.630" ttm:agent="v1">Meet me at my next show but you better bring a pipe, B</p>
+      <p begin="01:02.630" end="01:04.130" ttm:agent="v1">We ain't fighting</p>
+      <p begin="01:03.575" end="01:07.058" ttm:agent="v1">I think she like me, exciting, ooh, so exciting</p>
+      <p begin="01:07.058" end="01:10.907" ttm:agent="v1">**** me, Bentley coupe I'm riding with a thottie, ****</p>
+      <p begin="01:10.907" end="01:13.986" ttm:agent="v1">I just spent a hundred on my watch piece, ****</p>
+      <p begin="01:13.986" end="01:16.809" ttm:agent="v1">I done fell in love with a thottie, ****</p>
+      <p begin="01:16.809" end="01:19.844" ttm:agent="v1">She just wanna **** me for my clout, ****</p>
+      <p begin="01:19.844" end="01:23.077" ttm:agent="v1">Bitch, I'm off the lean I crash the Audi, ****</p>
+      <p begin="01:23.077" end="01:25.957" ttm:agent="v1">Might just spend 200 on this Audi, truck</p>
+      <p begin="01:25.957" end="01:27.457" ttm:agent="v1"/>
+      <p begin="01:26.454" end="01:29.102" ttm:agent="v1">Woke up to niggas talkin' like me, talk</p>
+      <p begin="01:29.102" end="01:32.127" ttm:agent="v1">Woke up to niggas soundin' like me, talk</p>
+      <p begin="01:32.127" end="01:35.163" ttm:agent="v1">Woke up to niggas talkin' like me, talk</p>
+      <p begin="01:35.163" end="01:38.208" ttm:agent="v1">Woke up to niggas soundin' like me, talk</p>
+      <p begin="01:38.208" end="01:41.398" ttm:agent="v1">I woke up to niggas soundin' like me</p>
+      <p begin="01:41.398" end="01:44.421" ttm:agent="v1">Woke up to niggas talkin' like me</p>
+      <p begin="01:44.421" end="01:47.571" ttm:agent="v1">Woke up to niggas soundin' like me</p>
+      <p begin="01:47.571" end="01:49.837" ttm:agent="v1">Woke up to niggas talkin' like me</p>
+      <p begin="01:49.837" end="01:51.337" ttm:agent="v1"/>
+      <p begin="01:49.989" end="01:52.911" ttm:agent="v1">Oh, I think they like me, yeah, in my white tee</p>
+      <p begin="01:52.911" end="01:55.966" ttm:agent="v1">Oh, no, no, no, baby, smoke so much dope need some Visine</p>
+      <p begin="01:55.966" end="01:59.099" ttm:agent="v1" itunes:key="role" itunes:value="background">These young nigga don't like me, but act just like me (Why?)</p>
+      <p begin="01:59.099" end="02:02.015" ttm:agent="v1">****ed all of y'all bitches so they parties don't invite me</p>
+      <p begin="02:02.015" end="02:05.111" ttm:agent="v1">That bitch, that's your wifey, she so triflin'</p>
+      <p begin="02:05.111" end="02:08.134" ttm:agent="v1">I been gettin' money so don't nothin' really excite me</p>
+      <p begin="02:08.134" end="02:11.199" ttm:agent="v1">Carti poured a six in the four of the right lean</p>
+      <p begin="02:11.199" end="02:14.302" ttm:agent="v1">Damn, that boy askin' for some more like the Sprite clean</p>
+      <p begin="02:14.302" end="02:17.375" ttm:agent="v1">Yeah, that's that dirty, that's that dirty</p>
+      <p begin="02:17.375" end="02:20.397" ttm:agent="v1">That girl all up in my face like she ain't tried to swerve me</p>
+      <p begin="02:20.397" end="02:23.436" ttm:agent="v1">These boys all up in my lane, I swear they keep on merging</p>
+      <p begin="02:23.436" end="02:26.711" ttm:agent="v1">No, I cannot see a lame 'cause my Rolls-Royce got curtains</p>
+      <p begin="02:26.711" end="02:28.211" ttm:agent="v1"/>
+      <p begin="02:27.424" end="02:30.150" ttm:agent="v1">Woke up to niggas talkin' like me, talk</p>
+      <p begin="02:30.150" end="02:33.226" ttm:agent="v1">Woke up to niggas soundin' like me, talk</p>
+      <p begin="02:33.226" end="02:36.307" ttm:agent="v1">Woke up to niggas talkin' like me, talk</p>
+      <p begin="02:36.307" end="02:39.399" ttm:agent="v1">Woke up to niggas soundin' like me, talk</p>
+      <p begin="02:39.399" end="02:42.538" ttm:agent="v1">I woke up to niggas soundin' like me</p>
+      <p begin="02:42.538" end="02:45.579" ttm:agent="v1">Woke up to niggas talkin' like me</p>
+      <p begin="02:45.579" end="02:48.611" ttm:agent="v1">Woke up to niggas soundin' like me</p>
+      <p begin="02:48.611" end="02:50.955" ttm:agent="v1">Woke up to niggas talkin' like me</p>
+      <p begin="02:50.955" end="02:52.455" ttm:agent="v1"/>
+      <p begin="02:51.148" end="02:53.923" ttm:agent="v1">Oh, I think they like me, think she like me</p>
+      <p begin="02:53.923" end="02:56.947" ttm:agent="v1">The bitch want to indict me, she can't find me</p>
+      <p begin="02:56.947" end="03:00.067" ttm:agent="v1">I'm like dirty up the Sprite please, with some ice please</p>
+      <p begin="03:00.067" end="03:02.290" ttm:agent="v1">We pop beans and like to sip lean, oh oh</p>
+      <p begin="03:02.290" end="03:04.970" ttm:agent="v1">Xans, Percs, molly, we got hella things</p>
+      <p begin="03:04.970" end="03:07.985" ttm:agent="v1">I'm in love with the guap, gave it a wedding ring</p>
+      <p begin="03:07.985" end="03:11.122" ttm:agent="v1">And I swear I had these thots before I got the fame</p>
+      <p begin="03:11.122" end="03:14.149" ttm:agent="v1">And I swear I had the Glock before I got the chain</p>
+      <p begin="03:14.149" end="03:17.335" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm in Bompton with Pirus and I don't even bang, yeah (Slatt)</p>
+      <p begin="03:17.335" end="03:20.318" ttm:agent="v1">Shoutout G Weed and Yung L, yeah, ho, that the gang</p>
+      <p begin="03:20.318" end="03:23.766" ttm:agent="v1">Shoutout GiGi that's my boo, she know that I claim</p>
+      <p begin="03:23.766" end="03:26.881" ttm:agent="v1">Shootin' at these niggas like I'm in the paint</p>
+      <p begin="03:26.881" end="03:28.381" ttm:agent="v1">Woke up like this</p>
+      <p begin="03:28.070" end="03:29.570" ttm:agent="v1"/>
+      <p begin="03:28.260" end="03:31.437" ttm:agent="v1">Woke up to niggas talkin' like me, talk</p>
+      <p begin="03:31.437" end="03:34.458" ttm:agent="v1">Woke up to niggas soundin' like me, talk</p>
+      <p begin="03:34.458" end="03:37.453" ttm:agent="v1">Woke up to niggas talkin' like me, talk</p>
+      <p begin="03:37.453" end="03:40.552" ttm:agent="v1">Woke up to niggas soundin' like me, talk</p>
+      <p begin="03:40.552" end="03:43.698" ttm:agent="v1">I woke up to niggas soundin' like me</p>
+      <p begin="03:43.698" end="03:46.653" ttm:agent="v1">Woke up to niggas talkin' like me</p>
+      <p begin="03:46.653" end="03:49.716" ttm:agent="v1">I woke up to niggas soundin' like me</p>
+      <p begin="03:49.716" end="03:53.716" ttm:agent="v1">Woke up to niggas talkin' like me</p>
     </div>
   </body>
 </tt>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>VVV (HE'S BACK)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">mikeeysmind</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">sanik archive</ttm:agent>
+      <ttm:item type="album">VVV</ttm:item>
+      <ttm:item type="spotify_id">3A2RGiGI1lI7ZU0mzvcqoI</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.070" end="00:03.160" ttm:agent="v1">Yeah, I came with a blick, I just brought the fire</p>
+      <p begin="00:03.160" end="00:06.240" ttm:agent="v1" itunes:key="role" itunes:value="background">I can't fuck with none of these lames, they a fuckin' lie (he's back!)</p>
+      <p begin="00:06.240" end="00:09.560" ttm:agent="v1" itunes:key="role" itunes:value="background">All these bitches fuck me 'cause they know I'm with Cudi (buddy)</p>
+      <p begin="00:09.560" end="00:12.610" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm smokin' dope like I'm Kid Cudi (blatt, Cudi)</p>
+      <p begin="00:12.610" end="00:16.560" ttm:agent="v1">I fucked your bitch and I might fuck her buddy, hol' up</p>
+      <p begin="00:16.560" end="00:18.060" ttm:agent="v1">Uh, yeah</p>
+      <p begin="00:17.890" end="00:20.960" ttm:agent="v1" itunes:key="role" itunes:value="background">Racks, I got racks (yeah)</p>
+      <p begin="00:20.960" end="00:23.950" ttm:agent="v1" itunes:key="role" itunes:value="background">Money in my pants make me sag (yeah)</p>
+      <p begin="00:23.950" end="00:27.030" ttm:agent="v1" itunes:key="role" itunes:value="background">My bitch on my dick, she got me mad (yeah)</p>
+      <p begin="00:27.030" end="00:35.030" ttm:agent="v1" itunes:key="role" itunes:value="background">I pull Glock .9s and I blast (blatt, blast, hol' up)</p>
+      <p begin="00:39.940" end="00:43.800" ttm:agent="v1" itunes:key="role" itunes:value="background">I can't fuck with none of these lames, they a fuckin' lie (he's back!)</p>
+      <p begin="00:43.800" end="00:46.680" ttm:agent="v1" itunes:key="role" itunes:value="background">These bitches fuck me 'cause they know I'm with Cudi (buddy)</p>
+      <p begin="00:46.680" end="00:49.840" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm smokin' dope like I'm Kid Cudi (blatt, Cudi)</p>
+      <p begin="00:49.840" end="00:53.690" ttm:agent="v1">I fucked your bitch and I might fuck her buddy, hol' up</p>
+      <p begin="00:53.690" end="00:55.190" ttm:agent="v1">Uh, yeah</p>
+      <p begin="00:54.930" end="00:58.080" ttm:agent="v1" itunes:key="role" itunes:value="background">Racks, I got racks (yeah)</p>
+      <p begin="00:58.080" end="01:01.110" ttm:agent="v1" itunes:key="role" itunes:value="background">Money in my pants make me sag (yeah)</p>
+      <p begin="01:01.110" end="01:04.270" ttm:agent="v1" itunes:key="role" itunes:value="background">My bitch on my dick, she got me mad (yeah)</p>
+      <p begin="01:04.270" end="01:08.150" ttm:agent="v1" itunes:key="role" itunes:value="background">I pull Glock .9s and I blast (blatt, blast, hol' up)</p>
+      <p begin="01:08.150" end="01:12.150" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

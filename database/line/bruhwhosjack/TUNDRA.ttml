@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>TUNDRA</ttm:title>
+      <ttm:agent type="person" xml:id="v1">bruhwhosjack</ttm:agent>
+      <ttm:item type="album">TUNDRA</ttm:item>
+      <ttm:item type="spotify_id">30BgTFOw9wnVWFFuLClgzk</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="03:13.090" end="03:14.840" ttm:agent="v1">平衡两个字</p>
+      <p begin="03:14.840" end="03:17.390" ttm:agent="v1">从来都不能是一首诗</p>
+      <p begin="03:17.390" end="03:19.580" ttm:agent="v1">它将一条线段划开</p>
+      <p begin="03:19.580" end="03:21.720" ttm:agent="v1">它让明天就是明天</p>
+      <p begin="03:21.720" end="03:24.830" ttm:agent="v1">它将我和你的命运区分</p>
+      <p begin="03:24.830" end="03:28.280" ttm:agent="v1">我们必须遵循非诗性的平衡</p>
+      <p begin="03:28.280" end="03:31.210" ttm:agent="v1">保持活着</p>
+      <p begin="03:31.210" end="03:32.990" ttm:agent="v1">这是我的选择</p>
+      <p begin="03:32.990" end="03:35.460" ttm:agent="v1">我准备好了</p>
+      <p begin="03:35.460" end="03:39.240" ttm:agent="v1">而我的选择也足够成为一首诗</p>
+      <p begin="03:39.240" end="03:40.770" ttm:agent="v1">并且这首诗</p>
+      <p begin="03:40.770" end="03:42.950" ttm:agent="v1">将会开始另一些</p>
+      <p begin="03:42.950" end="03:46.950" ttm:agent="v1">足够成为诗歌的尘世</p>
+    </div>
+  </body>
+</tt>
