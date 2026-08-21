@@ -7,13 +7,13 @@
     "completed": 1816,
     "failed": 9,
     "pending": 7,
-    "syllable_synced": 896,
-    "line_synced": 860,
-    "plain": 60,
+    "syllable_synced": 935,
+    "line_synced": 827,
+    "plain": 54,
     "providers": {
-      "LRCLIB": 800,
-      "NetEase": 963,
-      "SyncedLyrics": 53
+      "LRCLIB": 768,
+      "NetEase": 999,
+      "SyncedLyrics": 49
     }
   },
   "tracks": [
@@ -16885,12 +16885,12 @@
       "artist": "LPB Poody",
       "album": "Batman",
       "duration_seconds": null,
-      "file_path": "database\\line\\LPB Poody\\Batman.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 51,
-      "word_count": 636,
-      "rel_path": "database/line/LPB Poody/Batman.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\LPB Poody\\Batman.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 45,
+      "word_count": 308,
+      "rel_path": "database/syllable/LPB Poody/Batman.ttml"
     },
     {
       "id": 1133,
@@ -22210,12 +22210,12 @@
       "artist": "Highvyn",
       "album": "ghosts",
       "duration_seconds": null,
-      "file_path": "database\\plain\\Highvyn\\ghosts.ttml",
-      "sync_type": "plain",
-      "provider": "SyncedLyrics",
-      "line_count": 0,
-      "word_count": 0,
-      "rel_path": "database/plain/Highvyn/ghosts.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Highvyn\\ghosts.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 76,
+      "word_count": 487,
+      "rel_path": "database/syllable/Highvyn/ghosts.ttml"
     },
     {
       "id": 1490,
@@ -22240,12 +22240,12 @@
       "artist": "LEEHI, B.I",
       "album": "4 ONLY",
       "duration_seconds": null,
-      "file_path": "database\\line\\LEEHI\\Savior (feat. B.I).ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 45,
-      "word_count": 190,
-      "rel_path": "database/line/LEEHI/Savior (feat. B.I).ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\LEEHI\\Savior (feat. B.I).ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 18,
+      "word_count": 126,
+      "rel_path": "database/syllable/LEEHI/Savior (feat. B.I).ttml"
     },
     {
       "id": 1492,
@@ -22465,12 +22465,12 @@
       "artist": "Milena",
       "album": "Night Train",
       "duration_seconds": null,
-      "file_path": "database\\line\\Milena\\Night Train.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 51,
-      "word_count": 195,
-      "rel_path": "database/line/Milena/Night Train.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Milena\\Night Train.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 72,
+      "word_count": 309,
+      "rel_path": "database/syllable/Milena/Night Train.ttml"
     },
     {
       "id": 1507,
@@ -22600,12 +22600,12 @@
       "artist": "Childish Gambino",
       "album": "Camp",
       "duration_seconds": null,
-      "file_path": "database\\line\\Childish Gambino\\Bonfire.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 61,
-      "word_count": 568,
-      "rel_path": "database/line/Childish Gambino/Bonfire.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Childish Gambino\\Bonfire.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 42,
+      "word_count": 401,
+      "rel_path": "database/syllable/Childish Gambino/Bonfire.ttml"
     },
     {
       "id": 1516,
@@ -22825,12 +22825,12 @@
       "artist": "Vengaboys",
       "album": "The Party Album!",
       "duration_seconds": null,
-      "file_path": "database\\line\\Vengaboys\\Boom, Boom, Boom, Boom!!.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 65,
-      "word_count": 275,
-      "rel_path": "database/line/Vengaboys/Boom, Boom, Boom, Boom!!.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Vengaboys\\Boom, Boom, Boom, Boom!!.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 73,
+      "word_count": 323,
+      "rel_path": "database/syllable/Vengaboys/Boom, Boom, Boom, Boom!!.ttml"
     },
     {
       "id": 1531,
@@ -22900,12 +22900,12 @@
       "artist": "Clean Bandit, Demi Lovato",
       "album": "What Is Love? (Deluxe Edition)",
       "duration_seconds": null,
-      "file_path": "database\\line\\Clean Bandit\\Solo (feat. Demi Lovato).ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 77,
-      "word_count": 399,
-      "rel_path": "database/line/Clean Bandit/Solo (feat. Demi Lovato).ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Clean Bandit\\Solo (feat. Demi Lovato).ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 78,
+      "word_count": 557,
+      "rel_path": "database/syllable/Clean Bandit/Solo (feat. Demi Lovato).ttml"
     },
     {
       "id": 1536,
@@ -23230,12 +23230,12 @@
       "artist": "SpongeBob SquarePants",
       "album": "Spongebob Squarepants - The Yellow Album",
       "duration_seconds": null,
-      "file_path": "database\\plain\\SpongeBob SquarePants\\Stadium Rave.ttml",
-      "sync_type": "plain",
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\SpongeBob SquarePants\\Stadium Rave.ttml",
+      "sync_type": "syllable_synced",
       "provider": "NetEase",
-      "line_count": 0,
-      "word_count": 0,
-      "rel_path": "database/plain/SpongeBob SquarePants/Stadium Rave.ttml"
+      "line_count": 20,
+      "word_count": 99,
+      "rel_path": "database/syllable/SpongeBob SquarePants/Stadium Rave.ttml"
     },
     {
       "id": 1558,
@@ -23260,12 +23260,12 @@
       "artist": "SpongeBob SquarePants",
       "album": "SpongeBob's Greatest Hits",
       "duration_seconds": null,
-      "file_path": "database\\line\\SpongeBob SquarePants\\The Goofy Goober Song.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 51,
-      "word_count": 232,
-      "rel_path": "database/line/SpongeBob SquarePants/The Goofy Goober Song.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\SpongeBob SquarePants\\The Goofy Goober Song.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 20,
+      "word_count": 99,
+      "rel_path": "database/syllable/SpongeBob SquarePants/The Goofy Goober Song.ttml"
     },
     {
       "id": 1560,
@@ -23665,12 +23665,12 @@
       "artist": "Glorb",
       "album": "EUGENE",
       "duration_seconds": null,
-      "file_path": "database\\line\\Glorb\\EUGENE.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 58,
-      "word_count": 424,
-      "rel_path": "database/line/Glorb/EUGENE.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Glorb\\EUGENE.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 25,
+      "word_count": 209,
+      "rel_path": "database/syllable/Glorb/EUGENE.ttml"
     },
     {
       "id": 1587,
@@ -23830,12 +23830,12 @@
       "artist": "jondre",
       "album": "all i need",
       "duration_seconds": null,
-      "file_path": "database\\line\\jondre\\all i need.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 43,
-      "word_count": 199,
-      "rel_path": "database/line/jondre/all i need.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\jondre\\all i need.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 30,
+      "word_count": 116,
+      "rel_path": "database/syllable/jondre/all i need.ttml"
     },
     {
       "id": 1598,
@@ -23845,12 +23845,12 @@
       "artist": "jondre",
       "album": "run",
       "duration_seconds": null,
-      "file_path": "database\\plain\\jondre\\run.ttml",
-      "sync_type": "plain",
-      "provider": "SyncedLyrics",
-      "line_count": 0,
-      "word_count": 0,
-      "rel_path": "database/plain/jondre/run.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\jondre\\run.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 55,
+      "word_count": 480,
+      "rel_path": "database/syllable/jondre/run.ttml"
     },
     {
       "id": 1599,
@@ -24055,12 +24055,12 @@
       "artist": "ENHYPEN",
       "album": "BORDER : CARNIVAL",
       "duration_seconds": null,
-      "file_path": "database\\line\\ENHYPEN\\FEVER.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 44,
-      "word_count": 210,
-      "rel_path": "database/line/ENHYPEN/FEVER.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\ENHYPEN\\FEVER.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 39,
+      "word_count": 406,
+      "rel_path": "database/syllable/ENHYPEN/FEVER.ttml"
     },
     {
       "id": 1613,
@@ -24190,12 +24190,12 @@
       "artist": "Jiandro",
       "album": "Lumosphere",
       "duration_seconds": null,
-      "file_path": "database\\plain\\Jiandro\\Lumosphere.ttml",
-      "sync_type": "plain",
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Jiandro\\Lumosphere.ttml",
+      "sync_type": "syllable_synced",
       "provider": "NetEase",
-      "line_count": 0,
-      "word_count": 0,
-      "rel_path": "database/plain/Jiandro/Lumosphere.ttml"
+      "line_count": 40,
+      "word_count": 286,
+      "rel_path": "database/syllable/Jiandro/Lumosphere.ttml"
     },
     {
       "id": 1622,
@@ -24295,12 +24295,12 @@
       "artist": "Lewis Hanton, Orchestra Club",
       "album": "Where Have You Been (Orchestra)",
       "duration_seconds": null,
-      "file_path": "database\\line\\Lewis Hanton\\Where Have You Been.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 59,
-      "word_count": 325,
-      "rel_path": "database/line/Lewis Hanton/Where Have You Been.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Lewis Hanton\\Where Have You Been.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 48,
+      "word_count": 260,
+      "rel_path": "database/syllable/Lewis Hanton/Where Have You Been.ttml"
     },
     {
       "id": 1629,
@@ -24400,12 +24400,12 @@
       "artist": "LeoStayTrill",
       "album": "Selena",
       "duration_seconds": null,
-      "file_path": "database\\line\\LeoStayTrill\\Selena.ttml",
-      "sync_type": "line_synced",
-      "provider": "SyncedLyrics",
-      "line_count": 71,
-      "word_count": 453,
-      "rel_path": "database/line/LeoStayTrill/Selena.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\LeoStayTrill\\Selena.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 62,
+      "word_count": 433,
+      "rel_path": "database/syllable/LeoStayTrill/Selena.ttml"
     },
     {
       "id": 1636,
@@ -24805,12 +24805,12 @@
       "artist": "Chanpan",
       "album": "endlessly",
       "duration_seconds": null,
-      "file_path": "database\\line\\Chanpan\\endlessly.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 30,
-      "word_count": 177,
-      "rel_path": "database/line/Chanpan/endlessly.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Chanpan\\endlessly.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 35,
+      "word_count": 208,
+      "rel_path": "database/syllable/Chanpan/endlessly.ttml"
     },
     {
       "id": 1663,
@@ -24835,12 +24835,12 @@
       "artist": "heleenyum",
       "album": "Heaven",
       "duration_seconds": null,
-      "file_path": "database\\line\\heleenyum\\Heaven.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 37,
-      "word_count": 161,
-      "rel_path": "database/line/heleenyum/Heaven.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\heleenyum\\Heaven.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 43,
+      "word_count": 521,
+      "rel_path": "database/syllable/heleenyum/Heaven.ttml"
     },
     {
       "id": 1665,
@@ -24880,12 +24880,12 @@
       "artist": "Breezee",
       "album": "So In Love",
       "duration_seconds": null,
-      "file_path": "database\\line\\Breezee\\So In Love.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 38,
-      "word_count": 261,
-      "rel_path": "database/line/Breezee/So In Love.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Breezee\\So In Love.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 87,
+      "word_count": 451,
+      "rel_path": "database/syllable/Breezee/So In Love.ttml"
     },
     {
       "id": 1668,
@@ -24955,12 +24955,12 @@
       "artist": "Yxwi Hxh",
       "album": "Lights Out",
       "duration_seconds": null,
-      "file_path": "database\\plain\\Yxwi Hxh\\Lights Out.ttml",
-      "sync_type": "plain",
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Yxwi Hxh\\Lights Out.ttml",
+      "sync_type": "syllable_synced",
       "provider": "NetEase",
-      "line_count": 0,
-      "word_count": 0,
-      "rel_path": "database/plain/Yxwi Hxh/Lights Out.ttml"
+      "line_count": 37,
+      "word_count": 265,
+      "rel_path": "database/syllable/Yxwi Hxh/Lights Out.ttml"
     },
     {
       "id": 1673,
@@ -25120,12 +25120,12 @@
       "artist": "1nonly, Odetari",
       "album": "FLY",
       "duration_seconds": null,
-      "file_path": "database\\line\\1nonly\\FLY.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 74,
-      "word_count": 494,
-      "rel_path": "database/line/1nonly/FLY.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\1nonly\\FLY.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 58,
+      "word_count": 322,
+      "rel_path": "database/syllable/1nonly/FLY.ttml"
     },
     {
       "id": 1684,
@@ -25150,12 +25150,12 @@
       "artist": "Cloaks",
       "album": "One More Night",
       "duration_seconds": null,
-      "file_path": "database\\line\\Cloaks\\One More Night.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 27,
-      "word_count": 168,
-      "rel_path": "database/line/Cloaks/One More Night.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Cloaks\\One More Night.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 60,
+      "word_count": 451,
+      "rel_path": "database/syllable/Cloaks/One More Night.ttml"
     },
     {
       "id": 1686,
@@ -25225,12 +25225,12 @@
       "artist": "Hildir Svensson, Six Dior",
       "album": "Innocence",
       "duration_seconds": null,
-      "file_path": "database\\line\\Hildir Svensson\\Innocence.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 58,
-      "word_count": 404,
-      "rel_path": "database/line/Hildir Svensson/Innocence.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Hildir Svensson\\Innocence.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 48,
+      "word_count": 312,
+      "rel_path": "database/syllable/Hildir Svensson/Innocence.ttml"
     },
     {
       "id": 1691,
@@ -25450,12 +25450,12 @@
       "artist": "DYSTINCT",
       "album": "YAMA",
       "duration_seconds": null,
-      "file_path": "database\\line\\DYSTINCT\\YAMA.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 78,
-      "word_count": 255,
-      "rel_path": "database/line/DYSTINCT/YAMA.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\DYSTINCT\\YAMA.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 35,
+      "word_count": 484,
+      "rel_path": "database/syllable/DYSTINCT/YAMA.ttml"
     },
     {
       "id": 1706,
@@ -25480,12 +25480,12 @@
       "artist": "Ado",
       "album": "Zanmu",
       "duration_seconds": null,
-      "file_path": "database\\line\\Ado\\Show.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 47,
-      "word_count": 151,
-      "rel_path": "database/line/Ado/Show.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Ado\\Show.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 59,
+      "word_count": 418,
+      "rel_path": "database/syllable/Ado/Show.ttml"
     },
     {
       "id": 1708,
@@ -25570,12 +25570,12 @@
       "artist": "Gustavo Santaolalla, Diego Luna",
       "album": "The Book of Life (Original Motion Picture Soundtrack)",
       "duration_seconds": null,
-      "file_path": "database\\line\\Gustavo Santaolalla\\The Apology Song - from The Book of Life Soundtrack.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 38,
-      "word_count": 209,
-      "rel_path": "database/line/Gustavo Santaolalla/The Apology Song - from The Book of Life Soundtrack.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Gustavo Santaolalla\\The Apology Song - from The Book of Life Soundtrack.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 44,
+      "word_count": 215,
+      "rel_path": "database/syllable/Gustavo Santaolalla/The Apology Song - from The Book of Life Soundtrack.ttml"
     },
     {
       "id": 1714,
@@ -25705,12 +25705,12 @@
       "artist": "Joji",
       "album": "Piss In The Wind",
       "duration_seconds": null,
-      "file_path": "database\\line\\Joji\\Hotel California.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 27,
-      "word_count": 205,
-      "rel_path": "database/line/Joji/Hotel California.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Joji\\Hotel California.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 60,
+      "word_count": 350,
+      "rel_path": "database/syllable/Joji/Hotel California.ttml"
     },
     {
       "id": 1723,
@@ -25840,12 +25840,12 @@
       "artist": "H3adband",
       "album": "BOO",
       "duration_seconds": null,
-      "file_path": "database\\line\\H3adband\\BOO.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 37,
-      "word_count": 389,
-      "rel_path": "database/line/H3adband/BOO.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\H3adband\\BOO.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 32,
+      "word_count": 191,
+      "rel_path": "database/syllable/H3adband/BOO.ttml"
     },
     {
       "id": 1732,
@@ -26305,12 +26305,12 @@
       "artist": "Emi Choi",
       "album": "Holiday",
       "duration_seconds": null,
-      "file_path": "database\\line\\Emi Choi\\Holiday.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 43,
-      "word_count": 189,
-      "rel_path": "database/line/Emi Choi/Holiday.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Emi Choi\\Holiday.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 34,
+      "word_count": 267,
+      "rel_path": "database/syllable/Emi Choi/Holiday.ttml"
     },
     {
       "id": 1763,
@@ -26320,12 +26320,12 @@
       "artist": "Minh",
       "album": "hypnotized",
       "duration_seconds": null,
-      "file_path": "database\\line\\Minh\\hypnotized.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 40,
-      "word_count": 208,
-      "rel_path": "database/line/Minh/hypnotized.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Minh\\hypnotized.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 61,
+      "word_count": 307,
+      "rel_path": "database/syllable/Minh/hypnotized.ttml"
     },
     {
       "id": 1764,
@@ -26365,12 +26365,12 @@
       "artist": "Rocco",
       "album": "Baby Blue",
       "duration_seconds": null,
-      "file_path": "database\\line\\Rocco\\Baby Blue.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 28,
-      "word_count": 181,
-      "rel_path": "database/line/Rocco/Baby Blue.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Rocco\\Baby Blue.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 19,
+      "word_count": 167,
+      "rel_path": "database/syllable/Rocco/Baby Blue.ttml"
     },
     {
       "id": 1767,
@@ -26410,12 +26410,12 @@
       "artist": "Emi Choi",
       "album": "slow love",
       "duration_seconds": null,
-      "file_path": "database\\plain\\Emi Choi\\slow love.ttml",
-      "sync_type": "plain",
-      "provider": "SyncedLyrics",
-      "line_count": 0,
-      "word_count": 0,
-      "rel_path": "database/plain/Emi Choi/slow love.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Emi Choi\\slow love.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 57,
+      "word_count": 476,
+      "rel_path": "database/syllable/Emi Choi/slow love.ttml"
     },
     {
       "id": 1770,
@@ -26425,12 +26425,12 @@
       "artist": "shae",
       "album": "SIMPLE",
       "duration_seconds": null,
-      "file_path": "database\\line\\shae\\SIMPLE.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 65,
-      "word_count": 344,
-      "rel_path": "database/line/shae/SIMPLE.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\shae\\SIMPLE.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 71,
+      "word_count": 389,
+      "rel_path": "database/syllable/shae/SIMPLE.ttml"
     },
     {
       "id": 1771,
@@ -26455,12 +26455,12 @@
       "artist": "fromis_9",
       "album": "Love Me Back (From \"Operation: True Love\")",
       "duration_seconds": null,
-      "file_path": "database\\line\\fromis 9\\Love Me Back.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 53,
-      "word_count": 364,
-      "rel_path": "database/line/fromis 9/Love Me Back.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\fromis 9\\Love Me Back.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 73,
+      "word_count": 385,
+      "rel_path": "database/syllable/fromis 9/Love Me Back.ttml"
     },
     {
       "id": 1773,
@@ -26545,12 +26545,12 @@
       "artist": "The Cure",
       "album": "Three Imaginary Boys (Deluxe Edition)",
       "duration_seconds": null,
-      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\line\\The Cure\\Boys Don't Cry - Single Version.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 37,
-      "word_count": 200,
-      "rel_path": "database/line/The Cure/Boys Don't Cry - Single Version.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\The Cure\\Boys Don't Cry - Single Version.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 40,
+      "word_count": 195,
+      "rel_path": "database/syllable/The Cure/Boys Don't Cry - Single Version.ttml"
     },
     {
       "id": 1779,
@@ -26740,12 +26740,12 @@
       "artist": "WIMY",
       "album": "again and again",
       "duration_seconds": null,
-      "file_path": "database\\line\\WIMY\\again and again.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 25,
-      "word_count": 169,
-      "rel_path": "database/line/WIMY/again and again.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\WIMY\\again and again.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 56,
+      "word_count": 428,
+      "rel_path": "database/syllable/WIMY/again and again.ttml"
     },
     {
       "id": 1792,
@@ -26770,12 +26770,12 @@
       "artist": "PRYVT",
       "album": "BACK TO REALITY",
       "duration_seconds": null,
-      "file_path": "database\\line\\PRYVT\\HEAVEN.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 17,
-      "word_count": 128,
-      "rel_path": "database/line/PRYVT/HEAVEN.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\PRYVT\\HEAVEN.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 43,
+      "word_count": 521,
+      "rel_path": "database/syllable/PRYVT/HEAVEN.ttml"
     },
     {
       "id": 1794,
@@ -26920,12 +26920,12 @@
       "artist": "void",
       "album": "Wok",
       "duration_seconds": null,
-      "file_path": "database\\line\\void\\Wok.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\void\\Wok.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
       "line_count": 67,
-      "word_count": 517,
-      "rel_path": "database/line/void/Wok.ttml"
+      "word_count": 539,
+      "rel_path": "database/syllable/void/Wok.ttml"
     },
     {
       "id": 1804,
@@ -27205,12 +27205,12 @@
       "artist": "Michael Jackson",
       "album": "Bad (Remastered)",
       "duration_seconds": null,
-      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\line\\Michael Jackson\\Liberian Girl - 2012 Remastered Version.ttml",
-      "sync_type": "line_synced",
-      "provider": "LRCLIB",
-      "line_count": 62,
-      "word_count": 242,
-      "rel_path": "database/line/Michael Jackson/Liberian Girl - 2012 Remastered Version.ttml"
+      "file_path": "C:\\Users\\Aditya Sharma\\Desktop\\Projects\\EndoTTML\\database\\syllable\\Michael Jackson\\Liberian Girl - 2012 Remastered Version.ttml",
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 54,
+      "word_count": 442,
+      "rel_path": "database/syllable/Michael Jackson/Liberian Girl - 2012 Remastered Version.ttml"
     },
     {
       "id": 1830,
