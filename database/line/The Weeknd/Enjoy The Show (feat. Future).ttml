@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Enjoy The Show (feat. Future)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">The Weeknd</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Future</ttm:agent>
+      <ttm:item type="album">Hurry Up Tomorrow</ttm:item>
+      <ttm:item type="spotify_id">637oNhilCI9UlkWkUW4Grt</ttm:item>
+      <itunes:duration>05:01.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.010" end="00:02.970" ttm:agent="v1">I'll need you</p>
+      <p begin="00:02.970" end="00:07.000" ttm:agent="v1" itunes:key="role" itunes:value="background">'Cause, baby, I need you (ooh)</p>
+      <p begin="00:07.000" end="00:10.950" ttm:agent="v1">Say, I'll need</p>
+      <p begin="00:10.950" end="00:13.840" ttm:agent="v1">'Cause, baby, I need you</p>
+      <p begin="00:13.840" end="00:16.750" ttm:agent="v1" itunes:key="role" itunes:value="background">Whoo (ooh)</p>
+      <p begin="00:16.750" end="00:21.470" ttm:agent="v1">Feels like you're a part of me, yeah</p>
+      <p begin="00:21.470" end="00:27.740" ttm:agent="v1">And I can't lie, you still get to me</p>
+      <p begin="00:27.740" end="00:30.170" ttm:agent="v1"/>
+      <p begin="00:30.170" end="00:34.950" ttm:agent="v1">Oh, no, I'm in my feelings, fuck their logic</p>
+      <p begin="00:34.950" end="00:39.380" ttm:agent="v1">They can never tear us 'part, we symbiotic</p>
+      <p begin="00:39.380" end="00:43.570" ttm:agent="v1">No matter what I tell the world, we always locked in</p>
+      <p begin="00:43.570" end="00:47.180" ttm:agent="v1">So I gently tilt my head like my mama always said</p>
+      <p begin="00:47.180" end="00:51.130" ttm:agent="v1">And drink it slow, take it slow</p>
+      <p begin="00:51.130" end="00:55.330" ttm:agent="v1">I don't got the tolerance like before</p>
+      <p begin="00:55.330" end="00:59.280" ttm:agent="v1">You pick me up when I'm low</p>
+      <p begin="00:59.280" end="01:03.160" ttm:agent="v1">I'm not violent to my body anymore</p>
+      <p begin="01:03.160" end="01:07.220" ttm:agent="v1">And I'm not scared, fuck it, overdose</p>
+      <p begin="01:07.220" end="01:11.570" ttm:agent="v1">No one thought I'd make it past 24</p>
+      <p begin="01:11.570" end="01:15.220" ttm:agent="v1">And when the curtains call, I hope you mourn</p>
+      <p begin="01:15.220" end="01:18.260" ttm:agent="v1">And if you don't, I hope you enjoy the fuckin' show</p>
+      <p begin="01:18.260" end="01:21.370" ttm:agent="v1">Let me know, let me know, baby</p>
+      <p begin="01:21.370" end="01:25.300" ttm:agent="v1"/>
+      <p begin="01:25.300" end="01:29.580" ttm:agent="v1">Yeah, yeah, yeah, yeah</p>
+      <p begin="01:29.580" end="01:34.370" ttm:agent="v1"/>
+      <p begin="01:34.370" end="01:35.870" ttm:agent="v1">Yeah</p>
+      <p begin="01:35.830" end="01:39.180" ttm:agent="v1">Let me be</p>
+      <p begin="01:39.180" end="01:43.760" ttm:agent="v1"/>
+      <p begin="01:43.760" end="01:46.760" ttm:agent="v1">Let me be</p>
+      <p begin="01:46.760" end="01:51.610" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, ski (whoo)</p>
+      <p begin="01:51.610" end="01:55.890" ttm:agent="v1">I can't feel my face anymore</p>
+      <p begin="01:55.890" end="01:59.730" ttm:agent="v1">I don't wanna give you any space anymore</p>
+      <p begin="01:59.730" end="02:03.720" ttm:agent="v1">I don't wanna feel like I'm alone anymore</p>
+      <p begin="02:03.720" end="02:07.870" ttm:agent="v1">I can't live without you, I've been goin' through withdrawals</p>
+      <p begin="02:07.870" end="02:11.720" ttm:agent="v1" itunes:key="role" itunes:value="background">You my favorite drug, you my favorite drug (ah)</p>
+      <p begin="02:11.720" end="02:15.640" ttm:agent="v1">Got me in my feelings, back drinkin' mud</p>
+      <p begin="02:15.640" end="02:19.940" ttm:agent="v1">Got me in my feelings, back drinkin' mud</p>
+      <p begin="02:19.940" end="02:23.330" ttm:agent="v1">Don't want the drugs, don't want the drugs, oh, no</p>
+      <p begin="02:23.330" end="02:25.390" ttm:agent="v1">Got out my feelings, inside my duffel</p>
+      <p begin="02:25.390" end="02:27.190" ttm:agent="v1" itunes:key="role" itunes:value="background">Come hit the dust with the devil (oh, no)</p>
+      <p begin="02:27.190" end="02:29.190" ttm:agent="v1">I'm sayin' a prayer for the rebels</p>
+      <p begin="02:29.190" end="02:31.260" ttm:agent="v1">I'm in her mouth like a real one</p>
+      <p begin="02:31.260" end="02:35.060" ttm:agent="v1">Ain't doin' no cappin', ain't with all that cappin', ain't nothin' like these rap niggas</p>
+      <p begin="02:35.060" end="02:39.030" ttm:agent="v1">I done been 'round the globe fuckin' these hoes, still actin' like a trap nigga</p>
+      <p begin="02:39.030" end="02:43.240" ttm:agent="v1">Plus, a bitch brain can't be untamed, I'm like a shootin' star</p>
+      <p begin="02:43.240" end="02:46.940" ttm:agent="v1">Take a bump of caviar, surfin' at the baddest broad</p>
+      <p begin="02:46.940" end="02:49.120" ttm:agent="v1">Real diamond shinin' dark</p>
+      <p begin="02:49.120" end="02:51.170" ttm:agent="v1">Bad bitches, knockin' 'em off</p>
+      <p begin="02:51.170" end="02:53.180" ttm:agent="v1">Bad bitches, knockin' 'em off</p>
+      <p begin="02:53.180" end="02:55.000" ttm:agent="v1">Bad bitches, knockin' 'em off</p>
+      <p begin="02:55.000" end="03:01.240" ttm:agent="v1">I'm in my feelings, Hendrix</p>
+      <p begin="03:01.240" end="03:06.700" ttm:agent="v1">Yeah, yeah, yeah, yeah</p>
+      <p begin="03:06.700" end="03:10.270" ttm:agent="v1">Yeah, ski</p>
+      <p begin="03:10.270" end="03:11.770" ttm:agent="v1">Whoo</p>
+      <p begin="03:11.760" end="03:15.570" ttm:agent="v1">Let me be</p>
+      <p begin="03:15.570" end="03:19.870" ttm:agent="v1"/>
+      <p begin="03:19.870" end="03:26.550" ttm:agent="v1">Let me be</p>
+      <p begin="03:26.550" end="03:34.550" ttm:agent="v1"/>
+      <p begin="03:43.670" end="03:47.730" ttm:agent="v1">Like a middle-aged child star, way I'm fuckin' tweakin'</p>
+      <p begin="03:47.730" end="03:51.700" ttm:agent="v1">3 a.m. sunset, fryin' like a phoenix</p>
+      <p begin="03:51.700" end="03:55.730" ttm:agent="v1">Got a nigga nose sniffin', need a box of Kleenex</p>
+      <p begin="03:55.730" end="03:59.800" ttm:agent="v1">Bloated it in my face 'cause the chemicals releasin'</p>
+      <p begin="03:59.800" end="04:03.720" ttm:agent="v1">Guess I could be healthy, but I'm tryna find a reason</p>
+      <p begin="04:03.720" end="04:07.630" ttm:agent="v1">Trauma's in my life, I've been hesitant to healin'</p>
+      <p begin="04:07.630" end="04:11.640" ttm:agent="v1">Take another hit, or my music, they won't feel it</p>
+      <p begin="04:11.640" end="04:15.240" ttm:agent="v1">I just wanna die when I'm at my fuckin' peak</p>
+      <p begin="04:15.240" end="04:19.220" ttm:agent="v1">And drink it slow, won't drink it slow</p>
+      <p begin="04:19.220" end="04:23.260" ttm:agent="v1">I don't want the tolerance anymore</p>
+      <p begin="04:23.260" end="04:27.180" ttm:agent="v1">Wanna stay up, fuck the floor</p>
+      <p begin="04:27.180" end="04:31.360" ttm:agent="v1">Feel the violence creepin' up, that's for sure</p>
+      <p begin="04:31.360" end="04:35.500" ttm:agent="v1">And I'm ready, fuck it, overdose</p>
+      <p begin="04:35.500" end="04:39.280" ttm:agent="v1">I don't want to make it past 34</p>
+      <p begin="04:39.280" end="04:43.150" ttm:agent="v1">And when the curtains call, I hope you mourn</p>
+      <p begin="04:43.150" end="04:46.580" ttm:agent="v1">But if you don't, I hope you enjoyed the fuckin' show</p>
+      <p begin="04:46.580" end="04:48.140" ttm:agent="v1">Let me know, let me know, baby</p>
+      <p begin="04:48.140" end="04:52.140" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

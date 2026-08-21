@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Crystal Skies</ttm:title>
+      <ttm:agent type="person" xml:id="v1">VXLLAIN</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">iGRES</ttm:agent>
+      <ttm:agent type="person" xml:id="v3">ENXK</ttm:agent>
+      <ttm:item type="album">Crystal Skies</ttm:item>
+      <ttm:item type="spotify_id">1nzuxI1V5mXGylN4Kvcoy6</ttm:item>
+      <itunes:duration>02:48.561</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="01:01.640" end="01:05.330" ttm:agent="v1">You think the rules don't apply to the golden boy?</p>
+      <p begin="01:05.330" end="01:07.880" ttm:agent="v1">Brilliance makes up for a lot</p>
+      <p begin="01:07.880" end="01:12.350" ttm:agent="v1">Don't alienate the only people in the world that understand</p>
+      <p begin="01:12.350" end="01:15.950" ttm:agent="v1">You think the rules don't apply to the golden boy?</p>
+      <p begin="01:15.950" end="01:18.680" ttm:agent="v1">Brilliance makes up for a lot</p>
+      <p begin="01:18.680" end="01:21.760" ttm:agent="v1">Don't alienate the only people in the world that understand</p>
+      <p begin="01:21.760" end="01:29.760" ttm:agent="v1"/>
+      <p begin="02:05.730" end="02:09.310" ttm:agent="v1">You think the rules don't apply to the golden boy?</p>
+      <p begin="02:09.310" end="02:12.010" ttm:agent="v1">Brilliance makes up for a lot</p>
+      <p begin="02:12.010" end="02:16.440" ttm:agent="v1">Don't alienate the only people in the world that understand</p>
+      <p begin="02:16.440" end="02:19.860" ttm:agent="v1">You think the rules don't apply to the golden boy?</p>
+      <p begin="02:19.860" end="02:22.620" ttm:agent="v1">Brilliance makes up for a lot</p>
+      <p begin="02:22.620" end="02:26.820" ttm:agent="v1">Don't alienate the only people</p>
+      <p begin="02:26.820" end="02:30.530" ttm:agent="v1">You think the rules don't apply to the golden boy?</p>
+      <p begin="02:30.530" end="02:34.620" ttm:agent="v1">Brilliance makes up for a lot</p>
+      <p begin="02:34.620" end="02:42.570" ttm:agent="v1">Don't alienate the only people in the world that understand what you do</p>
+      <p begin="02:42.570" end="02:44.730" ttm:agent="v1">One day you might need them</p>
+      <p begin="02:44.730" end="02:48.730" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

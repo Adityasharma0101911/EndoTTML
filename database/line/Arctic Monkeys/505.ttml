@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>505</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Arctic Monkeys</ttm:agent>
+      <ttm:item type="album">Favourite Worst Nightmare (Standard Version)</ttm:item>
+      <ttm:item type="spotify_id">58ge6dfP91o9oXMzq3XkIS</ttm:item>
+      <itunes:duration>04:13.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:12.270" end="00:16.710" ttm:agent="v1">I'm going back to 505</p>
+      <p begin="00:16.710" end="00:23.650" ttm:agent="v1">If it's a seven-hour flight or a 45-minute drive</p>
+      <p begin="00:23.650" end="00:30.280" ttm:agent="v1">In my imagination, you're waiting lying on your side</p>
+      <p begin="00:30.280" end="00:36.120" ttm:agent="v1">With your hands between your thighs</p>
+      <p begin="00:36.120" end="00:40.830" ttm:agent="v1"/>
+      <p begin="00:40.830" end="00:43.990" ttm:agent="v1">Stop and wait a sec'</p>
+      <p begin="00:43.990" end="00:51.150" ttm:agent="v1">Oh, when you look at me like that, my darling, what did you expect?</p>
+      <p begin="00:51.150" end="00:57.760" ttm:agent="v1">I'd probably still adore you with your hands around my neck</p>
+      <p begin="00:57.760" end="01:02.550" ttm:agent="v1">Or I did last time I checked</p>
+      <p begin="01:02.550" end="01:08.310" ttm:agent="v1"/>
+      <p begin="01:08.310" end="01:11.480" ttm:agent="v1">Not shy of a spark</p>
+      <p begin="01:11.480" end="01:18.570" ttm:agent="v1">A knife twists at the thought that I should fall short of the mark</p>
+      <p begin="01:18.570" end="01:25.390" ttm:agent="v1">Frightened by the bite, though it's no harsher than the bark</p>
+      <p begin="01:25.390" end="01:33.390" ttm:agent="v1">The middle of adventure is such a perfect place to start</p>
+      <p begin="01:34.410" end="01:38.500" ttm:agent="v1">I'm going back to 505</p>
+      <p begin="01:38.500" end="01:45.820" ttm:agent="v1">If it's a seven-hour flight or a 45-minute drive</p>
+      <p begin="01:45.820" end="01:52.590" ttm:agent="v1">In my imagination, you're waiting lying on your side</p>
+      <p begin="01:52.590" end="01:58.100" ttm:agent="v1">With your hands between your thighs</p>
+      <p begin="01:58.100" end="02:06.100" ttm:agent="v1"/>
+      <p begin="02:28.670" end="02:33.620" ttm:agent="v1">But I crumble completely when you cry</p>
+      <p begin="02:33.620" end="02:40.530" ttm:agent="v1">It seems like once again you've had to greet me with goodbye</p>
+      <p begin="02:40.530" end="02:47.050" ttm:agent="v1">I'm always just about to go and spoil a surprise</p>
+      <p begin="02:47.050" end="02:52.640" ttm:agent="v1">Take my hands off of your eyes too soon</p>
+      <p begin="02:52.640" end="02:56.800" ttm:agent="v1"/>
+      <p begin="02:56.800" end="03:00.510" ttm:agent="v1">I'm going back to 505</p>
+      <p begin="03:00.510" end="03:07.940" ttm:agent="v1">If it's a seven-hour flight or a 45-minute drive</p>
+      <p begin="03:07.940" end="03:14.400" ttm:agent="v1">In my imagination, you're waiting lying on your side</p>
+      <p begin="03:14.400" end="03:18.640" ttm:agent="v1">With your hands between your thighs and a smile</p>
+      <p begin="03:18.640" end="03:22.640" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

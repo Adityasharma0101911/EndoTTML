@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Ella Baila Sola</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Eslabon Armado</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Peso Pluma</ttm:agent>
+      <ttm:item type="album">DESVELADO</ttm:item>
+      <ttm:item type="spotify_id">3qQbCzHBycnDpGskqOWY0E</ttm:item>
+      <itunes:duration>02:46.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:24.240" end="00:25.880" ttm:agent="v1">Compa</p>
+      <p begin="00:25.880" end="00:27.830" ttm:agent="v1">¿Qué le parece esa morra?</p>
+      <p begin="00:27.830" end="00:30.500" ttm:agent="v1">La que anda bailando sola</p>
+      <p begin="00:30.500" end="00:34.220" ttm:agent="v1">Me gusta pa mí</p>
+      <p begin="00:34.220" end="00:35.720" ttm:agent="v1">¡Bella!</p>
+      <p begin="00:35.330" end="00:37.780" ttm:agent="v1">Ella sabe que está buena</p>
+      <p begin="00:37.780" end="00:40.930" ttm:agent="v1">Que todos andan mirándola cómo baila</p>
+      <p begin="00:40.930" end="00:43.770" ttm:agent="v1"/>
+      <p begin="00:43.770" end="00:45.270" ttm:agent="v1">Me acerco</p>
+      <p begin="00:45.050" end="00:47.490" ttm:agent="v1">Y le tiro todo un verbo</p>
+      <p begin="00:47.490" end="00:53.230" ttm:agent="v1">Tomamos tragos sin peros, solo tentación</p>
+      <p begin="00:53.230" end="00:56.670" ttm:agent="v1">Le dije</p>
+      <p begin="00:56.670" end="00:59.060" ttm:agent="v1">&quot;Voy a conquistar tu familia</p>
+      <p begin="00:59.060" end="01:02.950" ttm:agent="v1">Que, en unos días, vas a ser mía&quot;</p>
+      <p begin="01:02.950" end="01:06.440" ttm:agent="v1">Me dijo</p>
+      <p begin="01:06.440" end="01:08.860" ttm:agent="v1">Que estoy muy loco, pero le gusta</p>
+      <p begin="01:08.860" end="01:13.540" ttm:agent="v1">Que ningún vato como yo actúa</p>
+      <p begin="01:13.540" end="01:16.000" ttm:agent="v1">Y ahí te va, mija</p>
+      <p begin="01:16.000" end="01:18.160" ttm:agent="v1">¡Y puro Doble P, viejo!</p>
+      <p begin="01:18.160" end="01:19.660" ttm:agent="v1">Así nomás, compa Pedro</p>
+      <p begin="01:19.570" end="01:21.910" ttm:agent="v1">Puro Eslabón Armado</p>
+      <p begin="01:21.910" end="01:24.420" ttm:agent="v1" itunes:key="role" itunes:value="background">Pa las plebitas (¡cha-chau!)</p>
+      <p begin="01:24.420" end="01:32.420" ttm:agent="v1"/>
+      <p begin="01:32.480" end="01:33.980" ttm:agent="v1">No soy</p>
+      <p begin="01:33.650" end="01:36.210" ttm:agent="v1">Un vato que tiene varo</p>
+      <p begin="01:36.210" end="01:38.430" ttm:agent="v1">Pero hablando del corazón</p>
+      <p begin="01:38.430" end="01:42.110" ttm:agent="v1">Te cumplo todo</p>
+      <p begin="01:42.110" end="01:43.770" ttm:agent="v1">Me agarro</p>
+      <p begin="01:43.770" end="01:45.690" ttm:agent="v1">Pegadito de su mano</p>
+      <p begin="01:45.690" end="01:48.390" ttm:agent="v1">Mi compa ni se la creyó</p>
+      <p begin="01:48.390" end="01:51.790" ttm:agent="v1">Que al pasar fui yo</p>
+      <p begin="01:51.790" end="01:55.320" ttm:agent="v1">Su cuerpo</p>
+      <p begin="01:55.320" end="01:57.430" ttm:agent="v1">Juro, por Dios, que era tan perfecta</p>
+      <p begin="01:57.430" end="02:01.480" ttm:agent="v1">Su cinturita como modelo</p>
+      <p begin="02:01.480" end="02:04.950" ttm:agent="v1">Sus ojos</p>
+      <p begin="02:04.950" end="02:07.240" ttm:agent="v1">Desde el principio me enamoraron</p>
+      <p begin="02:07.240" end="02:08.740" ttm:agent="v1">A ella le gusto y a mí me gusta</p>
+      <p begin="02:07.390" end="02:11.390" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>rises the moon</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Liana Flores</ttm:agent>
+      <ttm:item type="album">recently</ttm:item>
+      <ttm:item type="spotify_id">51Grh1RyUDcMBbpuyUIUHI</ttm:item>
+      <itunes:duration>02:42.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:11.820" end="00:17.260" ttm:agent="v1">Days seem sometimes as if they'll never end</p>
+      <p begin="00:17.260" end="00:22.470" ttm:agent="v1">Sun digs its heels to taunt you</p>
+      <p begin="00:22.470" end="00:26.650" ttm:agent="v1">But after sunlit days, one thing stays the same</p>
+      <p begin="00:26.650" end="00:30.840" ttm:agent="v1">Rises the moon</p>
+      <p begin="00:30.840" end="00:33.370" ttm:agent="v1"/>
+      <p begin="00:33.370" end="00:38.800" ttm:agent="v1">Days fade into a watercolour blur</p>
+      <p begin="00:38.800" end="00:43.870" ttm:agent="v1">Memories swim and haunt you</p>
+      <p begin="00:43.870" end="00:47.930" ttm:agent="v1">But look into the lake, shimmering like smoke</p>
+      <p begin="00:47.930" end="00:54.700" ttm:agent="v1">Rises the moon</p>
+      <p begin="00:54.700" end="01:02.370" ttm:agent="v1">Oh-oh, close your weary eyes</p>
+      <p begin="01:02.370" end="01:04.760" ttm:agent="v1">I promise you that soon the autumn comes</p>
+      <p begin="01:04.760" end="01:12.720" ttm:agent="v1">To darken fading summer skies</p>
+      <p begin="01:12.720" end="01:18.280" ttm:agent="v1">Breathe, breathe, breathe</p>
+      <p begin="01:18.280" end="01:25.810" ttm:agent="v1"/>
+      <p begin="01:25.810" end="01:30.850" ttm:agent="v1">Days pull you down just like a sinking ship</p>
+      <p begin="01:30.850" end="01:36.110" ttm:agent="v1">Floating is getting harder</p>
+      <p begin="01:36.110" end="01:40.170" ttm:agent="v1">But tread the water, child, and know that meanwhile</p>
+      <p begin="01:40.170" end="01:46.510" ttm:agent="v1">Rises the moon</p>
+      <p begin="01:46.510" end="01:51.660" ttm:agent="v1">Days pull you up just like a daffodil</p>
+      <p begin="01:51.660" end="01:56.980" ttm:agent="v1">Uprooted from its garden</p>
+      <p begin="01:56.980" end="02:00.990" ttm:agent="v1">They'll tell you what you owe, but know even so</p>
+      <p begin="02:00.990" end="02:07.470" ttm:agent="v1">Rises the moon</p>
+      <p begin="02:07.470" end="02:14.910" ttm:agent="v1">You'll be visited by sleep</p>
+      <p begin="02:14.910" end="02:17.440" ttm:agent="v1">I promise you that soon the autumn comes</p>
+      <p begin="02:17.440" end="02:25.440" ttm:agent="v1">To steal away each dream you keep</p>
+      <p begin="02:25.510" end="02:32.860" ttm:agent="v1">Breathe, breathe, breathe</p>
+      <p begin="02:32.860" end="02:36.860" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

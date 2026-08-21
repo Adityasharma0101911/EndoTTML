@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Just the Way You Are</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Bruno Mars</ttm:agent>
+      <ttm:item type="album">Doo-Wops &amp; Hooligans</ttm:item>
+      <ttm:item type="spotify_id">7BqBn9nzAq8spo5e7cZ0dJ</ttm:item>
+      <itunes:duration>03:41.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:16.890" end="00:19.900" ttm:agent="v1">Oh, her eyes, her eyes</p>
+      <p begin="00:19.900" end="00:21.980" ttm:agent="v1">Make the stars look like they're not shining</p>
+      <p begin="00:21.980" end="00:23.900" ttm:agent="v1">Her hair, her hair</p>
+      <p begin="00:23.900" end="00:26.940" ttm:agent="v1">Falls perfectly without her trying</p>
+      <p begin="00:26.940" end="00:28.910" ttm:agent="v1">She's so beautiful</p>
+      <p begin="00:28.910" end="00:33.310" ttm:agent="v1">And I tell her every day</p>
+      <p begin="00:33.310" end="00:37.380" ttm:agent="v1">Yeah, I know, I know</p>
+      <p begin="00:37.380" end="00:40.400" ttm:agent="v1">When I compliment her, she won't believe me</p>
+      <p begin="00:40.400" end="00:41.900" ttm:agent="v1">And it's so, it's so</p>
+      <p begin="00:41.750" end="00:44.250" ttm:agent="v1">Sad to think that she don't see what I see</p>
+      <p begin="00:44.250" end="00:47.450" ttm:agent="v1">But every time she asks me, &quot;Do I look okay?&quot;</p>
+      <p begin="00:47.450" end="00:49.550" ttm:agent="v1">I say</p>
+      <p begin="00:49.550" end="00:54.690" ttm:agent="v1">When I see your face</p>
+      <p begin="00:54.690" end="01:00.020" ttm:agent="v1">There's not a thing that I would change</p>
+      <p begin="01:00.020" end="01:02.820" ttm:agent="v1">'Cause you're amazing</p>
+      <p begin="01:02.820" end="01:07.050" ttm:agent="v1">Just the way you are</p>
+      <p begin="01:07.050" end="01:09.830" ttm:agent="v1"/>
+      <p begin="01:09.830" end="01:13.190" ttm:agent="v1">And when you smile</p>
+      <p begin="01:13.190" end="01:17.730" ttm:agent="v1">The whole world stops and stares for a while</p>
+      <p begin="01:17.730" end="01:20.910" ttm:agent="v1">'Cause girl, you're amazing</p>
+      <p begin="01:20.910" end="01:25.020" ttm:agent="v1">Just the way you are</p>
+      <p begin="01:25.020" end="01:28.440" ttm:agent="v1">Yeah</p>
+      <p begin="01:28.440" end="01:29.980" ttm:agent="v1">Her lips, her lips</p>
+      <p begin="01:29.980" end="01:32.680" ttm:agent="v1">I could kiss them all day if she'd let me</p>
+      <p begin="01:32.680" end="01:34.450" ttm:agent="v1">Her laugh, her laugh</p>
+      <p begin="01:34.450" end="01:37.200" ttm:agent="v1">She hates, but I think it's so sexy</p>
+      <p begin="01:37.200" end="01:39.540" ttm:agent="v1">She's so beautiful</p>
+      <p begin="01:39.540" end="01:43.580" ttm:agent="v1">And I tell her every day</p>
+      <p begin="01:43.580" end="01:47.570" ttm:agent="v1">Oh, you know, you know, you know</p>
+      <p begin="01:47.570" end="01:49.360" ttm:agent="v1">I'd never ask you to change</p>
+      <p begin="01:49.360" end="01:52.140" ttm:agent="v1">If perfect's what you're searching for</p>
+      <p begin="01:52.140" end="01:53.860" ttm:agent="v1">Then just stay the same</p>
+      <p begin="01:53.860" end="01:58.440" ttm:agent="v1">So don't even bother asking if you look okay</p>
+      <p begin="01:58.440" end="02:01.000" ttm:agent="v1">You know I'll say</p>
+      <p begin="02:01.000" end="02:04.070" ttm:agent="v1">When I see your face</p>
+      <p begin="02:04.070" end="02:10.380" ttm:agent="v1">There's not a thing that I would change</p>
+      <p begin="02:10.380" end="02:13.920" ttm:agent="v1">'Cause you're amazing</p>
+      <p begin="02:13.920" end="02:17.980" ttm:agent="v1">Just the way you are</p>
+      <p begin="02:17.980" end="02:22.660" ttm:agent="v1">And when you smile</p>
+      <p begin="02:22.660" end="02:28.810" ttm:agent="v1">The whole world stops and stares for a while</p>
+      <p begin="02:28.810" end="02:31.330" ttm:agent="v1">'Cause girl, you're amazing</p>
+      <p begin="02:31.330" end="02:35.820" ttm:agent="v1">Just the way you are</p>
+      <p begin="02:35.820" end="02:41.370" ttm:agent="v1">The way you are</p>
+      <p begin="02:41.370" end="02:45.990" ttm:agent="v1">The way you are</p>
+      <p begin="02:45.990" end="02:49.300" ttm:agent="v1">Girl, you're amazing</p>
+      <p begin="02:49.300" end="02:53.290" ttm:agent="v1">Just the way you are</p>
+      <p begin="02:53.290" end="02:56.640" ttm:agent="v1">When I see your face</p>
+      <p begin="02:56.640" end="02:58.730" ttm:agent="v1"/>
+      <p begin="02:58.730" end="03:03.640" ttm:agent="v1">There's not a thing that I would change</p>
+      <p begin="03:03.640" end="03:06.380" ttm:agent="v1">'Cause you're amazing</p>
+      <p begin="03:06.380" end="03:10.850" ttm:agent="v1">Just the way you are</p>
+      <p begin="03:10.850" end="03:14.650" ttm:agent="v1">And when you smile</p>
+      <p begin="03:14.650" end="03:20.510" ttm:agent="v1">The whole world stops and stares for a while</p>
+      <p begin="03:20.510" end="03:24.290" ttm:agent="v1">'Cause girl, you're amazing</p>
+      <p begin="03:24.290" end="03:28.320" ttm:agent="v1">Just the way you are</p>
+      <p begin="03:28.320" end="03:29.820" ttm:agent="v1">Yeah</p>
+      <p begin="03:28.850" end="03:32.850" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

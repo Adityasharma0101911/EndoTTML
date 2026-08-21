@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>intro (end of the world)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Ariana Grande</ttm:agent>
+      <ttm:item type="album">eternal sunshine</ttm:item>
+      <ttm:item type="spotify_id">2o1pb13quMReXZqE7jWsgq</ttm:item>
+      <itunes:duration>01:32.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:19.000" end="00:20.840" ttm:agent="v1">Uh</p>
+      <p begin="00:20.840" end="00:24.670" ttm:agent="v1">How can I tell if I'm in the right relationship?</p>
+      <p begin="00:24.670" end="00:27.120" ttm:agent="v1">Aren't you really supposed to know that shit?</p>
+      <p begin="00:27.120" end="00:30.550" ttm:agent="v1">Feel it in your bones and own that shit? I don't know</p>
+      <p begin="00:30.550" end="00:34.380" ttm:agent="v1">Then I had this interaction I've been thinkin' 'bout for like five weeks</p>
+      <p begin="00:34.380" end="00:37.430" ttm:agent="v1">Wonder if he's thinkin' 'bout it too and smiling</p>
+      <p begin="00:37.430" end="00:40.600" ttm:agent="v1">Wonder if he knows that that's been what's inspirin' me</p>
+      <p begin="00:40.600" end="00:44.430" ttm:agent="v1">Wonder if he's judgin' me like I am right now</p>
+      <p begin="00:44.430" end="00:46.710" ttm:agent="v1">I don't care</p>
+      <p begin="00:46.710" end="00:49.390" ttm:agent="v1" itunes:key="role" itunes:value="background">I'd rather tell the truth (truth)</p>
+      <p begin="00:49.390" end="00:53.110" ttm:agent="v1" itunes:key="role" itunes:value="background">Than make it worse for you (you), mm</p>
+      <p begin="00:53.110" end="00:58.110" ttm:agent="v1">If the sun refused to shine</p>
+      <p begin="00:58.110" end="01:02.180" ttm:agent="v1">Baby, would I still be your lover?</p>
+      <p begin="01:02.180" end="01:04.350" ttm:agent="v1">Would you want me there?</p>
+      <p begin="01:04.350" end="01:09.550" ttm:agent="v1">If the moon went dark tonight</p>
+      <p begin="01:09.550" end="01:13.430" ttm:agent="v1">And if it all ended tomorrow</p>
+      <p begin="01:13.430" end="01:20.870" ttm:agent="v1">Would I be the one on your mind, your mind, your mind?</p>
+      <p begin="01:20.870" end="01:24.710" ttm:agent="v1">And if it all ended tomorrow</p>
+      <p begin="01:24.710" end="01:29.940" ttm:agent="v1">Would you be the one on mine?</p>
+      <p begin="01:29.940" end="01:33.940" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

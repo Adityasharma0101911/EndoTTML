@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>spin you round</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Rocco</ttm:agent>
+      <ttm:item type="album">spin you round</ttm:item>
+      <ttm:item type="spotify_id">7rulewysad9ow7ICTIIlUe</ttm:item>
+      <itunes:duration>02:07.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:01.330" end="00:04.010" ttm:agent="v1">We'll take our time</p>
+      <p begin="00:04.010" end="00:07.910" ttm:agent="v1">As we watch the stars collide</p>
+      <p begin="00:07.910" end="00:10.980" ttm:agent="v1">I scotch a bit closer</p>
+      <p begin="00:10.980" end="00:14.000" ttm:agent="v1">Where my hand then moves over to yours</p>
+      <p begin="00:14.000" end="00:16.950" ttm:agent="v1">Oh, but every time</p>
+      <p begin="00:16.950" end="00:20.850" ttm:agent="v1">We have to say goodbye</p>
+      <p begin="00:20.850" end="00:24.150" ttm:agent="v1">My heart cries a little for you</p>
+      <p begin="00:24.150" end="00:26.850" ttm:agent="v1">So how about you stay until 2:00?</p>
+      <p begin="00:26.850" end="00:28.980" ttm:agent="v1">So I could spin you round</p>
+      <p begin="00:28.980" end="00:32.620" ttm:agent="v1">Take my hand until the sun goes down</p>
+      <p begin="00:32.620" end="00:35.920" ttm:agent="v1">Hold me close so I can love you now</p>
+      <p begin="00:35.920" end="00:40.230" ttm:agent="v1" itunes:key="role" itunes:value="background">How 'bout we all just forget? (Oh)</p>
+      <p begin="00:40.230" end="00:43.180" ttm:agent="v1">All of our obligations</p>
+      <p begin="00:43.180" end="00:46.430" ttm:agent="v1">I'd prefer stupid conversations</p>
+      <p begin="00:46.430" end="00:49.800" ttm:agent="v1">As long as it's with you, babe</p>
+      <p begin="00:49.800" end="00:53.420" ttm:agent="v1" itunes:key="role" itunes:value="background">As long as I'm with you, babe (oh-oh)</p>
+      <p begin="00:53.420" end="00:56.030" ttm:agent="v1">She said, &quot;Pretty boy, pretty boy</p>
+      <p begin="00:56.030" end="00:59.880" ttm:agent="v1">You got me acting up&quot;</p>
+      <p begin="00:59.880" end="01:02.270" ttm:agent="v1">I said, &quot;Pretty girl, pretty girl</p>
+      <p begin="01:02.270" end="01:06.050" ttm:agent="v1">I won't ask too much</p>
+      <p begin="01:06.050" end="01:08.400" ttm:agent="v1">'Cause I'd only ask you</p>
+      <p begin="01:08.400" end="01:11.630" ttm:agent="v1">Politely if you'd like to dance</p>
+      <p begin="01:11.630" end="01:16.370" ttm:agent="v1">'Cause my heart is all yours to break</p>
+      <p begin="01:16.370" end="01:19.560" ttm:agent="v1">Oh, so why don't you come on over?&quot;</p>
+      <p begin="01:19.560" end="01:21.650" ttm:agent="v1">So I could spin you round</p>
+      <p begin="01:21.650" end="01:24.930" ttm:agent="v1">Take my hand until the sun goes down</p>
+      <p begin="01:24.930" end="01:28.650" ttm:agent="v1">Hold me close so I can love you now</p>
+      <p begin="01:28.650" end="01:32.540" ttm:agent="v1" itunes:key="role" itunes:value="background">How 'bout we all just forget? (Oh)</p>
+      <p begin="01:32.540" end="01:35.600" ttm:agent="v1">All of our obligations</p>
+      <p begin="01:35.600" end="01:39.060" ttm:agent="v1">I'd prefer stupid conversations</p>
+      <p begin="01:39.060" end="01:42.370" ttm:agent="v1">As long as it's with you, babe</p>
+      <p begin="01:42.370" end="01:45.810" ttm:agent="v1" itunes:key="role" itunes:value="background">As long as I'm with you babe (oh-oh)</p>
+      <p begin="01:45.810" end="01:49.810" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

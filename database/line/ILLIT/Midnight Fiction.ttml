@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Midnight Fiction</ttm:title>
+      <ttm:agent type="person" xml:id="v1">ILLIT</ttm:agent>
+      <ttm:item type="album">SUPER REAL ME</ttm:item>
+      <ttm:item type="spotify_id">6QqrxJe1iQxwLY6he6FLFo</ttm:item>
+      <itunes:duration>02:48.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.810" end="00:04.430" ttm:agent="v1">하루의 끝 침대 위로 쓰러져</p>
+      <p begin="00:04.430" end="00:08.470" ttm:agent="v1" itunes:key="role" itunes:value="background">잠들기는 좀 아쉬워 (uh-uh-uh)</p>
+      <p begin="00:08.470" end="00:13.260" ttm:agent="v1">감았던 눈을 살포시 다시 뜸 시작돼</p>
+      <p begin="00:13.260" end="00:15.560" ttm:agent="v1">My teenage dream</p>
+      <p begin="00:15.560" end="00:18.910" ttm:agent="v1" itunes:key="role" itunes:value="background">어느새 내 몸이 새가 된 듯 (fly away)</p>
+      <p begin="00:18.910" end="00:22.040" ttm:agent="v1">날개도 없이 떠올라</p>
+      <p begin="00:22.040" end="00:26.020" ttm:agent="v1">점 보다 작아진 집 it's like a dot</p>
+      <p begin="00:26.020" end="00:30.280" ttm:agent="v1" itunes:key="role" itunes:value="background">바람의 소린 my favorite song (song)</p>
+      <p begin="00:30.280" end="00:32.220" ttm:agent="v1">달빛도 잠든 사이</p>
+      <p begin="00:32.220" end="00:33.960" ttm:agent="v1">시작된 나의 story</p>
+      <p begin="00:33.960" end="00:35.880" ttm:agent="v1">끝없이 펼쳐지는</p>
+      <p begin="00:35.880" end="00:37.380" ttm:agent="v1">Midnight fiction</p>
+      <p begin="00:37.240" end="00:39.600" ttm:agent="v1">설렘이 가득하지</p>
+      <p begin="00:39.600" end="00:41.260" ttm:agent="v1">자그만 내 침대 위</p>
+      <p begin="00:41.260" end="00:42.960" ttm:agent="v1">엉뚱하지만 어때</p>
+      <p begin="00:42.960" end="00:44.610" ttm:agent="v1">Midnight fiction</p>
+      <p begin="00:44.610" end="00:52.390" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ah) like a fantasy (fantasy)</p>
+      <p begin="00:52.390" end="00:59.480" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ah) like a fantasy (fantasy)</p>
+      <p begin="00:59.480" end="01:01.400" ttm:agent="v1">미스터리 아포칼립스</p>
+      <p begin="01:01.400" end="01:03.110" ttm:agent="v1">로맨틱 코미디</p>
+      <p begin="01:03.110" end="01:05.100" ttm:agent="v1">전환되는 장르</p>
+      <p begin="01:05.100" end="01:07.120" ttm:agent="v1" itunes:key="role" itunes:value="background">Until the morning (yeah)</p>
+      <p begin="01:07.120" end="01:10.390" ttm:agent="v1">우리집 강아지를 닮은 구름과 산책</p>
+      <p begin="01:10.390" end="01:12.660" ttm:agent="v1">그 다음은 우주로 잠수</p>
+      <p begin="01:12.660" end="01:14.630" ttm:agent="v1">Deeper and deeper, yeah</p>
+      <p begin="01:14.630" end="01:18.030" ttm:agent="v1" itunes:key="role" itunes:value="background">소원을 빌어 원해 my Genie (fly away)</p>
+      <p begin="01:18.030" end="01:21.460" ttm:agent="v1">내 맘대로 쓰는 scenario</p>
+      <p begin="01:21.460" end="01:24.810" ttm:agent="v1">작가도 주인공도 딱 only one</p>
+      <p begin="01:24.810" end="01:29.310" ttm:agent="v1" itunes:key="role" itunes:value="background">모든 게 나만의 teenage dream (dream)</p>
+      <p begin="01:29.310" end="01:31.050" ttm:agent="v1">달빛도 잠든 사이</p>
+      <p begin="01:31.050" end="01:32.700" ttm:agent="v1">시작된 나의 story</p>
+      <p begin="01:32.700" end="01:34.450" ttm:agent="v1">끝없이 펼쳐지는</p>
+      <p begin="01:34.450" end="01:36.720" ttm:agent="v1">Midnight fiction</p>
+      <p begin="01:36.720" end="01:38.480" ttm:agent="v1">설렘이 가득하지</p>
+      <p begin="01:38.480" end="01:40.120" ttm:agent="v1">자그만 내 침대 위</p>
+      <p begin="01:40.120" end="01:42.140" ttm:agent="v1">엉뚱하지만 어때</p>
+      <p begin="01:42.140" end="01:43.920" ttm:agent="v1">Midnight fiction</p>
+      <p begin="01:43.920" end="01:51.540" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ah) like a fantasy (fantasy)</p>
+      <p begin="01:51.540" end="01:58.920" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ah) like a fantasy (fantasy)</p>
+      <p begin="01:58.920" end="02:00.940" ttm:agent="v1">Like a dream 아득히</p>
+      <p begin="02:00.940" end="02:02.440" ttm:agent="v1">펼쳐진 장면 사이</p>
+      <p begin="02:02.390" end="02:04.000" ttm:agent="v1">아쉬워 ending credits</p>
+      <p begin="02:04.000" end="02:06.290" ttm:agent="v1">Ending credits</p>
+      <p begin="02:06.290" end="02:07.990" ttm:agent="v1">내일 아침</p>
+      <p begin="02:07.990" end="02:09.960" ttm:agent="v1">시작되는 story</p>
+      <p begin="02:09.960" end="02:11.640" ttm:agent="v1">It'd be sweet and tasty</p>
+      <p begin="02:11.640" end="02:13.890" ttm:agent="v1">Yeah, so tasty</p>
+      <p begin="02:13.890" end="02:15.550" ttm:agent="v1">달콤한 꿈속까지</p>
+      <p begin="02:15.550" end="02:17.210" ttm:agent="v1">이어질 나의 story</p>
+      <p begin="02:17.210" end="02:18.990" ttm:agent="v1">끝없이 반짝이는</p>
+      <p begin="02:18.990" end="02:20.950" ttm:agent="v1">Midnight fiction</p>
+      <p begin="02:20.950" end="02:22.830" ttm:agent="v1">Ending 이 없는 story</p>
+      <p begin="02:22.830" end="02:24.520" ttm:agent="v1">숨겨둬 새벽 사이</p>
+      <p begin="02:24.520" end="02:26.550" ttm:agent="v1">내일 또 찾아올게</p>
+      <p begin="02:26.550" end="02:28.290" ttm:agent="v1">Midnight fiction</p>
+      <p begin="02:28.290" end="02:34.450" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ah) like a fantasy (fantasy)</p>
+      <p begin="02:34.450" end="02:39.290" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ah) 꿈의 끝까지 play with me, 날아 저 멀리</p>
+      <p begin="02:39.290" end="02:43.540" ttm:agent="v1" itunes:key="role" itunes:value="background">Like a fantasy (fantasy)</p>
+      <p begin="02:43.540" end="02:47.540" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

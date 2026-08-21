@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>FreakyT</ttm:title>
+      <ttm:agent type="person" xml:id="v1">TiaCorine</ttm:agent>
+      <ttm:item type="album">I Can't Wait</ttm:item>
+      <ttm:item type="spotify_id">5i2LgktLdW8b4EM8InkKRy</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:02.300" end="00:04.490" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah (Oh yeah)</p>
+      <p begin="00:04.490" end="00:05.990" ttm:agent="v1" itunes:key="role" itunes:value="background">(Honorable C-Note)</p>
+      <p begin="00:05.890" end="00:07.460" ttm:agent="v1" itunes:key="role" itunes:value="background">Woo (Oh yeah)</p>
+      <p begin="00:07.460" end="00:08.960" ttm:agent="v1" itunes:key="role" itunes:value="background">(Honorable)</p>
+      <p begin="00:08.550" end="00:10.500" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah (Oh yeah)</p>
+      <p begin="00:10.500" end="00:13.650" ttm:agent="v1" itunes:key="role" itunes:value="background">Uh (Oh yeah)</p>
+      <p begin="00:13.650" end="00:15.150" ttm:agent="v1">Look at me</p>
+      <p begin="00:14.420" end="00:15.920" ttm:agent="v1">Where she wanna be</p>
+      <p begin="00:15.900" end="00:17.400" ttm:agent="v1" itunes:key="role" itunes:value="background">Call me Freaky T (Oh yeah)</p>
+      <p begin="00:16.960" end="00:18.460" ttm:agent="v1">Off the leash</p>
+      <p begin="00:18.030" end="00:19.530" ttm:agent="v1">I feel like a dog</p>
+      <p begin="00:19.030" end="00:20.530" ttm:agent="v1">I get hella flee</p>
+      <p begin="00:20.450" end="00:21.950" ttm:agent="v1">Keep it &quot;P&quot;</p>
+      <p begin="00:21.290" end="00:22.790" ttm:agent="v1">Never needed you</p>
+      <p begin="00:22.640" end="00:24.290" ttm:agent="v1" itunes:key="role" itunes:value="background">But you needed me (Oh)</p>
+      <p begin="00:24.290" end="00:25.790" ttm:agent="v1">I got cream</p>
+      <p begin="00:25.050" end="00:26.550" ttm:agent="v1">Make a biddie clean</p>
+      <p begin="00:25.850" end="00:27.350" ttm:agent="v1" itunes:key="role" itunes:value="background">Boost yo self-esteem (Oh)</p>
+      <p begin="00:26.990" end="00:28.900" ttm:agent="v1" itunes:key="role" itunes:value="background">I get topped in the mawnin (mornin')</p>
+      <p begin="00:28.900" end="00:30.400" ttm:agent="v1" itunes:key="role" itunes:value="background">So I feel like Baby Keem (Oh yeah)</p>
+      <p begin="00:30.160" end="00:31.660" ttm:agent="v1">Forces black</p>
+      <p begin="00:31.250" end="00:32.750" ttm:agent="v1">Step on somethin'</p>
+      <p begin="00:32.620" end="00:34.120" ttm:agent="v1" itunes:key="role" itunes:value="background">So I dress like baby dee (Oh)</p>
+      <p begin="00:33.740" end="00:35.240" ttm:agent="v1">Bitch I'm cold</p>
+      <p begin="00:34.770" end="00:36.270" ttm:agent="v1">Pussy ice</p>
+      <p begin="00:35.560" end="00:37.460" ttm:agent="v1" itunes:key="role" itunes:value="background">So now you know it's giving cream (Oh yeah)</p>
+      <p begin="00:37.460" end="00:38.960" ttm:agent="v1">I got hoes</p>
+      <p begin="00:38.210" end="00:39.710" ttm:agent="v1">One is not enough</p>
+      <p begin="00:38.870" end="00:40.410" ttm:agent="v1" itunes:key="role" itunes:value="background">Come build a nigga team (Oh)</p>
+      <p begin="00:40.410" end="00:41.910" ttm:agent="v1">I need chips</p>
+      <p begin="00:41.600" end="00:43.470" ttm:agent="v1" itunes:key="role" itunes:value="background">I told that nigga dip (I told that nigga dip)</p>
+      <p begin="00:43.470" end="00:44.970" ttm:agent="v1">Glockie like a baby</p>
+      <p begin="00:44.790" end="00:46.380" ttm:agent="v1">Carry that on my hip</p>
+      <p begin="00:46.380" end="00:48.030" ttm:agent="v1">I just needa sip</p>
+      <p begin="00:48.030" end="00:50.130" ttm:agent="v1" itunes:key="role" itunes:value="background">Cause shawty got me pissed (Cause shawty got me pissed)</p>
+      <p begin="00:50.130" end="00:51.630" ttm:agent="v1">Better fall back</p>
+      <p begin="00:51.280" end="00:53.770" ttm:agent="v1" itunes:key="role" itunes:value="background">For I give that bitch a lisp (Boom boom boom)</p>
+      <p begin="00:53.770" end="00:55.270" ttm:agent="v1">Money on my house</p>
+      <p begin="00:55.050" end="00:56.670" ttm:agent="v1">Give a fuck about my wrist</p>
+      <p begin="00:56.670" end="00:58.520" ttm:agent="v1" itunes:key="role" itunes:value="background">Said you can't be touched (Oh yeah)</p>
+      <p begin="00:58.520" end="01:00.170" ttm:agent="v1" itunes:key="role" itunes:value="background">Bet I make that nigga it (Huh)</p>
+      <p begin="01:00.170" end="01:01.670" ttm:agent="v1">I know that I'm rich</p>
+      <p begin="01:01.590" end="01:03.170" ttm:agent="v1">But that's my project bitch</p>
+      <p begin="01:03.170" end="01:04.860" ttm:agent="v1">Loyalty mean somethin'</p>
+      <p begin="01:04.860" end="01:06.440" ttm:agent="v1">To my bitch she won't switch</p>
+      <p begin="01:06.440" end="01:08.350" ttm:agent="v1">Pusha T</p>
+      <p begin="01:08.350" end="01:09.850" ttm:agent="v1" itunes:key="role" itunes:value="background">Pusha pound of (uh) a weed</p>
+      <p begin="01:09.610" end="01:11.110" ttm:agent="v1">Need a brand new weave</p>
+      <p begin="01:10.790" end="01:12.290" ttm:agent="v1">Killed my dog</p>
+      <p begin="01:11.550" end="01:13.050" ttm:agent="v1">Pussy nigga please</p>
+      <p begin="01:12.700" end="01:14.200" ttm:agent="v1" itunes:key="role" itunes:value="background">I go Keanu Reeves (Oh)</p>
+      <p begin="01:13.940" end="01:15.440" ttm:agent="v1">Get 'em gone</p>
+      <p begin="01:15.090" end="01:16.590" ttm:agent="v1">Why you telling me</p>
+      <p begin="01:16.120" end="01:17.620" ttm:agent="v1" itunes:key="role" itunes:value="background">Just let a Nigga see (Yeah)</p>
+      <p begin="01:17.270" end="01:18.770" ttm:agent="v1">Honestly</p>
+      <p begin="01:18.360" end="01:19.860" ttm:agent="v1">I'm not feelin' you</p>
+      <p begin="01:19.470" end="01:20.970" ttm:agent="v1">And you not feelin' me</p>
+      <p begin="01:20.730" end="01:22.230" ttm:agent="v1">Keep it &quot;G&quot;</p>
+      <p begin="01:21.860" end="01:23.360" ttm:agent="v1">What come after &quot;A&quot;</p>
+      <p begin="01:23.240" end="01:24.740" ttm:agent="v1">Just let that nigga &quot;B&quot;</p>
+      <p begin="01:24.030" end="01:25.530" ttm:agent="v1">TLC</p>
+      <p begin="01:25.050" end="01:26.550" ttm:agent="v1">Know im finna creep</p>
+      <p begin="01:26.110" end="01:27.610" ttm:agent="v1">My phone on DND</p>
+      <p begin="01:27.510" end="01:29.010" ttm:agent="v1">That's my song</p>
+      <p begin="01:28.320" end="01:29.820" ttm:agent="v1">Ride that dick to beat</p>
+      <p begin="01:29.430" end="01:30.930" ttm:agent="v1">I ride that dick to sleep</p>
+      <p begin="01:30.740" end="01:32.240" ttm:agent="v1">You ain't peep</p>
+      <p begin="01:31.900" end="01:33.400" ttm:agent="v1">Bitch you know you beat</p>
+      <p begin="01:32.990" end="01:34.490" ttm:agent="v1">To me he beat his meat</p>
+      <p begin="01:34.080" end="01:35.580" ttm:agent="v1">I need chips</p>
+      <p begin="01:35.160" end="01:36.710" ttm:agent="v1" itunes:key="role" itunes:value="background">I told that nigga dip (I told that nigga dip)</p>
+      <p begin="01:36.710" end="01:38.340" ttm:agent="v1">Glockie like a baby</p>
+      <p begin="01:38.340" end="01:39.950" ttm:agent="v1">Carry that on my hip</p>
+      <p begin="01:39.950" end="01:41.450" ttm:agent="v1">I just needa sip</p>
+      <p begin="01:41.370" end="01:43.300" ttm:agent="v1" itunes:key="role" itunes:value="background">Cause shawty got me pissed (Cause shawty got me pissed)</p>
+      <p begin="01:43.300" end="01:45.190" ttm:agent="v1">Better fall back</p>
+      <p begin="01:45.190" end="01:46.710" ttm:agent="v1" itunes:key="role" itunes:value="background">For I give that bitch a lisp (Boom boom boom)</p>
+      <p begin="01:46.710" end="01:48.400" ttm:agent="v1">Money on my house</p>
+      <p begin="01:48.400" end="01:50.270" ttm:agent="v1">Give a fuck about my wrist</p>
+      <p begin="01:50.270" end="01:51.850" ttm:agent="v1" itunes:key="role" itunes:value="background">Said you can't be touched (Oh yeah)</p>
+      <p begin="01:51.850" end="01:53.600" ttm:agent="v1" itunes:key="role" itunes:value="background">Bet I make that nigga it (Huh)</p>
+      <p begin="01:53.600" end="01:55.200" ttm:agent="v1">I know that I'm rich</p>
+      <p begin="01:55.200" end="01:57.040" ttm:agent="v1">But that's my project bitch</p>
+      <p begin="01:57.040" end="01:58.610" ttm:agent="v1">Loyalty mean somethin'</p>
+      <p begin="01:58.610" end="02:00.570" ttm:agent="v1">To my bitch she won't switch</p>
+      <p begin="02:00.570" end="02:03.260" ttm:agent="v1">Loyalty mean somethin'</p>
+      <p begin="02:03.260" end="02:05.990" ttm:agent="v1"/>
+      <p begin="02:05.990" end="02:07.540" ttm:agent="v1">To my bitch she won't switch</p>
+      <p begin="02:07.540" end="02:11.540" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

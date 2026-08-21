@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>I Think They Call This Love - Cover</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Matthew Ifield</ttm:agent>
+      <ttm:item type="album">I’ll Be Home For Christmas / I Think They Call This Love (Cover)</ttm:item>
+      <ttm:item type="spotify_id">14mT8BCOXiUUcGlb7KujkT</ttm:item>
+      <itunes:duration>03:16.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:10.940" end="00:18.380" ttm:agent="v1">They say that you know when you know</p>
+      <p begin="00:18.380" end="00:25.370" ttm:agent="v1">So let's face it, you had me at hello</p>
+      <p begin="00:25.370" end="00:28.860" ttm:agent="v1">Hesitation never helps</p>
+      <p begin="00:28.860" end="00:35.230" ttm:agent="v1">How could this be anything, anything else, when</p>
+      <p begin="00:35.230" end="00:42.390" ttm:agent="v1">All I dream of is your eyes, all I long for is your touch</p>
+      <p begin="00:42.390" end="00:48.750" ttm:agent="v1">And, darling, something tells me it's enough, mm</p>
+      <p begin="00:48.750" end="00:55.940" ttm:agent="v1">You can say that I'm a fool and I don't know very much</p>
+      <p begin="00:55.940" end="01:03.940" ttm:agent="v1">But I think they call this love</p>
+      <p begin="01:05.950" end="01:13.950" ttm:agent="v1">One smile, one kiss, two lonely hearts is all that I need now, baby</p>
+      <p begin="01:14.200" end="01:20.710" ttm:agent="v1">You're on my mind every night, every day</p>
+      <p begin="01:20.710" end="01:23.830" ttm:agent="v1">Good vibrations getting loud</p>
+      <p begin="01:23.830" end="01:29.870" ttm:agent="v1">How could this be anything, anything else, when</p>
+      <p begin="01:29.870" end="01:36.990" ttm:agent="v1">All I dream of is your eyes, all I long is for your touch</p>
+      <p begin="01:36.990" end="01:43.620" ttm:agent="v1">And, darling, something tells me that's enough, mm</p>
+      <p begin="01:43.620" end="01:50.570" ttm:agent="v1">You can say that I'm a fool and I don't know very much</p>
+      <p begin="01:50.570" end="01:57.700" ttm:agent="v1">But I think they call this love</p>
+      <p begin="01:57.700" end="02:05.700" ttm:agent="v1">Oh, I think they call this love</p>
+      <p begin="02:15.640" end="02:18.240" ttm:agent="v1">What could this be</p>
+      <p begin="02:18.240" end="02:23.080" ttm:agent="v1">Between you and me? Oh</p>
+      <p begin="02:23.080" end="02:31.080" ttm:agent="v1">All I dream of is your eyes, all I long for is your touch</p>
+      <p begin="02:32.040" end="02:39.020" ttm:agent="v1">And, darling, something tells me, tells me it's enough</p>
+      <p begin="02:39.020" end="02:45.510" ttm:agent="v1">You can say that I'm a fool and I don't know very much</p>
+      <p begin="02:45.510" end="02:52.350" ttm:agent="v1">But I think they call, oh, I think they call</p>
+      <p begin="02:52.350" end="03:00.350" ttm:agent="v1">Oh, I think they call this love</p>
+      <p begin="03:06.200" end="03:12.320" ttm:agent="v1">This love</p>
+      <p begin="03:12.320" end="03:16.320" ttm:agent="v1">--- by pembasmikuman09 ---</p>
+    </div>
+  </body>
+</tt>

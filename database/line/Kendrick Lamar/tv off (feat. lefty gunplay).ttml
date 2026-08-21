@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>tv off (feat. lefty gunplay)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Kendrick Lamar</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Lefty Gunplay</ttm:agent>
+      <ttm:item type="album">GNX</ttm:item>
+      <ttm:item type="spotify_id">0aB0v4027ukVziUGwVGYpG</ttm:item>
+      <itunes:duration>03:41.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:04.880" end="00:07.240" ttm:agent="v1">All I ever wanted was a Black Grand National</p>
+      <p begin="00:07.240" end="00:11.120" ttm:agent="v1">Fuck being rational, give 'em what they ask for</p>
+      <p begin="00:11.120" end="00:12.620" ttm:agent="v1" itunes:key="role" itunes:value="background">It's not enough (Ayy)</p>
+      <p begin="00:12.120" end="00:14.480" ttm:agent="v1">Few solid niggas left, but it's not enough</p>
+      <p begin="00:14.480" end="00:16.770" ttm:agent="v1">Few bitches that'll really step, but it's not enough</p>
+      <p begin="00:16.770" end="00:19.440" ttm:agent="v1" itunes:key="role" itunes:value="background">Say you bigger than myself, but it's not enough (Huh)</p>
+      <p begin="00:19.440" end="00:21.460" ttm:agent="v1">I get on they ass, yeah, somebody gotta do it</p>
+      <p begin="00:21.460" end="00:22.960" ttm:agent="v1">I'll make them niggas mad</p>
+      <p begin="00:22.650" end="00:24.150" ttm:agent="v1">Yeah, somebody gotta do it</p>
+      <p begin="00:23.740" end="00:26.200" ttm:agent="v1">I'll take the G-pass, shit, watch a nigga do it</p>
+      <p begin="00:26.200" end="00:30.360" ttm:agent="v1">Huh, we survived outside, all from the music, nigga, what?</p>
+      <p begin="00:30.360" end="00:31.860" ttm:agent="v1">They like, &quot;What he on?&quot;</p>
+      <p begin="00:31.610" end="00:35.080" ttm:agent="v1">It's the Alpha and Omega bitch, welcome home</p>
+      <p begin="00:35.080" end="00:36.580" ttm:agent="v1">This is not a song</p>
+      <p begin="00:36.530" end="00:38.780" ttm:agent="v1">This a revеlation, how to get a nigga gone</p>
+      <p begin="00:38.780" end="00:40.720" ttm:agent="v1">You need you a man, baby, I don't understand, baby</p>
+      <p begin="00:40.720" end="00:43.040" ttm:agent="v1">Pay your bill and makе you feel protected like I can, baby</p>
+      <p begin="00:43.040" end="00:45.620" ttm:agent="v1">Teach you somethin' if you need correction, that's the plan, baby</p>
+      <p begin="00:45.620" end="00:48.010" ttm:agent="v1" itunes:key="role" itunes:value="background">Don't put your life in these weird niggas' hands, baby (Woah)</p>
+      <p begin="00:48.010" end="00:50.460" ttm:agent="v1" itunes:key="role" itunes:value="background">It's not enough (Ayy)</p>
+      <p begin="00:50.460" end="00:52.760" ttm:agent="v1">Few solid niggas left, but it's not enough</p>
+      <p begin="00:52.760" end="00:55.150" ttm:agent="v1">Few bitches that'll really step, but it's not enough</p>
+      <p begin="00:55.150" end="00:58.210" ttm:agent="v1" itunes:key="role" itunes:value="background">Say you bigger than myself, but it's not enough (Huh)</p>
+      <p begin="00:58.210" end="00:59.710" ttm:agent="v1">I get on they ass, yeah, somebody gotta do it</p>
+      <p begin="00:59.670" end="01:02.220" ttm:agent="v1">I'll make them niggas mad, yeah, somebody gotta do it</p>
+      <p begin="01:02.220" end="01:04.900" ttm:agent="v1">I'll take the G-pass, shit, watch a nigga do it</p>
+      <p begin="01:04.900" end="01:08.730" ttm:agent="v1">Huh, we survived outside, all from the music, nigga, what?</p>
+      <p begin="01:08.730" end="01:10.230" ttm:agent="v1">Hey, turn this TV off</p>
+      <p begin="01:09.730" end="01:11.230" ttm:agent="v1">Ain't with my type activities?</p>
+      <p begin="01:10.970" end="01:12.470" ttm:agent="v1">Then don't you get involved</p>
+      <p begin="01:12.190" end="01:14.000" ttm:agent="v1">Hey, what, huh, how many should I send? Send 'em all</p>
+      <p begin="01:14.000" end="01:15.500" ttm:agent="v1">Take a risk or take a trip</p>
+      <p begin="01:15.420" end="01:16.920" ttm:agent="v1">You know I'm trippin' for my dog</p>
+      <p begin="01:16.920" end="01:19.120" ttm:agent="v1">Who you with? Couple sergeants and lieutenants for the get back</p>
+      <p begin="01:19.120" end="01:20.620" ttm:agent="v1">This revolution been televised</p>
+      <p begin="01:20.300" end="01:21.800" ttm:agent="v1">I fell through with the knick-knacks</p>
+      <p begin="01:21.590" end="01:23.960" ttm:agent="v1">Hey, young nigga, get your chili up, yeah, I meant that</p>
+      <p begin="01:23.960" end="01:28.260" ttm:agent="v1">Hey, black out if they act out, yeah, I did that</p>
+      <p begin="01:28.260" end="01:29.760" ttm:agent="v1">Hey, what's up, though?</p>
+      <p begin="01:28.940" end="01:31.210" ttm:agent="v1">I hate a bitch that's hatin' on a bitch and they both hoes</p>
+      <p begin="01:31.210" end="01:33.370" ttm:agent="v1">I hate a nigga hatin' on them niggas and they both broke</p>
+      <p begin="01:33.370" end="01:36.210" ttm:agent="v1">If you ain't coming for no chili, what you come for?</p>
+      <p begin="01:36.210" end="01:38.820" ttm:agent="v1">Nigga feel like he entitled 'cause he knew me since a kid</p>
+      <p begin="01:38.820" end="01:40.940" ttm:agent="v1">Bitch, I cut my granny off if she don't see it how I see it, hm</p>
+      <p begin="01:40.940" end="01:43.640" ttm:agent="v1">Got a big mouth but he lack big ideas</p>
+      <p begin="01:43.640" end="01:45.910" ttm:agent="v1">Send him to the moon, that's just how I feel, yelling</p>
+      <p begin="01:45.910" end="01:47.950" ttm:agent="v1" itunes:key="role" itunes:value="background">It's not enough (Ayy)</p>
+      <p begin="01:47.950" end="01:50.280" ttm:agent="v1">Few solid niggas left, but it's not enough</p>
+      <p begin="01:50.280" end="01:52.830" ttm:agent="v1">Few bitches that'll really step, but it's not enough</p>
+      <p begin="01:52.830" end="01:58.260" ttm:agent="v1">Say you bigger than myself, but it's not enough</p>
+      <p begin="01:58.260" end="01:59.760" ttm:agent="v1">Huh</p>
+      <p begin="01:59.650" end="02:02.290" ttm:agent="v1">Huh, huh</p>
+      <p begin="02:02.290" end="02:03.790" ttm:agent="v1">Hey</p>
+      <p begin="02:03.620" end="02:05.120" ttm:agent="v1" itunes:key="role" itunes:value="background">Hey (Mustard on the beat, ho)</p>
+      <p begin="02:04.960" end="02:10.370" ttm:agent="v1">Mustard</p>
+      <p begin="02:10.370" end="02:11.870" ttm:agent="v1">Niggas actin' bad, but somebody gotta do it</p>
+      <p begin="02:11.660" end="02:13.860" ttm:agent="v1">Got my foot up on the gas, but somebody gotta do it</p>
+      <p begin="02:13.860" end="02:16.000" ttm:agent="v1">Huh, turn this TV off, turn this TV off</p>
+      <p begin="02:16.000" end="02:18.870" ttm:agent="v1">Huh, turn this TV off, turn this TV off</p>
+      <p begin="02:18.870" end="02:21.030" ttm:agent="v1">Huh, turn this TV off, turn this TV off</p>
+      <p begin="02:21.030" end="02:23.900" ttm:agent="v1">Huh, turn this TV off, turn this TV off</p>
+      <p begin="02:23.900" end="02:25.980" ttm:agent="v1">Ain't no other king in this rap thing, like siblings</p>
+      <p begin="02:25.980" end="02:28.250" ttm:agent="v1">Nothing but my children, one shot, they disappearin'</p>
+      <p begin="02:28.250" end="02:30.120" ttm:agent="v1">I'm in a city with a flag</p>
+      <p begin="02:30.120" end="02:31.900" ttm:agent="v1">Be gettin' thrown like it was pass interference</p>
+      <p begin="02:31.900" end="02:33.400" ttm:agent="v1">Padlock around the building</p>
+      <p begin="02:33.350" end="02:35.720" ttm:agent="v1">Crash, pullin' up in unmarked truck just to play freeze tag</p>
+      <p begin="02:35.720" end="02:37.570" ttm:agent="v1">With a bone to pick like it was sea bass</p>
+      <p begin="02:37.570" end="02:39.070" ttm:agent="v1">So when I made it out</p>
+      <p begin="02:38.810" end="02:40.310" ttm:agent="v1">I made about fifty K from a show</p>
+      <p begin="02:40.260" end="02:42.580" ttm:agent="v1">Tryna show niggas the ropes before they hung from a rope</p>
+      <p begin="02:42.580" end="02:45.290" ttm:agent="v1">I'm prophetic, they only talk about it how I get it</p>
+      <p begin="02:45.290" end="02:47.670" ttm:agent="v1">Only good for saving face, seen the cosmetics</p>
+      <p begin="02:47.670" end="02:50.000" ttm:agent="v1">How many heads I gotta take to level my aesthetics?</p>
+      <p begin="02:50.000" end="02:52.330" ttm:agent="v1">Hurry up and get your muscle up, we out the plyometric</p>
+      <p begin="02:52.330" end="02:54.310" ttm:agent="v1">Nicarana by the lux, soon as I up the highest metric</p>
+      <p begin="02:54.310" end="02:57.210" ttm:agent="v1">The city just made it sweet, you could die, I bet it</p>
+      <p begin="02:57.210" end="02:59.780" ttm:agent="v1">They mouth get full of deceit, let these cowards tell it</p>
+      <p begin="02:59.780" end="03:01.800" ttm:agent="v1">Walk in New Orleans with the etiquette of L.A., yelling</p>
+      <p begin="03:01.800" end="03:06.750" ttm:agent="v1" itunes:key="role" itunes:value="background">Mustard (Ah, man)</p>
+      <p begin="03:06.750" end="03:08.750" ttm:agent="v1">Niggas actin' bad, but somebody gotta do it</p>
+      <p begin="03:08.750" end="03:11.350" ttm:agent="v1">Got my foot up on the gas, but somebody gotta do it</p>
+      <p begin="03:11.350" end="03:13.750" ttm:agent="v1">Huh, turn this TV off, turn this TV off</p>
+      <p begin="03:13.750" end="03:16.080" ttm:agent="v1">Huh, turn this TV off, turn this TV off</p>
+      <p begin="03:16.080" end="03:18.320" ttm:agent="v1">Huh, turn this TV off, turn this TV off</p>
+      <p begin="03:18.320" end="03:21.020" ttm:agent="v1">Huh, turn this TV off, turn this TV off</p>
+      <p begin="03:21.020" end="03:23.030" ttm:agent="v1">Shit gets crazy, scary, spooky, hilarious</p>
+      <p begin="03:23.030" end="03:25.580" ttm:agent="v1">Crazy, scary, spooky, hilarious</p>
+      <p begin="03:25.580" end="03:27.930" ttm:agent="v1">Shit gets crazy, scary, spooky, hilarious</p>
+      <p begin="03:27.930" end="03:30.200" ttm:agent="v1">Crazy, scary, spooky, hilarious</p>
+      <p begin="03:30.200" end="03:32.520" ttm:agent="v1">Shit gets crazy, scary, spooky, hilarious</p>
+      <p begin="03:32.520" end="03:34.630" ttm:agent="v1">Crazy, scary, spooky, hilarious</p>
+      <p begin="03:34.630" end="03:37.480" ttm:agent="v1">Shit gets crazy, scary, spooky, hilarious</p>
+      <p begin="03:37.480" end="03:39.770" ttm:agent="v1">Crazy, scary, spooky, hilarious</p>
+      <p begin="03:39.770" end="03:43.770" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

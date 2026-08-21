@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Where Have You Been</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Lewis Hanton</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Orchestra Club</ttm:agent>
+      <ttm:item type="album">Where Have You Been (Orchestra)</ttm:item>
+      <ttm:item type="spotify_id">7nDM58kOxSnuZqKMUYB6q2</ttm:item>
+      <itunes:duration>04:07.906</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:09.160" end="00:12.810" ttm:agent="v1">I've been everywhere, man, looking for someone</p>
+      <p begin="00:12.810" end="00:14.830" ttm:agent="v1">Someone who can please me</p>
+      <p begin="00:14.830" end="00:16.810" ttm:agent="v1">Love me all night long</p>
+      <p begin="00:16.810" end="00:20.270" ttm:agent="v1">I've been everywhere, man, looking for you, babe</p>
+      <p begin="00:20.270" end="00:22.090" ttm:agent="v1">Looking for you, babe</p>
+      <p begin="00:22.090" end="00:26.190" ttm:agent="v1">Searching for you, babe</p>
+      <p begin="00:26.190" end="00:29.690" ttm:agent="v1">Where have you been?</p>
+      <p begin="00:29.690" end="00:33.020" ttm:agent="v1">'Cause I never see you out</p>
+      <p begin="00:33.020" end="00:36.930" ttm:agent="v1">Are you hiding from me, yeah?</p>
+      <p begin="00:36.930" end="00:39.780" ttm:agent="v1">Somewhere in the crowd</p>
+      <p begin="00:39.780" end="00:44.750" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, yeah, yeah, yeah, yeah (oh)</p>
+      <p begin="00:44.750" end="00:47.440" ttm:agent="v1">Yeah, yeah, yeah, yeah, yeah</p>
+      <p begin="00:47.440" end="00:51.600" ttm:agent="v1">Yeah, yeah, yeah, yeah, yeah</p>
+      <p begin="00:51.600" end="00:54.290" ttm:agent="v1">Yeah, yeah, yeah, yeah, yeah</p>
+      <p begin="00:54.290" end="00:59.620" ttm:agent="v1">Where have you been</p>
+      <p begin="00:59.620" end="01:07.620" ttm:agent="v1">All my life, all my life?</p>
+      <p begin="01:09.180" end="01:14.860" ttm:agent="v1">Where have you been</p>
+      <p begin="01:14.860" end="01:22.860" ttm:agent="v1">All my life, all my life?</p>
+      <p begin="01:24.220" end="01:27.910" ttm:agent="v1">Where have you been all my life?</p>
+      <p begin="01:27.910" end="01:31.720" ttm:agent="v1">Where have you been all my life?</p>
+      <p begin="01:31.720" end="01:35.490" ttm:agent="v1">Where have you been all my life?</p>
+      <p begin="01:35.490" end="01:42.970" ttm:agent="v1">Where have you been all my life?</p>
+      <p begin="01:42.970" end="01:46.650" ttm:agent="v1">I've been everywhere, man, looking for someone</p>
+      <p begin="01:46.650" end="01:48.540" ttm:agent="v1">Someone who can please me</p>
+      <p begin="01:48.540" end="01:50.310" ttm:agent="v1">Love me all night long</p>
+      <p begin="01:50.310" end="01:54.150" ttm:agent="v1">I've been everywhere, man, looking for you, babe</p>
+      <p begin="01:54.150" end="01:56.100" ttm:agent="v1">Looking for you, babe</p>
+      <p begin="01:56.100" end="01:59.980" ttm:agent="v1">Searching for you, baby</p>
+      <p begin="01:59.980" end="02:03.360" ttm:agent="v1">Where have you been?</p>
+      <p begin="02:03.360" end="02:06.880" ttm:agent="v1">'Cause I never see you out</p>
+      <p begin="02:06.880" end="02:10.940" ttm:agent="v1">Are you hiding from me, yeah?</p>
+      <p begin="02:10.940" end="02:13.280" ttm:agent="v1">Somewhere in the crowd</p>
+      <p begin="02:13.280" end="02:18.120" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, yeah, yeah, yeah, yeah (oh)</p>
+      <p begin="02:18.120" end="02:20.860" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, yeah, yeah, yeah, yeah (ooh)</p>
+      <p begin="02:20.860" end="02:25.260" ttm:agent="v1">Yeah, yeah, yeah, yeah, yeah</p>
+      <p begin="02:25.260" end="02:27.810" ttm:agent="v1">Yeah, yeah, yeah, yeah, yeah</p>
+      <p begin="02:27.810" end="02:33.460" ttm:agent="v1">Where have you been</p>
+      <p begin="02:33.460" end="02:41.460" ttm:agent="v1">All my life, all my life?</p>
+      <p begin="02:42.850" end="02:48.640" ttm:agent="v1">Where have you been</p>
+      <p begin="02:48.640" end="02:56.640" ttm:agent="v1">All my life, all my life?</p>
+      <p begin="02:58.080" end="03:01.740" ttm:agent="v1">Where have you been all my life?</p>
+      <p begin="03:01.740" end="03:05.490" ttm:agent="v1">Where have you been all my life?</p>
+      <p begin="03:05.490" end="03:09.220" ttm:agent="v1">Where have you been all my life?</p>
+      <p begin="03:09.220" end="03:16.740" ttm:agent="v1">Where have you been all my life?</p>
+      <p begin="03:16.740" end="03:21.980" ttm:agent="v1">Where have you been all my life?</p>
+      <p begin="03:21.980" end="03:26.950" ttm:agent="v1">You can have me all you want</p>
+      <p begin="03:26.950" end="03:33.230" ttm:agent="v1">Any way, any day</p>
+      <p begin="03:33.230" end="03:37.230" ttm:agent="v1">Just show me where you are tonight</p>
+      <p begin="03:37.230" end="03:41.680" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, yeah, (oh), yeah, yeah, yeah</p>
+      <p begin="03:41.680" end="03:44.250" ttm:agent="v1">Yeah, yeah, yeah, yeah, yeah</p>
+      <p begin="03:44.250" end="03:48.050" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, yeah, yeah, (oh), yeah, yeah</p>
+      <p begin="03:48.050" end="03:50.570" ttm:agent="v1">Yeah, yeah, yeah, yeah, yeah</p>
+      <p begin="03:50.570" end="03:54.120" ttm:agent="v1">I've been everywhere, man, looking for someone</p>
+      <p begin="03:54.120" end="03:56.010" ttm:agent="v1">Someone who can please me</p>
+      <p begin="03:56.010" end="03:58.010" ttm:agent="v1">Love me all night long</p>
+      <p begin="03:58.010" end="04:01.640" ttm:agent="v1">I've been everywhere, man, looking for you, babe</p>
+      <p begin="04:01.640" end="04:03.560" ttm:agent="v1">Looking for you, babe</p>
+      <p begin="04:03.560" end="04:05.820" ttm:agent="v1">Searching for you, babe</p>
+      <p begin="04:05.820" end="04:09.820" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

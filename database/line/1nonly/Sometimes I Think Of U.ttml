@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Sometimes I Think Of U</ttm:title>
+      <ttm:agent type="person" xml:id="v1">1nonly</ttm:agent>
+      <ttm:item type="album">Sometimes I Think Of U</ttm:item>
+      <ttm:item type="spotify_id">0xIqVun0PMGuNunvJgBB3o</ttm:item>
+      <itunes:duration>02:29.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:18.080" end="00:21.950" ttm:agent="v1">I know you want me baby</p>
+      <p begin="00:21.950" end="00:26.330" ttm:agent="v1">Think about you all the time on the daily</p>
+      <p begin="00:26.330" end="00:30.170" ttm:agent="v1">You make my mind go crazy</p>
+      <p begin="00:30.170" end="00:34.280" ttm:agent="v1">Baby, I won't waste your time, please don't play me</p>
+      <p begin="00:34.280" end="00:38.150" ttm:agent="v1">I know you want me baby</p>
+      <p begin="00:38.150" end="00:41.660" ttm:agent="v1">Think about you all the time on the daily</p>
+      <p begin="00:41.660" end="00:46.060" ttm:agent="v1">You make my mind go crazy</p>
+      <p begin="00:46.060" end="00:50.050" ttm:agent="v1">Baby, I won't waste your time, please don't play me</p>
+      <p begin="00:50.050" end="00:53.960" ttm:agent="v1">Looking at your pretty face while the sun sets</p>
+      <p begin="00:53.960" end="00:58.320" ttm:agent="v1">I don't ever wanna make you upset</p>
+      <p begin="00:58.320" end="01:01.990" ttm:agent="v1">Baby, don't you leave, I'm not done yet</p>
+      <p begin="01:01.990" end="01:06.030" ttm:agent="v1">We be dancing in the rain while we undress</p>
+      <p begin="01:06.030" end="01:09.850" ttm:agent="v1">Looking at your pretty face while the sun sets</p>
+      <p begin="01:09.850" end="01:14.540" ttm:agent="v1">I don't ever wanna make you upset</p>
+      <p begin="01:14.540" end="01:17.980" ttm:agent="v1">Baby, don't you leave, I'm not done yet</p>
+      <p begin="01:17.980" end="01:21.930" ttm:agent="v1">We be dancing in the rain while we undress</p>
+      <p begin="01:21.930" end="01:25.820" ttm:agent="v1">I know you want me baby</p>
+      <p begin="01:25.820" end="01:29.740" ttm:agent="v1">Think about you all the time on the daily</p>
+      <p begin="01:29.740" end="01:33.700" ttm:agent="v1">You make my mind go crazy</p>
+      <p begin="01:33.700" end="01:37.580" ttm:agent="v1">Baby, I won't waste your time, please don't play me</p>
+      <p begin="01:37.580" end="01:41.570" ttm:agent="v1">I know you want me baby</p>
+      <p begin="01:41.570" end="01:45.420" ttm:agent="v1">Think about you all the time on the daily</p>
+      <p begin="01:45.420" end="01:49.530" ttm:agent="v1">You make my mind go crazy</p>
+      <p begin="01:49.530" end="01:54.980" ttm:agent="v1">Baby, I won't waste your time, please don't play me</p>
+      <p begin="01:54.980" end="02:02.980" ttm:agent="v1"/>
+      <p begin="02:09.130" end="02:13.710" ttm:agent="v1">I know you want me baby</p>
+      <p begin="02:13.710" end="02:18.500" ttm:agent="v1">Think about you all the time on the daily</p>
+      <p begin="02:18.500" end="02:23.010" ttm:agent="v1">You make my mind go crazy</p>
+      <p begin="02:23.010" end="02:26.880" ttm:agent="v1">Baby, I won't waste your time, please don't play me</p>
+      <p begin="02:26.880" end="02:30.880" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

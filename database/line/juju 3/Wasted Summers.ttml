@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Wasted Summers</ttm:title>
+      <ttm:agent type="person" xml:id="v1">juju&lt;3</ttm:agent>
+      <ttm:item type="album">Wasted Summers</ttm:item>
+      <ttm:item type="spotify_id">43MifzVnh8W3jJN0xqU9jR</ttm:item>
+      <itunes:duration>02:10.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:18.570" end="00:23.450" ttm:agent="v1">I'm spending my summer time after time crying again</p>
+      <p begin="00:23.450" end="00:28.220" ttm:agent="v1">Had the blues over you, I didn't hang with my friends</p>
+      <p begin="00:28.220" end="00:33.210" ttm:agent="v1">You fake cry that's a lie, tell me was it all pretend?</p>
+      <p begin="00:33.210" end="00:36.150" ttm:agent="v1">In my head</p>
+      <p begin="00:36.150" end="00:37.650" ttm:agent="v1">In my head</p>
+      <p begin="00:37.210" end="00:42.070" ttm:agent="v1" itunes:key="role" itunes:value="background">You're needing all the time again, our time again (I hope it's nothing, I hope it's nothing)</p>
+      <p begin="00:42.070" end="00:46.310" ttm:agent="v1" itunes:key="role" itunes:value="background">Needing the time again, our time again (I hope it's nothing, I hope it's nothing)</p>
+      <p begin="00:46.310" end="00:51.160" ttm:agent="v1" itunes:key="role" itunes:value="background">Wasting our time again, our time again (I hope it's nothing, I hope it's nothing)</p>
+      <p begin="00:51.160" end="00:53.480" ttm:agent="v1">We don't have nothing to say</p>
+      <p begin="00:53.480" end="00:56.390" ttm:agent="v1">So we have nothing left</p>
+      <p begin="00:56.390" end="00:59.970" ttm:agent="v1">La-la-la-la la-la-la la-la-la-la-la</p>
+      <p begin="00:59.970" end="01:04.500" ttm:agent="v1">La-la-la-la la-la-la la-la-la-la-la</p>
+      <p begin="01:04.500" end="01:09.030" ttm:agent="v1">La-la-la-la la-la-la la-la-la-la-la</p>
+      <p begin="01:09.030" end="01:13.610" ttm:agent="v1">La-la-la-la la-la-la la-la-la-la-la</p>
+      <p begin="01:13.610" end="01:18.610" ttm:agent="v1">I wasted like half of my summer tryna hold on your hand</p>
+      <p begin="01:18.610" end="01:23.480" ttm:agent="v1">You're the leech, I'm the man, I guess you don't understand</p>
+      <p begin="01:23.480" end="01:25.700" ttm:agent="v1">Holding hands, say I can't</p>
+      <p begin="01:25.700" end="01:29.150" ttm:agent="v1">You're telling me, yes, I can</p>
+      <p begin="01:29.150" end="01:31.950" ttm:agent="v1">Yes, I can</p>
+      <p begin="01:31.950" end="01:33.450" ttm:agent="v1">Yes, I can</p>
+      <p begin="01:32.950" end="01:37.150" ttm:agent="v1">I wasted like half of my summer tryna hold on your hand</p>
+      <p begin="01:37.150" end="01:41.880" ttm:agent="v1">You're the leech, I'm the man, I guess you don't understand</p>
+      <p begin="01:41.880" end="01:44.220" ttm:agent="v1">Holding hands, say I can't</p>
+      <p begin="01:44.220" end="01:47.520" ttm:agent="v1">You're telling me yes, I can</p>
+      <p begin="01:47.520" end="01:49.930" ttm:agent="v1">Yes, I can</p>
+      <p begin="01:49.930" end="01:51.430" ttm:agent="v1">Yes, I can</p>
+      <p begin="01:51.080" end="01:55.730" ttm:agent="v1" itunes:key="role" itunes:value="background">You're needing all the time again, our time again (I hope it's nothing, I hope it's nothing)</p>
+      <p begin="01:55.730" end="01:59.900" ttm:agent="v1" itunes:key="role" itunes:value="background">Needing the time again, our time again (I hope it's nothing, I hope it's nothing)</p>
+      <p begin="01:59.900" end="02:04.420" ttm:agent="v1" itunes:key="role" itunes:value="background">Wasting our time again, our time again (I hope it's nothing, I hope it's nothing)</p>
+      <p begin="02:04.420" end="02:07.630" ttm:agent="v1">We don't have nothing to say</p>
+      <p begin="02:07.630" end="02:09.130" ttm:agent="v1">So, we have nothing left</p>
+      <p begin="02:08.480" end="02:12.480" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

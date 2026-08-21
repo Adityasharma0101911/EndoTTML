@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Magical</ttm:title>
+      <ttm:agent type="person" xml:id="v1">TWICE</ttm:agent>
+      <ttm:item type="album">STRATEGY</ttm:item>
+      <ttm:item type="spotify_id">7KceQsUwMh1zyW94c3JCMC</ttm:item>
+      <itunes:duration>03:16.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:09.260" end="00:13.290" ttm:agent="v1">I always hated the winter season</p>
+      <p begin="00:13.290" end="00:17.530" ttm:agent="v1">My heart was right on the brink of freezing</p>
+      <p begin="00:17.530" end="00:20.960" ttm:agent="v1">Then you came around and suddenly</p>
+      <p begin="00:20.960" end="00:25.080" ttm:agent="v1">It's like I'm never gonna be cold again</p>
+      <p begin="00:25.080" end="00:29.850" ttm:agent="v1">Yeah, only you can get me in the spirit</p>
+      <p begin="00:29.850" end="00:34.170" ttm:agent="v1">Music in the air, you make me hear it</p>
+      <p begin="00:34.170" end="00:37.400" ttm:agent="v1">Choirs singing I can't get enough</p>
+      <p begin="00:37.400" end="00:40.870" ttm:agent="v1">I'm making a wish, maybe this is</p>
+      <p begin="00:40.870" end="00:43.330" ttm:agent="v1">This is something magical</p>
+      <p begin="00:43.330" end="00:47.610" ttm:agent="v1">The spell you have on me is supernatural</p>
+      <p begin="00:47.610" end="00:51.880" ttm:agent="v1">Now you got me falling like the winter snow</p>
+      <p begin="00:51.880" end="00:56.750" ttm:agent="v1">When you look at me, it's something M-A-G-I-C</p>
+      <p begin="00:56.750" end="00:58.520" ttm:agent="v1">Something magical</p>
+      <p begin="00:58.520" end="01:02.700" ttm:agent="v1">Ooh-ooh, something magical</p>
+      <p begin="01:02.700" end="01:06.750" ttm:agent="v1">Ooh-ooh, something magical</p>
+      <p begin="01:06.750" end="01:10.720" ttm:agent="v1">Ooh-ooh, something magical</p>
+      <p begin="01:10.720" end="01:15.380" ttm:agent="v1">M-A-G-I-C</p>
+      <p begin="01:15.380" end="01:19.520" ttm:agent="v1">Summer's great but when the world gets colder</p>
+      <p begin="01:19.520" end="01:23.660" ttm:agent="v1">That just means I get to hold you closer</p>
+      <p begin="01:23.660" end="01:26.080" ttm:agent="v1">Don't need fall or spring</p>
+      <p begin="01:26.080" end="01:30.390" ttm:agent="v1">'Cause you're the only thing on my list, baby, this is</p>
+      <p begin="01:30.390" end="01:32.980" ttm:agent="v1">This is something magical</p>
+      <p begin="01:32.980" end="01:37.300" ttm:agent="v1">The spell you have on me is supernatural</p>
+      <p begin="01:37.300" end="01:41.530" ttm:agent="v1">Now you got me falling like the winter snow</p>
+      <p begin="01:41.530" end="01:46.520" ttm:agent="v1">When you look at me, it's something M-A-G-I-C</p>
+      <p begin="01:46.520" end="01:48.520" ttm:agent="v1">Something magical</p>
+      <p begin="01:48.520" end="01:51.980" ttm:agent="v1">You're the fire that keeps on burning</p>
+      <p begin="01:51.980" end="01:56.400" ttm:agent="v1">Through these bitter winter nights</p>
+      <p begin="01:56.400" end="01:59.750" ttm:agent="v1">I don't need the sun no more</p>
+      <p begin="01:59.750" end="02:07.650" ttm:agent="v1">As long as you'll be mine</p>
+      <p begin="02:07.650" end="02:10.250" ttm:agent="v1">This is something magical</p>
+      <p begin="02:10.250" end="02:14.650" ttm:agent="v1">The spell you have on me is supernatural</p>
+      <p begin="02:14.650" end="02:18.880" ttm:agent="v1">Now you got me falling like the winter snow</p>
+      <p begin="02:18.880" end="02:23.730" ttm:agent="v1">When you look at me, it's something M-A-G-I-C</p>
+      <p begin="02:23.730" end="02:25.730" ttm:agent="v1" itunes:key="role" itunes:value="background">Something magical (Magical)</p>
+      <p begin="02:25.730" end="02:29.830" ttm:agent="v1" itunes:key="role" itunes:value="background">Ooh, something magical (Magical)</p>
+      <p begin="02:29.830" end="02:34.090" ttm:agent="v1" itunes:key="role" itunes:value="background">Ooh, something magical (Yeah)</p>
+      <p begin="02:34.090" end="02:37.730" ttm:agent="v1" itunes:key="role" itunes:value="background">Ooh, something magical (Ooh, ooh-la, ooh-la, ooh-la)</p>
+      <p begin="02:37.730" end="02:42.310" ttm:agent="v1" itunes:key="role" itunes:value="background">M-A-G-I-C (Something magical)</p>
+      <p begin="02:42.310" end="02:46.420" ttm:agent="v1" itunes:key="role" itunes:value="background">Ooh, something magical (Oh-oh-oh)</p>
+      <p begin="02:46.420" end="02:50.540" ttm:agent="v1" itunes:key="role" itunes:value="background">Ooh, something magical (Magical)</p>
+      <p begin="02:50.540" end="02:54.190" ttm:agent="v1" itunes:key="role" itunes:value="background">Ooh, something magical (No, magical)</p>
+      <p begin="02:54.190" end="02:58.480" ttm:agent="v1">M-A-G-I-C</p>
+      <p begin="02:58.480" end="03:02.480" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

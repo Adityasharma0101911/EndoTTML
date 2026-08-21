@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>BANG BANG BANG</ttm:title>
+      <ttm:agent type="person" xml:id="v1">BIGBANG</ttm:agent>
+      <ttm:item type="album">MADE</ttm:item>
+      <ttm:item type="spotify_id">3dI59jLoFMjMAyUAyRZnkE</ttm:item>
+      <itunes:duration>03:40.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:07.770" end="00:13.910" ttm:agent="v1">Oh-oh-oh-oh-oh-oh-oh-oh-oh</p>
+      <p begin="00:13.910" end="00:17.350" ttm:agent="v1" itunes:key="role" itunes:value="background">Nan kkaeeona kkaman bamgwa hamkke (hey)</p>
+      <p begin="00:17.350" end="00:20.880" ttm:agent="v1" itunes:key="role" itunes:value="background">Da deuleowa damen nugu chalye (hey)</p>
+      <p begin="00:20.880" end="00:24.830" ttm:agent="v1" itunes:key="role" itunes:value="background">Han chi apdo bol su eobsneun magjang gelilla (wooh-wooh)</p>
+      <p begin="00:24.830" end="00:27.590" ttm:agent="v1" itunes:key="role" itunes:value="background">Gyeongbaehala mogcheongi teojige (ow)</p>
+      <p begin="00:27.590" end="00:30.350" ttm:agent="v1">Yeah, jjijilhan bunwigileul jeonhwanhae</p>
+      <p begin="00:30.350" end="00:32.160" ttm:agent="v1">Gwanggileul gamchuji moshage hae</p>
+      <p begin="00:32.160" end="00:33.810" ttm:agent="v1">Namjadeului pumwi yeojadeului gasig</p>
+      <p begin="00:33.810" end="00:35.480" ttm:agent="v1">Iyu moleul jasingami bolmanhae</p>
+      <p begin="00:35.480" end="00:37.570" ttm:agent="v1">Nan bolan deusi neomunado ppeonppeonhi</p>
+      <p begin="00:37.570" end="00:39.490" ttm:agent="v1">Ni momsoge pagodeuneun alleoji</p>
+      <p begin="00:39.490" end="00:40.990" ttm:agent="v1">Isanghan jeongsinui sulleongineun cheonji</p>
+      <p begin="00:40.610" end="00:43.300" ttm:agent="v1" itunes:key="role" itunes:value="background">Oneul yeogi mubeobji (wooh)</p>
+      <p begin="00:43.300" end="00:46.920" ttm:agent="v1" itunes:key="role" itunes:value="background">Nan buleul jilleo (wooh), ne simjangeul taewo (wooh)</p>
+      <p begin="00:46.920" end="00:50.090" ttm:agent="v1">Neol michige hago sipeo</p>
+      <p begin="00:50.090" end="00:54.960" ttm:agent="v1">B-i-g, yeah, we bang like this modu da gati</p>
+      <p begin="00:54.960" end="00:56.620" ttm:agent="v1">Chong majeun geoscheoleom</p>
+      <p begin="00:56.620" end="01:00.130" ttm:agent="v1">Bang, bang, bang!</p>
+      <p begin="01:00.130" end="01:02.250" ttm:agent="v1">Bang, bang, bang!</p>
+      <p begin="01:02.250" end="01:03.750" ttm:agent="v1">Ppangya, ppangya, ppangya</p>
+      <p begin="01:03.300" end="01:06.910" ttm:agent="v1">Bang, bang, bang!</p>
+      <p begin="01:06.910" end="01:09.240" ttm:agent="v1">Bang, bang, bang!</p>
+      <p begin="01:09.240" end="01:11.100" ttm:agent="v1">Ppangya, ppangya, ppangya</p>
+      <p begin="01:11.100" end="01:14.640" ttm:agent="v1">Da kkomjjag mala, da kkomjjag ma</p>
+      <p begin="01:14.640" end="01:17.620" ttm:agent="v1">Da kkomjjag mala, da kkomjjag ma</p>
+      <p begin="01:17.620" end="01:21.380" ttm:agent="v1">Oneul bam kkeutjang boja, da kkeutjang bwa</p>
+      <p begin="01:21.380" end="01:23.310" ttm:agent="v1">Oneul bam kkeutjang boja</p>
+      <p begin="01:23.310" end="01:26.430" ttm:agent="v1">Ppangya, ppangya, ppangya</p>
+      <p begin="01:26.430" end="01:30.220" ttm:agent="v1" itunes:key="role" itunes:value="background">Neol delyeoga jigeum i sungane (hey)</p>
+      <p begin="01:30.220" end="01:33.630" ttm:agent="v1" itunes:key="role" itunes:value="background">Saeppalgan jeo haneuli chumchul ttae (hey)</p>
+      <p begin="01:33.630" end="01:37.510" ttm:agent="v1" itunes:key="role" itunes:value="background">Dolgo dola neowa na igoseun valhalla (wooh-wooh)</p>
+      <p begin="01:37.510" end="01:40.840" ttm:agent="v1" itunes:key="role" itunes:value="background">Chanyanghala deo ullyeo peojige (he)</p>
+      <p begin="01:40.840" end="01:44.780" ttm:agent="v1" itunes:key="role" itunes:value="background">We go hard, bulchimbeon (yeah), bamsae dallyeo chugjibeob (wooh)</p>
+      <p begin="01:44.780" end="01:48.200" ttm:agent="v1" itunes:key="role" itunes:value="background">I nolaeneun kkogjijeom sinina bulleola sinjeom (ayy)</p>
+      <p begin="01:48.200" end="01:51.580" ttm:agent="v1">Keun bimyeongsolineun maseongui mellodi</p>
+      <p begin="01:51.580" end="01:53.080" ttm:agent="v1">Geomeun doggiui yeongyeol goli</p>
+      <p begin="01:53.080" end="01:55.750" ttm:agent="v1" itunes:key="role" itunes:value="background">Sabang palbang obang gaseo puneun goppi, wow! (wooh)</p>
+      <p begin="01:55.750" end="02:00.240" ttm:agent="v1" itunes:key="role" itunes:value="background">Nan buleul jilleo (wooh), ne simjangeul taewo (wooh)</p>
+      <p begin="02:00.240" end="02:02.790" ttm:agent="v1">Neol michige hago sipeo</p>
+      <p begin="02:02.790" end="02:07.950" ttm:agent="v1">B-i-g, yeah, we bang like this modu da gati</p>
+      <p begin="02:07.950" end="02:09.720" ttm:agent="v1">Chong majeun geoscheoleom</p>
+      <p begin="02:09.720" end="02:12.990" ttm:agent="v1">Bang, bang, bang!</p>
+      <p begin="02:12.990" end="02:15.350" ttm:agent="v1">Bang, bang, bang!</p>
+      <p begin="02:15.350" end="02:16.850" ttm:agent="v1">Ppangya, ppangya, ppangya</p>
+      <p begin="02:16.820" end="02:19.920" ttm:agent="v1">Bang, bang, bang!</p>
+      <p begin="02:19.920" end="02:22.440" ttm:agent="v1">Bang, bang, bang!</p>
+      <p begin="02:22.440" end="02:24.480" ttm:agent="v1">Ppangya, ppangya, ppangya</p>
+      <p begin="02:24.480" end="02:27.340" ttm:agent="v1">Da kkomjjag mala, da kkomjjag ma</p>
+      <p begin="02:27.340" end="02:30.780" ttm:agent="v1">Da kkomjjag mala, da kkomjjag ma</p>
+      <p begin="02:30.780" end="02:34.640" ttm:agent="v1">Oneul bam kkeutjang boja, da kkeutjang bwa</p>
+      <p begin="02:34.640" end="02:36.750" ttm:agent="v1">Oneul bam kkeutjang boja</p>
+      <p begin="02:36.750" end="02:39.530" ttm:agent="v1">Ppangya, ppangya, ppangya</p>
+      <p begin="02:39.530" end="02:47.190" ttm:agent="v1"/>
+      <p begin="02:47.190" end="02:50.990" ttm:agent="v1">Ready or not, yeah, we don't give a what</p>
+      <p begin="02:50.990" end="02:54.050" ttm:agent="v1">Ready or not, yeah, we don't give a what</p>
+      <p begin="02:54.050" end="02:58.840" ttm:agent="v1">Let's go! namjadeuleun wilo, yeojadeuleun get low</p>
+      <p begin="02:58.840" end="03:00.340" ttm:agent="v1">Danggyeola bang, bang, bang</p>
+      <p begin="03:00.010" end="03:02.330" ttm:agent="v1">Let the bass drum go</p>
+      <p begin="03:02.330" end="03:05.660" ttm:agent="v1">Namjadeuleun wilo, yeojadeuleun get low</p>
+      <p begin="03:05.660" end="03:07.350" ttm:agent="v1">Danggyeola bang, bang, bang</p>
+      <p begin="03:07.350" end="03:09.050" ttm:agent="v1">Let the bass drum go</p>
+      <p begin="03:09.050" end="03:12.100" ttm:agent="v1" itunes:key="role" itunes:value="background">(eh-eh-eh-eh-eh-eh-eh-eh)</p>
+      <p begin="03:12.100" end="03:14.660" ttm:agent="v1" itunes:key="role" itunes:value="background">(eh-eh-eh-eh-eh-eh-eh-eh)</p>
+      <p begin="03:14.660" end="03:16.200" ttm:agent="v1">Let the bass drum go</p>
+      <p begin="03:16.200" end="03:19.490" ttm:agent="v1" itunes:key="role" itunes:value="background">(eh-eh-eh-eh-eh-eh-eh-eh)</p>
+      <p begin="03:19.490" end="03:21.860" ttm:agent="v1" itunes:key="role" itunes:value="background">(eh-eh-eh-eh-eh-eh-eh-eh)</p>
+      <p begin="03:21.860" end="03:23.380" ttm:agent="v1" itunes:key="role" itunes:value="background">Let the bass drum go (bang, bang, bang)</p>
+      <p begin="03:23.380" end="03:25.970" ttm:agent="v1" itunes:key="role" itunes:value="background">(eh-eh-eh-eh-eh-eh-eh-eh)</p>
+      <p begin="03:25.970" end="03:27.470" ttm:agent="v1">Bang, bang, bang</p>
+      <p begin="03:27.320" end="03:28.820" ttm:agent="v1" itunes:key="role" itunes:value="background">(eh-eh-eh-eh-eh-eh-eh-eh)</p>
+      <p begin="03:28.720" end="03:30.470" ttm:agent="v1" itunes:key="role" itunes:value="background">Let the bass drum go (bang, bang, bang)</p>
+      <p begin="03:30.470" end="03:33.160" ttm:agent="v1" itunes:key="role" itunes:value="background">(eh-eh-eh-eh-eh-eh-eh-eh)</p>
+      <p begin="03:33.160" end="03:34.660" ttm:agent="v1">Bang, bang, bang</p>
+      <p begin="03:34.240" end="03:35.860" ttm:agent="v1" itunes:key="role" itunes:value="background">(eh-eh-eh-eh-eh-eh-eh-eh)</p>
+      <p begin="03:35.860" end="03:38.170" ttm:agent="v1">Let the bass drum go</p>
+      <p begin="03:38.170" end="03:42.170" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

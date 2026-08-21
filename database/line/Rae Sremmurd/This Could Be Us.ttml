@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>This Could Be Us</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Rae Sremmurd</ttm:agent>
+      <ttm:item type="album">SremmLife</ttm:item>
+      <ttm:item type="spotify_id">4jTiyLlOJVJj3mCr7yfPQD</ttm:item>
+      <itunes:duration>03:26.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:14.350" end="00:17.880" ttm:agent="v1">I've done it before, I've seen it before</p>
+      <p begin="00:17.880" end="00:21.230" ttm:agent="v1">Tears splashin' the floor when I open the door for her</p>
+      <p begin="00:21.230" end="00:23.580" ttm:agent="v1">She actin' like a whore and I'ma let her</p>
+      <p begin="00:23.580" end="00:27.000" ttm:agent="v1">Learned from Project Pat, pimpin', got a masters</p>
+      <p begin="00:27.000" end="00:31.240" ttm:agent="v1">Girl improvise, look me in my eyes and lie to me</p>
+      <p begin="00:31.240" end="00:34.910" ttm:agent="v1">Lie to me, act like I'll believe anything</p>
+      <p begin="00:34.910" end="00:37.950" ttm:agent="v1">Sex on the beach and in the backseat</p>
+      <p begin="00:37.950" end="00:39.600" ttm:agent="v1">This could be us</p>
+      <p begin="00:39.600" end="00:43.000" ttm:agent="v1" itunes:key="role" itunes:value="background">So back to what I was saying (money make the world go 'round)</p>
+      <p begin="00:43.000" end="00:46.530" ttm:agent="v1" itunes:key="role" itunes:value="background">This could be us but you're playing (money make the girl go down)</p>
+      <p begin="00:46.530" end="00:49.740" ttm:agent="v1" itunes:key="role" itunes:value="background">This could be us but you're playing (money make the world go 'round)</p>
+      <p begin="00:49.740" end="00:53.310" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm high, I hope I don't sound crazy (money make the girl go down)</p>
+      <p begin="00:53.310" end="00:56.580" ttm:agent="v1" itunes:key="role" itunes:value="background">Fuck what them niggas was saying (money make the world go 'round)</p>
+      <p begin="00:56.580" end="00:59.920" ttm:agent="v1" itunes:key="role" itunes:value="background">This could be us but you're playing (money make the girl go down)</p>
+      <p begin="00:59.920" end="01:03.600" ttm:agent="v1" itunes:key="role" itunes:value="background">This could be us but you're playing (money make the world go 'round)</p>
+      <p begin="01:03.600" end="01:06.990" ttm:agent="v1" itunes:key="role" itunes:value="background">But shit, that's all I was saying (money make the girl go down)</p>
+      <p begin="01:06.990" end="01:09.850" ttm:agent="v1">No keys to crank this Mercedes</p>
+      <p begin="01:09.850" end="01:13.670" ttm:agent="v1">I ball like Tracy McGrady</p>
+      <p begin="01:13.670" end="01:17.520" ttm:agent="v1">Before that girl says anything</p>
+      <p begin="01:17.520" end="01:21.200" ttm:agent="v1" itunes:key="role" itunes:value="background">She gotta say please (Say please)</p>
+      <p begin="01:21.200" end="01:24.560" ttm:agent="v1">And I know they really wish we would ball 'til we fall</p>
+      <p begin="01:24.560" end="01:28.040" ttm:agent="v1">I'm the big bad wolf, it's a full moon, y'all</p>
+      <p begin="01:28.040" end="01:30.010" ttm:agent="v1">Toss the money in the air, girl</p>
+      <p begin="01:30.010" end="01:34.660" ttm:agent="v1">Watch how your dreams hit the floor</p>
+      <p begin="01:34.660" end="01:37.180" ttm:agent="v1">Wait 'til I get the buzz off this drug</p>
+      <p begin="01:37.180" end="01:41.630" ttm:agent="v1">Damn girl, you way too fine for a local club</p>
+      <p begin="01:41.630" end="01:44.580" ttm:agent="v1">Killin' someone's vibe should be a fuckin' crime</p>
+      <p begin="01:44.580" end="01:47.310" ttm:agent="v1">Wasted so much time, should be a fuckin' crime</p>
+      <p begin="01:47.310" end="01:50.550" ttm:agent="v1" itunes:key="role" itunes:value="background">So back to what I was saying (money make the world go 'round)</p>
+      <p begin="01:50.550" end="01:53.440" ttm:agent="v1" itunes:key="role" itunes:value="background">This could be us but you're playing (money make the girl go down)</p>
+      <p begin="01:53.440" end="01:57.160" ttm:agent="v1" itunes:key="role" itunes:value="background">This could be us but you're playing (money make the world go 'round)</p>
+      <p begin="01:57.160" end="02:00.550" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm high, I hope I don't sound crazy (money make the girl go down)</p>
+      <p begin="02:00.550" end="02:03.900" ttm:agent="v1" itunes:key="role" itunes:value="background">Fuck what them niggas was saying (money make the world go 'round)</p>
+      <p begin="02:03.900" end="02:06.940" ttm:agent="v1" itunes:key="role" itunes:value="background">This could be us but you're playing (money make the girl go down)</p>
+      <p begin="02:06.940" end="02:10.340" ttm:agent="v1" itunes:key="role" itunes:value="background">This could be us but you're playing (money make the world go 'round)</p>
+      <p begin="02:10.340" end="02:15.230" ttm:agent="v1" itunes:key="role" itunes:value="background">But shit, that's all I was saying (money make the girl go down)</p>
+      <p begin="02:15.230" end="02:19.880" ttm:agent="v1">Spin the bottle, spin the fuckin' bottle</p>
+      <p begin="02:19.880" end="02:21.900" ttm:agent="v1">If you the reason why it's empty, baby</p>
+      <p begin="02:21.900" end="02:24.300" ttm:agent="v1">Spin the bottle</p>
+      <p begin="02:24.300" end="02:28.550" ttm:agent="v1">Truth or dare, nah you don't want no problem</p>
+      <p begin="02:28.550" end="02:30.840" ttm:agent="v1">Spin the bottle, spin the fuckin' bottle</p>
+      <p begin="02:30.840" end="02:34.560" ttm:agent="v1">If you the reason why it's empty, spin the fuckin' bottle</p>
+      <p begin="02:34.560" end="02:37.680" ttm:agent="v1">Truth or dare, no, no, you don't want no problem</p>
+      <p begin="02:37.680" end="02:41.080" ttm:agent="v1">You don't want no problem, bitch you must want problems</p>
+      <p begin="02:41.080" end="02:44.330" ttm:agent="v1" itunes:key="role" itunes:value="background">So back to what I was saying (money make the world go 'round)</p>
+      <p begin="02:44.330" end="02:47.020" ttm:agent="v1" itunes:key="role" itunes:value="background">This could be us but you're playing (money make the girl go down)</p>
+      <p begin="02:47.020" end="02:50.830" ttm:agent="v1" itunes:key="role" itunes:value="background">This could be us but you're playing (money make the world go 'round)</p>
+      <p begin="02:50.830" end="02:54.030" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm high, I hope I don't sound crazy (money make the girl go down)</p>
+      <p begin="02:54.030" end="02:57.380" ttm:agent="v1" itunes:key="role" itunes:value="background">Fuck what them niggas was saying (money make the world go 'round)</p>
+      <p begin="02:57.380" end="03:00.970" ttm:agent="v1" itunes:key="role" itunes:value="background">This could be us but you're playing (money make the girl go down)</p>
+      <p begin="03:00.970" end="03:04.370" ttm:agent="v1" itunes:key="role" itunes:value="background">This could be us but you're playing (money make the world go 'round)</p>
+      <p begin="03:04.370" end="03:08.370" ttm:agent="v1" itunes:key="role" itunes:value="background">But shit, that's all I was saying (money make the girl go down)</p>
+    </div>
+  </body>
+</tt>

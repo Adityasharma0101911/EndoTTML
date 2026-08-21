@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>スマイリーを探して</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Serani Poji</ttm:agent>
+      <ttm:item type="album">ワンルームサバイバル</ttm:item>
+      <ttm:item type="spotify_id">0XgoXio6L2d5tFhIq0K0ty</ttm:item>
+      <itunes:duration>04:32.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:11.140" end="00:14.220" ttm:agent="v1">僕は白い気球を作った</p>
+      <p begin="00:14.220" end="00:17.980" ttm:agent="v1">お気に入りの赤いステッカーも貼った</p>
+      <p begin="00:17.980" end="00:20.580" ttm:agent="v1">ヘルメット パラシュート</p>
+      <p begin="00:20.580" end="00:27.600" ttm:agent="v1">ふたつずつおそろいで用意した</p>
+      <p begin="00:27.600" end="00:30.950" ttm:agent="v1">Tu-tu-ru-tu-ru, tu, tu, tu</p>
+      <p begin="00:30.950" end="00:34.300" ttm:agent="v1">Tu-tu-tu-ru, tu, tu, tu</p>
+      <p begin="00:34.300" end="00:39.670" ttm:agent="v1">ここまでは簡単だった</p>
+      <p begin="00:39.670" end="00:45.460" ttm:agent="v1">旅の支度はあとひとつだった</p>
+      <p begin="00:45.460" end="00:48.070" ttm:agent="v1">地面をあちこち掘り返した</p>
+      <p begin="00:48.070" end="00:51.970" ttm:agent="v1">手紙くるかとポストで待ち伏せた</p>
+      <p begin="00:51.970" end="00:56.430" ttm:agent="v1">テーブルの下までも確かめた</p>
+      <p begin="00:56.430" end="01:01.900" ttm:agent="v1">流れ者に聞いてみた</p>
+      <p begin="01:01.900" end="01:04.640" ttm:agent="v1">Tu-tu-ru-tu-ru, tu, tu, tu</p>
+      <p begin="01:04.640" end="01:07.910" ttm:agent="v1">Tu-tu-tu-ru, tu, tu, tu</p>
+      <p begin="01:07.910" end="01:13.720" ttm:agent="v1">どこにもいない見つからないんだ</p>
+      <p begin="01:13.720" end="01:19.430" ttm:agent="v1">僕と旅する友達なんだ</p>
+      <p begin="01:19.430" end="01:22.040" ttm:agent="v1" itunes:key="role" itunes:value="background">(Where is my friend Smiley?)</p>
+      <p begin="01:22.040" end="01:25.140" ttm:agent="v1">君の名前はきっとスマイリー</p>
+      <p begin="01:25.140" end="01:27.810" ttm:agent="v1" itunes:key="role" itunes:value="background">(Mm, have you seen Smiley?)</p>
+      <p begin="01:27.810" end="01:30.760" ttm:agent="v1">僕が勝手につけました</p>
+      <p begin="01:30.760" end="01:33.380" ttm:agent="v1" itunes:key="role" itunes:value="background">(Where is my friend Smiley?)</p>
+      <p begin="01:33.380" end="01:36.160" ttm:agent="v1">探してる友達のスマイリー</p>
+      <p begin="01:36.160" end="01:42.290" ttm:agent="v1" itunes:key="role" itunes:value="background">(He-hey! Where is Smiley? His name is Smiley!)</p>
+      <p begin="01:42.290" end="01:50.290" ttm:agent="v1">ポップコーンを空に打ち上げて笑いあえるはずさ</p>
+      <p begin="01:52.650" end="01:58.770" ttm:agent="v1"/>
+      <p begin="01:58.770" end="02:01.550" ttm:agent="v1">気球を運ぶ渡り鳥は</p>
+      <p begin="02:01.550" end="02:05.280" ttm:agent="v1">そろそろ南へ飛び立ちたいといった</p>
+      <p begin="02:05.280" end="02:09.640" ttm:agent="v1">寒い冬 来る前に いきましょと</p>
+      <p begin="02:09.640" end="02:15.320" ttm:agent="v1">あぁ、君はどこにいる</p>
+      <p begin="02:15.320" end="02:17.920" ttm:agent="v1">Tu-tu-ru-tu-ru, tu, tu, tu</p>
+      <p begin="02:17.920" end="02:21.680" ttm:agent="v1">Tu-tu-tu-ru, tu, tu, tu</p>
+      <p begin="02:21.680" end="02:27.070" ttm:agent="v1">ひつじ雲が旅にさそった</p>
+      <p begin="02:27.070" end="02:32.640" ttm:agent="v1">たたずむ影は僕ひとりだった</p>
+      <p begin="02:32.640" end="02:35.460" ttm:agent="v1">どこか知らない国をめぐって</p>
+      <p begin="02:35.460" end="02:39.050" ttm:agent="v1">同じ思い出をこの気球にのせて</p>
+      <p begin="02:39.050" end="02:43.640" ttm:agent="v1">広い空 すみずみを 風きって</p>
+      <p begin="02:43.640" end="02:48.910" ttm:agent="v1">ふたりならゆけるだろう</p>
+      <p begin="02:48.910" end="02:51.960" ttm:agent="v1">Tu-tu-ru-tu-ru, tu, tu, tu</p>
+      <p begin="02:51.960" end="02:55.310" ttm:agent="v1">Tu-tu-tu-ru, tu, tu, tu</p>
+      <p begin="02:55.310" end="03:00.970" ttm:agent="v1">今年もここで冬を越すのかな</p>
+      <p begin="03:00.970" end="03:06.430" ttm:agent="v1">あとはスマイリー 君だけなのに</p>
+      <p begin="03:06.430" end="03:09.380" ttm:agent="v1" itunes:key="role" itunes:value="background">(Where is my friend Smiley?)</p>
+      <p begin="03:09.380" end="03:12.110" ttm:agent="v1">会ったことない友達さ</p>
+      <p begin="03:12.110" end="03:15.040" ttm:agent="v1" itunes:key="role" itunes:value="background">(Mm, have you seen Smiley?)</p>
+      <p begin="03:15.040" end="03:18.020" ttm:agent="v1">いつかみつけだすよきっと</p>
+      <p begin="03:18.020" end="03:20.810" ttm:agent="v1" itunes:key="role" itunes:value="background">(Where is my friend Smiley?)</p>
+      <p begin="03:20.810" end="03:23.460" ttm:agent="v1">気球はもうふくらんでるよ</p>
+      <p begin="03:23.460" end="03:29.760" ttm:agent="v1" itunes:key="role" itunes:value="background">(He-hey! Where is Smiley? His name is Smiley!)</p>
+      <p begin="03:29.760" end="03:37.760" ttm:agent="v1">君なしじゃ心が重くて飛び立てないのさ</p>
+      <p begin="03:40.550" end="03:43.210" ttm:agent="v1" itunes:key="role" itunes:value="background">(Where is my friend Smiley?)</p>
+      <p begin="03:43.210" end="03:46.370" ttm:agent="v1">君の名前はきっとスマイリー</p>
+      <p begin="03:46.370" end="03:48.920" ttm:agent="v1" itunes:key="role" itunes:value="background">(Mm, have you seen Smiley?)</p>
+      <p begin="03:48.920" end="03:51.890" ttm:agent="v1">僕が勝手につけました</p>
+      <p begin="03:51.890" end="03:54.630" ttm:agent="v1" itunes:key="role" itunes:value="background">(Where is my friend Smiley?)</p>
+      <p begin="03:54.630" end="03:57.220" ttm:agent="v1">探してる友達のスマイリー</p>
+      <p begin="03:57.220" end="04:03.670" ttm:agent="v1" itunes:key="role" itunes:value="background">(He-hey! Where is Smiley? His name is Smiley!)</p>
+      <p begin="04:03.670" end="04:11.670" ttm:agent="v1">ポップコーンを空に打ち上げて笑いあえるはずさ</p>
+      <p begin="04:14.990" end="04:22.800" ttm:agent="v1">本当は名前すら知らないんだ</p>
+      <p begin="04:22.800" end="04:26.020" ttm:agent="v1">僕の友達</p>
+      <p begin="04:26.020" end="04:30.020" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

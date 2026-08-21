@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Impostor Syndrome</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Sidney Gish</ttm:agent>
+      <ttm:item type="album">No Dogs Allowed</ttm:item>
+      <ttm:item type="spotify_id">3bpGAsjsCIMTz98E7injb2</ttm:item>
+      <itunes:duration>04:54.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:02.370" end="00:07.660" ttm:agent="v1">Unfortunately, I am</p>
+      <p begin="00:07.660" end="00:11.980" ttm:agent="v1">My own dog, my own fur companion</p>
+      <p begin="00:11.980" end="00:16.060" ttm:agent="v1">My own old lady on a forum</p>
+      <p begin="00:16.060" end="00:19.590" ttm:agent="v1">Who types in glittery decorum</p>
+      <p begin="00:19.590" end="00:21.090" ttm:agent="v1"/>
+      <p begin="00:20.210" end="00:24.440" ttm:agent="v1">Unfortunately, I take</p>
+      <p begin="00:24.440" end="00:28.560" ttm:agent="v1">Myself out walking every day and</p>
+      <p begin="00:28.560" end="00:32.680" ttm:agent="v1">I hand my legs to the feet and</p>
+      <p begin="00:32.680" end="00:36.100" ttm:agent="v1">I give my head to the leash</p>
+      <p begin="00:36.100" end="00:37.640" ttm:agent="v1"/>
+      <p begin="00:37.640" end="00:41.850" ttm:agent="v1">Every other day I'm wondering</p>
+      <p begin="00:41.850" end="00:45.960" ttm:agent="v1">&quot;What's a human being gotta be like?</p>
+      <p begin="00:45.960" end="00:50.210" ttm:agent="v1">What's a way to just be competent?&quot;</p>
+      <p begin="00:50.210" end="00:53.370" ttm:agent="v1">These sweet instincts ruin my life</p>
+      <p begin="00:53.370" end="00:54.870" ttm:agent="v1"/>
+      <p begin="00:54.370" end="00:58.270" ttm:agent="v1">Every other day I'm wondering</p>
+      <p begin="00:58.270" end="01:02.730" ttm:agent="v1">Was it a mistake to try and define</p>
+      <p begin="01:02.730" end="01:06.860" ttm:agent="v1">What I'm certain's mad incompetence?</p>
+      <p begin="01:06.860" end="01:10.080" ttm:agent="v1">These sweet instincts ruin my life</p>
+      <p begin="01:10.080" end="01:11.580" ttm:agent="v1"/>
+      <p begin="01:10.560" end="01:14.680" ttm:agent="v1">I can't smell well, or tell the time</p>
+      <p begin="01:14.680" end="01:18.820" ttm:agent="v1">Not K through 8, nor K dash 9</p>
+      <p begin="01:18.820" end="01:22.970" ttm:agent="v1">For human, grossly underqualified</p>
+      <p begin="01:22.970" end="01:27.310" ttm:agent="v1">For canine, grossly overqualified</p>
+      <p begin="01:27.310" end="01:31.140" ttm:agent="v1">I don't blend in at PetSmart</p>
+      <p begin="01:31.140" end="01:35.450" ttm:agent="v1">And that truth remains for the Walmart</p>
+      <p begin="01:35.450" end="01:39.150" ttm:agent="v1">'Cause in either case, they say to me</p>
+      <p begin="01:39.150" end="01:43.490" ttm:agent="v1">&quot;What the fuck is lost in aisle 3?&quot;</p>
+      <p begin="01:43.490" end="01:44.990" ttm:agent="v1"/>
+      <p begin="01:44.500" end="01:48.630" ttm:agent="v1">Every other day I'm wondering</p>
+      <p begin="01:48.630" end="01:52.740" ttm:agent="v1">&quot;What's a human being gotta be like?</p>
+      <p begin="01:52.740" end="01:56.930" ttm:agent="v1">What's a way to just be competent?&quot;</p>
+      <p begin="01:56.930" end="02:00.210" ttm:agent="v1">These sweet instincts ruin my life</p>
+      <p begin="02:00.210" end="02:01.710" ttm:agent="v1"/>
+      <p begin="02:01.170" end="02:05.060" ttm:agent="v1">Every other day I'm wondering</p>
+      <p begin="02:05.060" end="02:09.480" ttm:agent="v1">&quot;Was it a mistake to try and define</p>
+      <p begin="02:09.480" end="02:13.710" ttm:agent="v1">What I'm certain's mad incompetence?&quot;</p>
+      <p begin="02:13.710" end="02:17.090" ttm:agent="v1">These sweet instincts ruin my life</p>
+      <p begin="02:17.090" end="02:25.090" ttm:agent="v1"/>
+      <p begin="02:50.690" end="02:54.880" ttm:agent="v1">Just watch me, moving far away</p>
+      <p begin="02:54.880" end="02:58.870" ttm:agent="v1">Nobody even knows my name and</p>
+      <p begin="02:58.870" end="03:03.240" ttm:agent="v1">No one suspects that I'm not fine, and</p>
+      <p begin="03:03.240" end="03:07.330" ttm:agent="v1">Nobody outs behavioural Frankenstein</p>
+      <p begin="03:07.330" end="03:08.830" ttm:agent="v1"/>
+      <p begin="03:07.460" end="03:11.290" ttm:agent="v1">Just look at Victor in LA</p>
+      <p begin="03:11.290" end="03:15.670" ttm:agent="v1">And Syd with the y, state U of A</p>
+      <p begin="03:15.670" end="03:19.870" ttm:agent="v1">And all the majors at the labels</p>
+      <p begin="03:19.870" end="03:24.330" ttm:agent="v1">Rebooting soon as I am able</p>
+      <p begin="03:24.330" end="03:25.830" ttm:agent="v1"/>
+      <p begin="03:24.660" end="03:28.780" ttm:agent="v1">Every other day I'm wondering</p>
+      <p begin="03:28.780" end="03:32.920" ttm:agent="v1">&quot;What's a human being gotta be like?</p>
+      <p begin="03:32.920" end="03:37.080" ttm:agent="v1">What's a way to just be competent?&quot;</p>
+      <p begin="03:37.080" end="03:40.340" ttm:agent="v1">These sweet instincts ruin my life</p>
+      <p begin="03:40.340" end="03:41.840" ttm:agent="v1"/>
+      <p begin="03:41.350" end="03:45.260" ttm:agent="v1">Every other day I'm wondering</p>
+      <p begin="03:45.260" end="03:49.620" ttm:agent="v1">&quot;Was it a mistake to try and define</p>
+      <p begin="03:49.620" end="03:53.800" ttm:agent="v1">What I'm certain's mad incompetence?&quot;</p>
+      <p begin="03:53.800" end="03:57.330" ttm:agent="v1">These sweet instincts ruin my life</p>
+      <p begin="03:57.330" end="04:05.330" ttm:agent="v1"/>
+      <p begin="04:10.500" end="04:18.500" ttm:agent="v1">These sweet instincts ruin my life</p>
+      <p begin="04:27.200" end="04:30.330" ttm:agent="v1">These sweet instincts ruin my life</p>
+      <p begin="04:30.330" end="04:34.330" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

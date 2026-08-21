@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Keeper</ttm:title>
+      <ttm:agent type="person" xml:id="v1">TWICE</ttm:agent>
+      <ttm:item type="album">STRATEGY</ttm:item>
+      <ttm:item type="spotify_id">3Jscz9ODgRCDQKyFtJPIyW</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:06.450" end="00:10.100" ttm:agent="v1">자꾸만 시선이 마주치고</p>
+      <p begin="00:10.100" end="00:13.480" ttm:agent="v1">내게서 눈을 뗄 수가 없지</p>
+      <p begin="00:13.480" end="00:16.930" ttm:agent="v1">뭔가 다르다는 걸 넌 느꼈지</p>
+      <p begin="00:16.930" end="00:20.770" ttm:agent="v1">You know it you should, oh, never let me go</p>
+      <p begin="00:20.770" end="00:25.200" ttm:agent="v1">달빛 아래 조명 받아 더욱 빛나, rosy cheeks, kissable lips</p>
+      <p begin="00:25.200" end="00:28.870" ttm:agent="v1">감미로운 향기까지</p>
+      <p begin="00:28.870" end="00:32.480" ttm:agent="v1">Shiny like a piece of metal, gentle like a flower petal</p>
+      <p begin="00:32.480" end="00:35.620" ttm:agent="v1">나지막이 속삭여줄게</p>
+      <p begin="00:35.620" end="00:39.270" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm a keeper (keeper), ah, ah, ah</p>
+      <p begin="00:39.270" end="00:42.700" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, you need me (need me), ah, ah, ah</p>
+      <p begin="00:42.700" end="00:46.360" ttm:agent="v1" itunes:key="role" itunes:value="background">Never leave me (leave me), ah, ah, ah</p>
+      <p begin="00:46.360" end="00:48.040" ttm:agent="v1">When you meet me</p>
+      <p begin="00:48.040" end="00:50.350" ttm:agent="v1">Can't hide, can't hide your smile</p>
+      <p begin="00:50.350" end="00:52.170" ttm:agent="v1">찰나의 감정이 아니야</p>
+      <p begin="00:52.170" end="00:53.770" ttm:agent="v1">끝나지 않을 거야, I'm sure</p>
+      <p begin="00:53.770" end="00:55.440" ttm:agent="v1" itunes:key="role" itunes:value="background">It's a green light, green light (green light)</p>
+      <p begin="00:55.440" end="00:57.470" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, that's right, that's right (that's right)</p>
+      <p begin="00:57.470" end="01:00.970" ttm:agent="v1">얼어있던 네 가슴속을 부드럽게 감싸 녹여줄게</p>
+      <p begin="01:00.970" end="01:03.980" ttm:agent="v1">I'm your delight, delight, alright</p>
+      <p begin="01:03.980" end="01:08.340" ttm:agent="v1">달빛 아래 조명 받아 더욱 빛나, rosy cheeks, kissable lips</p>
+      <p begin="01:08.340" end="01:11.730" ttm:agent="v1" itunes:key="role" itunes:value="background">감미로운 향기까지 (향기까지, 향기까지)</p>
+      <p begin="01:11.730" end="01:15.580" ttm:agent="v1">Shiny like a piece of metal, gentlе like a flower petal</p>
+      <p begin="01:15.580" end="01:18.660" ttm:agent="v1" itunes:key="role" itunes:value="background">나지막이 속삭여줄게 (yеah)</p>
+      <p begin="01:18.660" end="01:22.120" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm a keeper (keeper), ah, ah, ah (I)</p>
+      <p begin="01:22.120" end="01:25.770" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, you need me (need me, need me), ah, ah, ah (oh, yeah)</p>
+      <p begin="01:25.770" end="01:29.320" ttm:agent="v1" itunes:key="role" itunes:value="background">Never leave me (leave me), ah, ah, ah</p>
+      <p begin="01:29.320" end="01:31.160" ttm:agent="v1" itunes:key="role" itunes:value="background">When you meet me (never leave, never leave, never leave)</p>
+      <p begin="01:31.160" end="01:33.700" ttm:agent="v1">Can't hide, can't hide your smile</p>
+      <p begin="01:33.700" end="01:37.470" ttm:agent="v1">Like a star</p>
+      <p begin="01:37.470" end="01:40.930" ttm:agent="v1" itunes:key="role" itunes:value="background">It's shining (you know, it's shining, shining)</p>
+      <p begin="01:40.930" end="01:43.660" ttm:agent="v1">In your heart</p>
+      <p begin="01:43.660" end="01:47.660" ttm:agent="v1">I'm a keeper, can't hide, can't hide your smile</p>
+      <p begin="01:47.660" end="01:51.210" ttm:agent="v1">걷잡을 수도 없이</p>
+      <p begin="01:51.210" end="01:54.890" ttm:agent="v1">점점 마음이 커져가</p>
+      <p begin="01:54.890" end="01:59.530" ttm:agent="v1">It's worth it, 난 자신해</p>
+      <p begin="01:59.530" end="02:01.520" ttm:agent="v1">Feeling, oh, so bright today, so bright today</p>
+      <p begin="02:01.520" end="02:05.170" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm a keeper (keeper), ah, ah, ah (I)</p>
+      <p begin="02:05.170" end="02:08.720" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, you need me (yeah, you need me), ah, ah, ah (oh, yeah)</p>
+      <p begin="02:08.720" end="02:12.230" ttm:agent="v1" itunes:key="role" itunes:value="background">Never leave me (leave me), ah, ah, ah</p>
+      <p begin="02:12.230" end="02:14.140" ttm:agent="v1" itunes:key="role" itunes:value="background">When you meet me (never leave, never leave, never leave)</p>
+      <p begin="02:14.140" end="02:16.830" ttm:agent="v1">Can't hide, can't hide your smile</p>
+      <p begin="02:16.830" end="02:20.490" ttm:agent="v1" itunes:key="role" itunes:value="background">Like a star (you know, it's the brightest day)</p>
+      <p begin="02:20.490" end="02:24.000" ttm:agent="v1" itunes:key="role" itunes:value="background">It's shining (you know, it's the brightest day)</p>
+      <p begin="02:24.000" end="02:26.690" ttm:agent="v1" itunes:key="role" itunes:value="background">In your heart (you know, it's the brightest day)</p>
+      <p begin="02:26.690" end="02:31.360" ttm:agent="v1">I'm a keeper, can't hide, can't hide your smile</p>
+      <p begin="02:31.360" end="02:35.360" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

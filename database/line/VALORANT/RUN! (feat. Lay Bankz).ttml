@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>RUN! (feat. Lay Bankz)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">VALORANT</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Odetari</ttm:agent>
+      <ttm:agent type="person" xml:id="v3">Lay Bankz</ttm:agent>
+      <ttm:item type="album">VALORANT Sounds Vol. 1</ttm:item>
+      <ttm:item type="spotify_id">1ZNrPyeyKs8YleAwY4vpKj</ttm:item>
+      <itunes:duration>02:28.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:07.080" end="00:10.430" ttm:agent="v1">Run, ru-ru-run, I love it when you hide</p>
+      <p begin="00:10.430" end="00:13.500" ttm:agent="v1">I-I've been lookin' for you longti-i-i-i-ime</p>
+      <p begin="00:13.500" end="00:17.420" ttm:agent="v1">I'ma run, ru-ru-run, I love it when you hide</p>
+      <p begin="00:17.420" end="00:21.030" ttm:agent="v1">I-I've been lookin' for you longtime</p>
+      <p begin="00:21.030" end="00:22.890" ttm:agent="v1" itunes:key="role" itunes:value="background">No, you not my homie (no, no, no)</p>
+      <p begin="00:22.890" end="00:24.970" ttm:agent="v1" itunes:key="role" itunes:value="background">I ain't got no friends (nah-ah-ah-ah)</p>
+      <p begin="00:24.970" end="00:26.470" ttm:agent="v1" itunes:key="role" itunes:value="background">Been doing my own thing (yeah, yeah)</p>
+      <p begin="00:26.450" end="00:28.390" ttm:agent="v1">Y-y-y-you follow trends</p>
+      <p begin="00:28.390" end="00:29.890" ttm:agent="v1">I'ma be getting to the back of the room</p>
+      <p begin="00:29.840" end="00:31.770" ttm:agent="v1" itunes:key="role" itunes:value="background">With a hammer, ain't taking a loss (yeah, yeah, yeah)</p>
+      <p begin="00:31.770" end="00:33.270" ttm:agent="v1">This ain't no &quot;Follow the leader&quot;</p>
+      <p begin="00:32.870" end="00:34.950" ttm:agent="v1">I'm running it up, and I'm takin' it all</p>
+      <p begin="00:34.950" end="00:38.830" ttm:agent="v1">I-i-i-i-it's deserved, wanna be up by my team?</p>
+      <p begin="00:38.830" end="00:40.660" ttm:agent="v1" itunes:key="role" itunes:value="background">Then show me that you earn it (ah-ah)</p>
+      <p begin="00:40.660" end="00:44.240" ttm:agent="v1" itunes:key="role" itunes:value="background">I'ma empty out this clip and show 'em how to burn it (bu-u-urn)</p>
+      <p begin="00:44.240" end="00:48.900" ttm:agent="v1" itunes:key="role" itunes:value="background">I can see right through that boy, I'm knowing I'm observant (ah)</p>
+      <p begin="00:48.900" end="00:52.860" ttm:agent="v1">Yeah, run, ru-ru-run, I love it when you hide</p>
+      <p begin="00:52.860" end="00:56.170" ttm:agent="v1">I-I've been lookin' for you longti-i-i-i-ime</p>
+      <p begin="00:56.170" end="00:59.810" ttm:agent="v1">I'ma run, ru-ru-run, I love it when you hide</p>
+      <p begin="00:59.810" end="01:03.890" ttm:agent="v1">I-I've been lookin' for you longtime</p>
+      <p begin="01:03.890" end="01:05.950" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, I'ma maintain number one (ah-ah-ah)</p>
+      <p begin="01:05.950" end="01:07.520" ttm:agent="v1" itunes:key="role" itunes:value="background">I don't ever gotta say too much (uh-uh-uh)</p>
+      <p begin="01:07.520" end="01:09.740" ttm:agent="v1" itunes:key="role" itunes:value="background">Shawty be thinkin' I'm green (gr-gr-green)</p>
+      <p begin="01:09.740" end="01:11.610" ttm:agent="v1">You get me turnt up, watch your tone</p>
+      <p begin="01:11.610" end="01:13.480" ttm:agent="v1">Huh, me and gang gon' be on your top</p>
+      <p begin="01:13.480" end="01:15.300" ttm:agent="v1">If it's a challenge, then we finna slide</p>
+      <p begin="01:15.300" end="01:17.190" ttm:agent="v1">I'm on the scene and I be on my team</p>
+      <p begin="01:17.190" end="01:18.690" ttm:agent="v1">And I be on my game</p>
+      <p begin="01:17.990" end="01:20.020" ttm:agent="v1">Yeah, I know they be wantin' a slice</p>
+      <p begin="01:20.020" end="01:21.630" ttm:agent="v1">I'm a winner, I'm never top five</p>
+      <p begin="01:21.630" end="01:23.280" ttm:agent="v1">Ain't no switchin', I'm here with the guys</p>
+      <p begin="01:23.280" end="01:25.050" ttm:agent="v1" itunes:key="role" itunes:value="background">And they never lie (they never lie)</p>
+      <p begin="01:25.050" end="01:26.840" ttm:agent="v1">It might be a challenge, but that's what united us</p>
+      <p begin="01:26.840" end="01:28.600" ttm:agent="v1">Ain't nothin' to it 'cause that's what ignited us</p>
+      <p begin="01:28.600" end="01:30.100" ttm:agent="v1">Since we like Gina and Pam</p>
+      <p begin="01:29.990" end="01:31.520" ttm:agent="v1">Salt and pepper, we take out your mans</p>
+      <p begin="01:31.520" end="01:34.280" ttm:agent="v1">Enemies forever</p>
+      <p begin="01:34.280" end="01:38.750" ttm:agent="v1">We can take it all to our graves</p>
+      <p begin="01:38.750" end="01:41.220" ttm:agent="v1">Enemies forever</p>
+      <p begin="01:41.220" end="01:45.710" ttm:agent="v1">You wanna take me down, take my place</p>
+      <p begin="01:45.710" end="01:49.120" ttm:agent="v1">Run, ru-ru-run, I love it when you hide</p>
+      <p begin="01:49.120" end="01:52.590" ttm:agent="v1">I-I've been lookin' for you longti-i-i-i-ime</p>
+      <p begin="01:52.590" end="01:56.170" ttm:agent="v1">I'ma run, ru-ru-run., I love it when you hide</p>
+      <p begin="01:56.170" end="02:00.050" ttm:agent="v1">I-I've been lookin' for you longtime</p>
+      <p begin="02:00.050" end="02:03.240" ttm:agent="v1">Run, ru-ru-run, I love it when you hide</p>
+      <p begin="02:03.240" end="02:06.810" ttm:agent="v1">I-I've been lookin' for you longti-i-i-i-ime</p>
+      <p begin="02:06.810" end="02:10.660" ttm:agent="v1">I'ma run, ru-ru-run, I love it when you hide</p>
+      <p begin="02:10.660" end="02:14.100" ttm:agent="v1">I-I've been lookin' for you longtime</p>
+      <p begin="02:14.100" end="02:18.100" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

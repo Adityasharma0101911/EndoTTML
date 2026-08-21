@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>100 Lives</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Løvesick</ttm:agent>
+      <ttm:item type="album">100 Lives</ttm:item>
+      <ttm:item type="spotify_id">0OkAx4iiQv8DrcejMFGeLX</ttm:item>
+      <itunes:duration>02:32.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:02.280" end="00:08.630" ttm:agent="v1">Cause if I had a 100 lives oh</p>
+      <p begin="00:08.630" end="00:14.760" ttm:agent="v1">I'd choose you again again</p>
+      <p begin="00:14.760" end="00:20.850" ttm:agent="v1">As you walked out the gate with your luggage your ghost stays behind</p>
+      <p begin="00:20.850" end="00:22.790" ttm:agent="v1">As I walk out that place</p>
+      <p begin="00:22.790" end="00:25.930" ttm:agent="v1">My heart feels heavy as fuck, man</p>
+      <p begin="00:25.930" end="00:28.870" ttm:agent="v1">I haven't felt this shit in long, man</p>
+      <p begin="00:28.870" end="00:30.470" ttm:agent="v1">I'm falling down</p>
+      <p begin="00:30.470" end="00:33.350" ttm:agent="v1">I marry your ghost every time that I'm sad</p>
+      <p begin="00:33.350" end="00:36.470" ttm:agent="v1">I visit our house that we built in my</p>
+      <p begin="00:36.470" end="00:40.100" ttm:agent="v1">Cause if I had a 100 lives</p>
+      <p begin="00:40.100" end="00:43.280" ttm:agent="v1">I'd choose you every single time</p>
+      <p begin="00:43.280" end="00:46.440" ttm:agent="v1">And even if it's one last night I'd</p>
+      <p begin="00:46.440" end="00:49.310" ttm:agent="v1">Give everything to turn back time</p>
+      <p begin="00:49.310" end="00:51.970" ttm:agent="v1">I'm stuck in the past looking back for the scraps</p>
+      <p begin="00:51.970" end="00:55.150" ttm:agent="v1">You're smoking and drinking you can't get attached</p>
+      <p begin="00:55.150" end="00:58.330" ttm:agent="v1">It looks like you're happier without a man</p>
+      <p begin="00:58.330" end="01:04.600" ttm:agent="v1">So I'mma go back to that night where it all began</p>
+      <p begin="01:04.600" end="01:11.060" ttm:agent="v1">I'mma go back to that night and just go to bed</p>
+      <p begin="01:11.060" end="01:14.920" ttm:agent="v1">I'mma go back to that night and just play pretend</p>
+      <p begin="01:14.920" end="01:17.170" ttm:agent="v1">That you still want me</p>
+      <p begin="01:17.170" end="01:22.920" ttm:agent="v1">The thought of you crying on facetime it literally haunts me</p>
+      <p begin="01:22.920" end="01:28.260" ttm:agent="v1">The thought of you breaks me apart knowing that you are happier</p>
+      <p begin="01:28.260" end="01:29.760" ttm:agent="v1">Without me</p>
+      <p begin="01:29.590" end="01:35.700" ttm:agent="v1">So far apart yet it feels like you're somewhere around me</p>
+      <p begin="01:35.700" end="01:39.370" ttm:agent="v1">So far apart yet I still feel your</p>
+      <p begin="01:39.370" end="01:42.210" ttm:agent="v1">Cause if I had a 100 lives</p>
+      <p begin="01:42.210" end="01:45.130" ttm:agent="v1">I'd choose you every single time</p>
+      <p begin="01:45.130" end="01:48.520" ttm:agent="v1">And even if it's one last night I'd</p>
+      <p begin="01:48.520" end="01:50.910" ttm:agent="v1">Give everything to turn back time</p>
+      <p begin="01:50.910" end="01:56.780" ttm:agent="v1">My knees go weak the moment that I feel you breathe</p>
+      <p begin="01:56.780" end="02:00.100" ttm:agent="v1">I cannot stomach that you're gone</p>
+      <p begin="02:00.100" end="02:06.750" ttm:agent="v1">Without you, without you</p>
+      <p begin="02:06.750" end="02:12.950" ttm:agent="v1">Part of me doesn't want you to move on</p>
+      <p begin="02:12.950" end="02:19.250" ttm:agent="v1">Babe if you're happier with him go on</p>
+      <p begin="02:19.250" end="02:25.060" ttm:agent="v1">Part of me doesn't want you to move on</p>
+      <p begin="02:25.060" end="02:28.780" ttm:agent="v1">But I know you'll be happier with him go on</p>
+      <p begin="02:28.780" end="02:32.780" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

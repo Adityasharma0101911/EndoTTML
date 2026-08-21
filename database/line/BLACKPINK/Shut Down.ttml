@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Shut Down</ttm:title>
+      <ttm:agent type="person" xml:id="v1">BLACKPINK</ttm:agent>
+      <ttm:item type="album">BORN PINK</ttm:item>
+      <ttm:item type="spotify_id">7gRFDGEzF9UkBV233yv2dc</ttm:item>
+      <itunes:duration>02:56.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:03.870" end="00:10.280" ttm:agent="v1">BLACKPINK in your area, eh-oh</p>
+      <p begin="00:10.280" end="00:15.550" ttm:agent="v1">BLACKPINK in your area, eh-oh</p>
+      <p begin="00:15.550" end="00:18.670" ttm:agent="v1">컴백이 아냐, 떠난 적 없으니까</p>
+      <p begin="00:18.670" end="00:22.010" ttm:agent="v1">고개들이 돌아, 진정해, 목 꺾일라</p>
+      <p begin="00:22.010" end="00:25.270" ttm:agent="v1">분홍빛의 얼음 drip, drip, drip, freeze 'em on sight</p>
+      <p begin="00:25.270" end="00:28.530" ttm:agent="v1">Shut it down, what, what, what, what?</p>
+      <p begin="00:28.530" end="00:31.800" ttm:agent="v1">게임이 아냐, 진 적이 없으니까</p>
+      <p begin="00:31.800" end="00:35.070" ttm:agent="v1">짖어봐, 네 목에 목줄은 내 거니까</p>
+      <p begin="00:35.070" end="00:38.260" ttm:agent="v1">땅바닥에 닿은 pedal, we go two-zero-five</p>
+      <p begin="00:38.260" end="00:41.620" ttm:agent="v1">Shut it down, uh-uh-uh-uh</p>
+      <p begin="00:41.620" end="00:44.800" ttm:agent="v1">초록 비를 내려 머리 위로, don't trip, baby</p>
+      <p begin="00:44.800" end="00:48.250" ttm:agent="v1">겸손하게 그냥 앉아있어, just sit, baby</p>
+      <p begin="00:48.250" end="00:51.320" ttm:agent="v1">Praying for my downfall, many have tried, baby</p>
+      <p begin="00:51.320" end="00:54.080" ttm:agent="v1">Catch me when you hear my Lamborghini go vroom, vroom, vroom, vroom</p>
+      <p begin="00:54.080" end="00:57.410" ttm:agent="v1">When we pull up, you know it's a shut down</p>
+      <p begin="00:57.410" end="01:01.260" ttm:agent="v1">간판 내리고 문 잠가 shut down</p>
+      <p begin="01:01.260" end="01:04.390" ttm:agent="v1">Whip it, whip it, whip it, whip it, whip it, whip it, whip it, whip it</p>
+      <p begin="01:04.390" end="01:07.300" ttm:agent="v1">It's black and it's pink once the sun down</p>
+      <p begin="01:07.300" end="01:10.680" ttm:agent="v1">When we pull up, you know it's a shut down</p>
+      <p begin="01:10.680" end="01:14.310" ttm:agent="v1">간판 내리고 문 잠가 shut down</p>
+      <p begin="01:14.310" end="01:17.730" ttm:agent="v1">Whip it, whip it, whip it, whip it, whip it, whip it, whip it, whip it</p>
+      <p begin="01:17.730" end="01:20.310" ttm:agent="v1">Keep watchin' me shut it down</p>
+      <p begin="01:20.310" end="01:22.620" ttm:agent="v1">Nah, you don't wanna be on my bad side</p>
+      <p begin="01:22.620" end="01:24.190" ttm:agent="v1">That's right, I'm slidin' through</p>
+      <p begin="01:24.190" end="01:25.710" ttm:agent="v1">Bunch of wannabes that wanna be me</p>
+      <p begin="01:25.710" end="01:27.450" ttm:agent="v1">Me three if I was you</p>
+      <p begin="01:27.450" end="01:29.150" ttm:agent="v1">Been around the world, pearls on ya, girl</p>
+      <p begin="01:29.150" end="01:30.850" ttm:agent="v1">VVS's we invested, uh</p>
+      <p begin="01:30.850" end="01:32.550" ttm:agent="v1">Need a lesson, see the necklace, see these dresses</p>
+      <p begin="01:32.550" end="01:34.050" ttm:agent="v1">We don't buy it, we request it, uh</p>
+      <p begin="01:33.980" end="01:36.220" ttm:agent="v1">A rock star, a pop star, but rowdier</p>
+      <p begin="01:36.220" end="01:37.830" ttm:agent="v1">Say bye to the paparazzi</p>
+      <p begin="01:37.830" end="01:39.730" ttm:agent="v1">Get my good side, I'll smile for ya</p>
+      <p begin="01:39.730" end="01:42.890" ttm:agent="v1">Know it ain't fair to ya, it's scarin' ya like what now?</p>
+      <p begin="01:42.890" end="01:45.930" ttm:agent="v1">BLACKPINK in your area, the area been shut down</p>
+      <p begin="01:45.930" end="01:47.430" ttm:agent="v1">It's a shut down</p>
+      <p begin="01:46.800" end="01:50.330" ttm:agent="v1">네, 다음 답안지야, 똑바로 봐, don't sleep, baby</p>
+      <p begin="01:50.330" end="01:53.430" ttm:agent="v1">뒤집어봐, 이건 가격표야 ain't cheap, baby</p>
+      <p begin="01:53.430" end="01:56.880" ttm:agent="v1">Stay in your own lane 'cause I'm 'bout to swerve</p>
+      <p begin="01:56.880" end="01:59.570" ttm:agent="v1">Catch me when you hear my Lamborghini go vroom, vroom, vroom, vroom</p>
+      <p begin="01:59.570" end="02:02.950" ttm:agent="v1">When we pull up, you know it's a shut down</p>
+      <p begin="02:02.950" end="02:06.890" ttm:agent="v1">간판 내리고 문 잠가 shut down</p>
+      <p begin="02:06.890" end="02:09.740" ttm:agent="v1">Whip it, whip it, whip it, whip it, whip it, whip it, whip it, whip it</p>
+      <p begin="02:09.740" end="02:12.580" ttm:agent="v1">It's black and it's pink once the sun down</p>
+      <p begin="02:12.580" end="02:16.060" ttm:agent="v1">When we pull up, you know it's a shut down</p>
+      <p begin="02:16.060" end="02:19.750" ttm:agent="v1">간판 내리고 문 잠가 shut down</p>
+      <p begin="02:19.750" end="02:23.130" ttm:agent="v1">Whip it, whip it, whip it, whip it, whip it, whip it, whip it, whip it</p>
+      <p begin="02:23.130" end="02:26.920" ttm:agent="v1">Keep watchin' me shut it down</p>
+      <p begin="02:26.920" end="02:34.920" ttm:agent="v1"/>
+      <p begin="02:39.250" end="02:42.740" ttm:agent="v1" itunes:key="role" itunes:value="background">Shut it down (eh-oh), BLACKPINK in your area</p>
+      <p begin="02:42.740" end="02:45.910" ttm:agent="v1" itunes:key="role" itunes:value="background">Shut it down (eh-oh), whoa, whoa, whoa, whoa</p>
+      <p begin="02:45.910" end="02:49.170" ttm:agent="v1" itunes:key="role" itunes:value="background">Shut it down (eh-oh), BLACKPINK in your area</p>
+      <p begin="02:49.170" end="02:50.750" ttm:agent="v1">Keep talkin', we shut you down</p>
+      <p begin="02:50.750" end="02:54.750" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Move!</ttm:title>
+      <ttm:agent type="person" xml:id="v1">1nonly</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Savage Ga$p</ttm:agent>
+      <ttm:agent type="person" xml:id="v3">Ciscaux</ttm:agent>
+      <ttm:item type="album">Move!</ttm:item>
+      <ttm:item type="spotify_id">4wVp0fs0k24q05f0CP6PVS</ttm:item>
+      <itunes:duration>02:09.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.750" end="00:02.250" ttm:agent="v1">Uh, uh, uh</p>
+      <p begin="00:01.750" end="00:03.250" ttm:agent="v1" itunes:key="role" itunes:value="background">(Hit that shit, motherfucker, hahaha)</p>
+      <p begin="00:02.550" end="00:05.650" ttm:agent="v1" itunes:key="role" itunes:value="background">Uh, uh (it's a last way I can't do that)</p>
+      <p begin="00:05.650" end="00:07.840" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, ayy, yeah, ayy (do that shit), ayy, ayy</p>
+      <p begin="00:07.840" end="00:09.990" ttm:agent="v1">I got a bad bitch, so I told her, &quot;What's up?&quot;</p>
+      <p begin="00:09.990" end="00:12.140" ttm:agent="v1">You know who it is when I step in the club</p>
+      <p begin="00:12.140" end="00:14.220" ttm:agent="v1">Like, &quot;Oh shit, bitch, why you tryna fuck?&quot;</p>
+      <p begin="00:14.220" end="00:16.370" ttm:agent="v1">Break it down and bring that shit back up</p>
+      <p begin="00:16.370" end="00:18.420" ttm:agent="v1">Like, &quot;Oh shit, get out the way&quot;</p>
+      <p begin="00:18.420" end="00:20.220" ttm:agent="v1">I be makin' moves, bitch, I be makin' plays</p>
+      <p begin="00:20.220" end="00:22.550" ttm:agent="v1">I'm smooth, bitch, money on the way</p>
+      <p begin="00:22.550" end="00:24.570" ttm:agent="v1">I don't give a fuck 'cause I be gettin' paid</p>
+      <p begin="00:24.570" end="00:26.770" ttm:agent="v1">Like, &quot;Oh shit, get out the way&quot;</p>
+      <p begin="00:26.770" end="00:28.590" ttm:agent="v1">I be makin' moves, bitch, I be makin' plays</p>
+      <p begin="00:28.590" end="00:30.890" ttm:agent="v1">I'm smooth, bitch, money on the way</p>
+      <p begin="00:30.890" end="00:32.920" ttm:agent="v1">I don't give a fuck 'cause I be gettin' paid</p>
+      <p begin="00:32.920" end="00:34.420" ttm:agent="v1">Like, oh—</p>
+      <p begin="00:33.020" end="00:34.890" ttm:agent="v1">Yeah, I got money on the way like UPS</p>
+      <p begin="00:34.890" end="00:36.880" ttm:agent="v1">You tried to take it, I'ma count down two-three texts</p>
+      <p begin="00:36.880" end="00:38.800" ttm:agent="v1">I got a baddie out in Texas, go to UT Tech</p>
+      <p begin="00:38.800" end="00:41.710" ttm:agent="v1" itunes:key="role" itunes:value="background">I told her, &quot;Baby gettin' down to give me UC neck&quot; (uh-uh)</p>
+      <p begin="00:41.710" end="00:43.460" ttm:agent="v1" itunes:key="role" itunes:value="background">Make a bitch ride like a scooter (uh)</p>
+      <p begin="00:43.460" end="00:45.530" ttm:agent="v1" itunes:key="role" itunes:value="background">That boy a liar, he say he a shooter (uh)</p>
+      <p begin="00:45.530" end="00:47.370" ttm:agent="v1" itunes:key="role" itunes:value="background">That bitch a thot (uh), that girl a cooter</p>
+      <p begin="00:47.370" end="00:49.520" ttm:agent="v1">You be rockin' stolen Gucci, boy, you a fuckin' looter</p>
+      <p begin="00:49.520" end="00:51.550" ttm:agent="v1">Man, fuck that shit, man we makin' racks in the studio</p>
+      <p begin="00:51.550" end="00:53.560" ttm:agent="v1">This a gangster's paradise, bitch I feel like I'm Coolio</p>
+      <p begin="00:53.560" end="00:55.580" ttm:agent="v1">I ain't worried in the club 'cause I snuck in the toolio</p>
+      <p begin="00:55.580" end="00:57.870" ttm:agent="v1">Boy, leave me alone, you scarin' the groupies bro</p>
+      <p begin="00:57.870" end="00:59.770" ttm:agent="v1">Tell her, &quot;Hit, hit, hit me on my celluar&quot;</p>
+      <p begin="00:59.770" end="01:01.980" ttm:agent="v1">My wrist Ben 10, it ain't from earth</p>
+      <p begin="01:01.980" end="01:04.060" ttm:agent="v1">Whole gang on top, we lead the herd</p>
+      <p begin="01:04.060" end="01:06.130" ttm:agent="v1">And the word around town, ya heard?</p>
+      <p begin="01:06.130" end="01:08.220" ttm:agent="v1">I got a bad bitch, so I told her, &quot;What's up?&quot;</p>
+      <p begin="01:08.220" end="01:10.350" ttm:agent="v1">You know who it is when I step in the club</p>
+      <p begin="01:10.350" end="01:12.650" ttm:agent="v1">Like, &quot;Oh shit, bitch, why you tryna fuck?&quot;</p>
+      <p begin="01:12.650" end="01:14.580" ttm:agent="v1">Break it down and bring that shit back up</p>
+      <p begin="01:14.580" end="01:16.850" ttm:agent="v1">Like, &quot;Oh shit, get out the way&quot;</p>
+      <p begin="01:16.850" end="01:18.790" ttm:agent="v1">I be makin' moves, bitch, I be makin' plays</p>
+      <p begin="01:18.790" end="01:20.830" ttm:agent="v1">I'm smooth, bitch, money on the way</p>
+      <p begin="01:20.830" end="01:22.780" ttm:agent="v1">I don't give a fuck 'cause I be gettin' paid</p>
+      <p begin="01:22.780" end="01:24.280" ttm:agent="v1">Like—</p>
+      <p begin="01:23.240" end="01:25.190" ttm:agent="v1" itunes:key="role" itunes:value="background">Like move bitch, get out the way (ayy)</p>
+      <p begin="01:25.190" end="01:27.450" ttm:agent="v1" itunes:key="role" itunes:value="background">Hello Kitty crop-top, Off-White jays (ayy, ayy, ayy)</p>
+      <p begin="01:27.450" end="01:29.240" ttm:agent="v1">And I got rich all off the hits in my closet</p>
+      <p begin="01:29.240" end="01:31.470" ttm:agent="v1" itunes:key="role" itunes:value="background">I just make songs for the girls and the gays (rrah)</p>
+      <p begin="01:31.470" end="01:33.470" ttm:agent="v1" itunes:key="role" itunes:value="background">E-girls love me (Ayy), moms wanna fuck me (ayy)</p>
+      <p begin="01:33.470" end="01:35.650" ttm:agent="v1" itunes:key="role" itunes:value="background">Your girlfriend playlists me and me only (yuh)</p>
+      <p begin="01:35.650" end="01:37.470" ttm:agent="v1" itunes:key="role" itunes:value="background">At this point, my feature price is priceless (okay, okay, okay)</p>
+      <p begin="01:37.470" end="01:39.560" ttm:agent="v1" itunes:key="role" itunes:value="background">My wrist is icy, my opps is corny (ayy-ayy)</p>
+      <p begin="01:39.560" end="01:41.850" ttm:agent="v1">'Cause I'm gold and platinum, don't even at me</p>
+      <p begin="01:41.850" end="01:43.760" ttm:agent="v1">I'm everlasting, you never less</p>
+      <p begin="01:43.760" end="01:45.830" ttm:agent="v1">And I hit her text and said, &quot;Do you want me?&quot;</p>
+      <p begin="01:45.830" end="01:50.300" ttm:agent="v1" itunes:key="role" itunes:value="background">'Cause I still got love for you, mamí (hahaha)</p>
+      <p begin="01:50.300" end="01:52.140" ttm:agent="v1">I got a bad bitch, so I told her, &quot;What's up?&quot;</p>
+      <p begin="01:52.140" end="01:54.150" ttm:agent="v1">You know who it is when I step in the club</p>
+      <p begin="01:54.150" end="01:56.440" ttm:agent="v1">Like, &quot;Oh shit, bitch, why you tryna fuck?&quot;</p>
+      <p begin="01:56.440" end="01:58.280" ttm:agent="v1">Break it down and bring that shit back up</p>
+      <p begin="01:58.280" end="02:00.630" ttm:agent="v1">Like, &quot;Oh shit, get out the way&quot;</p>
+      <p begin="02:00.630" end="02:02.530" ttm:agent="v1">I be makin' moves, bitch, I be makin' plays</p>
+      <p begin="02:02.530" end="02:04.650" ttm:agent="v1">I'm smooth, bitch, money on the way</p>
+      <p begin="02:04.650" end="02:06.710" ttm:agent="v1">I don't give a fuck 'cause I be gettin' paid</p>
+      <p begin="02:06.710" end="02:08.210" ttm:agent="v1">Like, oh—</p>
+      <p begin="02:08.180" end="02:12.180" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

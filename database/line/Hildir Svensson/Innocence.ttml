@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Innocence</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Hildir Svensson</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Six Dior</ttm:agent>
+      <ttm:item type="album">Innocence</ttm:item>
+      <ttm:item type="spotify_id">4vzWdPFSFtIgCgCiTY7o3B</ttm:item>
+      <itunes:duration>05:56.571</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:02.360" end="00:06.350" ttm:agent="v1">You're broke as a joke</p>
+      <p begin="00:06.350" end="00:14.350" ttm:agent="v1">Plus your credit's low, you couldn't pay your telephone</p>
+      <p begin="00:17.460" end="00:21.920" ttm:agent="v1">You're drunk as a skunk</p>
+      <p begin="00:21.920" end="00:29.920" ttm:agent="v1">Foolish at the party, then you threw up all your lunch</p>
+      <p begin="00:33.390" end="00:41.390" ttm:agent="v1">Remember back in '95, when they were happy you're alive</p>
+      <p begin="00:48.730" end="00:56.730" ttm:agent="v1">Now you gotta make sure their expenses are all paid on time</p>
+      <p begin="00:58.050" end="01:02.740" ttm:agent="v1">Shift my paradigm</p>
+      <p begin="01:02.740" end="01:10.740" ttm:agent="v1">Ooh, I'm drifting from my innocence</p>
+      <p begin="01:12.080" end="01:18.030" ttm:agent="v1">I wanna be a kid again</p>
+      <p begin="01:18.030" end="01:26.030" ttm:agent="v1">Ooh, I wonder about it sometimes</p>
+      <p begin="01:27.420" end="01:35.420" ttm:agent="v1">Leave the bullshit all behind</p>
+      <p begin="01:35.740" end="01:39.100" ttm:agent="v1">High all the time</p>
+      <p begin="01:39.100" end="01:46.980" ttm:agent="v1">Doin' lines in the bathroom, this place is a vacuum</p>
+      <p begin="01:46.980" end="01:50.970" ttm:agent="v1">I can't breathe</p>
+      <p begin="01:50.970" end="01:58.220" ttm:agent="v1">If I could rewind, I'd live in isolation</p>
+      <p begin="01:58.220" end="02:02.330" ttm:agent="v1">Then a late beach vacation</p>
+      <p begin="02:02.330" end="02:06.430" ttm:agent="v1">But that's just me</p>
+      <p begin="02:06.430" end="02:14.430" ttm:agent="v1">Remember back in '95, when they were happy you're alive</p>
+      <p begin="02:22.010" end="02:30.010" ttm:agent="v1">Now you gotta make sure their expenses are all paid on time</p>
+      <p begin="02:30.990" end="02:35.810" ttm:agent="v1">Shift my paradigm</p>
+      <p begin="02:35.810" end="02:43.810" ttm:agent="v1">Ooh, I'm drifting from my innocence</p>
+      <p begin="02:45.230" end="02:51.370" ttm:agent="v1">I wanna be a kid again</p>
+      <p begin="02:51.370" end="02:59.370" ttm:agent="v1">Ooh, I cry about it all the time</p>
+      <p begin="03:00.350" end="03:06.520" ttm:agent="v1">It took away my paradigm</p>
+      <p begin="03:06.520" end="03:14.520" ttm:agent="v1">Ooh, I'm drifting from my innocence</p>
+      <p begin="03:16.120" end="03:22.380" ttm:agent="v1">I wanna be a kid again</p>
+      <p begin="03:22.380" end="03:30.380" ttm:agent="v1">Ooh, I cry about it all the time</p>
+      <p begin="03:31.590" end="03:38.000" ttm:agent="v1">It took away my paradigm</p>
+      <p begin="03:38.000" end="03:41.030" ttm:agent="v1">I wrote this when I was broke as a joke</p>
+      <p begin="03:41.030" end="03:43.960" ttm:agent="v1">Now I float, now I rise like a rose</p>
+      <p begin="03:43.960" end="03:45.960" ttm:agent="v1">Jalen Rose, Derrick Rose</p>
+      <p begin="03:45.960" end="03:47.990" ttm:agent="v1">Gucci flowers in my robe</p>
+      <p begin="03:47.990" end="03:50.720" ttm:agent="v1">I get showered, they throw roses at my feet</p>
+      <p begin="03:50.720" end="03:52.680" ttm:agent="v1">Those are flowers I don't keep</p>
+      <p begin="03:52.680" end="03:54.780" ttm:agent="v1">No flour, nothing sweet</p>
+      <p begin="03:54.780" end="03:56.560" ttm:agent="v1">Might go vegan, gluten-free</p>
+      <p begin="03:56.560" end="04:01.530" ttm:agent="v1">Really free, independent, it's just me and my G's</p>
+      <p begin="04:01.530" end="04:05.230" ttm:agent="v1">John Rose, Bernie Rose, Miley Rose, Phony Rose</p>
+      <p begin="04:05.230" end="04:09.340" ttm:agent="v1">Raleigh Rose, Jose Rose, Sean be rising on these hos</p>
+      <p begin="04:09.340" end="04:12.170" ttm:agent="v1">We'll be rising 'til the day that I'm dying</p>
+      <p begin="04:12.170" end="04:20.170" ttm:agent="v1">This I know, this I know, this I know</p>
+      <p begin="04:23.650" end="04:26.500" ttm:agent="v1">Yeah, let's take it back</p>
+      <p begin="04:26.500" end="04:29.680" ttm:agent="v1">I remember we were Kobe and Shaq</p>
+      <p begin="04:29.680" end="04:33.930" ttm:agent="v1">Heartbroken but still intact, in pieces but still at peace</p>
+      <p begin="04:33.930" end="04:36.370" ttm:agent="v1">Got pieces to keep the peace</p>
+      <p begin="04:36.370" end="04:38.100" ttm:agent="v1">I could tell you who I really is</p>
+      <p begin="04:38.100" end="04:40.270" ttm:agent="v1">Matthew fucking Sean</p>
+      <p begin="04:40.270" end="04:43.980" ttm:agent="v1">I've been rappin' since we parked cycles on mama's lawn</p>
+      <p begin="04:43.980" end="04:47.810" ttm:agent="v1">Commas ever now seen common street poems</p>
+      <p begin="04:47.810" end="04:52.570" ttm:agent="v1">Got my palms itchin', and that pinky glistenin' in the charm</p>
+      <p begin="04:52.570" end="04:59.300" ttm:agent="v1">Got the ball spinning, I smoke tall trees to sort of soften tension</p>
+      <p begin="04:59.300" end="05:02.460" ttm:agent="v1">These bold white tees but might cost different</p>
+      <p begin="05:02.460" end="05:07.040" ttm:agent="v1">There's a white tee, but it cost living</p>
+      <p begin="05:07.040" end="05:10.650" ttm:agent="v1">Life's Gucci, the Gucci ones tinted</p>
+      <p begin="05:10.650" end="05:12.970" ttm:agent="v1">I never watched, niggas been known</p>
+      <p begin="05:12.970" end="05:14.970" ttm:agent="v1" itunes:key="role" itunes:value="background">(Matthew fucking Sean)</p>
+      <p begin="05:14.970" end="05:19.340" ttm:agent="v1" itunes:key="role" itunes:value="background">(I been rapping since we parked cycles on mama's lawn)</p>
+      <p begin="05:19.340" end="05:23.340" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

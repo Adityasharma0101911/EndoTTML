@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Hotel Room</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Ax and the Hatchetmen</ttm:agent>
+      <ttm:item type="album">Hotel Room</ttm:item>
+      <ttm:item type="spotify_id">5p5bK3qF9ttryVxpxJvZYF</ttm:item>
+      <itunes:duration>02:28.888</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.700" end="00:06.070" ttm:agent="v1">So much to tell you, hold up in this hotel room</p>
+      <p begin="00:06.070" end="00:11.650" ttm:agent="v1">Can't do the things I want to, I've been climbing the walls</p>
+      <p begin="00:11.650" end="00:17.620" ttm:agent="v1">And I just can't get used to not being right next to you</p>
+      <p begin="00:17.620" end="00:24.410" ttm:agent="v1">Not wearing half your perfume while I'm singing your song</p>
+      <p begin="00:24.410" end="00:29.060" ttm:agent="v1">And I hate that you're so far away</p>
+      <p begin="00:29.060" end="00:33.520" ttm:agent="v1">And I just wanna find myself in the middle of you</p>
+      <p begin="00:33.520" end="00:36.380" ttm:agent="v1">I'm all tied up in the middle of you</p>
+      <p begin="00:36.380" end="00:40.920" ttm:agent="v1">I hate that you're so far away</p>
+      <p begin="00:40.920" end="00:44.770" ttm:agent="v1">And I just wanna find myself in the middle of you</p>
+      <p begin="00:44.770" end="00:46.790" ttm:agent="v1">I'm all tied up</p>
+      <p begin="00:46.790" end="00:52.800" ttm:agent="v1">And there's so much to tell you, hold up in this hotel room</p>
+      <p begin="00:52.800" end="00:58.370" ttm:agent="v1">Can't do the things I want to, I've been climbing the walls</p>
+      <p begin="00:58.370" end="01:04.310" ttm:agent="v1">And I just can't get used to not being right next to you</p>
+      <p begin="01:04.310" end="01:11.640" ttm:agent="v1">Not wearing half your perfume while I'm singing your song</p>
+      <p begin="01:11.640" end="01:16.020" ttm:agent="v1">And I hate that you're so far away</p>
+      <p begin="01:16.020" end="01:20.120" ttm:agent="v1">And I just wanna find myself in the middle of you</p>
+      <p begin="01:20.120" end="01:22.980" ttm:agent="v1">I'm all tied up in the middle of you</p>
+      <p begin="01:22.980" end="01:28.010" ttm:agent="v1" itunes:key="role" itunes:value="background">I hate that you're so far away (so far away)</p>
+      <p begin="01:28.010" end="01:31.660" ttm:agent="v1">And I just wanna find myself in the middle of you</p>
+      <p begin="01:31.660" end="01:34.580" ttm:agent="v1">I'm all tied up in this</p>
+      <p begin="01:34.580" end="01:42.580" ttm:agent="v1"/>
+      <p begin="01:58.460" end="02:03.060" ttm:agent="v1">And I hate that you're so far away</p>
+      <p begin="02:03.060" end="02:06.950" ttm:agent="v1">And I just wanna find myself in the middle of you</p>
+      <p begin="02:06.950" end="02:10.180" ttm:agent="v1">I'm all tied up in the middle of you</p>
+      <p begin="02:10.180" end="02:15.030" ttm:agent="v1" itunes:key="role" itunes:value="background">I hate that you're so far away (so far away)</p>
+      <p begin="02:15.030" end="02:18.730" ttm:agent="v1">And I just wanna find myself in the middle of you</p>
+      <p begin="02:18.730" end="02:22.130" ttm:agent="v1">I'm all tied up in the middle of you</p>
+      <p begin="02:22.130" end="02:26.130" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

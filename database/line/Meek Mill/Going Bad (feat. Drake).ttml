@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Going Bad (feat. Drake)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Meek Mill</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Drake</ttm:agent>
+      <ttm:item type="album">Championships</ttm:item>
+      <ttm:item type="spotify_id">2IRZnDFmlqMuOrYOLnZZyc</ttm:item>
+      <itunes:duration>03:01.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:04.330" end="00:05.830" ttm:agent="v1">Yeah</p>
+      <p begin="00:05.650" end="00:07.730" ttm:agent="v1" itunes:key="role" itunes:value="background">(Wheezy outta here)</p>
+      <p begin="00:07.730" end="00:11.220" ttm:agent="v1">G, G</p>
+      <p begin="00:11.220" end="00:14.140" ttm:agent="v1" itunes:key="role" itunes:value="background">Back home, smokin' legal (Legal)</p>
+      <p begin="00:14.140" end="00:16.800" ttm:agent="v1" itunes:key="role" itunes:value="background">I got more slaps than The Beatles (Beatles)</p>
+      <p begin="00:16.800" end="00:19.400" ttm:agent="v1">Foreign shit runnin' on diesel, dawg</p>
+      <p begin="00:19.400" end="00:22.510" ttm:agent="v1">Playin' with my name, that shit is lethal, dawg</p>
+      <p begin="00:22.510" end="00:24.010" ttm:agent="v1" itunes:key="role" itunes:value="background">(Who you see, what?)</p>
+      <p begin="00:23.320" end="00:25.130" ttm:agent="v1">Don Corleone</p>
+      <p begin="00:25.130" end="00:27.990" ttm:agent="v1" itunes:key="role" itunes:value="background">Trust me, at the top it isn't lonely (Strapped)</p>
+      <p begin="00:27.990" end="00:30.980" ttm:agent="v1">Everybody actin' like they know me, dawg</p>
+      <p begin="00:30.980" end="00:33.170" ttm:agent="v1">Don't just say you're down, you gotta show me</p>
+      <p begin="00:33.170" end="00:34.670" ttm:agent="v1" itunes:key="role" itunes:value="background">(What you gotta do?)</p>
+      <p begin="00:34.050" end="00:36.300" ttm:agent="v1" itunes:key="role" itunes:value="background">Bring the clip back empty (It's empty)</p>
+      <p begin="00:36.300" end="00:38.930" ttm:agent="v1">You asked to see the boss, so they sent me, dawg</p>
+      <p begin="00:38.930" end="00:40.430" ttm:agent="v1" itunes:key="role" itunes:value="background">(Sent me, dawg)</p>
+      <p begin="00:39.440" end="00:41.460" ttm:agent="v1">I just broke her off with a 10-piece, dawg</p>
+      <p begin="00:41.460" end="00:42.960" ttm:agent="v1" itunes:key="role" itunes:value="background">(10-piece, dawg)</p>
+      <p begin="00:42.190" end="00:45.580" ttm:agent="v1">That ain't nothin', I'm just bein' friendly, dawg</p>
+      <p begin="00:45.580" end="00:47.300" ttm:agent="v1">It's just a lil' 10-piece for her</p>
+      <p begin="00:47.300" end="00:48.800" ttm:agent="v1">Just to blow it in the mall</p>
+      <p begin="00:48.790" end="00:50.290" ttm:agent="v1">Doesn't mean that we're involved</p>
+      <p begin="00:50.160" end="00:52.940" ttm:agent="v1">I just... what? I just... uh, put a Richard on the card</p>
+      <p begin="00:52.940" end="00:54.490" ttm:agent="v1">I ain't grow up playin' ball</p>
+      <p begin="00:54.490" end="00:56.290" ttm:agent="v1">But I'll show you how the fuck you gotta do it</p>
+      <p begin="00:56.290" end="00:58.430" ttm:agent="v1">If you really wanna ball 'til you fall</p>
+      <p begin="00:58.430" end="01:00.000" ttm:agent="v1">When your back against the wall</p>
+      <p begin="01:00.000" end="01:02.760" ttm:agent="v1">And a bunch of niggas need you to go away</p>
+      <p begin="01:02.760" end="01:05.790" ttm:agent="v1">Still goin' bad on 'em anyway</p>
+      <p begin="01:05.790" end="01:08.170" ttm:agent="v1">Saw you last night, but did it broad day</p>
+      <p begin="01:08.170" end="01:11.100" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, lot of Murakami in the hallway (What?)</p>
+      <p begin="01:11.100" end="01:13.540" ttm:agent="v1">Got a sticky and I keep it at my dawg's place</p>
+      <p begin="01:13.540" end="01:16.500" ttm:agent="v1">Girl, I left your love at Magic, now it's all shade</p>
+      <p begin="01:16.500" end="01:19.110" ttm:agent="v1">Still goin' bad on you anyway</p>
+      <p begin="01:19.110" end="01:21.490" ttm:agent="v1">Woah, woah, ooh, woah</p>
+      <p begin="01:21.490" end="01:23.610" ttm:agent="v1">Woah, woah, ah</p>
+      <p begin="01:23.610" end="01:26.320" ttm:agent="v1" itunes:key="role" itunes:value="background">I could fit like 80 racks in my Amiris (80 racks)</p>
+      <p begin="01:26.320" end="01:29.200" ttm:agent="v1" itunes:key="role" itunes:value="background">Me and Drizzy back-to-back, it's gettin' scary (Back-to-back)</p>
+      <p begin="01:29.200" end="01:31.930" ttm:agent="v1" itunes:key="role" itunes:value="background">If you fuckin' with my opps, just don't come near me (Get outta my way)</p>
+      <p begin="01:31.930" end="01:35.250" ttm:agent="v1" itunes:key="role" itunes:value="background">Put some bands all on your head like Jason Terry (Brrt, brrt, ooh)</p>
+      <p begin="01:35.250" end="01:37.600" ttm:agent="v1" itunes:key="role" itunes:value="background">Richard Mille cost a Lambo (That's a Lambo)</p>
+      <p begin="01:37.600" end="01:40.220" ttm:agent="v1" itunes:key="role" itunes:value="background">Known to keep the baddest bitches on commando (Salute)</p>
+      <p begin="01:40.220" end="01:43.020" ttm:agent="v1" itunes:key="role" itunes:value="background">Every time I'm in my trap, I move like Rambo (Extended)</p>
+      <p begin="01:43.020" end="01:45.950" ttm:agent="v1" itunes:key="role" itunes:value="background">Ain't a neighborhood in Philly that I can't go (That's a Fendi)</p>
+      <p begin="01:45.950" end="01:47.450" ttm:agent="v1">For real</p>
+      <p begin="01:46.720" end="01:48.960" ttm:agent="v1" itunes:key="role" itunes:value="background">She said: oh, you rich rich? (You rich rich)</p>
+      <p begin="01:48.960" end="01:51.700" ttm:agent="v1" itunes:key="role" itunes:value="background">Bitch, I graduated, call me Big Fish (Ballin)</p>
+      <p begin="01:51.700" end="01:54.490" ttm:agent="v1" itunes:key="role" itunes:value="background">I got Lori Harvey on my wish list (That's Lori)</p>
+      <p begin="01:54.490" end="01:57.650" ttm:agent="v1" itunes:key="role" itunes:value="background">That's the only thing I want for Christmas (True story, uh)</p>
+      <p begin="01:57.650" end="02:00.980" ttm:agent="v1" itunes:key="role" itunes:value="background">I've been had my way out here, yeah, know that's facts (Facts)</p>
+      <p begin="02:00.980" end="02:03.690" ttm:agent="v1" itunes:key="role" itunes:value="background">You ain't livin' that shit you say, yeah, we know that's cap (That's cap)</p>
+      <p begin="02:03.690" end="02:06.450" ttm:agent="v1" itunes:key="role" itunes:value="background">You ain't got to ask me when you see me, know I'm strapped (Brrt)</p>
+      <p begin="02:06.450" end="02:09.440" ttm:agent="v1" itunes:key="role" itunes:value="background">DC, OVO, we back again, we goin' plat' (Ooh, ooh)</p>
+      <p begin="02:09.440" end="02:11.040" ttm:agent="v1">It's just a lil' 10-piece for her</p>
+      <p begin="02:11.040" end="02:12.540" ttm:agent="v1">Just to blow it in the mall</p>
+      <p begin="02:12.440" end="02:13.950" ttm:agent="v1">Doesn't mean that we're involved</p>
+      <p begin="02:13.950" end="02:16.680" ttm:agent="v1">I just... what? I just... uh, put a Richard on the card</p>
+      <p begin="02:16.680" end="02:18.240" ttm:agent="v1">I ain't grow up playin' ball,</p>
+      <p begin="02:18.240" end="02:20.010" ttm:agent="v1">But I'll show you how the fuck you gotta do it</p>
+      <p begin="02:20.010" end="02:22.070" ttm:agent="v1">If you really wanna ball 'til you fall</p>
+      <p begin="02:22.070" end="02:23.720" ttm:agent="v1">When your back against the wall</p>
+      <p begin="02:23.720" end="02:26.320" ttm:agent="v1">And a bunch of niggas need you to go away</p>
+      <p begin="02:26.320" end="02:29.240" ttm:agent="v1">Still goin' bad on 'em anyway</p>
+      <p begin="02:29.240" end="02:33.460" ttm:agent="v1">Saw you last night, but did it broad day</p>
+      <p begin="02:33.460" end="02:41.460" ttm:agent="v1"/>
+      <p begin="02:41.760" end="02:43.260" ttm:agent="v1">Wheezy outta here</p>
+      <p begin="02:42.480" end="02:46.480" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

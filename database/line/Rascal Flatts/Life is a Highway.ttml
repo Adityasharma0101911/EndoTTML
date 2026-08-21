@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Life is a Highway</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Rascal Flatts</ttm:agent>
+      <ttm:item type="album">Cars (Original Motion Picture Soundtrack)</ttm:item>
+      <ttm:item type="spotify_id">5gB2IrxOCX2j9bMnHKP38i</ttm:item>
+      <itunes:duration>04:36.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:11.060" end="00:13.100" ttm:agent="v1">Whoo!</p>
+      <p begin="00:13.100" end="00:16.160" ttm:agent="v1">Mmm, yeah</p>
+      <p begin="00:16.160" end="00:24.160" ttm:agent="v1"/>
+      <p begin="00:30.070" end="00:32.400" ttm:agent="v1">Life's like a road that you travel on</p>
+      <p begin="00:32.400" end="00:34.650" ttm:agent="v1">When there's one day here, and the next day gone</p>
+      <p begin="00:34.650" end="00:37.010" ttm:agent="v1">Sometimes you bend, sometimes you stand</p>
+      <p begin="00:37.010" end="00:39.220" ttm:agent="v1">Sometimes you turn your back to the wind</p>
+      <p begin="00:39.220" end="00:41.700" ttm:agent="v1">There's a world outside every darkened door</p>
+      <p begin="00:41.700" end="00:43.910" ttm:agent="v1">Where blues won't haunt you anymore</p>
+      <p begin="00:43.910" end="00:46.430" ttm:agent="v1">Where the brave are free and lovers soar</p>
+      <p begin="00:46.430" end="00:49.210" ttm:agent="v1">Come ride with me to the distant shore</p>
+      <p begin="00:49.210" end="00:51.430" ttm:agent="v1">We won't hesitate</p>
+      <p begin="00:51.430" end="00:53.760" ttm:agent="v1">To break down the garden gate</p>
+      <p begin="00:53.760" end="00:58.210" ttm:agent="v1">There's not much time left today, yeah</p>
+      <p begin="00:58.210" end="01:00.820" ttm:agent="v1">Life is a highway</p>
+      <p begin="01:00.820" end="01:07.220" ttm:agent="v1">I wanna ride it all night long</p>
+      <p begin="01:07.220" end="01:10.160" ttm:agent="v1">If you're goin' my way</p>
+      <p begin="01:10.160" end="01:16.630" ttm:agent="v1">Well, I wanna drive it all night long</p>
+      <p begin="01:16.630" end="01:19.160" ttm:agent="v1">Through all these cities and all these towns</p>
+      <p begin="01:19.160" end="01:21.410" ttm:agent="v1">It's in my blood, and it's all around</p>
+      <p begin="01:21.410" end="01:23.800" ttm:agent="v1">I love you now like I loved you then</p>
+      <p begin="01:23.800" end="01:25.950" ttm:agent="v1">This is the road, and these are the hands</p>
+      <p begin="01:25.950" end="01:28.280" ttm:agent="v1">From Mozambique to those Memphis nights</p>
+      <p begin="01:28.280" end="01:30.790" ttm:agent="v1">The Khyber Pass to Vancouver's lights</p>
+      <p begin="01:30.790" end="01:33.060" ttm:agent="v1">Knock me down and back up again</p>
+      <p begin="01:33.060" end="01:35.750" ttm:agent="v1">You're in my blood, I'm not a lonely man</p>
+      <p begin="01:35.750" end="01:37.840" ttm:agent="v1">There's no load I can't hold</p>
+      <p begin="01:37.840" end="01:40.050" ttm:agent="v1">A road so rough, this I know</p>
+      <p begin="01:40.050" end="01:42.350" ttm:agent="v1">I'll be there when the light comes in</p>
+      <p begin="01:42.350" end="01:44.880" ttm:agent="v1">Just tell 'em we're survivors</p>
+      <p begin="01:44.880" end="01:47.340" ttm:agent="v1">Life is a highway</p>
+      <p begin="01:47.340" end="01:53.910" ttm:agent="v1" itunes:key="role" itunes:value="background">I wanna ride it all night long (whoo!)</p>
+      <p begin="01:53.910" end="01:56.780" ttm:agent="v1">If you're goin' my way</p>
+      <p begin="01:56.780" end="02:01.230" ttm:agent="v1" itunes:key="role" itunes:value="background">I wanna drive it all night long (all night long)</p>
+      <p begin="02:01.230" end="02:03.330" ttm:agent="v1">A-gimme, gimme, gimme, gimme, yeah</p>
+      <p begin="02:03.330" end="02:05.950" ttm:agent="v1">Life is a highway</p>
+      <p begin="02:05.950" end="02:12.770" ttm:agent="v1">Well, I wanna ride it all night long, mmm, yeah</p>
+      <p begin="02:12.770" end="02:15.280" ttm:agent="v1" itunes:key="role" itunes:value="background">If you're goin' my way (if you're goin' my way)</p>
+      <p begin="02:15.280" end="02:21.170" ttm:agent="v1" itunes:key="role" itunes:value="background">I wanna drive it all night long (all night long)</p>
+      <p begin="02:21.170" end="02:23.290" ttm:agent="v1"/>
+      <p begin="02:23.290" end="02:31.290" ttm:agent="v1" itunes:key="role" itunes:value="background">There was a distance between you and I (between you and I)</p>
+      <p begin="02:32.490" end="02:35.420" ttm:agent="v1">A misunderstanding once</p>
+      <p begin="02:35.420" end="02:43.420" ttm:agent="v1">But now we look it in the eye, ooh, yeah</p>
+      <p begin="02:44.730" end="02:52.730" ttm:agent="v1" itunes:key="role" itunes:value="background">Mmm, yeah (whoo!)</p>
+      <p begin="02:54.450" end="03:01.590" ttm:agent="v1"/>
+      <p begin="03:01.590" end="03:03.880" ttm:agent="v1">There ain't no load that I can't hold</p>
+      <p begin="03:03.880" end="03:06.110" ttm:agent="v1">A road so rough, this I know</p>
+      <p begin="03:06.110" end="03:08.500" ttm:agent="v1">I'll be there when the light comes in</p>
+      <p begin="03:08.500" end="03:13.360" ttm:agent="v1">Tell 'em we're survivors</p>
+      <p begin="03:13.360" end="03:15.830" ttm:agent="v1">Life is a highway</p>
+      <p begin="03:15.830" end="03:22.470" ttm:agent="v1" itunes:key="role" itunes:value="background">Well, I wanna ride it all night long (all night long, yeah)</p>
+      <p begin="03:22.470" end="03:25.220" ttm:agent="v1">If you're goin' my way</p>
+      <p begin="03:25.220" end="03:29.850" ttm:agent="v1">Well, I wanna drive it all night long</p>
+      <p begin="03:29.850" end="03:31.350" ttm:agent="v1">A-gimme, gimme, gimme</p>
+      <p begin="03:30.960" end="03:32.460" ttm:agent="v1">A-gimme, gimme, yeah</p>
+      <p begin="03:32.190" end="03:34.570" ttm:agent="v1" itunes:key="role" itunes:value="background">Life is a highway (life is a highway)</p>
+      <p begin="03:34.570" end="03:41.170" ttm:agent="v1">I wanna ride it all night long, whoo, ooh, yeah</p>
+      <p begin="03:41.170" end="03:44.070" ttm:agent="v1" itunes:key="role" itunes:value="background">If you're goin' my way (if you're goin' my way)</p>
+      <p begin="03:44.070" end="03:47.860" ttm:agent="v1" itunes:key="role" itunes:value="background">I wanna drive it all night long (all night long, yeah)</p>
+      <p begin="03:47.860" end="03:49.420" ttm:agent="v1">C'mon, gimme, gimme, gimme</p>
+      <p begin="03:49.420" end="03:50.920" ttm:agent="v1">Gimme, gimme, gimme, yeah</p>
+      <p begin="03:50.710" end="03:53.360" ttm:agent="v1">Life is a highway</p>
+      <p begin="03:53.360" end="03:56.250" ttm:agent="v1">I wanna ride it all night long</p>
+      <p begin="03:56.250" end="03:59.680" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yeah, I wanna drive it all night long, baby)</p>
+      <p begin="03:59.680" end="04:02.450" ttm:agent="v1" itunes:key="role" itunes:value="background">If you're goin' my way (if you're goin' my way)</p>
+      <p begin="04:02.450" end="04:05.260" ttm:agent="v1" itunes:key="role" itunes:value="background">I wanna drive it all night long (all night long)</p>
+      <p begin="04:05.260" end="04:09.260" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Cupid</ttm:title>
+      <ttm:agent type="person" xml:id="v1">FIFTY FIFTY</ttm:agent>
+      <ttm:item type="album">The Beginning: Cupid</ttm:item>
+      <ttm:item type="spotify_id">4dKa5ZzlGqUy3Wo0yaXKNI</ttm:item>
+      <itunes:duration>02:54.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:01.150" end="00:05.100" ttm:agent="v1">La, la, la, la-la-la</p>
+      <p begin="00:05.100" end="00:09.680" ttm:agent="v1">La, la-la-la, la, la-la-la</p>
+      <p begin="00:09.680" end="00:13.870" ttm:agent="v1">불 꺼진 romantic all my life</p>
+      <p begin="00:13.870" end="00:17.730" ttm:agent="v1">내 주위는 온통 lovely day</p>
+      <p begin="00:17.730" end="00:21.930" ttm:agent="v1">내 눈 속에 비친 arrow sign</p>
+      <p begin="00:21.930" end="00:24.520" ttm:agent="v1">Oh why, oh why, oh why, oh why?</p>
+      <p begin="00:24.520" end="00:26.410" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm feeling lonely (lonely)</p>
+      <p begin="00:26.410" end="00:30.490" ttm:agent="v1" itunes:key="role" itunes:value="background">그만 힐끗대고 말해줘요, hold me (hold me)</p>
+      <p begin="00:30.490" end="00:33.010" ttm:agent="v1">다시 crying in my room</p>
+      <p begin="00:33.010" end="00:36.530" ttm:agent="v1" itunes:key="role" itunes:value="background">숨기고 싶어 (say what you say, but I want it more)</p>
+      <p begin="00:36.530" end="00:39.270" ttm:agent="v1">But still I want it more, more, more</p>
+      <p begin="00:39.270" end="00:43.450" ttm:agent="v1">I gave a second chance to Cupid</p>
+      <p begin="00:43.450" end="00:48.120" ttm:agent="v1" itunes:key="role" itunes:value="background">널 믿은 내가 정말 stupid (oh-oh-oh)</p>
+      <p begin="00:48.120" end="00:52.720" ttm:agent="v1">보여줄게 숨겨왔던 love, is it real?</p>
+      <p begin="00:52.720" end="00:57.580" ttm:agent="v1" itunes:key="role" itunes:value="background">Cupid is so dumb (oh, oh, oh)</p>
+      <p begin="00:57.580" end="01:01.890" ttm:agent="v1" itunes:key="role" itunes:value="background">또 꿈길을 걷는 every day (ah)</p>
+      <p begin="01:01.890" end="01:05.200" ttm:agent="v1" itunes:key="role" itunes:value="background">눈 뜨면 다시, 또 flew away (oh)</p>
+      <p begin="01:05.200" end="01:06.930" ttm:agent="v1" itunes:key="role" itunes:value="background">Waiting around is a waste (waste)</p>
+      <p begin="01:06.930" end="01:08.860" ttm:agent="v1">나 솔직히 지금이 편해</p>
+      <p begin="01:08.860" end="01:12.270" ttm:agent="v1" itunes:key="role" itunes:value="background">상상만큼 짜릿한 걸까? (Ah, ah)</p>
+      <p begin="01:12.270" end="01:14.490" ttm:agent="v1" itunes:key="role" itunes:value="background">Now I'm so lonely (lonely)</p>
+      <p begin="01:14.490" end="01:18.520" ttm:agent="v1" itunes:key="role" itunes:value="background">매일 꿈속에서 연습했죠, kiss me (kiss me)</p>
+      <p begin="01:18.520" end="01:21.080" ttm:agent="v1">다시 crying in my room</p>
+      <p begin="01:21.080" end="01:24.180" ttm:agent="v1" itunes:key="role" itunes:value="background">포기할까 봐 (say what you say, but I want it more)</p>
+      <p begin="01:24.180" end="01:27.260" ttm:agent="v1">But still I want it more, more, more</p>
+      <p begin="01:27.260" end="01:31.330" ttm:agent="v1">I gave a second chance to Cupid</p>
+      <p begin="01:31.330" end="01:35.730" ttm:agent="v1" itunes:key="role" itunes:value="background">널 믿은 내가 정말 stupid (oh-oh-oh)</p>
+      <p begin="01:35.730" end="01:40.740" ttm:agent="v1">보여줄게 숨겨왔던 love, is it real?</p>
+      <p begin="01:40.740" end="01:44.970" ttm:agent="v1" itunes:key="role" itunes:value="background">Cupid is so dumb (oh, oh, oh)</p>
+      <p begin="01:44.970" end="01:47.050" ttm:agent="v1">I'm so lonely, hold me tightly</p>
+      <p begin="01:47.050" end="01:49.090" ttm:agent="v1">짜릿한 걸 원해, who'll really love me truly?</p>
+      <p begin="01:49.090" end="01:50.880" ttm:agent="v1">내게 기다림은 없어, I can't wait</p>
+      <p begin="01:50.880" end="01:53.030" ttm:agent="v1">더는 믿지 않아, now I'm gonna make it mine</p>
+      <p begin="01:53.030" end="01:54.860" ttm:agent="v1">Love is a light, I'ma show my love is right</p>
+      <p begin="01:54.860" end="01:57.000" ttm:agent="v1">It's not a joke, so give it to me right now</p>
+      <p begin="01:57.000" end="01:59.170" ttm:agent="v1">No more chance to you</p>
+      <p begin="01:59.170" end="02:01.280" ttm:agent="v1">You know? Hey, du-du-du-dumb boy</p>
+      <p begin="02:01.280" end="02:05.010" ttm:agent="v1">꿈속에 매일 밤</p>
+      <p begin="02:05.010" end="02:08.980" ttm:agent="v1">Someone who will share this feeling</p>
+      <p begin="02:08.980" end="02:11.600" ttm:agent="v1">I'm a fool</p>
+      <p begin="02:11.600" end="02:17.150" ttm:agent="v1">A fool for love, a fool for love</p>
+      <p begin="02:17.150" end="02:21.250" ttm:agent="v1">I gave a second chance to Cupid</p>
+      <p begin="02:21.250" end="02:25.850" ttm:agent="v1" itunes:key="role" itunes:value="background">널 믿은 내가 정말 stupid (oh-oh-oh)</p>
+      <p begin="02:25.850" end="02:30.670" ttm:agent="v1">보여줄게 숨겨왔던 love, is it real?</p>
+      <p begin="02:30.670" end="02:34.180" ttm:agent="v1" itunes:key="role" itunes:value="background">Cupid is so dumb (oh, oh, oh)</p>
+      <p begin="02:34.180" end="02:37.240" ttm:agent="v1" itunes:key="role" itunes:value="background">I gave a second chance to Cupid (꿈속에 매일 밤 someone)</p>
+      <p begin="02:37.240" end="02:41.870" ttm:agent="v1" itunes:key="role" itunes:value="background">널 믿은 내가 정말 stupid (who will share this feeling)</p>
+      <p begin="02:41.870" end="02:47.470" ttm:agent="v1" itunes:key="role" itunes:value="background">다시 한번 못 들은 척 기회를 줄게 (a fool for love)</p>
+      <p begin="02:47.470" end="02:49.730" ttm:agent="v1" itunes:key="role" itunes:value="background">(A fool for love, ah) Cupid is so dumb</p>
+      <p begin="02:49.730" end="02:53.730" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

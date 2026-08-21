@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>RUN2U</ttm:title>
+      <ttm:agent type="person" xml:id="v1">STAYC</ttm:agent>
+      <ttm:item type="album">YOUNG-LUV.COM</ttm:item>
+      <ttm:item type="spotify_id">3gFcGnU4kTdMYLXDjH1TK8</ttm:item>
+      <itunes:duration>03:33.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:03.470" end="00:05.750" ttm:agent="v1">Run!</p>
+      <p begin="00:05.750" end="00:13.750" ttm:agent="v1"/>
+      <p begin="00:18.430" end="00:21.400" ttm:agent="v1">Told you not 또 괜한 기대</p>
+      <p begin="00:21.400" end="00:24.830" ttm:agent="v1">겉으론 걱정해, 난 안 바뀌네</p>
+      <p begin="00:24.830" end="00:27.600" ttm:agent="v1">또 가끔 말을 막 해, 너무 딱해</p>
+      <p begin="00:27.600" end="00:33.320" ttm:agent="v1">헛소리들 나는 안 들리네, no, oh yeah</p>
+      <p begin="00:33.320" end="00:36.230" ttm:agent="v1">Told you, 난 so always b-day</p>
+      <p begin="00:36.230" end="00:39.640" ttm:agent="v1">겉으론 내 편인데 못해 이해</p>
+      <p begin="00:39.640" end="00:42.340" ttm:agent="v1">그 참견들은 가짜, 나는 바빠</p>
+      <p begin="00:42.340" end="00:47.910" ttm:agent="v1">어떻게 해도 나는 안 들리네, no, no, oh</p>
+      <p begin="00:47.910" end="00:52.560" ttm:agent="v1">타 버리고 파 너의 사랑은 so sunny, yeah</p>
+      <p begin="00:52.560" end="00:55.480" ttm:agent="v1">사라져도, 사라져도</p>
+      <p begin="00:55.480" end="00:59.860" ttm:agent="v1">다 버리고 파 너만 있다면 no worry, yeah</p>
+      <p begin="00:59.860" end="01:01.990" ttm:agent="v1">알잖아 it should be you</p>
+      <p begin="01:01.990" end="01:06.070" ttm:agent="v1">So I'll run to you</p>
+      <p begin="01:06.070" end="01:09.560" ttm:agent="v1">So I'll run to you</p>
+      <p begin="01:09.560" end="01:13.380" ttm:agent="v1">선을 넘는 거래도 over and over</p>
+      <p begin="01:13.380" end="01:16.840" ttm:agent="v1">다쳐도 괜찮아, I'll run to you</p>
+      <p begin="01:16.840" end="01:18.340" ttm:agent="v1">So I'll run to you</p>
+      <p begin="01:18.320" end="01:20.120" ttm:agent="v1" itunes:key="role" itunes:value="background">A little bit, little bit (young)</p>
+      <p begin="01:20.120" end="01:21.980" ttm:agent="v1" itunes:key="role" itunes:value="background">A little bit, little bit (young)</p>
+      <p begin="01:21.980" end="01:24.770" ttm:agent="v1" itunes:key="role" itunes:value="background">A little bit, little bit (알지 나의 style)</p>
+      <p begin="01:24.770" end="01:28.240" ttm:agent="v1">네가 어떤 너래도 over and over</p>
+      <p begin="01:28.240" end="01:31.860" ttm:agent="v1">다쳐도 괜찮아, I'll run to you</p>
+      <p begin="01:31.860" end="01:34.750" ttm:agent="v1" itunes:key="role" itunes:value="background">JJ! 물불 안 가리는 type (type)</p>
+      <p begin="01:34.750" end="01:36.440" ttm:agent="v1">I never 절대로 도도</p>
+      <p begin="01:36.440" end="01:38.200" ttm:agent="v1" itunes:key="role" itunes:value="background">망가질 수 없는 사이 (ooh)</p>
+      <p begin="01:38.200" end="01:39.700" ttm:agent="v1">알잖아, I'm not a poser</p>
+      <p begin="01:39.560" end="01:44.610" ttm:agent="v1">혹시라도 잘못돼도 절대 너를 탓하지 않아</p>
+      <p begin="01:44.610" end="01:47.270" ttm:agent="v1">그게 어디라도 wanna be there</p>
+      <p begin="01:47.270" end="01:51.630" ttm:agent="v1">타 버리고 파 너의 사랑은 so sunny, yeah</p>
+      <p begin="01:51.630" end="01:54.480" ttm:agent="v1">사라져도, 사라져도</p>
+      <p begin="01:54.480" end="01:59.010" ttm:agent="v1">다 버리고 파 너만 있다면 no worry, yeah</p>
+      <p begin="01:59.010" end="02:01.340" ttm:agent="v1">알잖아 it should be you</p>
+      <p begin="02:01.340" end="02:04.920" ttm:agent="v1">So I'll run to you</p>
+      <p begin="02:04.920" end="02:08.710" ttm:agent="v1">So I'll run to you</p>
+      <p begin="02:08.710" end="02:12.470" ttm:agent="v1">선을 넘는 거래도 over and over</p>
+      <p begin="02:12.470" end="02:16.060" ttm:agent="v1">다쳐도 괜찮아, I'll run to you</p>
+      <p begin="02:16.060" end="02:17.560" ttm:agent="v1">So I'll run to you</p>
+      <p begin="02:17.350" end="02:19.220" ttm:agent="v1" itunes:key="role" itunes:value="background">A little bit, little bit (young)</p>
+      <p begin="02:19.220" end="02:21.070" ttm:agent="v1" itunes:key="role" itunes:value="background">A little bit, little bit (young)</p>
+      <p begin="02:21.070" end="02:23.630" ttm:agent="v1" itunes:key="role" itunes:value="background">A little bit, little bit (알지 나의 style)</p>
+      <p begin="02:23.630" end="02:27.290" ttm:agent="v1">네가 어떤 너래도 over and over</p>
+      <p begin="02:27.290" end="02:30.930" ttm:agent="v1">다쳐도 괜찮아, I'll run to you</p>
+      <p begin="02:30.930" end="02:35.220" ttm:agent="v1">No, no, that's okay, that's okay, 누가 뭐래도</p>
+      <p begin="02:35.220" end="02:37.980" ttm:agent="v1">No, 괜찮아, 아플 거래도</p>
+      <p begin="02:37.980" end="02:41.490" ttm:agent="v1">상관없어, 멋대로 생각해도 돼</p>
+      <p begin="02:41.490" end="02:47.110" ttm:agent="v1" itunes:key="role" itunes:value="background">막지 못해 널 사랑하기 때문에 (ayy)</p>
+      <p begin="02:47.110" end="02:55.110" ttm:agent="v1"/>
+      <p begin="03:00.300" end="03:04.110" ttm:agent="v1" itunes:key="role" itunes:value="background">So I'll run to you (you, ooh-ooh)</p>
+      <p begin="03:04.110" end="03:07.920" ttm:agent="v1" itunes:key="role" itunes:value="background">So I'll run to you (whatever, whenever, baby, babe)</p>
+      <p begin="03:07.920" end="03:11.720" ttm:agent="v1" itunes:key="role" itunes:value="background">선을 넘는 거래도 over and over (over)</p>
+      <p begin="03:11.720" end="03:15.200" ttm:agent="v1">다쳐도 괜찮아, I'll run to you</p>
+      <p begin="03:15.200" end="03:16.700" ttm:agent="v1">So I'll run to you</p>
+      <p begin="03:16.590" end="03:18.460" ttm:agent="v1" itunes:key="role" itunes:value="background">A little bit, little bit (young)</p>
+      <p begin="03:18.460" end="03:20.160" ttm:agent="v1" itunes:key="role" itunes:value="background">A little bit, little bit (young)</p>
+      <p begin="03:20.160" end="03:22.640" ttm:agent="v1" itunes:key="role" itunes:value="background">A little bit, little bit (알지 나의 style)</p>
+      <p begin="03:22.640" end="03:26.210" ttm:agent="v1">네가 어떤 너래도 over and over</p>
+      <p begin="03:26.210" end="03:28.720" ttm:agent="v1">다쳐도 괜찮아, I'll run to you</p>
+      <p begin="03:28.720" end="03:32.720" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

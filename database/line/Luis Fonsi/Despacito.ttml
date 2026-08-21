@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Despacito</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Luis Fonsi</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Daddy Yankee</ttm:agent>
+      <ttm:item type="album">VIDA</ttm:item>
+      <ttm:item type="spotify_id">6habFhsOp2NvshLv26DqMb</ttm:item>
+      <itunes:duration>03:49.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:06.920" end="00:10.990" ttm:agent="v1">Ay, ¡Fonsi! ¡D.Y.</p>
+      <p begin="00:10.990" end="00:15.030" ttm:agent="v1">Ohhh, oh, no, oh, no, oh</p>
+      <p begin="00:15.030" end="00:17.750" ttm:agent="v1">¡Hey, yeah</p>
+      <p begin="00:17.750" end="00:19.640" ttm:agent="v1">Dididiri Daddy, go</p>
+      <p begin="00:19.640" end="00:24.980" ttm:agent="v1">Sí, sabes que ya llevo un rato mirándote</p>
+      <p begin="00:24.980" end="00:28.830" ttm:agent="v1">Tengo que bailar contigo hoy</p>
+      <p begin="00:28.830" end="00:35.220" ttm:agent="v1" itunes:key="role" itunes:value="background">(¡D.Y.!) Vi que tu mirada ya estaba llamándome</p>
+      <p begin="00:35.220" end="00:40.140" ttm:agent="v1">Muéstrame el camino que yo voy</p>
+      <p begin="00:40.140" end="00:41.640" ttm:agent="v1">¡Oh</p>
+      <p begin="00:41.200" end="00:44.380" ttm:agent="v1">Tú, tú eres el imán y yo soy el metal</p>
+      <p begin="00:44.380" end="00:47.370" ttm:agent="v1">Me voy acercando y voy armando el plan</p>
+      <p begin="00:47.370" end="00:52.220" ttm:agent="v1" itunes:key="role" itunes:value="background">Sólo con pensarlo se acelera el pulso (¡Oh, yeah!)</p>
+      <p begin="00:52.220" end="00:55.330" ttm:agent="v1">Ya, ya me está gustando más de lo normal</p>
+      <p begin="00:55.330" end="00:58.220" ttm:agent="v1">Todos mis sentidos van pidiendo más</p>
+      <p begin="00:58.220" end="01:01.510" ttm:agent="v1">Esto hay que tomarlo sin ningún apuro</p>
+      <p begin="01:01.510" end="01:03.990" ttm:agent="v1">Despacito</p>
+      <p begin="01:03.990" end="01:06.710" ttm:agent="v1">Quiero respirar tu cuello despacito</p>
+      <p begin="01:06.710" end="01:09.430" ttm:agent="v1">Deja que te diga cosas al oído</p>
+      <p begin="01:09.430" end="01:12.880" ttm:agent="v1">Para que te acuerdes si no estás conmigo</p>
+      <p begin="01:12.880" end="01:14.750" ttm:agent="v1">Despacito</p>
+      <p begin="01:14.750" end="01:17.620" ttm:agent="v1">Quiero desnudarte a besos despacito</p>
+      <p begin="01:17.620" end="01:20.120" ttm:agent="v1">Firmo en las paredes de tu laberinto</p>
+      <p begin="01:20.120" end="01:23.480" ttm:agent="v1">Y hacer de tu cuerpo todo un manuscrito</p>
+      <p begin="01:23.480" end="01:25.190" ttm:agent="v1" itunes:key="role" itunes:value="background">(Sube, sube, sube, sube, sube)</p>
+      <p begin="01:25.190" end="01:28.800" ttm:agent="v1" itunes:key="role" itunes:value="background">Quiero ver bailar tu pelo, quiero ser tu ritmo (Woah, woah)</p>
+      <p begin="01:28.800" end="01:31.930" ttm:agent="v1" itunes:key="role" itunes:value="background">Que le enseñes a mi boca (Woah, woah)</p>
+      <p begin="01:31.930" end="01:35.660" ttm:agent="v1" itunes:key="role" itunes:value="background">Tus lugares favoritos (Favorito, favorito, baby)</p>
+      <p begin="01:35.660" end="01:39.060" ttm:agent="v1" itunes:key="role" itunes:value="background">Déjame sobrepasar tus zonas de peligro (Woah, woah)</p>
+      <p begin="01:39.060" end="01:42.090" ttm:agent="v1" itunes:key="role" itunes:value="background">Hasta provocar tus gritos (Woah, woah)</p>
+      <p begin="01:42.090" end="01:45.520" ttm:agent="v1">Y que olvides tu apellido</p>
+      <p begin="01:45.520" end="01:48.480" ttm:agent="v1">Si te pido un beso, ven, dámelo, yo sé que estás pensándolo</p>
+      <p begin="01:48.480" end="01:51.080" ttm:agent="v1">Llevo tiempo intentándolo, mami, esto es dando y dándolo</p>
+      <p begin="01:51.080" end="01:53.860" ttm:agent="v1">Sabes que tu corazón conmigo te hace bang-bang</p>
+      <p begin="01:53.860" end="01:56.730" ttm:agent="v1">Sabes que esa beba está buscando de mi bang-bang</p>
+      <p begin="01:56.730" end="01:59.230" ttm:agent="v1">Ven, prueba de mi boca para ver cómo te sabe</p>
+      <p begin="01:59.230" end="02:02.240" ttm:agent="v1">Quiero, quiero, quiero ver cuánto amor a ti te cabe</p>
+      <p begin="02:02.240" end="02:04.870" ttm:agent="v1">Yo no tengo prisa, yo me quiero dar el viaje</p>
+      <p begin="02:04.870" end="02:07.450" ttm:agent="v1">Empecemos lento, después salvaje</p>
+      <p begin="02:07.450" end="02:09.990" ttm:agent="v1">Pasito a pasito, suave suavecito</p>
+      <p begin="02:09.990" end="02:12.980" ttm:agent="v1">Nos vamos pegando, poquito a poquito</p>
+      <p begin="02:12.980" end="02:15.640" ttm:agent="v1">Cuando tú me besas con esa destreza</p>
+      <p begin="02:15.640" end="02:18.460" ttm:agent="v1">Veo que eres malicia con delicadeza</p>
+      <p begin="02:18.460" end="02:20.800" ttm:agent="v1">Pasito a pasito, suave suavecito</p>
+      <p begin="02:20.800" end="02:23.780" ttm:agent="v1">Nos vamos pegando, poquito a poquito</p>
+      <p begin="02:23.780" end="02:26.390" ttm:agent="v1">Y es que esa belleza es un rompecabezas</p>
+      <p begin="02:26.390" end="02:29.110" ttm:agent="v1">Pero pa' montarlo aquí tengo la pieza</p>
+      <p begin="02:29.110" end="02:30.610" ttm:agent="v1">¡Oye</p>
+      <p begin="02:30.170" end="02:31.670" ttm:agent="v1">Despacito</p>
+      <p begin="02:31.600" end="02:34.150" ttm:agent="v1">Quiero respirar tu cuello despacito</p>
+      <p begin="02:34.150" end="02:37.040" ttm:agent="v1">Deja que te diga cosas al oído</p>
+      <p begin="02:37.040" end="02:40.160" ttm:agent="v1">Para que te acuerdes si no estás conmigo</p>
+      <p begin="02:40.160" end="02:42.570" ttm:agent="v1">Despacito</p>
+      <p begin="02:42.570" end="02:45.170" ttm:agent="v1">Quiero desnudarte a besos despacito</p>
+      <p begin="02:45.170" end="02:47.840" ttm:agent="v1">Firmo en las paredes de tu laberinto</p>
+      <p begin="02:47.840" end="02:51.070" ttm:agent="v1">Y hacer de tu cuerpo todo un manuscrito</p>
+      <p begin="02:51.070" end="02:52.570" ttm:agent="v1" itunes:key="role" itunes:value="background">(Sube, sube, sube, sube, sube)</p>
+      <p begin="02:52.470" end="02:56.380" ttm:agent="v1" itunes:key="role" itunes:value="background">Quiero ver bailar tu pelo, quiero ser tu ritmo (Woah, woah)</p>
+      <p begin="02:56.380" end="02:59.130" ttm:agent="v1" itunes:key="role" itunes:value="background">Que le enseñes a mi boca (Woah, woah)</p>
+      <p begin="02:59.130" end="03:03.630" ttm:agent="v1" itunes:key="role" itunes:value="background">Tus lugares favoritos (Favorito, favorito, baby)</p>
+      <p begin="03:03.630" end="03:06.780" ttm:agent="v1" itunes:key="role" itunes:value="background">Déjame sobrepasar tus zonas de peligro (Woah, woah)</p>
+      <p begin="03:06.780" end="03:09.660" ttm:agent="v1" itunes:key="role" itunes:value="background">Hasta provocar tus gritos (Woah, woah)</p>
+      <p begin="03:09.660" end="03:12.320" ttm:agent="v1">Y que olvides tu apellido</p>
+      <p begin="03:12.320" end="03:14.770" ttm:agent="v1">Despacito</p>
+      <p begin="03:14.770" end="03:17.320" ttm:agent="v1">Vamo' a hacerlo en una playa en Puerto Rico</p>
+      <p begin="03:17.320" end="03:20.260" ttm:agent="v1">Hasta que las olas griten &quot;¡Ay, Bendito!&quot;</p>
+      <p begin="03:20.260" end="03:23.700" ttm:agent="v1">Para que mi sello se quede contigo</p>
+      <p begin="03:23.700" end="03:25.200" ttm:agent="v1">¡Báilalo</p>
+      <p begin="03:24.970" end="03:26.830" ttm:agent="v1">Pasito a pasito, suave suavecito</p>
+      <p begin="03:26.830" end="03:29.660" ttm:agent="v1">Nos vamos pegando, poquito a poquito</p>
+      <p begin="03:29.660" end="03:31.960" ttm:agent="v1">Que le enseñes a mi boca</p>
+      <p begin="03:31.960" end="03:34.210" ttm:agent="v1">Tus lugares favoritos</p>
+      <p begin="03:34.210" end="03:35.710" ttm:agent="v1" itunes:key="role" itunes:value="background">(Favorito, favorito, baby)</p>
+      <p begin="03:35.690" end="03:37.830" ttm:agent="v1">Pasito a pasito, suave suavecito</p>
+      <p begin="03:37.830" end="03:40.220" ttm:agent="v1">Nos vamos pegando, poquito a poquito</p>
+      <p begin="03:40.220" end="03:42.970" ttm:agent="v1" itunes:key="role" itunes:value="background">Hasta provocar tus gritos (Fonsi)</p>
+      <p begin="03:42.970" end="03:45.620" ttm:agent="v1" itunes:key="role" itunes:value="background">Y que olvides tu apellido (D.Y.)</p>
+      <p begin="03:45.620" end="03:47.410" ttm:agent="v1">Despacito</p>
+      <p begin="03:47.410" end="03:51.410" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

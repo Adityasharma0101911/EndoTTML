@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Базовый минимум</ttm:title>
+      <ttm:agent type="person" xml:id="v1">SABI</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">MIA BOYKA</ttm:agent>
+      <ttm:item type="album">Базовый минимум</ttm:item>
+      <ttm:item type="spotify_id">5CEVkJ1Ggj0e1wa0IEOARc</ttm:item>
+      <itunes:duration>02:16.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:09.070" end="00:13.280" ttm:agent="v1" itunes:key="role" itunes:value="background">А он простой (конечно), из Баку холостой (я вообще)</p>
+      <p begin="00:13.280" end="00:19.360" ttm:agent="v1" itunes:key="role" itunes:value="background">Квартир есть дорогой (ой, наш), молодой, уже центровой (ой-ой-ой-ой)</p>
+      <p begin="00:19.360" end="00:25.260" ttm:agent="v1" itunes:key="role" itunes:value="background">Выглядит как папа (вау), но по факту вентилятор (ах)</p>
+      <p begin="00:25.260" end="00:29.670" ttm:agent="v1" itunes:key="role" itunes:value="background">Яхта на примете (о), сильно дует ветер</p>
+      <p begin="00:29.670" end="00:33.560" ttm:agent="v1">Мозги не крути, факты прими</p>
+      <p begin="00:33.560" end="00:38.970" ttm:agent="v1">Сколько ни говори, закон для всех один</p>
+      <p begin="00:38.970" end="00:43.120" ttm:agent="v1">iPhone купи, ресторан плати</p>
+      <p begin="00:43.120" end="00:50.390" ttm:agent="v1">Без повода мне подари кольцо с моим именем, базовый минимум</p>
+      <p begin="00:50.390" end="00:56.130" ttm:agent="v1">Скучай, без повода обнимай, ай, люби, цени, уважай, ай</p>
+      <p begin="00:56.130" end="01:00.760" ttm:agent="v1">Чувства самые сильные — это базовый минимум</p>
+      <p begin="01:00.760" end="01:03.650" ttm:agent="v1">Базовый минимум</p>
+      <p begin="01:03.650" end="01:05.790" ttm:agent="v1">Ай, это базовый минимум</p>
+      <p begin="01:05.790" end="01:08.130" ttm:agent="v1">Бай-бай, базовый минимум</p>
+      <p begin="01:08.130" end="01:10.720" ttm:agent="v1">Ай, это базовый минимум</p>
+      <p begin="01:10.720" end="01:15.340" ttm:agent="v1">Играет в гольф с охраной, такой серьёзный парень</p>
+      <p begin="01:15.340" end="01:20.000" ttm:agent="v1">Учился за границей, очень богатый мистер</p>
+      <p begin="01:20.000" end="01:25.490" ttm:agent="v1" itunes:key="role" itunes:value="background">Мамин сын и только (только) для неё подарок (он для неё подарок)</p>
+      <p begin="01:25.490" end="01:30.270" ttm:agent="v1" itunes:key="role" itunes:value="background">Очень много лоро (так много), постоянно пьяно (ой)</p>
+      <p begin="01:30.270" end="01:32.920" ttm:agent="v1">Мозги не крути, факты прими</p>
+      <p begin="01:32.920" end="01:39.630" ttm:agent="v1">Сколько ни говори, закон для всех один</p>
+      <p begin="01:39.630" end="01:43.720" ttm:agent="v1">iPhone купи, ресторан плати</p>
+      <p begin="01:43.720" end="01:50.910" ttm:agent="v1">Без повода мне подари кольцо с моим именем, базовый минимум</p>
+      <p begin="01:50.910" end="01:57.100" ttm:agent="v1">Скучай, без повода обнимай, ай, люби, цени, уважай, ай</p>
+      <p begin="01:57.100" end="02:02.710" ttm:agent="v1">Чувства самые сильные — это базовый минимум</p>
+      <p begin="02:02.710" end="02:04.840" ttm:agent="v1">Базовый минимум</p>
+      <p begin="02:04.840" end="02:06.570" ttm:agent="v1">Ай, это базовый минимум</p>
+      <p begin="02:06.570" end="02:08.850" ttm:agent="v1">Бай-бай, базовый минимум</p>
+      <p begin="02:08.850" end="02:11.190" ttm:agent="v1">Ай, это базовый минимум</p>
+      <p begin="02:11.190" end="02:15.190" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

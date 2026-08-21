@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Loose</ttm:title>
+      <ttm:agent type="person" xml:id="v1">ENHYPEN</ttm:agent>
+      <ttm:item type="album">Loose</ttm:item>
+      <ttm:item type="spotify_id">3YNjvUXgfQznx5IZHAXk6i</ttm:item>
+      <itunes:duration>03:31.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:04.820" end="00:06.740" ttm:agent="v1">I can feel my heart racing</p>
+      <p begin="00:06.740" end="00:09.040" ttm:agent="v1">It's so hard to keep cool</p>
+      <p begin="00:09.040" end="00:11.430" ttm:agent="v1">Am I being too patient?</p>
+      <p begin="00:11.430" end="00:15.700" ttm:agent="v1" itunes:key="role" itunes:value="background">Too hot, got me sweatin' on the floor (ooh, sweatin' on the floor)</p>
+      <p begin="00:15.700" end="00:22.290" ttm:agent="v1" itunes:key="role" itunes:value="background">I just can't take it anymore (whoa-oh, whoa, ah)</p>
+      <p begin="00:22.290" end="00:24.390" ttm:agent="v1">And we're so close I can taste it</p>
+      <p begin="00:24.390" end="00:26.470" ttm:agent="v1">I see it in your eyes</p>
+      <p begin="00:26.470" end="00:28.270" ttm:agent="v1">If there's a chance, I'ma take it</p>
+      <p begin="00:28.270" end="00:33.130" ttm:agent="v1">I'm begging you, just please give me a sign</p>
+      <p begin="00:33.130" end="00:39.940" ttm:agent="v1">Waiting way too long, I think it's time, mm-hm</p>
+      <p begin="00:39.940" end="00:45.750" ttm:agent="v1">All this magic's burning like a fire inside</p>
+      <p begin="00:45.750" end="00:48.120" ttm:agent="v1">And it is way too hot, girl, we should let it</p>
+      <p begin="00:48.120" end="00:50.470" ttm:agent="v1">Loose</p>
+      <p begin="00:50.470" end="00:54.680" ttm:agent="v1">I've been waiting to get next to you</p>
+      <p begin="00:54.680" end="00:58.710" ttm:agent="v1">I can tell how bad you want it too, ooh</p>
+      <p begin="00:58.710" end="01:04.640" ttm:agent="v1" itunes:key="role" itunes:value="background">All this tension, baby, let your body loose (huh)</p>
+      <p begin="01:04.640" end="01:07.700" ttm:agent="v1">It's just me and you</p>
+      <p begin="01:07.700" end="01:12.180" ttm:agent="v1">Lockin' eyes inside this crowded room</p>
+      <p begin="01:12.180" end="01:16.270" ttm:agent="v1">Way you look at me, I can't refuse</p>
+      <p begin="01:16.270" end="01:23.280" ttm:agent="v1">All this tension, baby, let your body loose, yeah, baby</p>
+      <p begin="01:23.280" end="01:25.570" ttm:agent="v1">Ponytail sittin' just right</p>
+      <p begin="01:25.570" end="01:27.730" ttm:agent="v1">Let it down, girl, don't be shy</p>
+      <p begin="01:27.730" end="01:29.700" ttm:agent="v1">I'm just glad we broke that ice</p>
+      <p begin="01:29.700" end="01:34.230" ttm:agent="v1" itunes:key="role" itunes:value="background">Let's keep on dancing (dancing, dancing)</p>
+      <p begin="01:34.230" end="01:40.900" ttm:agent="v1" itunes:key="role" itunes:value="background">Baby, I can give it to you however you like (however you like)</p>
+      <p begin="01:40.900" end="01:46.820" ttm:agent="v1">All this magic's burning like a fire inside</p>
+      <p begin="01:46.820" end="01:49.130" ttm:agent="v1">And it is way too hot, girl, we should let it</p>
+      <p begin="01:49.130" end="01:51.250" ttm:agent="v1">Loose</p>
+      <p begin="01:51.250" end="01:55.740" ttm:agent="v1">I've been waiting to get next to you</p>
+      <p begin="01:55.740" end="01:59.820" ttm:agent="v1">I can tell how bad you want it too, ooh</p>
+      <p begin="01:59.820" end="02:05.670" ttm:agent="v1" itunes:key="role" itunes:value="background">All this tension, baby, let your body loose (huh)</p>
+      <p begin="02:05.670" end="02:08.780" ttm:agent="v1" itunes:key="role" itunes:value="background">It's just me and you (me and you)</p>
+      <p begin="02:08.780" end="02:13.260" ttm:agent="v1" itunes:key="role" itunes:value="background">Lockin' eyes inside this crowded room (crowded room)</p>
+      <p begin="02:13.260" end="02:17.400" ttm:agent="v1">Way you look at me, I can't refuse</p>
+      <p begin="02:17.400" end="02:24.250" ttm:agent="v1">All this tension, baby, let your body loose, yeah, baby</p>
+      <p begin="02:24.250" end="02:32.250" ttm:agent="v1"/>
+      <p begin="02:42.170" end="02:47.950" ttm:agent="v1">I don't wanna waste another second tonight</p>
+      <p begin="02:47.950" end="02:50.280" ttm:agent="v1">So in five, four, three, two, one, let's let it</p>
+      <p begin="02:50.280" end="02:52.440" ttm:agent="v1" itunes:key="role" itunes:value="background">Loose (woo)</p>
+      <p begin="02:52.440" end="02:56.730" ttm:agent="v1" itunes:key="role" itunes:value="background">I've been waiting to get next to you (next to you)</p>
+      <p begin="02:56.730" end="03:00.820" ttm:agent="v1" itunes:key="role" itunes:value="background">I can tell how bad you want it too, ooh (ooh)</p>
+      <p begin="03:00.820" end="03:02.320" ttm:agent="v1">All this tension, baby</p>
+      <p begin="03:02.290" end="03:06.780" ttm:agent="v1" itunes:key="role" itunes:value="background">Let your body loose (let your body loose, yeah)</p>
+      <p begin="03:06.780" end="03:10.040" ttm:agent="v1" itunes:key="role" itunes:value="background">It's just me and you (oh, yeah, yeah)</p>
+      <p begin="03:10.040" end="03:12.370" ttm:agent="v1">Lockin' eyes inside this crowded room</p>
+      <p begin="03:12.370" end="03:14.260" ttm:agent="v1" itunes:key="role" itunes:value="background">(Lockin' me inside this room, yeah)</p>
+      <p begin="03:14.260" end="03:18.250" ttm:agent="v1" itunes:key="role" itunes:value="background">Way you look at me, I can't refuse (oh)</p>
+      <p begin="03:18.250" end="03:19.750" ttm:agent="v1">All this tension, baby</p>
+      <p begin="03:19.400" end="03:25.060" ttm:agent="v1" itunes:key="role" itunes:value="background">Let your body loose, yeah, baby (let your body loose, yeah)</p>
+      <p begin="03:25.060" end="03:27.420" ttm:agent="v1">Yeah, loose</p>
+      <p begin="03:27.420" end="03:29.380" ttm:agent="v1">Loose</p>
+      <p begin="03:29.380" end="03:30.880" ttm:agent="v1">Loose</p>
+      <p begin="03:30.630" end="03:34.630" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

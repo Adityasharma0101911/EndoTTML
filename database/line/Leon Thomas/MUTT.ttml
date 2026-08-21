@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>MUTT</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Leon Thomas</ttm:agent>
+      <ttm:item type="album">MUTT</ttm:item>
+      <ttm:item type="spotify_id">1mh9eHVRdNhzryG43PXdW1</ttm:item>
+      <itunes:duration>03:13.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:21.170" end="00:26.460" ttm:agent="v1">She said, &quot;Take your time, what's the rush?&quot;</p>
+      <p begin="00:26.460" end="00:31.810" ttm:agent="v1">I said, &quot;Baby, I'm a dog, I'm a mutt&quot;</p>
+      <p begin="00:31.810" end="00:37.090" ttm:agent="v1">She said, &quot;Take your time, what's the rush?&quot;</p>
+      <p begin="00:37.090" end="00:40.100" ttm:agent="v1">I said, &quot;Baby, I'm a dog, I'm a mutt&quot;</p>
+      <p begin="00:40.100" end="00:43.380" ttm:agent="v1">I'm a dog, I'm a mutt</p>
+      <p begin="00:43.380" end="00:48.490" ttm:agent="v1">I have smoked already, so pardon my bluntness</p>
+      <p begin="00:48.490" end="00:53.410" ttm:agent="v1">I see past pretty faces, so I got trouble trusting</p>
+      <p begin="00:53.410" end="00:56.180" ttm:agent="v1">But I'll let my guard down for you</p>
+      <p begin="00:56.180" end="00:58.700" ttm:agent="v1">Said I'll put my guard down for you</p>
+      <p begin="00:58.700" end="01:01.410" ttm:agent="v1">Said I'll be vulnerable</p>
+      <p begin="01:01.410" end="01:03.770" ttm:agent="v1">So you can break my heart if you want to</p>
+      <p begin="01:03.770" end="01:11.770" ttm:agent="v1">She said, &quot;Take your time, what's the rush?&quot;</p>
+      <p begin="01:41.100" end="01:42.600" ttm:agent="v1">I said, &quot;Baby, I'm a dog, I'm a mutt&quot;</p>
+      <p begin="01:15.330" end="01:19.810" ttm:agent="v1">She said, &quot;Take your time, what's the rush?&quot;</p>
+      <p begin="01:19.810" end="01:22.860" ttm:agent="v1">I said, &quot;Baby, I'm a dog, I'm a mutt&quot;</p>
+      <p begin="01:22.860" end="01:26.010" ttm:agent="v1">I'm a dog, I'm a mutt</p>
+      <p begin="01:26.010" end="01:31.370" ttm:agent="v1">No crib, told her, &quot;Come through,&quot; it's time to bring it in</p>
+      <p begin="01:31.370" end="01:36.540" ttm:agent="v1">Thirty-two like my pants size 'cause a n- tried breaking in</p>
+      <p begin="01:36.540" end="01:41.100" ttm:agent="v1">New condo, say your name at the front, you can stay if you want</p>
+      <p begin="01:41.100" end="01:46.800" ttm:agent="v1">It's been one of those nights, one of those nights I ain't had in a minute</p>
+      <p begin="01:46.800" end="01:51.850" ttm:agent="v1">It's been a minute, had to pop a shroom to recreate the feeling</p>
+      <p begin="01:51.850" end="01:55.970" ttm:agent="v1">But it's never the same as the first time we did it</p>
+      <p begin="01:55.970" end="01:57.490" ttm:agent="v1">First time we did it</p>
+      <p begin="01:57.490" end="02:00.130" ttm:agent="v1">But I'll let my guard down for you</p>
+      <p begin="02:00.130" end="02:02.800" ttm:agent="v1">Said I'll put my guard down for you</p>
+      <p begin="02:02.800" end="02:05.240" ttm:agent="v1">Said I'll be vulnerable</p>
+      <p begin="02:05.240" end="02:07.850" ttm:agent="v1" itunes:key="role" itunes:value="background">(au: instrumental)</p>
+      <p begin="02:07.850" end="02:13.130" ttm:agent="v1">She said, &quot;Take your time, what's the rush?&quot;</p>
+      <p begin="02:13.130" end="02:18.400" ttm:agent="v1">I said, &quot;Baby, I'm a dog, I'm a mutt&quot;</p>
+      <p begin="02:18.400" end="02:23.810" ttm:agent="v1">She said, &quot;Take your time, what's the rush?&quot;</p>
+      <p begin="02:23.810" end="02:26.720" ttm:agent="v1">I said, &quot;Baby, I'm a dog, I'm a mutt&quot;</p>
+      <p begin="02:26.720" end="02:29.640" ttm:agent="v1">I'm a dog, I'm a mutt</p>
+      <p begin="02:29.640" end="02:33.640" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

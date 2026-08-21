@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Overdose</ttm:title>
+      <ttm:agent type="person" xml:id="v1">natori</ttm:agent>
+      <ttm:item type="album">Overdose</ttm:item>
+      <ttm:item type="spotify_id">2Dzzhb1oV5ckgOjWZLraIB</ttm:item>
+      <itunes:duration>03:17.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.000" end="00:08.000" ttm:agent="v1" itunes:key="role" itunes:value="background">(synced by someone who doesnt know japanese)</p>
+      <p begin="00:17.770" end="00:19.270" ttm:agent="v1">本当は分かっていた</p>
+      <p begin="00:19.170" end="00:20.670" ttm:agent="v1">いけないことだったって</p>
+      <p begin="00:20.130" end="00:21.710" ttm:agent="v1">分かっていたのに</p>
+      <p begin="00:21.710" end="00:24.540" ttm:agent="v1">この手をすり抜ける全部が</p>
+      <p begin="00:24.540" end="00:26.040" ttm:agent="v1">愛に見えたの</p>
+      <p begin="00:25.790" end="00:28.640" ttm:agent="v1">確かめていた言葉が</p>
+      <p begin="00:28.640" end="00:33.480" ttm:agent="v1">形になって揺れるだけ</p>
+      <p begin="00:33.480" end="00:35.650" ttm:agent="v1">弾いて 描いて きっと それだけ</p>
+      <p begin="00:35.650" end="00:38.220" ttm:agent="v1">つまらないな 正解の読み合わせ</p>
+      <p begin="00:38.220" end="00:39.730" ttm:agent="v1">あとちょっとで</p>
+      <p begin="00:39.730" end="00:41.950" ttm:agent="v1">分かりかけていたのに</p>
+      <p begin="00:41.950" end="00:43.750" ttm:agent="v1">飲んで 吐いて 全部忘れちゃえ</p>
+      <p begin="00:43.750" end="00:46.290" ttm:agent="v1">水をまとった本心と鏡合わせ</p>
+      <p begin="00:46.290" end="00:50.450" ttm:agent="v1">見つめ 会えたら</p>
+      <p begin="00:50.450" end="00:52.190" ttm:agent="v1">Overdose 君とふたり</p>
+      <p begin="00:52.190" end="00:53.870" ttm:agent="v1">やるせない日々</p>
+      <p begin="00:53.870" end="00:58.400" ttm:agent="v1">解像度の悪い夢を見たい</p>
+      <p begin="00:58.400" end="01:00.170" ttm:agent="v1">Overdose 君とふたり</p>
+      <p begin="01:00.170" end="01:03.050" ttm:agent="v1">甘いハッタリ</p>
+      <p begin="01:03.050" end="01:07.020" ttm:agent="v1">Don't stop it music darling</p>
+      <p begin="01:07.020" end="01:14.530" ttm:agent="v1"/>
+      <p begin="01:14.530" end="01:16.030" ttm:agent="v1">本当に分かっている？</p>
+      <p begin="01:16.000" end="01:17.500" ttm:agent="v1">いけないことだったって</p>
+      <p begin="01:17.130" end="01:18.630" ttm:agent="v1">分かっている？</p>
+      <p begin="01:18.160" end="01:21.340" ttm:agent="v1">多分 時間だけが過ぎていく</p>
+      <p begin="01:21.340" end="01:22.840" ttm:agent="v1">問答で満ちていく</p>
+      <p begin="01:22.840" end="01:25.450" ttm:agent="v1">言い訳する間もなく</p>
+      <p begin="01:25.450" end="01:30.150" ttm:agent="v1">裸になってしまうだけ</p>
+      <p begin="01:30.150" end="01:32.400" ttm:agent="v1">きっと 溜まっていくんだ ずっと</p>
+      <p begin="01:32.400" end="01:34.150" ttm:agent="v1">終わってしまえばいいと ふっと</p>
+      <p begin="01:34.150" end="01:35.650" ttm:agent="v1">傷んで腐っていく</p>
+      <p begin="01:35.340" end="01:36.840" ttm:agent="v1">あの甘い果実のように</p>
+      <p begin="01:36.660" end="01:38.180" ttm:agent="v1">僕ら 壊れていく</p>
+      <p begin="01:38.180" end="01:39.860" ttm:agent="v1">だから踊って 眠って</p>
+      <p begin="01:39.860" end="01:41.360" ttm:agent="v1">全部忘れちゃえ</p>
+      <p begin="01:40.650" end="01:43.190" ttm:agent="v1">嘘を被ったあなたと隣り合わせ</p>
+      <p begin="01:43.190" end="01:47.370" ttm:agent="v1">見つめ 会えたら</p>
+      <p begin="01:47.370" end="01:49.040" ttm:agent="v1">Overdose 君とふたり</p>
+      <p begin="01:49.040" end="01:50.880" ttm:agent="v1">分かりたいのに</p>
+      <p begin="01:50.880" end="01:55.670" ttm:agent="v1">変に間の悪い嘘が嫌い</p>
+      <p begin="01:55.670" end="01:58.250" ttm:agent="v1">Overdose 君とふたり</p>
+      <p begin="01:58.250" end="02:00.100" ttm:agent="v1">分かりたいのに</p>
+      <p begin="02:00.100" end="02:04.590" ttm:agent="v1">Two step from hell with me darling</p>
+      <p begin="02:04.590" end="02:12.590" ttm:agent="v1"/>
+      <p begin="02:21.760" end="02:23.570" ttm:agent="v1">Overdose 君とふたり</p>
+      <p begin="02:23.570" end="02:25.460" ttm:agent="v1">やるせない日々</p>
+      <p begin="02:25.460" end="02:29.910" ttm:agent="v1">解像度の悪い夢を見たい</p>
+      <p begin="02:29.910" end="02:31.860" ttm:agent="v1">Overdose 君とふたり</p>
+      <p begin="02:31.860" end="02:34.670" ttm:agent="v1">甘いハッタリ</p>
+      <p begin="02:34.670" end="02:38.220" ttm:agent="v1">Don't stop it music darling</p>
+      <p begin="02:38.220" end="02:39.880" ttm:agent="v1">Overdose 君とふたり</p>
+      <p begin="02:39.880" end="02:41.630" ttm:agent="v1">分からない</p>
+      <p begin="02:41.630" end="02:45.700" ttm:agent="v1">けど 変に間の悪い嘘でもいいから</p>
+      <p begin="02:45.700" end="02:50.750" ttm:agent="v1">どう 君とふたり 甘いハッタリ</p>
+      <p begin="02:50.750" end="02:54.830" ttm:agent="v1">Don't stop it music darling</p>
+      <p begin="02:54.830" end="03:02.830" ttm:agent="v1"/>
+      <p begin="03:06.930" end="03:11.130" ttm:agent="v1">Don't stop it music darling</p>
+      <p begin="03:11.130" end="03:15.130" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

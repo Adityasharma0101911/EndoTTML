@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Tek It - Sped Up</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Cafuné</ttm:agent>
+      <ttm:item type="album">Tek It (I Watch the Moon)</ttm:item>
+      <ttm:item type="spotify_id">0MnTkIEP4zZN1IUSu8MvIz</ttm:item>
+      <itunes:duration>02:47.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.080" end="00:05.450" ttm:agent="v1">Where did you learn what it means to reciprocate?</p>
+      <p begin="00:05.450" end="00:10.990" ttm:agent="v1">And how much can I be expected to tolerate?</p>
+      <p begin="00:10.990" end="00:16.940" ttm:agent="v1">So I started to think 'bout the plans I made, the debt unpaid</p>
+      <p begin="00:16.940" end="00:22.790" ttm:agent="v1">And you just can't call a spade &quot;a spade&quot;</p>
+      <p begin="00:22.790" end="00:29.570" ttm:agent="v1">I watch the Moon, let it run my mood</p>
+      <p begin="00:29.570" end="00:34.180" ttm:agent="v1">Can't stop thinking of you</p>
+      <p begin="00:34.180" end="00:39.680" ttm:agent="v1" itunes:key="role" itunes:value="background">I watch you (now I let it go, and I watch as things play out like)</p>
+      <p begin="00:39.680" end="00:45.200" ttm:agent="v1">So long, nice to know you, I'll be moving on</p>
+      <p begin="00:45.200" end="00:48.330" ttm:agent="v1">We started off in such a nice place</p>
+      <p begin="00:48.330" end="00:51.070" ttm:agent="v1">We were talking the same language</p>
+      <p begin="00:51.070" end="00:53.960" ttm:agent="v1">I o-open, and I'm closing</p>
+      <p begin="00:53.960" end="00:57.460" ttm:agent="v1">You can't stand the thought of a real beating heart</p>
+      <p begin="00:57.460" end="01:00.110" ttm:agent="v1">You'd be holding, having trouble</p>
+      <p begin="01:00.110" end="01:05.240" ttm:agent="v1">O-o-owning and admit that I am hoping</p>
+      <p begin="01:05.240" end="01:12.120" ttm:agent="v1">I watch the Moon, let it run my mood</p>
+      <p begin="01:12.120" end="01:16.970" ttm:agent="v1">Can't stop thinking of you</p>
+      <p begin="01:16.970" end="01:22.210" ttm:agent="v1" itunes:key="role" itunes:value="background">I watch you (now I let it go, and I watch as things play out like)</p>
+      <p begin="01:22.210" end="01:30.210" ttm:agent="v1">So long, nice to know you, I'll be moving on, moving on</p>
+      <p begin="01:30.630" end="01:38.630" ttm:agent="v1"/>
+      <p begin="01:53.550" end="01:55.050" ttm:agent="v1">You</p>
+      <p begin="01:54.580" end="01:57.230" ttm:agent="v1">Yeah, I always know the truth</p>
+      <p begin="01:57.230" end="02:00.390" ttm:agent="v1">But I can't just say it to you</p>
+      <p begin="02:00.390" end="02:04.350" ttm:agent="v1">Yeah, I know the truth</p>
+      <p begin="02:04.350" end="02:05.850" ttm:agent="v1">I knew</p>
+      <p begin="02:05.660" end="02:08.510" ttm:agent="v1">Yeah, I always know the truth</p>
+      <p begin="02:08.510" end="02:11.780" ttm:agent="v1">But I can't just say it to you</p>
+      <p begin="02:11.780" end="02:16.670" ttm:agent="v1">Yeah, I know the truth</p>
+      <p begin="02:16.670" end="02:19.690" ttm:agent="v1">I never thought we'd see it through</p>
+      <p begin="02:19.690" end="02:22.410" ttm:agent="v1">I never could rely on you</p>
+      <p begin="02:22.410" end="02:26.940" ttm:agent="v1">And the few times your face came into view</p>
+      <p begin="02:26.940" end="02:29.600" ttm:agent="v1"/>
+      <p begin="02:29.600" end="02:32.320" ttm:agent="v1">Into view</p>
+      <p begin="02:32.320" end="02:35.390" ttm:agent="v1">I'm not into you</p>
+      <p begin="02:35.390" end="02:37.460" ttm:agent="v1">Into you</p>
+      <p begin="02:37.460" end="02:41.460" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

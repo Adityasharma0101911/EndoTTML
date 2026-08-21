@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>90210 (feat. Kacy Hill)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Travis Scott</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Kacy Hill</ttm:agent>
+      <ttm:item type="album">Rodeo</ttm:item>
+      <ttm:item type="spotify_id">51EC3I1nQXpec4gDk0mQyP</ttm:item>
+      <itunes:duration>05:39.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:01.830" end="00:09.830" ttm:agent="v1" itunes:key="role" itunes:value="background">(Dean, what's poppin'? Yo, Travis)</p>
+      <p begin="00:13.870" end="00:21.870" ttm:agent="v1">Mhm, ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh</p>
+      <p begin="00:23.570" end="00:29.350" ttm:agent="v1">Mama's bailing down that road, craving 9021-</p>
+      <p begin="00:29.350" end="00:34.270" ttm:agent="v1">She a porn star girl, ah, from the valley</p>
+      <p begin="00:34.270" end="00:35.960" ttm:agent="v1" itunes:key="role" itunes:value="background">(Honestly, God bless)</p>
+      <p begin="00:35.960" end="00:43.350" ttm:agent="v1">Who left her hometown world all for that alley</p>
+      <p begin="00:43.350" end="00:49.060" ttm:agent="v1">Ooh, created Lake Tahoe all from her panties</p>
+      <p begin="00:49.060" end="00:50.720" ttm:agent="v1" itunes:key="role" itunes:value="background">(I hope it was wet like my jumper, though)</p>
+      <p begin="00:50.720" end="00:53.390" ttm:agent="v1">Ooh, used to take the long way home</p>
+      <p begin="00:53.390" end="01:00.430" ttm:agent="v1" itunes:key="role" itunes:value="background">Long way home, all for that candy, mm (hahaha)</p>
+      <p begin="01:00.430" end="01:07.860" ttm:agent="v1">Baby's hooked on feeling low</p>
+      <p begin="01:07.860" end="01:10.840" ttm:agent="v1">Do, do, do</p>
+      <p begin="01:10.840" end="01:15.180" ttm:agent="v1">Do, doo</p>
+      <p begin="01:15.180" end="01:22.530" ttm:agent="v1">Jacques turned La Flame, now he rolling on an Addy</p>
+      <p begin="01:22.530" end="01:28.720" ttm:agent="v1">Fifty on a chain, 'nother fifty on a Caddy, oh</p>
+      <p begin="01:28.720" end="01:32.240" ttm:agent="v1">He might pop him a pill, pop him a seal, pop anyone</p>
+      <p begin="01:32.240" end="01:38.300" ttm:agent="v1">Pop anything, pop anything to find that alley</p>
+      <p begin="01:38.300" end="01:45.080" ttm:agent="v1">Hmm, yeah, to find that alley, mm</p>
+      <p begin="01:45.080" end="01:52.370" ttm:agent="v1">Baby's hooked on feeling low</p>
+      <p begin="01:52.370" end="01:58.120" ttm:agent="v1">Do, do, do</p>
+      <p begin="01:58.120" end="01:59.620" ttm:agent="v1">Do, doo</p>
+      <p begin="01:59.330" end="02:06.720" ttm:agent="v1">In the 90210, 90210, looking for that alley</p>
+      <p begin="02:06.720" end="02:13.810" ttm:agent="v1">In the 90210, 90210, looking for that alley, ooh</p>
+      <p begin="02:13.810" end="02:19.990" ttm:agent="v1" itunes:key="role" itunes:value="background">It's the superstar girl, superstar girl, roaming in that alley (baby's hooked on feeling low)</p>
+      <p begin="02:19.990" end="02:27.990" ttm:agent="v1" itunes:key="role" itunes:value="background">Ooh, in the 90210, 90210, somewhere in that alley (I gotta tell ya)</p>
+      <p begin="02:28.110" end="02:30.020" ttm:agent="v1">Ooh, aah</p>
+      <p begin="02:30.020" end="02:38.020" ttm:agent="v1"/>
+      <p begin="02:55.430" end="03:03.430" ttm:agent="v1">Ooh</p>
+      <p begin="03:06.770" end="03:14.770" ttm:agent="v1">Ooh-ooh-ooh-ooh</p>
+      <p begin="03:17.650" end="03:19.420" ttm:agent="v1">Yeah</p>
+      <p begin="03:19.420" end="03:21.520" ttm:agent="v1">My granny called, she said, &quot;Travvy, you work too hard</p>
+      <p begin="03:21.520" end="03:26.280" ttm:agent="v1">I'm worried you forget about me&quot;</p>
+      <p begin="03:26.280" end="03:31.290" ttm:agent="v1">I'm falling in and out of clouds, don't worry, I'ma get it, Granny, uh</p>
+      <p begin="03:31.290" end="03:32.900" ttm:agent="v1">What happened? Now my daddy happy</p>
+      <p begin="03:32.900" end="03:35.630" ttm:agent="v1">Mama called me up, that money coming and she love me</p>
+      <p begin="03:35.630" end="03:37.960" ttm:agent="v1">I done made it now, I done found life's meaning now</p>
+      <p begin="03:37.960" end="03:42.260" ttm:agent="v1">All them days her heart'd break, her heart not in pieces now</p>
+      <p begin="03:42.260" end="03:44.290" ttm:agent="v1">Friends turning into fraud niggas</p>
+      <p begin="03:44.290" end="03:47.120" ttm:agent="v1">Practicing half the passion, you niggas packaged different</p>
+      <p begin="03:47.120" end="03:49.980" ttm:agent="v1">All you niggas, you niggas want the swag, you can't have it</p>
+      <p begin="03:49.980" end="03:53.280" ttm:agent="v1">I'ma sell it, your niggas salary, we 'bout to cap, bitch</p>
+      <p begin="03:53.280" end="03:55.960" ttm:agent="v1">Youngest nigga out of Houston at the Grammys</p>
+      <p begin="03:55.960" end="03:58.030" ttm:agent="v1">Smiling at 'em laughing at me</p>
+      <p begin="03:58.030" end="04:00.630" ttm:agent="v1">I passed the rock to Ye, he pump faked, then passed it back, bitch</p>
+      <p begin="04:00.630" end="04:06.940" ttm:agent="v1">All of this off of rapping, should've wrote this in Latin, yeah, yeah</p>
+      <p begin="04:06.940" end="04:10.470" ttm:agent="v1">Mmm, I know, I know, I know, I know, I know</p>
+      <p begin="04:10.470" end="04:12.450" ttm:agent="v1">I know, I know, I know, I know, I know</p>
+      <p begin="04:12.450" end="04:15.290" ttm:agent="v1">Cuzzo said we in the store, yeah, we 'bout to drop a four</p>
+      <p begin="04:15.290" end="04:18.090" ttm:agent="v1">He passed the cigarette, I choke, woo</p>
+      <p begin="04:18.090" end="04:21.130" ttm:agent="v1">Told my auntie, &quot;Put them 'Ports down, them 'Ports down&quot;</p>
+      <p begin="04:21.130" end="04:23.060" ttm:agent="v1">Now you know you love your own now</p>
+      <p begin="04:23.060" end="04:26.000" ttm:agent="v1">Hit the stage, they got their hands up, don't put your nose down</p>
+      <p begin="04:26.000" end="04:29.370" ttm:agent="v1">I ain't knockin', nigga, I knocked the door down, for sure now</p>
+      <p begin="04:29.370" end="04:31.480" ttm:agent="v1">Whole crew, I swear they counting on me</p>
+      <p begin="04:31.480" end="04:34.110" ttm:agent="v1">Gold chains, gold rings, I got an island on me</p>
+      <p begin="04:34.110" end="04:37.070" ttm:agent="v1">Houses on me, he got them ounces on him</p>
+      <p begin="04:37.070" end="04:40.200" ttm:agent="v1">Holy Father, come save these niggas, I'm styling on 'em</p>
+      <p begin="04:40.200" end="04:42.860" ttm:agent="v1">Good Lord, I see my good fortune in all these horses</p>
+      <p begin="04:42.860" end="04:45.540" ttm:agent="v1">I'm driving too fast to stop, so all these signs, I ignore them</p>
+      <p begin="04:45.540" end="04:48.560" ttm:agent="v1">Just this guy from north of the border, my chips is in order</p>
+      <p begin="04:48.560" end="04:51.880" ttm:agent="v1">My mom's biggest supporter so now a nigga support a nigga</p>
+      <p begin="04:51.880" end="04:55.880" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

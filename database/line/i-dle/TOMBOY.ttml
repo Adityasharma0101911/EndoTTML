@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>TOMBOY</ttm:title>
+      <ttm:agent type="person" xml:id="v1">i-dle</ttm:agent>
+      <ttm:item type="album">I NEVER DIE</ttm:item>
+      <ttm:item type="spotify_id">0IGUXY4JbK18bu9oD4mPIm</ttm:item>
+      <itunes:duration>02:54.392</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:03.060" end="00:06.510" ttm:agent="v1">Ah-ah-ah-ah-ah</p>
+      <p begin="00:06.510" end="00:08.010" ttm:agent="v1">Yeah, I'm tomboy</p>
+      <p begin="00:07.960" end="00:11.780" ttm:agent="v1" itunes:key="role" itunes:value="background">Look at you (you), 넌 못 감당해 날 (날)</p>
+      <p begin="00:11.780" end="00:15.560" ttm:agent="v1" itunes:key="role" itunes:value="background">You took (mmm) off hook (yeah), 기분은 Coke, like brrr (brrr)</p>
+      <p begin="00:15.560" end="00:19.160" ttm:agent="v1">Look at my toe, 나의 ex 이름 tattoo</p>
+      <p begin="00:19.160" end="00:23.830" ttm:agent="v1" itunes:key="role" itunes:value="background">I got to drink up now, 네가 싫다 해도 좋아 (ah)</p>
+      <p begin="00:23.830" end="00:27.740" ttm:agent="v1">Why are you cranky, boy?</p>
+      <p begin="00:27.740" end="00:31.500" ttm:agent="v1">뭘 그리 찡그려 너?</p>
+      <p begin="00:31.500" end="00:35.180" ttm:agent="v1">Do you want a blond barbie doll?</p>
+      <p begin="00:35.180" end="00:38.540" ttm:agent="v1" itunes:key="role" itunes:value="background">It's not here, I'm not a doll (I-DLE 'til you can)</p>
+      <p begin="00:38.540" end="00:42.290" ttm:agent="v1">미친 연이라 말해, what's the loss to me? Yeah</p>
+      <p begin="00:42.290" end="00:46.130" ttm:agent="v1">사정없이 까보라고, you'll lose to me, yeah</p>
+      <p begin="00:46.130" end="00:50.180" ttm:agent="v1">사랑 그깟 거 따위 내 몸에 상처 하나도 어림없지</p>
+      <p begin="00:50.180" end="00:53.110" ttm:agent="v1">너의 썩은 내 나는 향수나 뿌릴 바엔</p>
+      <p begin="00:53.110" end="00:55.260" ttm:agent="v1">Yeah, I'm a fu- tomboy</p>
+      <p begin="00:55.260" end="00:59.050" ttm:agent="v1" itunes:key="role" itunes:value="background">(Uh-uh-uh-uh-uh, ah-ah-ah-ah-ah)</p>
+      <p begin="00:59.050" end="01:00.760" ttm:agent="v1" itunes:key="role" itunes:value="background">(Uh-uh-uh-uh-uh)</p>
+      <p begin="01:00.760" end="01:02.720" ttm:agent="v1">Yeah, I'll be the tomboy</p>
+      <p begin="01:02.720" end="01:06.450" ttm:agent="v1" itunes:key="role" itunes:value="background">(Uh-uh-uh-uh-uh, ah-ah-ah-ah-ah)</p>
+      <p begin="01:06.450" end="01:08.630" ttm:agent="v1">This is my attitude</p>
+      <p begin="01:08.630" end="01:11.120" ttm:agent="v1">Yeah, I'll be the tomboy</p>
+      <p begin="01:11.120" end="01:14.040" ttm:agent="v1" itunes:key="role" itunes:value="background">(S.Y.) I don't wanna play this ping-pong</p>
+      <p begin="01:14.040" end="01:16.000" ttm:agent="v1">I would rather film a TikTok</p>
+      <p begin="01:16.000" end="01:17.500" ttm:agent="v1">Your mom raised you as a prince</p>
+      <p begin="01:17.400" end="01:19.210" ttm:agent="v1">But this is Queendom, right?</p>
+      <p begin="01:19.210" end="01:21.120" ttm:agent="v1">I like dancing, I love my friends</p>
+      <p begin="01:21.120" end="01:22.930" ttm:agent="v1">Sometimes, we swear without cigarettes</p>
+      <p begin="01:22.930" end="01:24.990" ttm:agent="v1">I like to, eh, on drinking whiskey</p>
+      <p begin="01:24.990" end="01:26.980" ttm:agent="v1">I won't change it, what the hell?</p>
+      <p begin="01:26.980" end="01:30.570" ttm:agent="v1">미친 척이라 말해, what's the loss to me? Yeah</p>
+      <p begin="01:30.570" end="01:34.450" ttm:agent="v1">사정없이 씹으라고, you're lost to me, yeah</p>
+      <p begin="01:34.450" end="01:38.400" ttm:agent="v1">사랑 그깟 거 따위 내 눈에 눈물 한 방울 어림없지</p>
+      <p begin="01:38.400" end="01:41.330" ttm:agent="v1">너의 하찮은 말에 미소나 지을 바엔</p>
+      <p begin="01:41.330" end="01:43.840" ttm:agent="v1">Yeah, I'm a fu- tomboy</p>
+      <p begin="01:43.840" end="01:47.460" ttm:agent="v1" itunes:key="role" itunes:value="background">(Uh-uh-uh-uh-uh, ah-ah-ah-ah-ah)</p>
+      <p begin="01:47.460" end="01:49.090" ttm:agent="v1" itunes:key="role" itunes:value="background">(Uh-uh-uh-uh-uh)</p>
+      <p begin="01:49.090" end="01:51.280" ttm:agent="v1">Yeah, I'll be the tomboy</p>
+      <p begin="01:51.280" end="01:54.600" ttm:agent="v1" itunes:key="role" itunes:value="background">(Uh-uh-uh-uh-uh, ah-ah-ah-ah-ah)</p>
+      <p begin="01:54.600" end="01:56.790" ttm:agent="v1">This is my attitude</p>
+      <p begin="01:56.790" end="01:59.660" ttm:agent="v1">Yeah, I'll be the tomboy</p>
+      <p begin="01:59.660" end="02:01.440" ttm:agent="v1">Said you get it?</p>
+      <p begin="02:01.440" end="02:03.890" ttm:agent="v1">Uh, you get the song right</p>
+      <p begin="02:03.890" end="02:05.990" ttm:agent="v1">You'll get what I mean &quot;tomboy&quot;</p>
+      <p begin="02:05.990" end="02:09.430" ttm:agent="v1">La, la-la-la, la-la, la-la-la-la</p>
+      <p begin="02:09.430" end="02:13.800" ttm:agent="v1" itunes:key="role" itunes:value="background">La-la-la, la-la-la, la-la (you ready? Yeah)</p>
+      <p begin="02:13.800" end="02:17.260" ttm:agent="v1">La, la-la-la, la-la, la-la-la-la</p>
+      <p begin="02:17.260" end="02:21.090" ttm:agent="v1" itunes:key="role" itunes:value="background">La-la-la, la-la-la, la-la (three, two, one)</p>
+      <p begin="02:21.090" end="02:24.870" ttm:agent="v1">It's neither man nor woman, man nor woman</p>
+      <p begin="02:24.870" end="02:28.790" ttm:agent="v1" itunes:key="role" itunes:value="background">It's neither man nor woman (just me, I-DLE)</p>
+      <p begin="02:28.790" end="02:32.340" ttm:agent="v1">It's neither man nor woman, man nor woman</p>
+      <p begin="02:32.340" end="02:36.240" ttm:agent="v1" itunes:key="role" itunes:value="background">It's neither man nor woman (just me, loving tomboy)</p>
+      <p begin="02:36.240" end="02:40.240" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Salamin, Salamin</ttm:title>
+      <ttm:agent type="person" xml:id="v1">BINI</ttm:agent>
+      <ttm:item type="album">Talaarawan</ttm:item>
+      <ttm:item type="spotify_id">1iIJtD9hkzw4ZHfR7ND9yb</ttm:item>
+      <itunes:duration>03:50.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:07.730" end="00:11.310" ttm:agent="v1">Oh, hello there, misteryoso</p>
+      <p begin="00:11.310" end="00:15.940" ttm:agent="v1">'Di pa rin mabasa ang 'yong tunay na motibo</p>
+      <p begin="00:15.940" end="00:19.980" ttm:agent="v1">Iba'ng pinapakita, taliwas sa 'yong salita</p>
+      <p begin="00:19.980" end="00:23.900" ttm:agent="v1">Pero ayokong magduda, baka lang sa simula</p>
+      <p begin="00:23.900" end="00:27.780" ttm:agent="v1">Maghihintay na lang na ika'y dumaan</p>
+      <p begin="00:27.780" end="00:32.580" ttm:agent="v1">Sana ay maibsan ang aking pangungulila</p>
+      <p begin="00:32.580" end="00:34.350" ttm:agent="v1">Trapped in this fairytale</p>
+      <p begin="00:34.350" end="00:39.940" ttm:agent="v1">But I don't wanna wake up in this dream, baby</p>
+      <p begin="00:39.940" end="00:47.790" ttm:agent="v1">Ayokong umasa sa paniniwalang</p>
+      <p begin="00:47.790" end="00:50.640" ttm:agent="v1">May pag-asa nga ba?</p>
+      <p begin="00:50.640" end="00:55.710" ttm:agent="v1">Na baka ang puso ko'y mapagbigyan</p>
+      <p begin="00:55.710" end="01:00.690" ttm:agent="v1">Mahiwagang salamin, kailan ba niya aaminin?</p>
+      <p begin="01:00.690" end="01:03.450" ttm:agent="v1">Kaniyang tunay na pagtingin</p>
+      <p begin="01:03.450" end="01:08.220" ttm:agent="v1">Mahiwagang salamin, ano ba'ng dapat gawin?</p>
+      <p begin="01:08.220" end="01:11.220" ttm:agent="v1">Bakit ang puso'y nabibitin?</p>
+      <p begin="01:11.220" end="01:15.040" ttm:agent="v1">Salamin, salamin sa dingding, nasa'n na ang pag-ibig?</p>
+      <p begin="01:15.040" end="01:18.990" ttm:agent="v1">Salamin, salamin sa dingding, puwede mo bang sabihin?</p>
+      <p begin="01:18.990" end="01:23.040" ttm:agent="v1">Salamin, salamin sa dingding, nasa'n na ang pag-ibig?</p>
+      <p begin="01:23.040" end="01:27.080" ttm:agent="v1">Salamin, salamin, kailan niya ba 'ko papansinin?</p>
+      <p begin="01:27.080" end="01:30.940" ttm:agent="v1" itunes:key="role" itunes:value="background">Ayokong maniwala (ayokong maniwala, ey)</p>
+      <p begin="01:30.940" end="01:34.940" ttm:agent="v1" itunes:key="role" itunes:value="background">Na baka mabalewala (oh no, oh no)</p>
+      <p begin="01:34.940" end="01:38.190" ttm:agent="v1">Pero sa 'yong sulyap mga mata'y nangungusap</p>
+      <p begin="01:38.190" end="01:42.690" ttm:agent="v1" itunes:key="role" itunes:value="background">'Di ko kayang magpanggap, ano ba talaga ito? (Oh)</p>
+      <p begin="01:42.690" end="01:46.350" ttm:agent="v1">Maghihintay na lang na ika'y dumaan</p>
+      <p begin="01:46.350" end="01:51.140" ttm:agent="v1">Sana ay maibsan ang aking pangungulila</p>
+      <p begin="01:51.140" end="01:53.010" ttm:agent="v1">Trapped in this fairytale</p>
+      <p begin="01:53.010" end="01:58.530" ttm:agent="v1">But I don't wanna wake up in this dream, baby</p>
+      <p begin="01:58.530" end="02:06.260" ttm:agent="v1">Ayokong umasa sa paniniwalang</p>
+      <p begin="02:06.260" end="02:09.150" ttm:agent="v1">May pag-asa nga ba?</p>
+      <p begin="02:09.150" end="02:14.350" ttm:agent="v1">Na baka ang puso ko'y mapagbigyan</p>
+      <p begin="02:14.350" end="02:19.300" ttm:agent="v1">Mahiwagang salamin, kailan ba niya aaminin?</p>
+      <p begin="02:19.300" end="02:22.160" ttm:agent="v1">Kaniyang tunay na pagtingin</p>
+      <p begin="02:22.160" end="02:26.800" ttm:agent="v1">Mahiwagang salamin, ano ba'ng dapat gawin?</p>
+      <p begin="02:26.800" end="02:29.890" ttm:agent="v1">Bakit ang puso'y nabibitin?</p>
+      <p begin="02:29.890" end="02:33.670" ttm:agent="v1">Salamin, salamin sa dingding, nasa'n na ang pag-ibig?</p>
+      <p begin="02:33.670" end="02:37.680" ttm:agent="v1">Salamin, salamin sa dingding, puwede mo bang sabihin?</p>
+      <p begin="02:37.680" end="02:41.680" ttm:agent="v1">Salamin, salamin sa dingding, nasa'n na ang pag-ibig?</p>
+      <p begin="02:41.680" end="02:45.320" ttm:agent="v1">Salamin, salamin, kailan niya ba 'ko papansinin?</p>
+      <p begin="02:45.320" end="02:47.220" ttm:agent="v1">Mirror, mirror on the wall</p>
+      <p begin="02:47.220" end="02:49.270" ttm:agent="v1">Please tell my prince charming, I'm waiting for his call</p>
+      <p begin="02:49.270" end="02:51.160" ttm:agent="v1">Bakit ba pasikot-sikot, para bang pinapaikot</p>
+      <p begin="02:51.160" end="02:53.540" ttm:agent="v1">'Di ko talaga ma-gets, ano ba talaga ang next move mo?</p>
+      <p begin="02:53.540" end="02:55.560" ttm:agent="v1" itunes:key="role" itunes:value="background">Gusto ko lang naman malaman (malaman)</p>
+      <p begin="02:55.560" end="02:57.210" ttm:agent="v1" itunes:key="role" itunes:value="background">Ano ba ang katotohanan (oh my)</p>
+      <p begin="02:57.210" end="02:59.060" ttm:agent="v1">Better say it now, it's not too late</p>
+      <p begin="02:59.060" end="03:01.780" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm ready to be called your princess, hey (hey)</p>
+      <p begin="03:01.780" end="03:09.460" ttm:agent="v1">Ayokong umasa sa paniniwalang</p>
+      <p begin="03:09.460" end="03:12.350" ttm:agent="v1">May pag-asa nga ba?</p>
+      <p begin="03:12.350" end="03:17.430" ttm:agent="v1">Na baka ang puso ko'y mapagbigyan</p>
+      <p begin="03:17.430" end="03:22.140" ttm:agent="v1" itunes:key="role" itunes:value="background">Mahiwagang salamin (oh), kailan ba niya aaminin? (Aaminin)</p>
+      <p begin="03:22.140" end="03:25.000" ttm:agent="v1" itunes:key="role" itunes:value="background">Kaniyang tunay na pagtingin (Ano ba'ng sasabihin?)</p>
+      <p begin="03:25.000" end="03:29.980" ttm:agent="v1" itunes:key="role" itunes:value="background">Mahiwagang salamin, ano ba'ng dapat gawin? (Gawin)</p>
+      <p begin="03:29.980" end="03:32.540" ttm:agent="v1">Bakit ang puso'y nabibitin?</p>
+      <p begin="03:32.540" end="03:36.590" ttm:agent="v1" itunes:key="role" itunes:value="background">Salamin, salamin sa dingding, nasa'n na ang pag-ibig? (Salamin, salamin, salamin, salamin)</p>
+      <p begin="03:36.590" end="03:40.330" ttm:agent="v1" itunes:key="role" itunes:value="background">Salamin, salamin sa dingding, puwede mo bang sabihin? (Ano'ng gagawin?)</p>
+      <p begin="03:40.330" end="03:44.280" ttm:agent="v1">Salamin, salamin sa dingding, nasa'n na ang pag-ibig?</p>
+      <p begin="03:44.280" end="03:49.220" ttm:agent="v1" itunes:key="role" itunes:value="background">Salamin, salamin, kailan niya ba 'ko papansinin? (Whoo)</p>
+      <p begin="03:49.220" end="03:53.220" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

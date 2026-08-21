@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>this is what sadness feels like</ttm:title>
+      <ttm:agent type="person" xml:id="v1">JVKE</ttm:agent>
+      <ttm:item type="album">this is what ____ feels like (Vol. 1-4)</ttm:item>
+      <ttm:item type="spotify_id">5GpYt1p4z2EPVKv5t7XDof</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:19.610" end="00:21.630" ttm:agent="v1">
+        <span begin="00:19.610" end="00:19.940">Feeling </span>
+        <span begin="00:19.940" end="00:20.510">depressed </span>
+        <span begin="00:20.510" end="00:20.600">yeah </span>
+        <span begin="00:20.600" end="00:20.750">I </span>
+        <span begin="00:20.750" end="00:20.900">been </span>
+        <span begin="00:20.900" end="00:21.170">dealing </span>
+        <span begin="00:21.170" end="00:21.260">with </span>
+        <span begin="00:21.260" end="00:21.620">stress</span>
+      </p>
+      <p begin="00:21.630" end="00:22.970" ttm:agent="v1">
+        <span begin="00:21.630" end="00:21.780">These </span>
+        <span begin="00:21.780" end="00:22.010">demons </span>
+        <span begin="00:22.010" end="00:22.100">they </span>
+        <span begin="00:22.100" end="00:22.460">fight </span>
+        <span begin="00:22.460" end="00:22.940">me</span>
+      </p>
+      <p begin="00:22.970" end="00:25.010" ttm:agent="v1">
+        <span begin="00:22.970" end="00:23.210">Cut </span>
+        <span begin="00:23.210" end="00:23.300">out </span>
+        <span begin="00:23.300" end="00:23.390">the </span>
+        <span begin="00:23.390" end="00:23.870">fakes </span>
+        <span begin="00:23.870" end="00:23.960">yeah </span>
+        <span begin="00:23.960" end="00:24.080">I </span>
+        <span begin="00:24.080" end="00:24.260">been </span>
+        <span begin="00:24.260" end="00:24.530">dealing </span>
+        <span begin="00:24.530" end="00:24.620">with </span>
+        <span begin="00:24.620" end="00:25.010">snakes</span>
+      </p>
+      <p begin="00:25.010" end="00:26.300" ttm:agent="v1">
+        <span begin="00:25.010" end="00:25.130">And </span>
+        <span begin="00:25.130" end="00:25.250">they </span>
+        <span begin="00:25.250" end="00:25.430">try </span>
+        <span begin="00:25.430" end="00:25.490">to </span>
+        <span begin="00:25.490" end="00:25.760">bite </span>
+        <span begin="00:25.760" end="00:26.270">me</span>
+      </p>
+      <p begin="00:26.300" end="00:29.660" ttm:agent="v1">
+        <span begin="00:26.300" end="00:26.510">I </span>
+        <span begin="00:26.510" end="00:26.750">been </span>
+        <span begin="00:26.750" end="00:27.080">down </span>
+        <span begin="00:27.080" end="00:27.560">so </span>
+        <span begin="00:27.560" end="00:28.310">bad </span>
+        <span begin="00:28.310" end="00:28.430">with </span>
+        <span begin="00:28.430" end="00:28.850">nobody </span>
+        <span begin="00:28.850" end="00:29.120">near </span>
+        <span begin="00:29.120" end="00:29.630">me</span>
+      </p>
+      <p begin="00:29.660" end="00:33.410" ttm:agent="v1">
+        <span begin="00:29.660" end="00:29.870">I </span>
+        <span begin="00:29.870" end="00:30.080">been </span>
+        <span begin="00:30.080" end="00:30.470">down </span>
+        <span begin="00:30.470" end="00:30.920">so </span>
+        <span begin="00:30.920" end="00:31.670">sad </span>
+        <span begin="00:31.670" end="00:31.880">can </span>
+        <span begin="00:31.880" end="00:32.240">anyone </span>
+        <span begin="00:32.240" end="00:32.480">hear </span>
+        <span begin="00:32.480" end="00:33.050">me</span>
+      </p>
+      <p begin="00:33.410" end="00:41.930" ttm:agent="v1">
+        <span begin="00:33.410" end="00:35.030">I</span>
+        <span begin="00:35.030" end="00:35.060"> </span>
+        <span begin="00:35.060" end="00:35.990">turned </span>
+        <span begin="00:35.990" end="00:36.740">my </span>
+        <span begin="00:36.740" end="00:38.330">back</span>
+        <span begin="00:38.330" end="00:38.480"> </span>
+        <span begin="00:38.480" end="00:39.290">I </span>
+        <span begin="00:39.290" end="00:40.100">got </span>
+        <span begin="00:40.100" end="00:41.330">stabbed</span>
+      </p>
+      <p begin="00:41.930" end="00:46.430" ttm:agent="v1">
+        <span begin="00:41.930" end="00:42.620">I'm </span>
+        <span begin="00:42.620" end="00:43.430">so </span>
+        <span begin="00:43.430" end="00:44.660">sad </span>
+        <span begin="00:44.660" end="00:46.040">sad</span>
+      </p>
+      <p begin="00:46.430" end="00:48.480" ttm:agent="v1">
+        <span begin="00:46.430" end="00:46.790">Feeling </span>
+        <span begin="00:46.790" end="00:47.360">depressed </span>
+        <span begin="00:47.360" end="00:47.450">yeah </span>
+        <span begin="00:47.450" end="00:47.600">I </span>
+        <span begin="00:47.600" end="00:47.750">been </span>
+        <span begin="00:47.750" end="00:47.990">dealing </span>
+        <span begin="00:47.990" end="00:48.110">with </span>
+        <span begin="00:48.110" end="00:48.480">stress</span>
+      </p>
+      <p begin="00:48.480" end="00:49.820" ttm:agent="v1">
+        <span begin="00:48.480" end="00:48.630">These </span>
+        <span begin="00:48.630" end="00:48.860">demons </span>
+        <span begin="00:48.860" end="00:48.950">they </span>
+        <span begin="00:48.950" end="00:49.310">fight </span>
+        <span begin="00:49.310" end="00:49.790">me</span>
+      </p>
+      <p begin="00:49.820" end="00:51.860" ttm:agent="v1">
+        <span begin="00:49.820" end="00:50.060">Cut </span>
+        <span begin="00:50.060" end="00:50.180">out </span>
+        <span begin="00:50.180" end="00:50.240">the </span>
+        <span begin="00:50.240" end="00:50.720">fakes </span>
+        <span begin="00:50.720" end="00:50.810">yeah </span>
+        <span begin="00:50.810" end="00:50.930">I </span>
+        <span begin="00:50.930" end="00:51.110">been </span>
+        <span begin="00:51.110" end="00:51.380">dealing </span>
+        <span begin="00:51.380" end="00:51.470">with </span>
+        <span begin="00:51.470" end="00:51.860">snakes</span>
+      </p>
+      <p begin="00:51.860" end="00:53.180" ttm:agent="v1">
+        <span begin="00:51.860" end="00:51.980">And </span>
+        <span begin="00:51.980" end="00:52.100">they </span>
+        <span begin="00:52.100" end="00:52.280">try </span>
+        <span begin="00:52.280" end="00:52.340">to </span>
+        <span begin="00:52.340" end="00:52.640">bite </span>
+        <span begin="00:52.640" end="00:53.150">me</span>
+      </p>
+      <p begin="00:53.180" end="00:56.510" ttm:agent="v1">
+        <span begin="00:53.180" end="00:53.360">I </span>
+        <span begin="00:53.360" end="00:53.600">been </span>
+        <span begin="00:53.600" end="00:53.960">down </span>
+        <span begin="00:53.960" end="00:54.410">so </span>
+        <span begin="00:54.410" end="00:55.190">bad </span>
+        <span begin="00:55.190" end="00:55.280">with </span>
+        <span begin="00:55.280" end="00:55.730">nobody </span>
+        <span begin="00:55.730" end="00:55.970">near </span>
+        <span begin="00:55.970" end="00:56.480">me</span>
+      </p>
+      <p begin="00:56.510" end="01:03.290" ttm:agent="v1">
+        <span begin="00:56.510" end="00:56.720">I </span>
+        <span begin="00:56.720" end="00:56.930">been </span>
+        <span begin="00:56.930" end="00:57.350">down </span>
+        <span begin="00:57.350" end="00:57.770">so </span>
+        <span begin="00:57.770" end="00:58.520">sad </span>
+        <span begin="00:58.520" end="00:58.730">can </span>
+        <span begin="00:58.730" end="00:59.090">anyone </span>
+        <span begin="00:59.090" end="00:59.330">hear </span>
+        <span begin="00:59.330" end="01:00.110">me</span>
+      </p>
+      <p begin="01:03.290" end="01:10.990" ttm:agent="v1">
+        <span begin="01:03.290" end="01:03.530">I </span>
+        <span begin="01:03.530" end="01:03.770">been </span>
+        <span begin="01:03.770" end="01:04.220">down </span>
+        <span begin="01:04.220" end="01:04.700">so </span>
+        <span begin="01:04.700" end="01:06.710">sad</span>
+      </p>
+    </div>
+  </body>
+</tt>

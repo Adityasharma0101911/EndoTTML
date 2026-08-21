@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>unconditionally</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Takayoshi</ttm:agent>
+      <ttm:item type="album">unconditionally</ttm:item>
+      <ttm:item type="spotify_id">54CwEH4WvwMvoPPoOstJy7</ttm:item>
+      <itunes:duration>01:17.419</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.300" end="00:03.310" ttm:agent="v1">I say I don't know</p>
+      <p begin="00:03.310" end="00:05.300" ttm:agent="v1">Because all the words that I say</p>
+      <p begin="00:05.300" end="00:07.920" ttm:agent="v1">Go out the door when you look at me</p>
+      <p begin="00:07.920" end="00:10.290" ttm:agent="v1">It's been way too long</p>
+      <p begin="00:10.290" end="00:14.360" ttm:agent="v1">I got to push the days</p>
+      <p begin="00:14.360" end="00:16.420" ttm:agent="v1">Because you think I'm going to change</p>
+      <p begin="00:16.420" end="00:18.730" ttm:agent="v1">But I won't stay the same</p>
+      <p begin="00:18.730" end="00:22.350" ttm:agent="v1">Because my love for you always grows</p>
+      <p begin="00:22.350" end="00:24.310" ttm:agent="v1">I promise I won't fade</p>
+      <p begin="00:24.310" end="00:26.110" ttm:agent="v1">I'll take a bet and wait</p>
+      <p begin="00:26.110" end="00:30.250" ttm:agent="v1">But deep inside I already won</p>
+      <p begin="00:30.250" end="00:38.250" ttm:agent="v1">Because I know I love you unconditionally</p>
+      <p begin="00:39.410" end="00:43.350" ttm:agent="v1">Call me it's another day I hate</p>
+      <p begin="00:43.350" end="00:46.120" ttm:agent="v1">The way I'm missing you</p>
+      <p begin="00:46.120" end="00:48.980" ttm:agent="v1">And I'm coming through to you</p>
+      <p begin="00:48.980" end="00:52.810" ttm:agent="v1">Let's be patient on the way</p>
+      <p begin="00:52.810" end="00:55.140" ttm:agent="v1">Because you think I'm going to change</p>
+      <p begin="00:55.140" end="00:57.220" ttm:agent="v1">But I won't stay the same</p>
+      <p begin="00:57.220" end="01:00.840" ttm:agent="v1">Because my love for you always grows</p>
+      <p begin="01:00.840" end="01:02.820" ttm:agent="v1">I promise I won't fade</p>
+      <p begin="01:02.820" end="01:04.940" ttm:agent="v1">I'll take a bet and wait</p>
+      <p begin="01:04.940" end="01:08.780" ttm:agent="v1">But deep inside I already won</p>
+      <p begin="01:08.780" end="01:14.600" ttm:agent="v1">Because I know I love you unconditionally</p>
+      <p begin="01:14.600" end="01:18.600" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

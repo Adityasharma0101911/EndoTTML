@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Starboy</ttm:title>
+      <ttm:agent type="person" xml:id="v1">The Weeknd</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Daft Punk</ttm:agent>
+      <ttm:item type="album">Starboy</ttm:item>
+      <ttm:item type="spotify_id">7MXVkk9YMctZqd1Srtv4MB</ttm:item>
+      <itunes:duration>03:50.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:16.310" end="00:18.810" ttm:agent="v1">I'm tryna put you in the worst mood, ah</p>
+      <p begin="00:18.810" end="00:21.220" ttm:agent="v1">P1 cleaner than your church shoes, ah</p>
+      <p begin="00:21.220" end="00:23.890" ttm:agent="v1">Milli' point two just to hurt you, ah</p>
+      <p begin="00:23.890" end="00:26.560" ttm:agent="v1">All red Lamb' just to tease you, ah</p>
+      <p begin="00:26.560" end="00:28.920" ttm:agent="v1">None of these toys on lease too, ah</p>
+      <p begin="00:28.920" end="00:31.530" ttm:agent="v1">Made your whole year in a week too, yeah</p>
+      <p begin="00:31.530" end="00:34.250" ttm:agent="v1">Main bitch outta your league too, ah</p>
+      <p begin="00:34.250" end="00:37.000" ttm:agent="v1">Side bitch out of your league too, ah</p>
+      <p begin="00:37.000" end="00:39.410" ttm:agent="v1">House so empty, need a centerpiece</p>
+      <p begin="00:39.410" end="00:42.240" ttm:agent="v1">20 racks a table, cut from ebony</p>
+      <p begin="00:42.240" end="00:44.300" ttm:agent="v1">Cut that ivory into skinny pieces</p>
+      <p begin="00:44.300" end="00:47.240" ttm:agent="v1">Then she clean it with her face, man, I love my baby, ah</p>
+      <p begin="00:47.240" end="00:49.820" ttm:agent="v1">You talking money, need a hearing aid</p>
+      <p begin="00:49.820" end="00:52.470" ttm:agent="v1">You talking 'bout me, I don't see the shade</p>
+      <p begin="00:52.470" end="00:54.610" ttm:agent="v1">Switch up my style, I take any lane</p>
+      <p begin="00:54.610" end="00:58.610" ttm:agent="v1">I switch up my cup, I kill any pain</p>
+      <p begin="00:58.610" end="01:01.030" ttm:agent="v1"/>
+      <p begin="01:01.030" end="01:03.810" ttm:agent="v1">Look what you've done</p>
+      <p begin="01:03.810" end="01:06.120" ttm:agent="v1"/>
+      <p begin="01:06.120" end="01:11.430" ttm:agent="v1">I'm a motherfucking starboy</p>
+      <p begin="01:11.430" end="01:14.270" ttm:agent="v1">Look what you've done</p>
+      <p begin="01:14.270" end="01:16.510" ttm:agent="v1"/>
+      <p begin="01:16.510" end="01:18.050" ttm:agent="v1">I'm a motherfucking starboy</p>
+      <p begin="01:18.050" end="01:20.680" ttm:agent="v1">Every day a nigga try to test me, ah</p>
+      <p begin="01:20.680" end="01:23.000" ttm:agent="v1">Every day a nigga try to end me, ah</p>
+      <p begin="01:23.000" end="01:25.880" ttm:agent="v1">Pull off in that Roadster SV, ah</p>
+      <p begin="01:25.880" end="01:28.380" ttm:agent="v1">Pockets overweight, getting hefty, ah</p>
+      <p begin="01:28.380" end="01:31.250" ttm:agent="v1">Coming for the king, that's a far cry, I</p>
+      <p begin="01:31.250" end="01:33.840" ttm:agent="v1">I come alive in the fall time, I</p>
+      <p begin="01:33.840" end="01:35.590" ttm:agent="v1">The competition, I don't really listen</p>
+      <p begin="01:35.590" end="01:38.840" ttm:agent="v1">I'm in the blue Mulsanne bumping New Edition</p>
+      <p begin="01:38.840" end="01:41.410" ttm:agent="v1">House so empty, need a centerpiece</p>
+      <p begin="01:41.410" end="01:43.890" ttm:agent="v1">20 racks a table, cut from ebony</p>
+      <p begin="01:43.890" end="01:46.150" ttm:agent="v1">Cut that ivory into skinny pieces</p>
+      <p begin="01:46.150" end="01:49.020" ttm:agent="v1">Then she clean it with her face, man, I love my baby, ah</p>
+      <p begin="01:49.020" end="01:51.620" ttm:agent="v1">You talking money, need a hearing aid</p>
+      <p begin="01:51.620" end="01:54.240" ttm:agent="v1">You talking 'bout me, I don't see the shade</p>
+      <p begin="01:54.240" end="01:56.580" ttm:agent="v1">Switch up my style, I take any lane</p>
+      <p begin="01:56.580" end="02:00.520" ttm:agent="v1">I switch up my cup, I kill any pain</p>
+      <p begin="02:00.520" end="02:02.840" ttm:agent="v1"/>
+      <p begin="02:02.840" end="02:05.620" ttm:agent="v1">Look what you've done</p>
+      <p begin="02:05.620" end="02:08.180" ttm:agent="v1"/>
+      <p begin="02:08.180" end="02:11.610" ttm:agent="v1">I'm a motherfucking starboy</p>
+      <p begin="02:11.610" end="02:13.640" ttm:agent="v1"/>
+      <p begin="02:13.640" end="02:18.340" ttm:agent="v1">Look what you've done</p>
+      <p begin="02:18.340" end="02:20.590" ttm:agent="v1">I'm a motherfucking starboy</p>
+      <p begin="02:20.590" end="02:22.090" ttm:agent="v1">Let a nigga brag Pitt</p>
+      <p begin="02:21.990" end="02:24.550" ttm:agent="v1">Legend of the fall, took the year like a bandit</p>
+      <p begin="02:24.550" end="02:27.140" ttm:agent="v1">Bought mama a crib and a brand-new wagon</p>
+      <p begin="02:27.140" end="02:29.620" ttm:agent="v1">Now she hit the grocery shop looking lavish</p>
+      <p begin="02:29.620" end="02:32.130" ttm:agent="v1">Star Trek roof in that Wraith of Khan</p>
+      <p begin="02:32.130" end="02:34.760" ttm:agent="v1">Girls get loose when they hear this song</p>
+      <p begin="02:34.760" end="02:36.960" ttm:agent="v1">A hundred on the dash, get me close to God</p>
+      <p begin="02:36.960" end="02:40.950" ttm:agent="v1">We don't pray for love, we just pray for cars</p>
+      <p begin="02:40.950" end="02:43.300" ttm:agent="v1">House so empty, need a centerpiece</p>
+      <p begin="02:43.300" end="02:46.260" ttm:agent="v1">20 racks a table, cut from ebony</p>
+      <p begin="02:46.260" end="02:48.000" ttm:agent="v1">Cut that ivory into skinny pieces</p>
+      <p begin="02:48.000" end="02:51.290" ttm:agent="v1">Then she clean it with her face, man, I love my baby, ah</p>
+      <p begin="02:51.290" end="02:53.660" ttm:agent="v1">You talking money, need a hearing aid</p>
+      <p begin="02:53.660" end="02:56.180" ttm:agent="v1">You talking 'bout me, I don't see the shade</p>
+      <p begin="02:56.180" end="02:58.470" ttm:agent="v1">Switch up my style, I take any lane</p>
+      <p begin="02:58.470" end="03:02.380" ttm:agent="v1">I switch up my cup, I kill any pain</p>
+      <p begin="03:02.380" end="03:05.120" ttm:agent="v1"/>
+      <p begin="03:05.120" end="03:07.890" ttm:agent="v1">Look what you've done</p>
+      <p begin="03:07.890" end="03:10.020" ttm:agent="v1"/>
+      <p begin="03:10.020" end="03:13.420" ttm:agent="v1">I'm a motherfucking starboy</p>
+      <p begin="03:13.420" end="03:15.470" ttm:agent="v1"/>
+      <p begin="03:15.470" end="03:18.420" ttm:agent="v1">Look what you've done</p>
+      <p begin="03:18.420" end="03:20.460" ttm:agent="v1"/>
+      <p begin="03:20.460" end="03:25.540" ttm:agent="v1">I'm a motherfucking starboy</p>
+      <p begin="03:25.540" end="03:28.620" ttm:agent="v1">Look what you've done</p>
+      <p begin="03:28.620" end="03:30.660" ttm:agent="v1"/>
+      <p begin="03:30.660" end="03:35.910" ttm:agent="v1">I'm a motherfucking starboy</p>
+      <p begin="03:35.910" end="03:41.060" ttm:agent="v1">Look what you've done</p>
+      <p begin="03:41.060" end="03:42.610" ttm:agent="v1">I'm a motherfucking starboy</p>
+      <p begin="03:42.610" end="03:46.610" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

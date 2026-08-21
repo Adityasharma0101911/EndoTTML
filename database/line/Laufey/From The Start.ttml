@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>From The Start</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Laufey</ttm:agent>
+      <ttm:item type="album">From The Start</ttm:item>
+      <ttm:item type="spotify_id">1Ukxccao1BlWrPhYkcXbwZ</ttm:item>
+      <itunes:duration>02:50.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:05.330" end="00:08.440" ttm:agent="v1">Don't you notice how</p>
+      <p begin="00:08.440" end="00:14.530" ttm:agent="v1">I get quiet when there's no one else around?</p>
+      <p begin="00:14.530" end="00:17.690" ttm:agent="v1">Me and you and awkward silence</p>
+      <p begin="00:17.690" end="00:23.190" ttm:agent="v1">Don't you dare look at me that way</p>
+      <p begin="00:23.190" end="00:28.590" ttm:agent="v1">I don't need reminders of how you don't feel the same</p>
+      <p begin="00:28.590" end="00:32.160" ttm:agent="v1">Oh, the burning pain</p>
+      <p begin="00:32.160" end="00:37.860" ttm:agent="v1">Listening to you harp on 'bout some new soulmate</p>
+      <p begin="00:37.860" end="00:40.530" ttm:agent="v1">&quot;She's so perfect,&quot; blah, blah, blah</p>
+      <p begin="00:40.530" end="00:46.840" ttm:agent="v1">Oh, how I wish you'll wake up one day</p>
+      <p begin="00:46.840" end="00:51.940" ttm:agent="v1">Run to me, confess your love, at least just let me say</p>
+      <p begin="00:51.940" end="00:58.220" ttm:agent="v1">That when I talk to you oh, Cupid walks right through</p>
+      <p begin="00:58.220" end="01:03.970" ttm:agent="v1">And shoots an arrow through my heart</p>
+      <p begin="01:03.970" end="01:10.080" ttm:agent="v1">And I sound like a loon, but don't you feel it too?</p>
+      <p begin="01:10.080" end="01:16.140" ttm:agent="v1">Confess I loved you from the start</p>
+      <p begin="01:16.140" end="01:24.140" ttm:agent="v1"/>
+      <p begin="01:39.000" end="01:42.040" ttm:agent="v1">What's a girl to do?</p>
+      <p begin="01:42.040" end="01:48.100" ttm:agent="v1">Lying on my bed, staring into the bluе</p>
+      <p begin="01:48.100" end="01:51.170" ttm:agent="v1">Unrequited, terrifying</p>
+      <p begin="01:51.170" end="01:56.860" ttm:agent="v1">Lovе is driving me a bit insane</p>
+      <p begin="01:56.860" end="01:59.370" ttm:agent="v1">Have to get this off my chest</p>
+      <p begin="01:59.370" end="02:01.970" ttm:agent="v1">I'm telling you today</p>
+      <p begin="02:01.970" end="02:08.330" ttm:agent="v1">That when I talk to you, oh, Cupid walks right through</p>
+      <p begin="02:08.330" end="02:14.000" ttm:agent="v1">And shoots an arrow through my heart</p>
+      <p begin="02:14.000" end="02:19.630" ttm:agent="v1">And I sound like a loon, but don't you feel it too?</p>
+      <p begin="02:19.630" end="02:25.700" ttm:agent="v1">Confess I loved you from the start</p>
+      <p begin="02:25.700" end="02:28.620" ttm:agent="v1">Confess I loved you</p>
+      <p begin="02:28.620" end="02:33.230" ttm:agent="v1">Just thinking of you</p>
+      <p begin="02:33.230" end="02:41.230" ttm:agent="v1">I know I've loved you from the start</p>
+      <p begin="02:43.200" end="02:47.200" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

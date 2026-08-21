@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>listen! (Bonus Track)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">hako</ttm:agent>
+      <ttm:item type="album">seasons</ttm:item>
+      <ttm:item type="spotify_id">6pF5IUal12wqhPY2X8CnJp</ttm:item>
+      <itunes:duration>01:28.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:03.460" end="00:04.960" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let's go)</p>
+      <p begin="00:04.260" end="00:10.560" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let's go)</p>
+      <p begin="00:10.560" end="00:15.220" ttm:agent="v1" itunes:key="role" itunes:value="background">(Come on, come on, come on)</p>
+      <p begin="00:15.220" end="00:16.720" ttm:agent="v1">Yep</p>
+      <p begin="00:16.090" end="00:17.730" ttm:agent="v1">I'm sixteen and I made a million</p>
+      <p begin="00:17.730" end="00:19.550" ttm:agent="v1">If you cannot talk about money, then listen</p>
+      <p begin="00:19.550" end="00:21.240" ttm:agent="v1">I was counting my racks in the kitchen</p>
+      <p begin="00:21.240" end="00:23.280" ttm:agent="v1">Got VETEMENTS over my body and Christians</p>
+      <p begin="00:23.280" end="00:24.780" ttm:agent="v1">Call my bros, they be on 'bout some mission</p>
+      <p begin="00:24.730" end="00:26.920" ttm:agent="v1">If I made a plan then you better just stick to it</p>
+      <p begin="00:26.920" end="00:28.640" ttm:agent="v1">You say you my girl, but you dancing on laps</p>
+      <p begin="00:28.640" end="00:30.140" ttm:agent="v1" itunes:key="role" itunes:value="background">Lil' bitch, is your motherfuckin' rent due? (Yeah)</p>
+      <p begin="00:30.100" end="00:32.280" ttm:agent="v1">I made a mil' and these bitches, they just like to mimic</p>
+      <p begin="00:32.280" end="00:33.870" ttm:agent="v1">Got chrome like I came out the matrix</p>
+      <p begin="00:33.870" end="00:36.030" ttm:agent="v1">I'm moving around like I'm getting &quot;Fosho, fosho&quot;</p>
+      <p begin="00:36.030" end="00:37.530" ttm:agent="v1">She told me, &quot;Hako, you famous&quot;</p>
+      <p begin="00:37.430" end="00:38.930" ttm:agent="v1">I'm moving 'round town, I be going up</p>
+      <p begin="00:38.630" end="00:40.810" ttm:agent="v1">Show for show, I thought I told you I'd make it?</p>
+      <p begin="00:40.810" end="00:42.490" ttm:agent="v1">I fucked that bitch in the back of the Bimmer</p>
+      <p begin="00:42.490" end="00:44.410" ttm:agent="v1" itunes:key="role" itunes:value="background">Lil bitch, she mad 'cause she knows I get riches (Yeah)</p>
+      <p begin="00:44.410" end="00:47.930" ttm:agent="v1" itunes:key="role" itunes:value="background">Move, and step, got hunnid bands by my side (Hunnid bands by my side)</p>
+      <p begin="00:47.930" end="00:51.670" ttm:agent="v1" itunes:key="role" itunes:value="background">Move, go back, two's is all I ride (Two's is all I ride)</p>
+      <p begin="00:51.670" end="00:55.050" ttm:agent="v1">Fuck then dip, got hunnid rounds by my side</p>
+      <p begin="00:55.050" end="00:58.920" ttm:agent="v1">Black or white, like Oreo's, oh my God</p>
+      <p begin="00:58.920" end="01:00.520" ttm:agent="v1">I'm sixteen and I made a million</p>
+      <p begin="01:00.520" end="01:02.680" ttm:agent="v1">If you cannot talk about money, then listen</p>
+      <p begin="01:02.680" end="01:04.390" ttm:agent="v1">I was counting my racks in the kitchen</p>
+      <p begin="01:04.390" end="01:06.200" ttm:agent="v1">Got VETEMENTS over my body and Christians</p>
+      <p begin="01:06.200" end="01:07.830" ttm:agent="v1">Call my bros, they be on 'bout some mission</p>
+      <p begin="01:07.830" end="01:09.760" ttm:agent="v1">If I made a plan then you better just stick to it</p>
+      <p begin="01:09.760" end="01:11.760" ttm:agent="v1">You say you my girl but you dancing on laps</p>
+      <p begin="01:11.760" end="01:13.300" ttm:agent="v1">Lil' bitch, is your motherfuckin' rent due?</p>
+      <p begin="01:13.300" end="01:17.300" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

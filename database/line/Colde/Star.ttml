@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Star</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Colde</ttm:agent>
+      <ttm:item type="album">See You in My 19th Life, Pt. 2 (Original Television Soundtrack)</ttm:item>
+      <ttm:item type="spotify_id">73Zoq6Z5lXVJPAERw2s9fp</ttm:item>
+      <itunes:duration>03:41.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:22.370" end="00:27.590" ttm:agent="v1">Just like a star</p>
+      <p begin="00:27.590" end="00:32.810" ttm:agent="v1">I stay here for long</p>
+      <p begin="00:32.810" end="00:38.310" ttm:agent="v1">While everything is changed</p>
+      <p begin="00:38.310" end="00:43.920" ttm:agent="v1">I just cannot help but stay, oh</p>
+      <p begin="00:43.920" end="00:48.820" ttm:agent="v1">Just like a star</p>
+      <p begin="00:48.820" end="00:54.500" ttm:agent="v1">Don't even see myself get old</p>
+      <p begin="00:54.500" end="00:57.190" ttm:agent="v1">It's hard to be explained</p>
+      <p begin="00:57.190" end="01:00.160" ttm:agent="v1">I wanna break away</p>
+      <p begin="01:00.160" end="01:03.960" ttm:agent="v1">I keep on praying</p>
+      <p begin="01:03.960" end="01:06.350" ttm:agent="v1">Oh, why?</p>
+      <p begin="01:06.350" end="01:09.810" ttm:agent="v1">If my tears fall</p>
+      <p begin="01:09.810" end="01:15.070" ttm:agent="v1">Down in my universe</p>
+      <p begin="01:15.070" end="01:20.310" ttm:agent="v1">Turns into a new world</p>
+      <p begin="01:20.310" end="01:25.260" ttm:agent="v1">Time to find my way back home</p>
+      <p begin="01:25.260" end="01:27.320" ttm:agent="v1"/>
+      <p begin="01:27.320" end="01:31.140" ttm:agent="v1">Thousand years' gone</p>
+      <p begin="01:31.140" end="01:36.540" ttm:agent="v1">I don't feel nothing no more</p>
+      <p begin="01:36.540" end="01:41.910" ttm:agent="v1">You're the one I long for</p>
+      <p begin="01:41.910" end="01:47.050" ttm:agent="v1">Now it's time to go</p>
+      <p begin="01:47.050" end="01:52.640" ttm:agent="v1">I hover like a star</p>
+      <p begin="01:52.640" end="02:00.640" ttm:agent="v1"/>
+      <p begin="02:10.080" end="02:14.830" ttm:agent="v1">Just like a star</p>
+      <p begin="02:14.830" end="02:18.440" ttm:agent="v1">All the memories got stuck</p>
+      <p begin="02:18.440" end="02:20.660" ttm:agent="v1"/>
+      <p begin="02:20.660" end="02:23.750" ttm:agent="v1">I'm tired of the past</p>
+      <p begin="02:23.750" end="02:25.850" ttm:agent="v1"/>
+      <p begin="02:25.850" end="02:29.990" ttm:agent="v1">I want to break away</p>
+      <p begin="02:29.990" end="02:32.220" ttm:agent="v1">Oh, I</p>
+      <p begin="02:32.220" end="02:35.660" ttm:agent="v1">If my tears fall</p>
+      <p begin="02:35.660" end="02:38.790" ttm:agent="v1">Down in my universe</p>
+      <p begin="02:38.790" end="02:40.870" ttm:agent="v1"/>
+      <p begin="02:40.870" end="02:46.450" ttm:agent="v1">Turns into a new world</p>
+      <p begin="02:46.450" end="02:53.160" ttm:agent="v1">Time to find my way back home</p>
+      <p begin="02:53.160" end="02:57.200" ttm:agent="v1">Thousand years' gone</p>
+      <p begin="02:57.200" end="03:02.570" ttm:agent="v1">I don't feel nothing no more</p>
+      <p begin="03:02.570" end="03:07.830" ttm:agent="v1">You're the one I long for</p>
+      <p begin="03:07.830" end="03:13.100" ttm:agent="v1">Now it's time to go</p>
+      <p begin="03:13.100" end="03:15.610" ttm:agent="v1">I hover like a star</p>
+      <p begin="03:15.610" end="03:19.610" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

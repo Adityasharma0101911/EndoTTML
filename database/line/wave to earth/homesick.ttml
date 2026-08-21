@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>homesick</ttm:title>
+      <ttm:agent type="person" xml:id="v1">wave to earth</ttm:agent>
+      <ttm:item type="album">0.1 flaws and all.</ttm:item>
+      <ttm:item type="spotify_id">2FZIabCRMEWAYfN69Ijn1U</ttm:item>
+      <itunes:duration>05:06.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:25.400" end="00:28.370" ttm:agent="v1">In this cold place</p>
+      <p begin="00:28.370" end="00:34.830" ttm:agent="v1">Where the snow hasn't melted yet</p>
+      <p begin="00:34.830" end="00:42.830" ttm:agent="v1">Leaves that resemble, the cold a-growing, oh, hey</p>
+      <p begin="00:44.300" end="00:52.300" ttm:agent="v1">My freezing breath, frozen memories, oh</p>
+      <p begin="00:56.170" end="00:59.050" ttm:agent="v1">Oh, where my house has gone</p>
+      <p begin="00:59.050" end="01:01.220" ttm:agent="v1">I lost my bearings</p>
+      <p begin="01:01.220" end="01:09.220" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, aah, aah (aah, aah)</p>
+      <p begin="01:12.400" end="01:20.400" ttm:agent="v1">I'm lost in my dreams, oh, oh</p>
+      <p begin="01:22.650" end="01:25.520" ttm:agent="v1">Ooh</p>
+      <p begin="01:25.520" end="01:32.810" ttm:agent="v1"/>
+      <p begin="01:32.810" end="01:40.810" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh, I'm lost in my dreams)</p>
+      <p begin="01:44.870" end="01:52.550" ttm:agent="v1">Erase me from here and set me free</p>
+      <p begin="01:52.550" end="01:54.910" ttm:agent="v1"/>
+      <p begin="01:54.910" end="02:02.910" ttm:agent="v1" itunes:key="role" itunes:value="background">All I wanted was to fly high (oh-oh-oh)</p>
+      <p begin="02:06.060" end="02:13.080" ttm:agent="v1">I can't believe my wings are broken</p>
+      <p begin="02:13.080" end="02:21.080" ttm:agent="v1">And fell against the sky, yeah</p>
+      <p begin="02:23.190" end="02:31.190" ttm:agent="v1">Oh, will you please take me home?</p>
+      <p begin="02:35.970" end="02:43.970" ttm:agent="v1">A flightless feather, oh</p>
+      <p begin="02:46.000" end="02:54.000" ttm:agent="v1">My freezing breath, frozen memories</p>
+      <p begin="02:55.530" end="03:03.530" ttm:agent="v1">Fearless behavior</p>
+      <p begin="03:03.810" end="03:11.810" ttm:agent="v1">It doesn't exist in me anymore</p>
+      <p begin="03:14.610" end="03:22.610" ttm:agent="v1"/>
+      <p begin="03:42.810" end="03:45.420" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh)</p>
+      <p begin="03:45.420" end="03:48.680" ttm:agent="v1"/>
+      <p begin="03:48.680" end="03:51.520" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh-oh)</p>
+      <p begin="03:51.520" end="03:56.600" ttm:agent="v1"/>
+      <p begin="03:56.600" end="04:04.550" ttm:agent="v1">Erase me from here and set me free</p>
+      <p begin="04:04.550" end="04:12.550" ttm:agent="v1" itunes:key="role" itunes:value="background">All, all I wanted was to fly high (oh-oh-oh)</p>
+      <p begin="04:14.650" end="04:17.250" ttm:agent="v1"/>
+      <p begin="04:17.250" end="04:20.550" ttm:agent="v1">I can't believe</p>
+      <p begin="04:20.550" end="04:24.250" ttm:agent="v1">My wings are broken</p>
+      <p begin="04:24.250" end="04:32.250" ttm:agent="v1">And fell against the sky, oh</p>
+      <p begin="04:33.080" end="04:41.080" ttm:agent="v1">Oh, will you please take me home?</p>
+      <p begin="04:51.460" end="04:55.460" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

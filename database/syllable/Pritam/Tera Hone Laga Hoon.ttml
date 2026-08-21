@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Tera Hone Laga Hoon</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Pritam</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Atif Aslam</ttm:agent>
+      <ttm:agent type="person" xml:id="v3">Alisha Chinai</ttm:agent>
+      <ttm:item type="album">Ajab Prem Ki Ghazab Kahani (Original Motion Picture Soundtrack)</ttm:item>
+      <ttm:item type="spotify_id">0dLbrlAVPPjpPqnYfmJsWk</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.000" end="00:00.989" ttm:agent="v1">
+        <span begin="00:00.000" end="00:00.043">Tera </span>
+        <span begin="00:00.086" end="00:00.129">Hone </span>
+        <span begin="00:00.172" end="00:00.215">Laga </span>
+        <span begin="00:00.258" end="00:00.301">Hoon </span>
+        <span begin="00:00.344" end="00:00.387">- </span>
+        <span begin="00:00.430" end="00:00.473">Atif </span>
+        <span begin="00:00.516" end="00:00.559">Aslam </span>
+        <span begin="00:00.602" end="00:00.645">（ </span>
+        <span begin="00:00.645" end="00:00.688">阿 </span>
+        <span begin="00:00.688" end="00:00.731">特 </span>
+        <span begin="00:00.731" end="00:00.774">夫 </span>
+        <span begin="00:00.774" end="00:00.817">· </span>
+        <span begin="00:00.817" end="00:00.860">阿 </span>
+        <span begin="00:00.860" end="00:00.903">斯 </span>
+        <span begin="00:00.903" end="00:00.946">拉 </span>
+        <span begin="00:00.946" end="00:00.989">姆</span>
+      </p>
+      <p begin="00:01.050" end="00:03.728" ttm:agent="v1">
+        <span begin="00:01.050" end="00:01.229">Shining </span>
+        <span begin="00:01.229" end="00:01.409">in </span>
+        <span begin="00:01.409" end="00:01.599">the </span>
+        <span begin="00:01.599" end="00:01.769">shade </span>
+        <span begin="00:01.769" end="00:01.949">in </span>
+        <span begin="00:01.949" end="00:02.169">sun </span>
+        <span begin="00:02.169" end="00:02.369">like </span>
+        <span begin="00:02.369" end="00:02.619">a </span>
+        <span begin="00:02.619" end="00:02.839">pearl </span>
+        <span begin="00:02.839" end="00:03.099">upon </span>
+        <span begin="00:03.099" end="00:03.318">the </span>
+        <span begin="00:03.318" end="00:03.728">ocean</span>
+      </p>
+      <p begin="00:03.728" end="00:05.757" ttm:agent="v1">
+        <span begin="00:03.728" end="00:03.987">Come </span>
+        <span begin="00:03.987" end="00:04.267">on </span>
+        <span begin="00:04.267" end="00:05.097">feel </span>
+        <span begin="00:05.097" end="00:05.757">me</span>
+      </p>
+      <p begin="00:05.757" end="00:07.717" ttm:agent="v1">
+        <span begin="00:05.757" end="00:06.207">Haan </span>
+        <span begin="00:06.207" end="00:07.217">feel </span>
+        <span begin="00:07.217" end="00:07.717">me</span>
+      </p>
+      <p begin="00:08.207" end="00:11.676" ttm:agent="v1">
+        <span begin="00:08.207" end="00:08.816">Shining </span>
+        <span begin="00:08.816" end="00:09.056">in </span>
+        <span begin="00:09.056" end="00:09.316">the </span>
+        <span begin="00:09.316" end="00:09.636">shade </span>
+        <span begin="00:09.636" end="00:09.876">in </span>
+        <span begin="00:09.876" end="00:10.136">sun </span>
+        <span begin="00:10.136" end="00:10.356">like </span>
+        <span begin="00:10.356" end="00:10.566">a </span>
+        <span begin="00:10.566" end="00:10.796">pearl </span>
+        <span begin="00:10.796" end="00:11.016">upon </span>
+        <span begin="00:11.016" end="00:11.256">the </span>
+        <span begin="00:11.256" end="00:11.676">ocean</span>
+      </p>
+      <p begin="00:11.676" end="00:13.855" ttm:agent="v1">
+        <span begin="00:11.676" end="00:12.036">Come </span>
+        <span begin="00:12.036" end="00:12.316">on </span>
+        <span begin="00:12.316" end="00:13.095">heal </span>
+        <span begin="00:13.095" end="00:13.855">me</span>
+      </p>
+      <p begin="00:13.855" end="00:15.715" ttm:agent="v1">
+        <span begin="00:13.855" end="00:14.195">Haan </span>
+        <span begin="00:14.195" end="00:15.145">heal </span>
+        <span begin="00:15.145" end="00:15.715">me</span>
+      </p>
+      <p begin="00:16.255" end="00:19.694" ttm:agent="v1">
+        <span begin="00:16.255" end="00:16.854">Thinking </span>
+        <span begin="00:16.854" end="00:17.074">about </span>
+        <span begin="00:17.074" end="00:17.314">the </span>
+        <span begin="00:17.314" end="00:17.584">love </span>
+        <span begin="00:17.584" end="00:17.824">we </span>
+        <span begin="00:17.824" end="00:18.264">making </span>
+        <span begin="00:18.264" end="00:18.544">and </span>
+        <span begin="00:18.544" end="00:18.784">all </span>
+        <span begin="00:18.784" end="00:19.274">life </span>
+        <span begin="00:19.274" end="00:19.694">sharing</span>
+      </p>
+      <p begin="00:19.694" end="00:21.784" ttm:agent="v1">
+        <span begin="00:19.694" end="00:20.054">Come </span>
+        <span begin="00:20.054" end="00:20.414">and </span>
+        <span begin="00:20.414" end="00:21.134">feel </span>
+        <span begin="00:21.134" end="00:21.784">me</span>
+      </p>
+      <p begin="00:21.784" end="00:23.944" ttm:agent="v1">
+        <span begin="00:21.784" end="00:22.274">Ho </span>
+        <span begin="00:22.274" end="00:23.124">feel </span>
+        <span begin="00:23.124" end="00:23.944">me</span>
+      </p>
+      <p begin="00:24.284" end="00:27.804" ttm:agent="v1">
+        <span begin="00:24.284" end="00:24.754">Shining </span>
+        <span begin="00:24.754" end="00:25.014">in </span>
+        <span begin="00:25.014" end="00:25.274">the </span>
+        <span begin="00:25.274" end="00:25.564">shade </span>
+        <span begin="00:25.564" end="00:25.814">in </span>
+        <span begin="00:25.814" end="00:26.144">sun </span>
+        <span begin="00:26.144" end="00:26.344">like </span>
+        <span begin="00:26.344" end="00:26.564">a </span>
+        <span begin="00:26.564" end="00:26.784">pearl </span>
+        <span begin="00:26.784" end="00:27.054">upon </span>
+        <span begin="00:27.054" end="00:27.314">the </span>
+        <span begin="00:27.314" end="00:27.804">ocean</span>
+      </p>
+      <p begin="00:27.804" end="00:29.914" ttm:agent="v1">
+        <span begin="00:27.804" end="00:28.074">Come </span>
+        <span begin="00:28.074" end="00:28.324">and </span>
+        <span begin="00:28.324" end="00:29.034">feel </span>
+        <span begin="00:29.034" end="00:29.914">me</span>
+      </p>
+      <p begin="00:29.914" end="00:31.163" ttm:agent="v1">
+        <span begin="00:29.914" end="00:30.164">Come </span>
+        <span begin="00:30.164" end="00:30.453">on </span>
+        <span begin="00:30.453" end="00:30.943">heal </span>
+        <span begin="00:30.943" end="00:31.163">me</span>
+      </p>
+      <p begin="00:31.163" end="00:35.162" ttm:agent="v1">
+        <span begin="00:31.163" end="00:31.443">Hua </span>
+        <span begin="00:31.443" end="00:31.693">jo </span>
+        <span begin="00:31.693" end="00:31.943">tu </span>
+        <span begin="00:31.943" end="00:32.213">bhi </span>
+        <span begin="00:32.213" end="00:33.093">mera </span>
+        <span begin="00:33.093" end="00:35.162">mera</span>
+      </p>
+      <p begin="00:35.162" end="00:38.641" ttm:agent="v1">
+        <span begin="00:35.162" end="00:35.592">Tera </span>
+        <span begin="00:35.592" end="00:35.922">jo </span>
+        <span begin="00:35.922" end="00:36.482">ikraar </span>
+        <span begin="00:36.482" end="00:38.641">hua</span>
+      </p>
+      <p begin="00:39.041" end="00:42.870" ttm:agent="v1">
+        <span begin="00:39.041" end="00:39.361">To </span>
+        <span begin="00:39.361" end="00:39.631">kyun </span>
+        <span begin="00:39.631" end="00:39.861">na </span>
+        <span begin="00:39.861" end="00:40.131">main </span>
+        <span begin="00:40.131" end="00:40.491">bhi </span>
+        <span begin="00:40.491" end="00:40.811">keh </span>
+        <span begin="00:40.811" end="00:41.251">dun </span>
+        <span begin="00:41.251" end="00:41.621">keh </span>
+        <span begin="00:41.621" end="00:42.870">dun</span>
+      </p>
+      <p begin="00:43.260" end="00:46.409" ttm:agent="v1">
+        <span begin="00:43.260" end="00:43.600">Hua </span>
+        <span begin="00:43.600" end="00:44.020">mujhe </span>
+        <span begin="00:44.020" end="00:44.360">bhi </span>
+        <span begin="00:44.360" end="00:45.350">pyaar </span>
+        <span begin="00:45.350" end="00:46.409">hua</span>
+      </p>
+      <p begin="00:46.409" end="00:53.218" ttm:agent="v1">
+        <span begin="00:46.409" end="00:49.059">Tera </span>
+        <span begin="00:49.059" end="00:50.038">hone </span>
+        <span begin="00:50.038" end="00:51.308">laga </span>
+        <span begin="00:51.308" end="00:53.218">hoon</span>
+      </p>
+      <p begin="00:53.218" end="00:57.178" ttm:agent="v1">
+        <span begin="00:53.218" end="00:54.078">Khone </span>
+        <span begin="00:54.078" end="00:55.058">laga </span>
+        <span begin="00:55.058" end="00:57.178">hoon</span>
+      </p>
+      <p begin="00:57.178" end="01:01.387" ttm:agent="v1">
+        <span begin="00:57.178" end="00:57.618">Jab </span>
+        <span begin="00:57.618" end="00:58.088">se </span>
+        <span begin="00:58.088" end="00:58.968">mila </span>
+        <span begin="00:58.968" end="01:01.387">hoon</span>
+      </p>
+      <p begin="01:02.317" end="01:09.116" ttm:agent="v1">
+        <span begin="01:02.317" end="01:04.807">Tera </span>
+        <span begin="01:04.807" end="01:06.186">hone </span>
+        <span begin="01:06.186" end="01:07.286">laga </span>
+        <span begin="01:07.286" end="01:09.116">hoon</span>
+      </p>
+      <p begin="01:09.126" end="01:12.856" ttm:agent="v1">
+        <span begin="01:09.126" end="01:10.066">Khone </span>
+        <span begin="01:10.066" end="01:11.066">laga </span>
+        <span begin="01:11.066" end="01:12.856">hoon</span>
+      </p>
+      <p begin="01:13.126" end="01:17.725" ttm:agent="v1">
+        <span begin="01:13.126" end="01:13.535">Jab </span>
+        <span begin="01:13.535" end="01:14.025">se </span>
+        <span begin="01:14.025" end="01:15.105">mila </span>
+        <span begin="01:15.105" end="01:17.725">hoon</span>
+      </p>
+      <p begin="01:18.405" end="01:21.864" ttm:agent="v1">
+        <span begin="01:18.405" end="01:18.654">Shining </span>
+        <span begin="01:18.654" end="01:18.894">in </span>
+        <span begin="01:18.894" end="01:19.204">the </span>
+        <span begin="01:19.204" end="01:19.684">shade </span>
+        <span begin="01:19.684" end="01:19.934">in </span>
+        <span begin="01:19.934" end="01:20.224">sun </span>
+        <span begin="01:20.224" end="01:20.444">like </span>
+        <span begin="01:20.444" end="01:20.644">a </span>
+        <span begin="01:20.644" end="01:20.834">pearl </span>
+        <span begin="01:20.834" end="01:21.204">upon </span>
+        <span begin="01:21.204" end="01:21.524">the </span>
+        <span begin="01:21.524" end="01:21.864">ocean</span>
+      </p>
+      <p begin="01:21.864" end="01:23.713" ttm:agent="v1">
+        <span begin="01:21.864" end="01:22.104">Come </span>
+        <span begin="01:22.104" end="01:22.364">on </span>
+        <span begin="01:22.364" end="01:23.123">feel </span>
+        <span begin="01:23.123" end="01:23.713">me</span>
+      </p>
+      <p begin="01:23.713" end="01:26.043" ttm:agent="v1">
+        <span begin="01:23.713" end="01:24.153">Haan </span>
+        <span begin="01:24.153" end="01:25.153">feel </span>
+        <span begin="01:25.153" end="01:26.043">me</span>
+      </p>
+      <p begin="01:26.043" end="01:29.672" ttm:agent="v1">
+        <span begin="01:26.043" end="01:26.672">Shining </span>
+        <span begin="01:26.672" end="01:26.922">in </span>
+        <span begin="01:26.922" end="01:27.212">the </span>
+        <span begin="01:27.212" end="01:27.532">shade </span>
+        <span begin="01:27.532" end="01:27.812">in </span>
+        <span begin="01:27.812" end="01:28.102">sun </span>
+        <span begin="01:28.102" end="01:28.342">like </span>
+        <span begin="01:28.342" end="01:28.562">a </span>
+        <span begin="01:28.562" end="01:28.802">pearl </span>
+        <span begin="01:28.802" end="01:29.052">upon </span>
+        <span begin="01:29.052" end="01:29.342">the </span>
+        <span begin="01:29.342" end="01:29.672">ocean</span>
+      </p>
+      <p begin="01:29.672" end="01:31.842" ttm:agent="v1">
+        <span begin="01:29.672" end="01:29.922">Come </span>
+        <span begin="01:29.922" end="01:30.272">on </span>
+        <span begin="01:30.272" end="01:31.122">heal </span>
+        <span begin="01:31.122" end="01:31.842">me</span>
+      </p>
+      <p begin="01:31.842" end="01:34.012" ttm:agent="v1">
+        <span begin="01:31.842" end="01:32.412">Haan </span>
+        <span begin="01:32.412" end="01:33.062">heal </span>
+        <span begin="01:33.062" end="01:34.012">me</span>
+      </p>
+      <p begin="01:34.012" end="01:42.681" ttm:agent="v1">
+        <span begin="01:34.012" end="01:34.662">Waise </span>
+        <span begin="01:34.662" end="01:35.062">to </span>
+        <span begin="01:35.062" end="01:35.481">mann </span>
+        <span begin="01:35.481" end="01:36.361">mera </span>
+        <span begin="01:36.361" end="01:36.881">pehli </span>
+        <span begin="01:36.881" end="01:37.511">bhi </span>
+        <span begin="01:37.511" end="01:38.111">raaton </span>
+        <span begin="01:38.111" end="01:38.971">mein </span>
+        <span begin="01:38.971" end="01:39.861">aksar </span>
+        <span begin="01:39.861" end="01:40.261">hi </span>
+        <span begin="01:40.261" end="01:41.191">chahat </span>
+        <span begin="01:41.191" end="01:41.841">ke </span>
+        <span begin="01:41.841" end="01:42.681">haan</span>
+      </p>
+      <p begin="01:43.221" end="01:46.491" ttm:agent="v1">
+        <span begin="01:43.221" end="01:44.091">Sapne </span>
+        <span begin="01:44.091" end="01:45.241">sanjota </span>
+        <span begin="01:45.241" end="01:46.491">tha</span>
+      </p>
+      <p begin="01:46.491" end="01:50.228" ttm:agent="v1">
+        <span begin="01:46.491" end="01:46.880">Pehle </span>
+        <span begin="01:46.880" end="01:47.309">bhi </span>
+        <span begin="01:47.309" end="01:47.958">dhadkan </span>
+        <span begin="01:47.958" end="01:48.428">ye </span>
+        <span begin="01:48.428" end="01:48.678">dhun </span>
+        <span begin="01:48.678" end="01:49.068">koi </span>
+        <span begin="01:49.068" end="01:49.438">gaati </span>
+        <span begin="01:49.438" end="01:50.228">thi</span>
+      </p>
+      <p begin="01:51.168" end="01:58.385" ttm:agent="v1">
+        <span begin="01:51.168" end="01:51.617">Par </span>
+        <span begin="01:51.617" end="01:52.027">ab </span>
+        <span begin="01:52.027" end="01:52.417">jo </span>
+        <span begin="01:52.417" end="01:53.287">hota </span>
+        <span begin="01:53.287" end="01:53.787">hai </span>
+        <span begin="01:53.787" end="01:54.987">woh </span>
+        <span begin="01:54.987" end="01:56.076">pehle </span>
+        <span begin="01:56.076" end="01:56.556">na </span>
+        <span begin="01:56.556" end="01:57.305">hota </span>
+        <span begin="01:57.305" end="01:58.385">tha</span>
+      </p>
+      <p begin="01:59.065" end="02:02.674" ttm:agent="v1">
+        <span begin="01:59.065" end="01:59.445">Hua </span>
+        <span begin="01:59.445" end="01:59.825">hai </span>
+        <span begin="01:59.825" end="02:00.435">tujhe </span>
+        <span begin="02:00.435" end="02:00.824">jo </span>
+        <span begin="02:00.824" end="02:01.164">bhi </span>
+        <span begin="02:01.164" end="02:01.734">jo </span>
+        <span begin="02:01.734" end="02:02.674">bhi</span>
+      </p>
+      <p begin="02:03.144" end="02:06.872" ttm:agent="v1">
+        <span begin="02:03.144" end="02:03.663">Mujhe </span>
+        <span begin="02:03.663" end="02:04.153">bhi </span>
+        <span begin="02:04.153" end="02:04.463">is </span>
+        <span begin="02:04.463" end="02:05.253">baar </span>
+        <span begin="02:05.253" end="02:06.872">hua</span>
+      </p>
+      <p begin="02:06.872" end="02:10.751" ttm:agent="v1">
+        <span begin="02:06.872" end="02:07.392">To </span>
+        <span begin="02:07.392" end="02:07.741">kyun </span>
+        <span begin="02:07.741" end="02:08.041">na </span>
+        <span begin="02:08.041" end="02:08.371">main </span>
+        <span begin="02:08.371" end="02:08.741">bhi </span>
+        <span begin="02:08.741" end="02:09.021">keh </span>
+        <span begin="02:09.021" end="02:09.301">doon </span>
+        <span begin="02:09.301" end="02:09.651">keh </span>
+        <span begin="02:09.651" end="02:10.751">doon</span>
+      </p>
+      <p begin="02:11.291" end="02:14.250" ttm:agent="v1">
+        <span begin="02:11.291" end="02:11.591">Hua </span>
+        <span begin="02:11.591" end="02:12.081">mujhe </span>
+        <span begin="02:12.081" end="02:12.431">bhi </span>
+        <span begin="02:12.431" end="02:13.301">pyaar </span>
+        <span begin="02:13.301" end="02:14.250">hua</span>
+      </p>
+      <p begin="02:14.250" end="02:21.079" ttm:agent="v1">
+        <span begin="02:14.250" end="02:17.030">Tera </span>
+        <span begin="02:17.030" end="02:18.069">hone </span>
+        <span begin="02:18.069" end="02:19.349">laga </span>
+        <span begin="02:19.349" end="02:21.079">hoon</span>
+      </p>
+      <p begin="02:21.079" end="02:25.189" ttm:agent="v1">
+        <span begin="02:21.079" end="02:22.099">Khone </span>
+        <span begin="02:22.099" end="02:23.049">laga </span>
+        <span begin="02:23.049" end="02:25.189">hoon</span>
+      </p>
+      <p begin="02:25.189" end="02:29.327" ttm:agent="v1">
+        <span begin="02:25.189" end="02:25.688">Jab </span>
+        <span begin="02:25.688" end="02:26.198">se </span>
+        <span begin="02:26.198" end="02:26.927">mila </span>
+        <span begin="02:26.927" end="02:29.327">hoon</span>
+      </p>
+      <p begin="02:30.447" end="02:37.037" ttm:agent="v1">
+        <span begin="02:30.447" end="02:33.057">Tera </span>
+        <span begin="02:33.057" end="02:33.727">hone </span>
+        <span begin="02:33.727" end="02:35.127">laga </span>
+        <span begin="02:35.127" end="02:37.037">hoon</span>
+      </p>
+      <p begin="02:37.037" end="02:40.947" ttm:agent="v1">
+        <span begin="02:37.037" end="02:38.047">Khone </span>
+        <span begin="02:38.047" end="02:39.077">laga </span>
+        <span begin="02:39.077" end="02:40.947">hoon</span>
+      </p>
+      <p begin="02:40.966" end="02:45.795" ttm:agent="v1">
+        <span begin="02:40.966" end="02:41.566">Jab </span>
+        <span begin="02:41.566" end="02:42.196">se </span>
+        <span begin="02:42.196" end="02:43.096">mila </span>
+        <span begin="02:43.096" end="02:45.795">hoon</span>
+      </p>
+      <p begin="03:10.475" end="03:14.954" ttm:agent="v1">
+        <span begin="03:10.475" end="03:11.075">Aankhon </span>
+        <span begin="03:11.075" end="03:11.425">se </span>
+        <span begin="03:11.425" end="03:11.795">chu </span>
+        <span begin="03:11.795" end="03:12.155">loon </span>
+        <span begin="03:12.155" end="03:12.485">ke </span>
+        <span begin="03:12.485" end="03:12.955">bahein </span>
+        <span begin="03:12.955" end="03:14.015">tarasti </span>
+        <span begin="03:14.015" end="03:14.954">hain</span>
+      </p>
+      <p begin="03:14.954" end="03:22.323" ttm:agent="v1">
+        <span begin="03:14.954" end="03:15.543">Dil </span>
+        <span begin="03:15.543" end="03:15.983">ne </span>
+        <span begin="03:15.983" end="03:16.903">pukara </span>
+        <span begin="03:16.903" end="03:17.393">hai </span>
+        <span begin="03:17.393" end="03:18.893">haan </span>
+        <span begin="03:18.893" end="03:19.483">Ab </span>
+        <span begin="03:19.483" end="03:19.993">to </span>
+        <span begin="03:19.993" end="03:21.073">chale </span>
+        <span begin="03:21.073" end="03:22.323">aao</span>
+      </p>
+      <p begin="03:22.323" end="03:26.881" ttm:agent="v1">
+        <span begin="03:22.323" end="03:22.943">Aao </span>
+        <span begin="03:22.943" end="03:23.303">ke </span>
+        <span begin="03:23.303" end="03:23.963">shabnam </span>
+        <span begin="03:23.963" end="03:24.463">ki </span>
+        <span begin="03:24.463" end="03:25.122">boondein </span>
+        <span begin="03:25.122" end="03:26.041">barasti </span>
+        <span begin="03:26.041" end="03:26.881">hain</span>
+      </p>
+      <p begin="03:26.881" end="03:35.330" ttm:agent="v1">
+        <span begin="03:26.881" end="03:27.981">Mausam </span>
+        <span begin="03:27.981" end="03:29.421">ishara </span>
+        <span begin="03:29.421" end="03:29.971">hai </span>
+        <span begin="03:29.971" end="03:31.200">haan </span>
+        <span begin="03:31.200" end="03:31.600">Ab </span>
+        <span begin="03:31.600" end="03:32.080">to </span>
+        <span begin="03:32.080" end="03:33.110">chale </span>
+        <span begin="03:33.110" end="03:35.330">aao</span>
+      </p>
+      <p begin="03:35.330" end="03:39.100" ttm:agent="v1">
+        <span begin="03:35.330" end="03:35.630">Baahon </span>
+        <span begin="03:35.630" end="03:36.020">mein </span>
+        <span begin="03:36.020" end="03:36.440">dalein </span>
+        <span begin="03:36.440" end="03:37.320">baahein </span>
+        <span begin="03:37.320" end="03:39.100">baahein</span>
+      </p>
+      <p begin="03:39.100" end="03:43.279" ttm:agent="v1">
+        <span begin="03:39.100" end="03:39.580">Baahon </span>
+        <span begin="03:39.580" end="03:40.130">ka </span>
+        <span begin="03:40.130" end="03:40.450">jaise </span>
+        <span begin="03:40.450" end="03:41.199">haar </span>
+        <span begin="03:41.199" end="03:43.279">hua</span>
+      </p>
+      <p begin="03:43.279" end="03:46.999" ttm:agent="v1">
+        <span begin="03:43.279" end="03:43.539">Haan </span>
+        <span begin="03:43.539" end="03:43.809">maana </span>
+        <span begin="03:43.809" end="03:44.269">maine </span>
+        <span begin="03:44.269" end="03:45.209">maana </span>
+        <span begin="03:45.209" end="03:46.999">maana</span>
+      </p>
+      <p begin="03:46.999" end="03:50.109" ttm:agent="v1">
+        <span begin="03:46.999" end="03:47.379">Hua </span>
+        <span begin="03:47.379" end="03:47.899">mujhe </span>
+        <span begin="03:47.899" end="03:48.539">bhi </span>
+        <span begin="03:48.539" end="03:49.369">pyaar </span>
+        <span begin="03:49.369" end="03:50.109">hua</span>
+      </p>
+      <p begin="03:50.109" end="03:56.887" ttm:agent="v1">
+        <span begin="03:50.109" end="03:53.288">Tera </span>
+        <span begin="03:53.288" end="03:54.057">hone </span>
+        <span begin="03:54.057" end="03:55.177">laga </span>
+        <span begin="03:55.177" end="03:56.887">hoon</span>
+      </p>
+      <p begin="03:56.887" end="04:00.987" ttm:agent="v1">
+        <span begin="03:56.887" end="03:58.047">Khone </span>
+        <span begin="03:58.047" end="03:59.047">laga </span>
+        <span begin="03:59.047" end="04:00.987">hoon</span>
+      </p>
+      <p begin="04:00.987" end="04:05.056" ttm:agent="v1">
+        <span begin="04:00.987" end="04:01.557">Jab </span>
+        <span begin="04:01.557" end="04:02.067">se </span>
+        <span begin="04:02.067" end="04:02.967">mila </span>
+        <span begin="04:02.967" end="04:05.056">hoon</span>
+      </p>
+      <p begin="04:06.046" end="04:13.246" ttm:agent="v1">
+        <span begin="04:06.046" end="04:08.606">Tera </span>
+        <span begin="04:08.606" end="04:09.926">hone </span>
+        <span begin="04:09.926" end="04:11.256">laga </span>
+        <span begin="04:11.256" end="04:13.246">hoon</span>
+      </p>
+      <p begin="04:13.246" end="04:17.056" ttm:agent="v1">
+        <span begin="04:13.246" end="04:14.136">Khone </span>
+        <span begin="04:14.136" end="04:15.076">laga </span>
+        <span begin="04:15.076" end="04:17.056">hoon</span>
+      </p>
+      <p begin="04:17.056" end="04:22.154" ttm:agent="v1">
+        <span begin="04:17.056" end="04:17.746">Jab </span>
+        <span begin="04:17.746" end="04:18.236">se </span>
+        <span begin="04:18.236" end="04:18.926">mila </span>
+        <span begin="04:18.926" end="04:22.154">hoon</span>
+      </p>
+      <p begin="04:22.175" end="04:25.815" ttm:agent="v1">
+        <span begin="04:22.175" end="04:22.755">Shining </span>
+        <span begin="04:22.755" end="04:23.005">in </span>
+        <span begin="04:23.005" end="04:23.295">the </span>
+        <span begin="04:23.295" end="04:23.745">shade </span>
+        <span begin="04:23.745" end="04:24.005">in </span>
+        <span begin="04:24.005" end="04:24.245">sun </span>
+        <span begin="04:24.245" end="04:24.455">like </span>
+        <span begin="04:24.455" end="04:24.665">a </span>
+        <span begin="04:24.665" end="04:24.875">pearl </span>
+        <span begin="04:24.875" end="04:25.105">upon </span>
+        <span begin="04:25.105" end="04:25.355">the </span>
+        <span begin="04:25.355" end="04:25.815">ocean</span>
+      </p>
+      <p begin="04:25.815" end="04:27.865" ttm:agent="v1">
+        <span begin="04:25.815" end="04:26.145">Come </span>
+        <span begin="04:26.145" end="04:26.385">on </span>
+        <span begin="04:26.385" end="04:27.205">feel </span>
+        <span begin="04:27.205" end="04:27.865">me</span>
+      </p>
+      <p begin="04:27.865" end="04:29.905" ttm:agent="v1">
+        <span begin="04:27.865" end="04:28.435">Haan </span>
+        <span begin="04:28.435" end="04:29.125">feel </span>
+        <span begin="04:29.125" end="04:29.905">me</span>
+      </p>
+      <p begin="04:30.185" end="04:33.764" ttm:agent="v1">
+        <span begin="04:30.185" end="04:30.744">Shining </span>
+        <span begin="04:30.744" end="04:30.974">in </span>
+        <span begin="04:30.974" end="04:31.224">the </span>
+        <span begin="04:31.224" end="04:31.704">setting </span>
+        <span begin="04:31.704" end="04:31.974">sun </span>
+        <span begin="04:31.974" end="04:32.214">like </span>
+        <span begin="04:32.214" end="04:32.434">a </span>
+        <span begin="04:32.434" end="04:32.664">pearl </span>
+        <span begin="04:32.664" end="04:33.084">upon </span>
+        <span begin="04:33.084" end="04:33.334">the </span>
+        <span begin="04:33.334" end="04:33.764">ocean</span>
+      </p>
+      <p begin="04:33.764" end="04:35.844" ttm:agent="v1">
+        <span begin="04:33.764" end="04:33.974">Come </span>
+        <span begin="04:33.974" end="04:34.444">on </span>
+        <span begin="04:34.444" end="04:35.214">heal </span>
+        <span begin="04:35.214" end="04:35.844">me</span>
+      </p>
+      <p begin="04:35.844" end="04:38.074" ttm:agent="v1">
+        <span begin="04:35.844" end="04:36.184">Haan </span>
+        <span begin="04:36.184" end="04:37.154">heal </span>
+        <span begin="04:37.154" end="04:38.074">me</span>
+      </p>
+      <p begin="04:38.074" end="04:41.763" ttm:agent="v1">
+        <span begin="04:38.074" end="04:38.694">Thinking </span>
+        <span begin="04:38.694" end="04:39.144">about </span>
+        <span begin="04:39.144" end="04:39.354">the </span>
+        <span begin="04:39.354" end="04:39.604">love </span>
+        <span begin="04:39.604" end="04:39.804">we </span>
+        <span begin="04:39.804" end="04:40.164">making </span>
+        <span begin="04:40.164" end="04:40.434">and </span>
+        <span begin="04:40.434" end="04:40.744">all </span>
+        <span begin="04:40.744" end="04:41.124">life </span>
+        <span begin="04:41.124" end="04:41.763">sharing</span>
+      </p>
+      <p begin="04:41.763" end="04:43.803" ttm:agent="v1">
+        <span begin="04:41.763" end="04:42.083">Come </span>
+        <span begin="04:42.083" end="04:42.353">and </span>
+        <span begin="04:42.353" end="04:43.173">feel </span>
+        <span begin="04:43.173" end="04:43.803">me</span>
+      </p>
+      <p begin="04:43.803" end="04:46.353" ttm:agent="v1">
+        <span begin="04:43.803" end="04:44.153">Ho </span>
+        <span begin="04:44.153" end="04:45.183">feel </span>
+        <span begin="04:45.183" end="04:46.353">me</span>
+      </p>
+      <p begin="04:46.353" end="04:49.713" ttm:agent="v1">
+        <span begin="04:46.353" end="04:46.753">Shining </span>
+        <span begin="04:46.753" end="04:47.003">in </span>
+        <span begin="04:47.003" end="04:47.253">the </span>
+        <span begin="04:47.253" end="04:47.713">setting </span>
+        <span begin="04:47.713" end="04:48.123">sun </span>
+        <span begin="04:48.123" end="04:48.323">like </span>
+        <span begin="04:48.323" end="04:48.543">a </span>
+        <span begin="04:48.543" end="04:48.733">pearl </span>
+        <span begin="04:48.733" end="04:49.143">upon </span>
+        <span begin="04:49.143" end="04:49.403">the </span>
+        <span begin="04:49.403" end="04:49.713">ocean</span>
+      </p>
+      <p begin="04:49.713" end="04:51.793" ttm:agent="v1">
+        <span begin="04:49.713" end="04:49.953">Come </span>
+        <span begin="04:49.953" end="04:50.223">and </span>
+        <span begin="04:50.223" end="04:50.973">feel </span>
+        <span begin="04:50.973" end="04:51.793">me</span>
+      </p>
+      <p begin="04:51.793" end="04:53.523" ttm:agent="v1">
+        <span begin="04:51.793" end="04:52.043">Come </span>
+        <span begin="04:52.043" end="04:52.363">on </span>
+        <span begin="04:52.363" end="04:53.143">heal </span>
+        <span begin="04:53.143" end="04:53.523">me</span>
+      </p>
+    </div>
+  </body>
+</tt>

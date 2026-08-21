@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>LOVE. FEAT. ZACARI.</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Kendrick Lamar</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Zacari</ttm:agent>
+      <ttm:item type="album">DAMN.</ttm:item>
+      <ttm:item type="spotify_id">6PGoSes0D9eUDeeAafB2As</ttm:item>
+      <itunes:duration>03:33.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:01.340" end="00:02.990" ttm:agent="v1">Damn</p>
+      <p begin="00:02.990" end="00:04.790" ttm:agent="v1">Love or lust</p>
+      <p begin="00:04.790" end="00:06.550" ttm:agent="v1">Damn</p>
+      <p begin="00:06.550" end="00:08.050" ttm:agent="v1">All of us</p>
+      <p begin="00:07.540" end="00:09.910" ttm:agent="v1">Give me a run for my money</p>
+      <p begin="00:09.910" end="00:14.230" ttm:agent="v1">There is nobody, no one to outrun me</p>
+      <p begin="00:14.230" end="00:17.460" ttm:agent="v1">So give me a run for my money</p>
+      <p begin="00:17.460" end="00:23.650" ttm:agent="v1">Sipping bubbly, feeling lovely, living lovely</p>
+      <p begin="00:23.650" end="00:27.450" ttm:agent="v1">Just love me</p>
+      <p begin="00:27.450" end="00:31.200" ttm:agent="v1">I wanna be with you, ayy, I wanna be with</p>
+      <p begin="00:31.200" end="00:35.170" ttm:agent="v1">I wanna be with you, ayy, I wanna be with</p>
+      <p begin="00:35.170" end="00:38.500" ttm:agent="v1" itunes:key="role" itunes:value="background">I wanna be with you (Love me, just love me)</p>
+      <p begin="00:38.500" end="00:42.290" ttm:agent="v1" itunes:key="role" itunes:value="background">If I didn't ride blade on curb, would you still (Love me)</p>
+      <p begin="00:42.290" end="00:45.960" ttm:agent="v1" itunes:key="role" itunes:value="background">If I made up my mind at work would you still (Love me)</p>
+      <p begin="00:45.960" end="00:49.680" ttm:agent="v1" itunes:key="role" itunes:value="background">Keep it a hundred, I'd rather you trust me than to (Love me)</p>
+      <p begin="00:49.680" end="00:53.470" ttm:agent="v1">Keep it a whole one hund', don't got you I got nothing</p>
+      <p begin="00:53.470" end="00:56.220" ttm:agent="v1" itunes:key="role" itunes:value="background">Ay, I got something (I got something)</p>
+      <p begin="00:56.220" end="01:01.420" ttm:agent="v1" itunes:key="role" itunes:value="background">Hol' up, we gon' function (We gon' function), no assumptions (No assumptions)</p>
+      <p begin="01:01.420" end="01:04.970" ttm:agent="v1" itunes:key="role" itunes:value="background">Feeling like Tyson wit' it (Feeling like Tyson wit' it), knock it out out twice (Knock it out out twice)</p>
+      <p begin="01:04.970" end="01:07.160" ttm:agent="v1">I'm with it, only for the night, I'm kiddin'</p>
+      <p begin="01:07.160" end="01:08.840" ttm:agent="v1">Only for life, you're a homie for life</p>
+      <p begin="01:08.840" end="01:10.870" ttm:agent="v1">You're a homie for life, let's get it</p>
+      <p begin="01:10.870" end="01:14.610" ttm:agent="v1">Hit that shoulder lean, I know what comin' over mean</p>
+      <p begin="01:14.610" end="01:18.360" ttm:agent="v1">Backstroke oversea, I know what you need</p>
+      <p begin="01:18.360" end="01:20.290" ttm:agent="v1">Already on ten, our money come in</p>
+      <p begin="01:20.290" end="01:22.360" ttm:agent="v1">All feeling go out, this feeling don't drought</p>
+      <p begin="01:22.360" end="01:24.350" ttm:agent="v1">This party won't end</p>
+      <p begin="01:24.350" end="01:27.930" ttm:agent="v1" itunes:key="role" itunes:value="background">If I didn't ride blade on curb, would you still (Love me)</p>
+      <p begin="01:27.930" end="01:31.740" ttm:agent="v1" itunes:key="role" itunes:value="background">If I made up my mind at work would you still (Love me)</p>
+      <p begin="01:31.740" end="01:35.300" ttm:agent="v1" itunes:key="role" itunes:value="background">Keep it a hundred, I'd rather you trust me than to (Love me)</p>
+      <p begin="01:35.300" end="01:38.980" ttm:agent="v1">Keep it a whole one hund', don't got you I got nothing</p>
+      <p begin="01:38.980" end="01:41.240" ttm:agent="v1">Give me a run for my money</p>
+      <p begin="01:41.240" end="01:45.890" ttm:agent="v1">There is nobody, no one to outrun me</p>
+      <p begin="01:45.890" end="01:49.030" ttm:agent="v1">So give me a run for my money</p>
+      <p begin="01:49.030" end="01:55.180" ttm:agent="v1">Sipping bubbly, feeling lovely, living lovely</p>
+      <p begin="01:55.180" end="01:58.910" ttm:agent="v1">Just love me</p>
+      <p begin="01:58.910" end="02:02.760" ttm:agent="v1">I wanna be with you, ayy, I wanna be with</p>
+      <p begin="02:02.760" end="02:06.550" ttm:agent="v1">I wanna be with you, ayy, I wanna be with</p>
+      <p begin="02:06.550" end="02:09.270" ttm:agent="v1" itunes:key="role" itunes:value="background">I wanna be with you (Love me, just love me)</p>
+      <p begin="02:09.270" end="02:10.770" ttm:agent="v1">I'm on the way</p>
+      <p begin="02:10.220" end="02:11.720" ttm:agent="v1">We ain't got no time to waste</p>
+      <p begin="02:11.450" end="02:12.950" ttm:agent="v1">Popping your gum on the way</p>
+      <p begin="02:12.730" end="02:14.230" ttm:agent="v1">Am I in the way?</p>
+      <p begin="02:13.820" end="02:15.320" ttm:agent="v1">I don't want to pressure you none</p>
+      <p begin="02:15.150" end="02:16.650" ttm:agent="v1" itunes:key="role" itunes:value="background">I want your blessing today (Love me)</p>
+      <p begin="02:16.600" end="02:18.700" ttm:agent="v1">Oh by the way, open the door by the way</p>
+      <p begin="02:18.700" end="02:20.510" ttm:agent="v1" itunes:key="role" itunes:value="background">Told you that I'm on the way (Love me)</p>
+      <p begin="02:20.510" end="02:22.630" ttm:agent="v1">I'm on the way, I know connection is vague</p>
+      <p begin="02:22.630" end="02:24.430" ttm:agent="v1">Pick up the phone for me babe</p>
+      <p begin="02:24.430" end="02:25.930" ttm:agent="v1">Dammit, we jammin'</p>
+      <p begin="02:25.500" end="02:27.000" ttm:agent="v1">Bad attitude for your nanny</p>
+      <p begin="02:26.680" end="02:28.180" ttm:agent="v1">Curvin' your hit from yo' mammy</p>
+      <p begin="02:28.070" end="02:30.350" ttm:agent="v1">Remember Gardena, I took the studio camera</p>
+      <p begin="02:30.350" end="02:31.910" ttm:agent="v1">I know Top will be mad at me</p>
+      <p begin="02:31.910" end="02:34.140" ttm:agent="v1">I had to do it, I want your body, your music</p>
+      <p begin="02:34.140" end="02:35.740" ttm:agent="v1">I bought the big one to prove it</p>
+      <p begin="02:35.740" end="02:37.240" ttm:agent="v1">Look what you made</p>
+      <p begin="02:36.960" end="02:38.460" ttm:agent="v1">Told you that I'm on the way</p>
+      <p begin="02:38.190" end="02:40.280" ttm:agent="v1">I'm like an exit away, yup</p>
+      <p begin="02:40.280" end="02:44.300" ttm:agent="v1" itunes:key="role" itunes:value="background">If didn't ride blade on curb, would you still (Love me)</p>
+      <p begin="02:44.300" end="02:47.890" ttm:agent="v1" itunes:key="role" itunes:value="background">If I made up my mind at work would you still (Love me)</p>
+      <p begin="02:47.890" end="02:51.660" ttm:agent="v1" itunes:key="role" itunes:value="background">Keep it a hundred, I'd rather you trust me than to (Love me)</p>
+      <p begin="02:51.660" end="02:55.240" ttm:agent="v1">Keep it a whole one hund', don't got you I got nothing</p>
+      <p begin="02:55.240" end="02:57.690" ttm:agent="v1">Give me a run for my money</p>
+      <p begin="02:57.690" end="03:01.990" ttm:agent="v1">There is nobody, no one to outrun me</p>
+      <p begin="03:01.990" end="03:05.230" ttm:agent="v1">So give me a run for my money</p>
+      <p begin="03:05.230" end="03:11.500" ttm:agent="v1">Sipping bubbly, feeling lovely, living lovely</p>
+      <p begin="03:11.500" end="03:15.160" ttm:agent="v1">Just love me</p>
+      <p begin="03:15.160" end="03:18.990" ttm:agent="v1">I wanna be with you, ayy, I wanna be with</p>
+      <p begin="03:18.990" end="03:22.770" ttm:agent="v1">I wanna be with you, ayy, I wanna be with</p>
+      <p begin="03:22.770" end="03:25.030" ttm:agent="v1" itunes:key="role" itunes:value="background">I wanna be with you (Love me, just love me)</p>
+      <p begin="03:25.030" end="03:29.030" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

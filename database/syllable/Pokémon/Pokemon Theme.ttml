@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Pokemon Theme</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Pokémon</ttm:agent>
+      <ttm:item type="album">Pokemon X - Ten Years Of Pokemon</ttm:item>
+      <ttm:item type="spotify_id">6xG2ZGudUgtV235xvDlSEt</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:07.000" end="00:09.580" ttm:agent="v1">
+        <span begin="00:07.000" end="00:07.210">I </span>
+        <span begin="00:07.210" end="00:07.570">wanna </span>
+        <span begin="00:07.570" end="00:08.200">be </span>
+        <span begin="00:08.200" end="00:08.380">the </span>
+        <span begin="00:08.380" end="00:09.010">very </span>
+        <span begin="00:09.010" end="00:09.580">best</span>
+      </p>
+      <p begin="00:09.820" end="00:12.490" ttm:agent="v1">
+        <span begin="00:09.820" end="00:10.090">Like </span>
+        <span begin="00:10.090" end="00:10.480">no </span>
+        <span begin="00:10.480" end="00:10.990">one </span>
+        <span begin="00:10.990" end="00:11.290">ever </span>
+        <span begin="00:11.290" end="00:12.490">was</span>
+      </p>
+      <p begin="00:13.570" end="00:16.420" ttm:agent="v1">
+        <span begin="00:13.570" end="00:13.750">To </span>
+        <span begin="00:13.750" end="00:14.200">catch </span>
+        <span begin="00:14.200" end="00:14.710">them </span>
+        <span begin="00:14.710" end="00:14.860">is </span>
+        <span begin="00:14.860" end="00:15.220">my </span>
+        <span begin="00:15.220" end="00:15.670">real </span>
+        <span begin="00:15.670" end="00:16.420">test</span>
+      </p>
+      <p begin="00:16.450" end="00:19.570" ttm:agent="v1">
+        <span begin="00:16.450" end="00:16.660">To </span>
+        <span begin="00:16.660" end="00:17.140">train </span>
+        <span begin="00:17.140" end="00:17.410">them </span>
+        <span begin="00:17.410" end="00:17.680">is </span>
+        <span begin="00:17.680" end="00:17.920">my </span>
+        <span begin="00:17.920" end="00:19.570">cause</span>
+      </p>
+      <p begin="00:20.410" end="00:22.990" ttm:agent="v1">
+        <span begin="00:20.410" end="00:20.680">I </span>
+        <span begin="00:20.680" end="00:20.830">will </span>
+        <span begin="00:20.830" end="00:21.550">travel </span>
+        <span begin="00:21.550" end="00:22.090">across </span>
+        <span begin="00:22.090" end="00:22.240">the </span>
+        <span begin="00:22.240" end="00:22.990">land</span>
+      </p>
+      <p begin="00:23.170" end="00:25.870" ttm:agent="v1">
+        <span begin="00:23.170" end="00:24.100">Searching </span>
+        <span begin="00:24.100" end="00:24.670">far </span>
+        <span begin="00:24.670" end="00:24.790">and </span>
+        <span begin="00:24.790" end="00:25.870">wide</span>
+      </p>
+      <p begin="00:26.800" end="00:29.740" ttm:agent="v1">
+        <span begin="00:26.800" end="00:27.070">Each </span>
+        <span begin="00:27.070" end="00:28.060">pokemon </span>
+        <span begin="00:28.060" end="00:28.360">to </span>
+        <span begin="00:28.360" end="00:29.740">understand</span>
+      </p>
+      <p begin="00:29.740" end="00:32.740" ttm:agent="v1">
+        <span begin="00:29.740" end="00:29.890">The </span>
+        <span begin="00:29.890" end="00:30.610">power </span>
+        <span begin="00:30.610" end="00:30.970">that's </span>
+        <span begin="00:30.970" end="00:32.740">inside</span>
+      </p>
+      <p begin="00:32.740" end="00:34.750" ttm:agent="v1">
+        <span begin="00:32.740" end="00:33.640">Pokemon </span>
+        <span begin="00:33.640" end="00:33.700">! </span>
+        <span begin="00:33.700" end="00:34.060">Gotta </span>
+        <span begin="00:34.060" end="00:34.630">catch'em </span>
+        <span begin="00:34.630" end="00:34.690">all </span>
+        <span begin="00:34.690" end="00:34.750">!</span>
+      </p>
+      <p begin="00:34.750" end="00:36.640" ttm:agent="v1">
+        <span begin="00:34.750" end="00:35.020">It's </span>
+        <span begin="00:35.020" end="00:35.230">you </span>
+        <span begin="00:35.230" end="00:35.470">and </span>
+        <span begin="00:35.470" end="00:36.640">me</span>
+      </p>
+      <p begin="00:37.120" end="00:39.610" ttm:agent="v1">
+        <span begin="00:37.120" end="00:37.390">I </span>
+        <span begin="00:37.390" end="00:37.660">know </span>
+        <span begin="00:37.660" end="00:37.840">it's </span>
+        <span begin="00:37.840" end="00:38.020">my </span>
+        <span begin="00:38.020" end="00:38.800">destiny </span>
+        <span begin="00:38.800" end="00:39.610">me</span>
+      </p>
+      <p begin="00:39.610" end="00:40.330" ttm:agent="v1">
+        <span begin="00:39.610" end="00:40.270">Pokemon </span>
+        <span begin="00:40.270" end="00:40.330">!</span>
+      </p>
+      <p begin="00:40.330" end="00:42.730" ttm:agent="v1">
+        <span begin="00:40.330" end="00:41.290">Oh </span>
+        <span begin="00:41.290" end="00:41.500">you're </span>
+        <span begin="00:41.500" end="00:41.770">my </span>
+        <span begin="00:41.770" end="00:42.100">best </span>
+        <span begin="00:42.100" end="00:42.730">friend</span>
+      </p>
+      <p begin="00:42.760" end="00:45.880" ttm:agent="v1">
+        <span begin="00:42.760" end="00:43.060">In </span>
+        <span begin="00:43.060" end="00:43.150">a </span>
+        <span begin="00:43.150" end="00:43.660">world </span>
+        <span begin="00:43.660" end="00:43.810">we </span>
+        <span begin="00:43.810" end="00:44.230">must </span>
+        <span begin="00:44.230" end="00:45.880">defend</span>
+      </p>
+      <p begin="00:45.880" end="00:47.980" ttm:agent="v1">
+        <span begin="00:45.880" end="00:46.870">Pokemon </span>
+        <span begin="00:46.870" end="00:46.900">! </span>
+        <span begin="00:46.900" end="00:47.290">Gotta </span>
+        <span begin="00:47.290" end="00:47.830">catch'em </span>
+        <span begin="00:47.830" end="00:47.920">all </span>
+        <span begin="00:47.920" end="00:47.980">!</span>
+      </p>
+      <p begin="00:47.980" end="00:50.260" ttm:agent="v1">
+        <span begin="00:47.980" end="00:48.130">A </span>
+        <span begin="00:48.130" end="00:48.400">heart </span>
+        <span begin="00:48.400" end="00:48.730">so </span>
+        <span begin="00:48.730" end="00:50.260">true</span>
+      </p>
+      <p begin="00:50.440" end="00:52.960" ttm:agent="v1">
+        <span begin="00:50.440" end="00:50.620">Our </span>
+        <span begin="00:50.620" end="00:51.100">courage </span>
+        <span begin="00:51.100" end="00:51.250">will </span>
+        <span begin="00:51.250" end="00:51.790">pull </span>
+        <span begin="00:51.790" end="00:52.150">us </span>
+        <span begin="00:52.150" end="00:52.960">through</span>
+      </p>
+      <p begin="00:52.990" end="00:56.320" ttm:agent="v1">
+        <span begin="00:52.990" end="00:53.320">You </span>
+        <span begin="00:53.320" end="00:53.770">teach </span>
+        <span begin="00:53.770" end="00:54.280">me </span>
+        <span begin="00:54.280" end="00:54.640">and </span>
+        <span begin="00:54.640" end="00:55.000">I'll </span>
+        <span begin="00:55.000" end="00:55.420">teach </span>
+        <span begin="00:55.420" end="00:56.320">you</span>
+      </p>
+      <p begin="00:56.350" end="00:57.670" ttm:agent="v1">
+        <span begin="00:56.350" end="00:57.670">Pokemon </span>
+        <span begin="00:57.670" end="00:57.670">!</span>
+      </p>
+      <p begin="00:57.670" end="01:00.130" ttm:agent="v1">
+        <span begin="00:57.670" end="00:59.020">Gotta </span>
+        <span begin="00:59.020" end="00:59.590">catch'em </span>
+        <span begin="00:59.590" end="01:00.100">all </span>
+        <span begin="01:00.100" end="01:00.130">!</span>
+      </p>
+      <p begin="01:00.130" end="01:04.120" ttm:agent="v1">
+        <span begin="01:00.130" end="01:00.490">Gotta </span>
+        <span begin="01:00.490" end="01:01.270">catch'em </span>
+        <span begin="01:01.270" end="01:02.950">all </span>
+        <span begin="01:02.950" end="01:04.120">!</span>
+      </p>
+      <p begin="01:04.120" end="01:08.500" ttm:agent="v1">
+        <span begin="01:04.120" end="01:06.250">Yeah </span>
+        <span begin="01:06.250" end="01:08.500">!</span>
+      </p>
+      <p begin="01:08.500" end="01:10.900" ttm:agent="v1">
+        <span begin="01:08.500" end="01:08.800">Every </span>
+        <span begin="01:08.800" end="01:09.580">challenge </span>
+        <span begin="01:09.580" end="01:10.170">along </span>
+        <span begin="01:10.170" end="01:10.290">the </span>
+        <span begin="01:10.290" end="01:10.900">way</span>
+      </p>
+      <p begin="01:11.020" end="01:15.040" ttm:agent="v1">
+        <span begin="01:11.020" end="01:11.290">With </span>
+        <span begin="01:11.290" end="01:12.280">courage </span>
+        <span begin="01:12.280" end="01:12.490">I </span>
+        <span begin="01:12.490" end="01:12.760">will </span>
+        <span begin="01:12.760" end="01:13.690">face </span>
+        <span begin="01:13.690" end="01:15.040">.</span>
+      </p>
+      <p begin="01:15.040" end="01:17.650" ttm:agent="v1">
+        <span begin="01:15.040" end="01:15.310">I </span>
+        <span begin="01:15.310" end="01:15.460">will </span>
+        <span begin="01:15.460" end="01:16.330">battle </span>
+        <span begin="01:16.330" end="01:16.870">every </span>
+        <span begin="01:16.870" end="01:17.650">day</span>
+      </p>
+      <p begin="01:17.680" end="01:21.610" ttm:agent="v1">
+        <span begin="01:17.680" end="01:17.890">To </span>
+        <span begin="01:17.890" end="01:18.340">claim </span>
+        <span begin="01:18.340" end="01:18.580">my </span>
+        <span begin="01:18.580" end="01:19.120">rightful </span>
+        <span begin="01:19.120" end="01:21.010">place </span>
+        <span begin="01:21.010" end="01:21.610">.</span>
+      </p>
+      <p begin="01:21.610" end="01:22.630" ttm:agent="v1">
+        <span begin="01:21.610" end="01:21.910">Come </span>
+        <span begin="01:21.910" end="01:22.120">with </span>
+        <span begin="01:22.120" end="01:22.630">me</span>
+      </p>
+      <p begin="01:22.660" end="01:24.430" ttm:agent="v1">
+        <span begin="01:22.660" end="01:22.870">The </span>
+        <span begin="01:22.870" end="01:23.440">time </span>
+        <span begin="01:23.440" end="01:23.530">is </span>
+        <span begin="01:23.530" end="01:24.430">right</span>
+      </p>
+      <p begin="01:24.460" end="01:28.300" ttm:agent="v1">
+        <span begin="01:24.460" end="01:25.060">There's </span>
+        <span begin="01:25.060" end="01:25.360">no </span>
+        <span begin="01:25.360" end="01:25.780">better </span>
+        <span begin="01:25.780" end="01:27.100">team </span>
+        <span begin="01:27.100" end="01:28.300">.</span>
+      </p>
+      <p begin="01:28.300" end="01:30.940" ttm:agent="v1">
+        <span begin="01:28.300" end="01:28.600">Arm </span>
+        <span begin="01:28.600" end="01:28.810">in </span>
+        <span begin="01:28.810" end="01:29.320">arm </span>
+        <span begin="01:29.320" end="01:29.560">we'll </span>
+        <span begin="01:29.560" end="01:29.950">win </span>
+        <span begin="01:29.950" end="01:30.100">the </span>
+        <span begin="01:30.100" end="01:30.910">fight </span>
+        <span begin="01:30.910" end="01:30.940">!</span>
+      </p>
+      <p begin="01:30.940" end="01:33.880" ttm:agent="v1">
+        <span begin="01:30.940" end="01:31.270">It's </span>
+        <span begin="01:31.270" end="01:31.840">always </span>
+        <span begin="01:31.840" end="01:32.230">been </span>
+        <span begin="01:32.230" end="01:32.410">our </span>
+        <span begin="01:32.410" end="01:33.850">dream </span>
+        <span begin="01:33.850" end="01:33.880">!</span>
+      </p>
+      <p begin="01:33.880" end="01:35.950" ttm:agent="v1">
+        <span begin="01:33.880" end="01:34.870">Pokemon </span>
+        <span begin="01:34.870" end="01:34.930">! </span>
+        <span begin="01:34.930" end="01:35.290">Gotta </span>
+        <span begin="01:35.290" end="01:35.860">catch'em </span>
+        <span begin="01:35.860" end="01:35.920">all </span>
+        <span begin="01:35.920" end="01:35.950">!</span>
+      </p>
+      <p begin="01:35.950" end="01:37.870" ttm:agent="v1">
+        <span begin="01:35.950" end="01:36.220">It's </span>
+        <span begin="01:36.220" end="01:36.460">you </span>
+        <span begin="01:36.460" end="01:36.700">and </span>
+        <span begin="01:36.700" end="01:37.870">me</span>
+      </p>
+      <p begin="01:38.320" end="01:40.900" ttm:agent="v1">
+        <span begin="01:38.320" end="01:38.620">I </span>
+        <span begin="01:38.620" end="01:38.890">know </span>
+        <span begin="01:38.890" end="01:39.040">it's </span>
+        <span begin="01:39.040" end="01:39.250">my </span>
+        <span begin="01:39.250" end="01:40.000">destiny </span>
+        <span begin="01:40.000" end="01:40.900">me</span>
+      </p>
+      <p begin="01:40.900" end="01:41.560" ttm:agent="v1">
+        <span begin="01:40.900" end="01:41.470">Pokemon </span>
+        <span begin="01:41.470" end="01:41.560">!</span>
+      </p>
+      <p begin="01:41.560" end="01:43.930" ttm:agent="v1">
+        <span begin="01:41.560" end="01:42.520">Oh </span>
+        <span begin="01:42.520" end="01:42.730">you're </span>
+        <span begin="01:42.730" end="01:43.000">my </span>
+        <span begin="01:43.000" end="01:43.330">best </span>
+        <span begin="01:43.330" end="01:43.930">friend</span>
+      </p>
+      <p begin="01:43.960" end="01:47.080" ttm:agent="v1">
+        <span begin="01:43.960" end="01:44.290">In </span>
+        <span begin="01:44.290" end="01:44.380">a </span>
+        <span begin="01:44.380" end="01:44.890">world </span>
+        <span begin="01:44.890" end="01:45.040">we </span>
+        <span begin="01:45.040" end="01:45.430">must </span>
+        <span begin="01:45.430" end="01:47.080">defend</span>
+      </p>
+      <p begin="01:47.080" end="01:49.210" ttm:agent="v1">
+        <span begin="01:47.080" end="01:48.160">Pokemon </span>
+        <span begin="01:48.160" end="01:48.160">! </span>
+        <span begin="01:48.160" end="01:48.520">Gotta </span>
+        <span begin="01:48.520" end="01:49.090">catch'em </span>
+        <span begin="01:49.090" end="01:49.150">all </span>
+        <span begin="01:49.150" end="01:49.210">!</span>
+      </p>
+      <p begin="01:49.210" end="01:51.550" ttm:agent="v1">
+        <span begin="01:49.210" end="01:49.360">A </span>
+        <span begin="01:49.360" end="01:49.630">heart </span>
+        <span begin="01:49.630" end="01:49.960">so </span>
+        <span begin="01:49.960" end="01:51.550">true</span>
+      </p>
+      <p begin="01:51.640" end="01:54.190" ttm:agent="v1">
+        <span begin="01:51.640" end="01:51.850">Our </span>
+        <span begin="01:51.850" end="01:52.330">courage </span>
+        <span begin="01:52.330" end="01:52.480">will </span>
+        <span begin="01:52.480" end="01:52.990">pull </span>
+        <span begin="01:52.990" end="01:53.380">us </span>
+        <span begin="01:53.380" end="01:54.190">through</span>
+      </p>
+      <p begin="01:54.220" end="01:57.550" ttm:agent="v1">
+        <span begin="01:54.220" end="01:54.550">You </span>
+        <span begin="01:54.550" end="01:54.970">teach </span>
+        <span begin="01:54.970" end="01:55.510">me </span>
+        <span begin="01:55.510" end="01:55.870">and </span>
+        <span begin="01:55.870" end="01:56.170">I'll </span>
+        <span begin="01:56.170" end="01:56.650">teach </span>
+        <span begin="01:56.650" end="01:57.550">you</span>
+      </p>
+      <p begin="01:57.580" end="01:58.930" ttm:agent="v1">
+        <span begin="01:57.580" end="01:58.930">Pokemon </span>
+        <span begin="01:58.930" end="01:58.930">!</span>
+      </p>
+      <p begin="01:58.930" end="02:01.390" ttm:agent="v1">
+        <span begin="01:58.930" end="02:00.280">Gotta </span>
+        <span begin="02:00.280" end="02:00.820">catch'em </span>
+        <span begin="02:00.820" end="02:01.360">all </span>
+        <span begin="02:01.360" end="02:01.390">!</span>
+      </p>
+      <p begin="02:01.390" end="02:04.630" ttm:agent="v1">
+        <span begin="02:01.390" end="02:01.780">Gotta </span>
+        <span begin="02:01.780" end="02:02.500">catch'em </span>
+        <span begin="02:02.500" end="02:03.970">all </span>
+        <span begin="02:03.970" end="02:04.630">!</span>
+      </p>
+      <p begin="02:04.630" end="02:14.560" ttm:agent="v1">
+        <span begin="02:04.630" end="02:05.080">Gotta </span>
+        <span begin="02:05.080" end="02:05.800">catch'em </span>
+        <span begin="02:05.800" end="02:07.690">all </span>
+        <span begin="02:07.690" end="02:14.560">!</span>
+      </p>
+      <p begin="02:14.560" end="02:21.190" ttm:agent="v1">
+        <span begin="02:14.560" end="02:15.010">Gotta </span>
+        <span begin="02:15.010" end="02:15.760">catch'em </span>
+        <span begin="02:15.760" end="02:17.410">all </span>
+        <span begin="02:17.410" end="02:21.190">!</span>
+      </p>
+      <p begin="02:21.190" end="02:24.490" ttm:agent="v1">
+        <span begin="02:21.190" end="02:21.610">Gotta </span>
+        <span begin="02:21.610" end="02:22.360">catch'em </span>
+        <span begin="02:22.360" end="02:24.040">all </span>
+        <span begin="02:24.040" end="02:24.490">!</span>
+      </p>
+      <p begin="02:24.490" end="02:43.360" ttm:agent="v1">
+        <span begin="02:24.490" end="02:27.250">Yeah </span>
+        <span begin="02:27.250" end="02:43.360">!</span>
+      </p>
+      <p begin="02:43.360" end="02:45.640" ttm:agent="v1">
+        <span begin="02:43.360" end="02:44.440">Pokemon </span>
+        <span begin="02:44.440" end="02:44.440">! </span>
+        <span begin="02:44.440" end="02:44.800">Gotta </span>
+        <span begin="02:44.800" end="02:45.550">catch'em </span>
+        <span begin="02:45.550" end="02:45.640">all </span>
+        <span begin="02:45.640" end="02:45.640">!</span>
+      </p>
+      <p begin="02:45.640" end="02:47.680" ttm:agent="v1">
+        <span begin="02:45.640" end="02:46.150">It's </span>
+        <span begin="02:46.150" end="02:46.660">you </span>
+        <span begin="02:46.660" end="02:47.170">and </span>
+        <span begin="02:47.170" end="02:47.680">me</span>
+      </p>
+      <p begin="02:47.860" end="02:50.410" ttm:agent="v1">
+        <span begin="02:47.860" end="02:48.160">I </span>
+        <span begin="02:48.160" end="02:48.430">know </span>
+        <span begin="02:48.430" end="02:48.610">it's </span>
+        <span begin="02:48.610" end="02:48.790">my </span>
+        <span begin="02:48.790" end="02:49.600">destiny </span>
+        <span begin="02:49.600" end="02:50.410">me</span>
+      </p>
+      <p begin="02:50.410" end="02:51.070" ttm:agent="v1">
+        <span begin="02:50.410" end="02:50.980">Pokemon </span>
+        <span begin="02:50.980" end="02:51.070">!</span>
+      </p>
+      <p begin="02:51.070" end="02:53.530" ttm:agent="v1">
+        <span begin="02:51.070" end="02:51.880">Oh </span>
+        <span begin="02:51.880" end="02:52.060">you're </span>
+        <span begin="02:52.060" end="02:52.450">my </span>
+        <span begin="02:52.450" end="02:52.930">best </span>
+        <span begin="02:52.930" end="02:53.530">friend</span>
+      </p>
+      <p begin="02:53.560" end="02:56.590" ttm:agent="v1">
+        <span begin="02:53.560" end="02:53.830">In </span>
+        <span begin="02:53.830" end="02:53.920">a </span>
+        <span begin="02:53.920" end="02:54.400">world </span>
+        <span begin="02:54.400" end="02:54.580">we </span>
+        <span begin="02:54.580" end="02:54.970">must </span>
+        <span begin="02:54.970" end="02:56.590">defend</span>
+      </p>
+      <p begin="02:56.620" end="02:58.870" ttm:agent="v1">
+        <span begin="02:56.620" end="02:57.640">Pokemon </span>
+        <span begin="02:57.640" end="02:57.700">! </span>
+        <span begin="02:57.700" end="02:58.030">Gotta </span>
+        <span begin="02:58.030" end="02:58.750">catch'em </span>
+        <span begin="02:58.750" end="02:58.870">all </span>
+        <span begin="02:58.870" end="02:58.870">!</span>
+      </p>
+      <p begin="02:58.870" end="03:01.090" ttm:agent="v1">
+        <span begin="02:58.870" end="02:58.900">A </span>
+        <span begin="02:58.900" end="02:59.170">heart </span>
+        <span begin="02:59.170" end="02:59.470">so </span>
+        <span begin="02:59.470" end="03:01.090">true</span>
+      </p>
+      <p begin="03:01.180" end="03:03.640" ttm:agent="v1">
+        <span begin="03:01.180" end="03:01.390">Our </span>
+        <span begin="03:01.390" end="03:01.840">courage </span>
+        <span begin="03:01.840" end="03:02.020">will </span>
+        <span begin="03:02.020" end="03:02.530">pull </span>
+        <span begin="03:02.530" end="03:02.920">us </span>
+        <span begin="03:02.920" end="03:03.640">through</span>
+      </p>
+      <p begin="03:03.730" end="03:07.060" ttm:agent="v1">
+        <span begin="03:03.730" end="03:04.090">You </span>
+        <span begin="03:04.090" end="03:04.540">teach </span>
+        <span begin="03:04.540" end="03:05.020">me </span>
+        <span begin="03:05.020" end="03:05.410">and </span>
+        <span begin="03:05.410" end="03:05.710">I'll </span>
+        <span begin="03:05.710" end="03:06.190">teach </span>
+        <span begin="03:06.190" end="03:07.060">you</span>
+      </p>
+      <p begin="03:07.090" end="03:08.440" ttm:agent="v1">
+        <span begin="03:07.090" end="03:08.440">Pokemon </span>
+        <span begin="03:08.440" end="03:08.440">!</span>
+      </p>
+      <p begin="03:08.440" end="03:10.930" ttm:agent="v1">
+        <span begin="03:08.440" end="03:09.640">Gotta </span>
+        <span begin="03:09.640" end="03:10.330">catch'em </span>
+        <span begin="03:10.330" end="03:10.930">all </span>
+        <span begin="03:10.930" end="03:10.930">!</span>
+      </p>
+      <p begin="03:10.930" end="03:12.640" ttm:agent="v1">
+        <span begin="03:10.930" end="03:11.260">Gotta </span>
+        <span begin="03:11.260" end="03:12.010">catch'em </span>
+        <span begin="03:12.010" end="03:12.640">all </span>
+        <span begin="03:12.640" end="03:12.640">!</span>
+      </p>
+      <p begin="03:12.640" end="03:18.160" ttm:agent="v1">
+        <span begin="03:12.640" end="03:12.790">Pok </span>
+        <span begin="03:12.790" end="03:13.030">é </span>
+        <span begin="03:13.030" end="03:13.480">mon </span>
+        <span begin="03:13.480" end="03:18.160">!</span>
+      </p>
+    </div>
+  </body>
+</tt>

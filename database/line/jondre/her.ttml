@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>her</ttm:title>
+      <ttm:agent type="person" xml:id="v1">jondre</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">riensu</ttm:agent>
+      <ttm:item type="album">her</ttm:item>
+      <ttm:item type="spotify_id">03GMZ854MQ4wWDbQjBfZYC</ttm:item>
+      <itunes:duration>02:55.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:15.750" end="00:18.530" ttm:agent="v1">Out of my mind</p>
+      <p begin="00:18.530" end="00:22.220" ttm:agent="v1">I think of you all the time</p>
+      <p begin="00:22.220" end="00:24.940" ttm:agent="v1">If you would leave me behind</p>
+      <p begin="00:24.940" end="00:26.800" ttm:agent="v1">With a heart full of lies</p>
+      <p begin="00:26.800" end="00:28.300" ttm:agent="v1">I would never</p>
+      <p begin="00:28.000" end="00:29.500" ttm:agent="v1">Could never</p>
+      <p begin="00:29.010" end="00:30.620" ttm:agent="v1">Call someone mine</p>
+      <p begin="00:30.620" end="00:33.330" ttm:agent="v1">It's you that I want</p>
+      <p begin="00:33.330" end="00:37.390" ttm:agent="v1">It's you that's been burned in my heart</p>
+      <p begin="00:37.390" end="00:40.090" ttm:agent="v1">It's been you right from the start</p>
+      <p begin="00:40.090" end="00:41.870" ttm:agent="v1">You're a work of fine art</p>
+      <p begin="00:41.870" end="00:43.370" ttm:agent="v1">And I don't know</p>
+      <p begin="00:43.250" end="00:44.750" ttm:agent="v1">If I can</p>
+      <p begin="00:44.100" end="00:45.600" ttm:agent="v1" itunes:key="role" itunes:value="background">Be (the one)</p>
+      <p begin="00:45.530" end="00:47.440" ttm:agent="v1">What I say</p>
+      <p begin="00:47.440" end="00:49.260" ttm:agent="v1">Day to day</p>
+      <p begin="00:49.260" end="00:51.090" ttm:agent="v1">To your face</p>
+      <p begin="00:51.090" end="00:52.980" ttm:agent="v1">Can't explain</p>
+      <p begin="00:52.980" end="00:54.900" ttm:agent="v1">How I feel</p>
+      <p begin="00:54.900" end="00:56.790" ttm:agent="v1">Oh, what's real</p>
+      <p begin="00:56.790" end="01:00.660" ttm:agent="v1">Who am I to love her</p>
+      <p begin="01:00.660" end="01:02.340" ttm:agent="v1">If you knew</p>
+      <p begin="01:02.340" end="01:04.290" ttm:agent="v1">What I'd do</p>
+      <p begin="01:04.290" end="01:06.300" ttm:agent="v1">To be here</p>
+      <p begin="01:06.300" end="01:08.130" ttm:agent="v1">Here with you</p>
+      <p begin="01:08.130" end="01:09.900" ttm:agent="v1">Would you feel</p>
+      <p begin="01:09.900" end="01:11.960" ttm:agent="v1">That it's real</p>
+      <p begin="01:11.960" end="01:19.960" ttm:agent="v1">I could never tell her</p>
+      <p begin="01:31.190" end="01:32.970" ttm:agent="v1">The words</p>
+      <p begin="01:32.970" end="01:34.690" ttm:agent="v1">Don't come out</p>
+      <p begin="01:34.690" end="01:36.740" ttm:agent="v1">When I try</p>
+      <p begin="01:36.740" end="01:44.740" ttm:agent="v1">To tell you how I feel</p>
+      <p begin="01:45.700" end="01:47.910" ttm:agent="v1">If you were mine</p>
+      <p begin="01:47.910" end="01:49.410" ttm:agent="v1">I'd show you</p>
+      <p begin="01:48.990" end="01:51.710" ttm:agent="v1">What it's like to be loved</p>
+      <p begin="01:51.710" end="01:53.210" ttm:agent="v1">I'd show you</p>
+      <p begin="01:52.620" end="01:54.200" ttm:agent="v1">That you're more than a</p>
+      <p begin="01:54.200" end="01:57.630" ttm:agent="v1">Crush to me</p>
+      <p begin="01:57.630" end="02:01.350" ttm:agent="v1">One day you'll see</p>
+      <p begin="02:01.350" end="02:03.100" ttm:agent="v1">What I say</p>
+      <p begin="02:03.100" end="02:04.920" ttm:agent="v1">Day to day</p>
+      <p begin="02:04.920" end="02:06.920" ttm:agent="v1">To your face</p>
+      <p begin="02:06.920" end="02:08.660" ttm:agent="v1">Can't explain</p>
+      <p begin="02:08.660" end="02:10.630" ttm:agent="v1">How I feel</p>
+      <p begin="02:10.630" end="02:12.660" ttm:agent="v1">Oh, what's real</p>
+      <p begin="02:12.660" end="02:16.410" ttm:agent="v1">Who am I to love her</p>
+      <p begin="02:16.410" end="02:18.290" ttm:agent="v1">If you knew</p>
+      <p begin="02:18.290" end="02:20.150" ttm:agent="v1">What I'd do</p>
+      <p begin="02:20.150" end="02:22.080" ttm:agent="v1">To be here</p>
+      <p begin="02:22.080" end="02:24.000" ttm:agent="v1">Here with you</p>
+      <p begin="02:24.000" end="02:25.750" ttm:agent="v1">Would you feel</p>
+      <p begin="02:25.750" end="02:27.740" ttm:agent="v1">That it's real</p>
+      <p begin="02:27.740" end="02:32.140" ttm:agent="v1">I could never tell her</p>
+      <p begin="02:32.140" end="02:36.140" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

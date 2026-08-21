@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>FANCY</ttm:title>
+      <ttm:agent type="person" xml:id="v1">TWICE</ttm:agent>
+      <ttm:item type="album">FANCY YOU</ttm:item>
+      <ttm:item type="spotify_id">2qQpFbqqkLOGySgNK8wBXt</ttm:item>
+      <itunes:duration>03:34.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:14.160" end="00:17.850" ttm:agent="v1">지금 하늘 구름 색은 tropical, yeah</p>
+      <p begin="00:17.850" end="00:21.490" ttm:agent="v1">저 태양 빨간빛 네 두 볼 같아</p>
+      <p begin="00:21.490" end="00:24.690" ttm:agent="v1">Oh, tell me, I'm the only one, baby</p>
+      <p begin="00:24.690" end="00:28.930" ttm:agent="v1" itunes:key="role" itunes:value="background">I fancy you, I fancy you, fancy you (TWICE!)</p>
+      <p begin="00:28.930" end="00:32.300" ttm:agent="v1">It's dangerous, 따끔해, 넌 장미 같아</p>
+      <p begin="00:32.300" end="00:36.160" ttm:agent="v1">괜찮아, 조금도 난 겁나지 않아</p>
+      <p begin="00:36.160" end="00:39.290" ttm:agent="v1">더 세게 꼭 잡아, take my hand</p>
+      <p begin="00:39.290" end="00:43.570" ttm:agent="v1">좀 위험할 거야, 더 위험할 거야, baby</p>
+      <p begin="00:43.570" end="00:48.290" ttm:agent="v1">달콤한 초콜릿 아이스크림처럼 녹아버리는</p>
+      <p begin="00:48.290" end="00:50.840" ttm:agent="v1">지금 내 기분 so lovely</p>
+      <p begin="00:50.840" end="00:54.500" ttm:agent="v1">깜깜한 우주 속 가장 반짝이는</p>
+      <p begin="00:54.500" end="00:57.610" ttm:agent="v1">저 별, 저 별, 그 옆에 큰 네 별</p>
+      <p begin="00:57.610" end="01:00.090" ttm:agent="v1">거기 너, I fancy you</p>
+      <p begin="01:00.090" end="01:04.910" ttm:agent="v1" itunes:key="role" itunes:value="background">아무나 원하지 않아, hey, I love you (love ya!)</p>
+      <p begin="01:04.910" end="01:07.430" ttm:agent="v1">그래, 너, I fancy you</p>
+      <p begin="01:07.430" end="01:12.600" ttm:agent="v1" itunes:key="role" itunes:value="background">꿈처럼 행복해도 돼 'cause I need you (what?)</p>
+      <p begin="01:12.600" end="01:16.430" ttm:agent="v1">Fancy you, ooh-ooh-ooh-ooh</p>
+      <p begin="01:16.430" end="01:19.950" ttm:agent="v1">누가 먼저 좋아하면 어때?</p>
+      <p begin="01:19.950" end="01:23.500" ttm:agent="v1">Fancy you, ooh-ooh-ooh-ooh</p>
+      <p begin="01:23.500" end="01:27.220" ttm:agent="v1" itunes:key="role" itunes:value="background">지금 너에게로 갈래 (fancy, ooh)</p>
+      <p begin="01:27.220" end="01:30.420" ttm:agent="v1">매일매일 난 정말 아무것도 못하네</p>
+      <p begin="01:30.420" end="01:34.550" ttm:agent="v1">Oh, my, mayday, 이러다 큰일 낼 것 같은데</p>
+      <p begin="01:34.550" end="01:37.520" ttm:agent="v1">Bang, bang, 머리가 홀린 듯 reset이 돼</p>
+      <p begin="01:37.520" end="01:41.560" ttm:agent="v1">어쩌면 좋아, 이게 맞는건지 몰라, SOS</p>
+      <p begin="01:41.560" end="01:44.800" ttm:agent="v1">Swim, swim, 너란 바다에 잠수함이 돼</p>
+      <p begin="01:44.800" end="01:49.090" ttm:agent="v1">매일이 birthday, 달콤해, 너와 나의 fantasy</p>
+      <p begin="01:49.090" end="01:52.350" ttm:agent="v1">Dream, dream, 마치 꿈같아, 볼 꼬집어봐</p>
+      <p begin="01:52.350" end="01:56.280" ttm:agent="v1">요즘 나의 상태 메세진, la-la-la, baby</p>
+      <p begin="01:56.280" end="02:01.090" ttm:agent="v1">달콤한 초콜릿 아이스크림처럼 녹아버리는</p>
+      <p begin="02:01.090" end="02:03.650" ttm:agent="v1">지금 내 기분 so lovely</p>
+      <p begin="02:03.650" end="02:07.340" ttm:agent="v1">깜깜한 우주 속 가장 반짝이는</p>
+      <p begin="02:07.340" end="02:10.540" ttm:agent="v1">저 별, 저 별, 그 옆에 큰 네 별</p>
+      <p begin="02:10.540" end="02:12.140" ttm:agent="v1">거기 너, I fancy you</p>
+      <p begin="02:12.140" end="02:17.750" ttm:agent="v1" itunes:key="role" itunes:value="background">아무나 원하지 않아, hey, I love you (love ya!)</p>
+      <p begin="02:17.750" end="02:20.180" ttm:agent="v1">그래, 너, I fancy you</p>
+      <p begin="02:20.180" end="02:25.340" ttm:agent="v1" itunes:key="role" itunes:value="background">꿈처럼 행복해도 돼 'cause I need you (what?)</p>
+      <p begin="02:25.340" end="02:29.210" ttm:agent="v1">Fancy you, ooh-ooh-ooh-ooh</p>
+      <p begin="02:29.210" end="02:32.670" ttm:agent="v1">누가 먼저 좋아하면 어때?</p>
+      <p begin="02:32.670" end="02:36.320" ttm:agent="v1">Fancy you, ooh-ooh-ooh-ooh</p>
+      <p begin="02:36.320" end="02:39.930" ttm:agent="v1" itunes:key="role" itunes:value="background">지금 너에게로 갈래 (fancy, ooh)</p>
+      <p begin="02:39.930" end="02:42.940" ttm:agent="v1">연기처럼 훅 사라질까?</p>
+      <p begin="02:42.940" end="02:47.060" ttm:agent="v1">늘 가득히 담아, 널 두 눈에 담아</p>
+      <p begin="02:47.060" end="02:50.470" ttm:agent="v1">생각만으로 포근해져</p>
+      <p begin="02:50.470" end="02:55.790" ttm:agent="v1">몰래 뒤에서 안아 널 놓지 않을래</p>
+      <p begin="02:55.790" end="02:58.380" ttm:agent="v1" itunes:key="role" itunes:value="background">거기 너, I fancy you (fancy you)</p>
+      <p begin="02:58.380" end="03:03.320" ttm:agent="v1" itunes:key="role" itunes:value="background">아무나 원하지 않아, hey, I love you (love ya!)</p>
+      <p begin="03:03.320" end="03:05.720" ttm:agent="v1">그래, 너, I fancy you</p>
+      <p begin="03:05.720" end="03:10.980" ttm:agent="v1" itunes:key="role" itunes:value="background">꿈처럼 행복해도 돼 'cause I need you (what?)</p>
+      <p begin="03:10.980" end="03:14.480" ttm:agent="v1">Fancy you, ooh-ooh-ooh-ooh</p>
+      <p begin="03:14.480" end="03:18.100" ttm:agent="v1">누가 먼저 좋아하면 어때?</p>
+      <p begin="03:18.100" end="03:21.800" ttm:agent="v1">Fancy you, ooh-ooh-ooh-ooh</p>
+      <p begin="03:21.800" end="03:24.640" ttm:agent="v1" itunes:key="role" itunes:value="background">지금 너에게로 갈래 (fancy, ooh)</p>
+      <p begin="03:24.640" end="03:28.640" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

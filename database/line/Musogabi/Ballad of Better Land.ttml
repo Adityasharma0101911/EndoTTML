@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Ballad of Better Land</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Musogabi</ttm:agent>
+      <ttm:item type="album">Cassiopeia</ttm:item>
+      <ttm:item type="spotify_id">7Bs2rPMmVHw3fC91uWsr39</ttm:item>
+      <itunes:duration>04:07.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:23.600" end="00:29.690" ttm:agent="v1">When you live on dying land</p>
+      <p begin="00:29.690" end="00:35.750" ttm:agent="v1">It gets hard to stand and grow</p>
+      <p begin="00:35.750" end="00:41.880" ttm:agent="v1">So hey I found a place</p>
+      <p begin="00:41.880" end="00:49.880" ttm:agent="v1">We can't stay here any longer</p>
+      <p begin="00:57.790" end="01:05.790" ttm:agent="v1">There's not much to take to this better place, I promise</p>
+      <p begin="01:09.250" end="01:15.240" ttm:agent="v1">So leave all of your tears</p>
+      <p begin="01:15.240" end="01:22.140" ttm:agent="v1">We won't need them here forever</p>
+      <p begin="01:22.140" end="01:26.640" ttm:agent="v1">Hold on tight my dear</p>
+      <p begin="01:26.640" end="01:30.840" ttm:agent="v1">We'll be far from here</p>
+      <p begin="01:30.840" end="01:36.180" ttm:agent="v1">And though it may take long</p>
+      <p begin="01:36.180" end="01:39.140" ttm:agent="v1">I'll sing a song</p>
+      <p begin="01:39.140" end="01:47.140" ttm:agent="v1">Until we're gone from this place we called home</p>
+      <p begin="01:58.510" end="02:03.870" ttm:agent="v1">We've endured the pain</p>
+      <p begin="02:03.870" end="02:09.920" ttm:agent="v1">From the thorns that we ignored</p>
+      <p begin="02:09.920" end="02:16.020" ttm:agent="v1">But now we'll wash away</p>
+      <p begin="02:16.020" end="02:24.020" ttm:agent="v1">All the fears we let consume us</p>
+      <p begin="02:34.940" end="02:39.860" ttm:agent="v1">Hold on tight my friend</p>
+      <p begin="02:39.860" end="02:43.870" ttm:agent="v1">We'll escape the rain</p>
+      <p begin="02:43.870" end="02:49.090" ttm:agent="v1">That wakes you in the night</p>
+      <p begin="02:49.090" end="02:52.180" ttm:agent="v1">And drags you down</p>
+      <p begin="02:52.180" end="03:00.180" ttm:agent="v1">To keep you here in this place we called home</p>
+      <p begin="03:29.620" end="03:37.620" ttm:agent="v1">We're just laughing in the wind as everything below us starts to die</p>
+      <p begin="03:41.520" end="03:49.520" ttm:agent="v1">And I know we'll find better land in time</p>
+      <p begin="03:55.180" end="03:59.180" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Rolex</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Ayo &amp; Teo</ttm:agent>
+      <ttm:item type="album">Rolex</ttm:item>
+      <ttm:item type="spotify_id">0pSBuHjILhNEo55xK1zrRt</ttm:item>
+      <itunes:duration>03:58.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:12.650" end="00:15.870" ttm:agent="v1">I just want a Rollie, Rollie, Rollie with a dab of ranch</p>
+      <p begin="00:15.870" end="00:19.220" ttm:agent="v1">I already got some designer to hold up my pants</p>
+      <p begin="00:19.220" end="00:22.710" ttm:agent="v1">I just want some ice on my wrist so I look better when I dance</p>
+      <p begin="00:22.710" end="00:25.710" ttm:agent="v1">Have you lookin' at it, put you in a trance</p>
+      <p begin="00:25.710" end="00:29.140" ttm:agent="v1">I just want a Rollie, Rollie, Rollie with a dab of ranch</p>
+      <p begin="00:29.140" end="00:32.460" ttm:agent="v1">I already got some designer to hold up my pants</p>
+      <p begin="00:32.460" end="00:36.120" ttm:agent="v1">I just want some ice on my wrist so I look better when I dance</p>
+      <p begin="00:36.120" end="00:38.920" ttm:agent="v1">Have you lookin' at it, put you in a trance</p>
+      <p begin="00:38.920" end="00:40.420" ttm:agent="v1">Yeah, yeah, yeah</p>
+      <p begin="00:40.330" end="00:43.910" ttm:agent="v1">All I ever wanted was a Rollie, Rollie</p>
+      <p begin="00:43.910" end="00:47.270" ttm:agent="v1">All I ever wanted was a Rollie, Rollie</p>
+      <p begin="00:47.270" end="00:50.620" ttm:agent="v1">Cooler than a snowman with the ice all on me</p>
+      <p begin="00:50.620" end="00:53.530" ttm:agent="v1" itunes:key="role" itunes:value="background">Now your chick all on me, now your chick all on me (she on me)</p>
+      <p begin="00:53.530" end="00:57.230" ttm:agent="v1">My Rollie don't tick tock, it just glide</p>
+      <p begin="00:57.230" end="01:00.380" ttm:agent="v1">Keep starin' at it and you might go blind</p>
+      <p begin="01:00.380" end="01:03.750" ttm:agent="v1">I be movin' clean, I don't even try</p>
+      <p begin="01:03.750" end="01:06.690" ttm:agent="v1">All I see is bands, bands, I spy</p>
+      <p begin="01:06.690" end="01:08.190" ttm:agent="v1">Yeah, dat way</p>
+      <p begin="01:07.840" end="01:10.000" ttm:agent="v1">I need that moola by Tuesday</p>
+      <p begin="01:10.000" end="01:11.500" ttm:agent="v1">Yeah, dat way</p>
+      <p begin="01:11.280" end="01:12.780" ttm:agent="v1">I low key feel like fungswae</p>
+      <p begin="01:12.780" end="01:14.290" ttm:agent="v1">I just now got started</p>
+      <p begin="01:14.290" end="01:15.810" ttm:agent="v1">Got views on views, I'm poppin'</p>
+      <p begin="01:15.810" end="01:17.530" ttm:agent="v1">My diamonds goin' retarded</p>
+      <p begin="01:17.530" end="01:19.030" ttm:agent="v1">Your girl on deck, it's a party</p>
+      <p begin="01:18.770" end="01:21.960" ttm:agent="v1">I just want a Rollie, Rollie, Rollie with a dab of ranch</p>
+      <p begin="01:21.960" end="01:25.360" ttm:agent="v1">I already got some designer to hold up my pants</p>
+      <p begin="01:25.360" end="01:29.010" ttm:agent="v1">I just want some ice on my wrist so I look better when I dance</p>
+      <p begin="01:29.010" end="01:32.040" ttm:agent="v1">Have you lookin' at it, put you in a trance</p>
+      <p begin="01:32.040" end="01:35.320" ttm:agent="v1">I just want a Rollie, Rollie, Rollie with a dab of ranch</p>
+      <p begin="01:35.320" end="01:38.570" ttm:agent="v1">I already got some designer to hold up my pants</p>
+      <p begin="01:38.570" end="01:42.310" ttm:agent="v1">I just want some ice on my wrist so I look better when I dance</p>
+      <p begin="01:42.310" end="01:44.750" ttm:agent="v1">Have you lookin' at it, put you in a trance</p>
+      <p begin="01:44.750" end="01:46.780" ttm:agent="v1">Yeah, yeah, yeah</p>
+      <p begin="01:46.780" end="01:50.030" ttm:agent="v1">All I ever wanted was a Rollie, Rollie</p>
+      <p begin="01:50.030" end="01:53.390" ttm:agent="v1">All I ever wanted was a Rollie, Rollie</p>
+      <p begin="01:53.390" end="01:56.650" ttm:agent="v1">Cooler than a snowman with the ice all on me</p>
+      <p begin="01:56.650" end="01:59.660" ttm:agent="v1" itunes:key="role" itunes:value="background">Now your chick all on me, now your chick all on me (she on me)</p>
+      <p begin="01:59.660" end="02:02.810" ttm:agent="v1">Blue face Rollie, red face Rollie, ayy</p>
+      <p begin="02:02.810" end="02:06.180" ttm:agent="v1">Purple face Rollie like some Teletubbies, ayy</p>
+      <p begin="02:06.180" end="02:09.370" ttm:agent="v1">Baby diamonds wet, shinin' like some guppies</p>
+      <p begin="02:09.370" end="02:12.590" ttm:agent="v1">Your man's hatin', probably 'cause his girl love me, ayy</p>
+      <p begin="02:12.590" end="02:16.010" ttm:agent="v1">I pull up to the mall and I'm flexin' on your hoe</p>
+      <p begin="02:16.010" end="02:19.400" ttm:agent="v1">Galio in the cut, and he got them buffies ayy</p>
+      <p begin="02:19.400" end="02:22.620" ttm:agent="v1">Whiteskins got me goin' crazy, crazy, ayy</p>
+      <p begin="02:22.620" end="02:26.190" ttm:agent="v1" itunes:key="role" itunes:value="background">Your girl love me 'cause she prolly want my baby, ayy (woo)</p>
+      <p begin="02:26.190" end="02:29.360" ttm:agent="v1">Ice on my neck cost like five K</p>
+      <p begin="02:29.360" end="02:32.620" ttm:agent="v1" itunes:key="role" itunes:value="background">I want a girl built just like Kim K (she thick)</p>
+      <p begin="02:32.620" end="02:35.730" ttm:agent="v1">Karate chop that bitch just like a sensei</p>
+      <p begin="02:35.730" end="02:38.160" ttm:agent="v1">Pull over in a 'Rari or a Bentley, ayy</p>
+      <p begin="02:38.160" end="02:41.300" ttm:agent="v1">I just want a Rollie, Rollie, Rollie with a dab of ranch</p>
+      <p begin="02:41.300" end="02:44.810" ttm:agent="v1">I already got some designer to hold up my pants</p>
+      <p begin="02:44.810" end="02:48.440" ttm:agent="v1">I just want some ice on my wrist so I look better when I dance</p>
+      <p begin="02:48.440" end="02:51.300" ttm:agent="v1">Have you lookin' at it, put you in a trance</p>
+      <p begin="02:51.300" end="02:54.640" ttm:agent="v1">I just want a Rollie, Rollie, Rollie with a dab of ranch</p>
+      <p begin="02:54.640" end="02:58.020" ttm:agent="v1">I already got some designer to hold up my pants</p>
+      <p begin="02:58.020" end="03:01.770" ttm:agent="v1">I just want some ice on my wrist so I look better when I dance</p>
+      <p begin="03:01.770" end="03:04.210" ttm:agent="v1">Have you lookin' at it, put you in a trance</p>
+      <p begin="03:04.210" end="03:06.030" ttm:agent="v1">Yeah, yeah, yeah</p>
+      <p begin="03:06.030" end="03:09.520" ttm:agent="v1">All I ever wanted was a Rollie, Rollie</p>
+      <p begin="03:09.520" end="03:12.930" ttm:agent="v1">All I ever wanted was a Rollie, Rollie</p>
+      <p begin="03:12.930" end="03:16.210" ttm:agent="v1">Cooler than a snowman with the ice all on me</p>
+      <p begin="03:16.210" end="03:21.330" ttm:agent="v1" itunes:key="role" itunes:value="background">Now your chick all on me, now your chick all on me (she on me)</p>
+      <p begin="03:21.330" end="03:24.140" ttm:agent="v1"/>
+      <p begin="03:24.140" end="03:27.680" ttm:agent="v1">All I ever wanted was a Rollie</p>
+      <p begin="03:27.680" end="03:31.800" ttm:agent="v1">All I ever wanted was a Rollie</p>
+      <p begin="03:31.800" end="03:34.980" ttm:agent="v1">I just want a Rollie</p>
+      <p begin="03:34.980" end="03:38.180" ttm:agent="v1">I just want a Rollie</p>
+      <p begin="03:38.180" end="03:40.050" ttm:agent="v1">I just want a</p>
+      <p begin="03:40.050" end="03:41.550" ttm:agent="v1">I just want a Rollie</p>
+      <p begin="03:41.190" end="03:45.190" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

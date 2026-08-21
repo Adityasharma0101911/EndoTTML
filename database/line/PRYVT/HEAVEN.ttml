@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>HEAVEN</ttm:title>
+      <ttm:agent type="person" xml:id="v1">PRYVT</ttm:agent>
+      <ttm:item type="album">BACK TO REALITY</ttm:item>
+      <ttm:item type="spotify_id">1yuB0XLliqH7OOijYIF7X4</ttm:item>
+      <itunes:duration>01:51.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:20.190" end="00:25.480" ttm:agent="v1">Forget about what we said</p>
+      <p begin="00:25.480" end="00:31.320" ttm:agent="v1">The past is all gone, all a waste</p>
+      <p begin="00:31.320" end="00:36.190" ttm:agent="v1">Leave it behind, yesterday</p>
+      <p begin="00:36.190" end="00:41.480" ttm:agent="v1">The flowers will bloom ′til it fades away</p>
+      <p begin="00:41.480" end="00:47.030" ttm:agent="v1">Stuck with your melodies, it's like they′re making fun of me</p>
+      <p begin="00:47.030" end="00:52.460" ttm:agent="v1">Giving me hope but I'm lost in this dream</p>
+      <p begin="00:52.460" end="00:57.540" ttm:agent="v1">I see you through, so perfect and true</p>
+      <p begin="00:57.540" end="01:03.380" ttm:agent="v1">My feelings decay when I know its not you</p>
+      <p begin="01:03.380" end="01:08.170" ttm:agent="v1">Heaven is where you want me to be</p>
+      <p begin="01:08.170" end="01:13.910" ttm:agent="v1">They're seeking the finer things but for me</p>
+      <p begin="01:13.910" end="01:18.930" ttm:agent="v1">All I want is you to be face to face, smiling back</p>
+      <p begin="01:18.930" end="01:24.320" ttm:agent="v1" itunes:key="role" itunes:value="background">(′Cause I know at last)</p>
+      <p begin="01:24.320" end="01:29.520" ttm:agent="v1">Facing unknown, colorful worlds</p>
+      <p begin="01:29.520" end="01:34.740" ttm:agent="v1">Familiar places, I′ll tell you all about it</p>
+      <p begin="01:34.740" end="01:40.220" ttm:agent="v1">So please don't go far, ′cause wherever you are</p>
+      <p begin="01:40.220" end="01:48.220" ttm:agent="v1">My heaven or hell opens up, 'cause you are my only love</p>
+      <p begin="01:50.700" end="01:54.700" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

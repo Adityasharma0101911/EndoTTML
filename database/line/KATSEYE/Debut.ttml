@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Debut</ttm:title>
+      <ttm:agent type="person" xml:id="v1">KATSEYE</ttm:agent>
+      <ttm:item type="album">Debut</ttm:item>
+      <ttm:item type="spotify_id">58AZXyKRlsMBMcrRjpJpVG</ttm:item>
+      <itunes:duration>02:04.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.340" end="00:03.810" ttm:agent="v1">La, la-la, la-la-la, la, la</p>
+      <p begin="00:03.810" end="00:08.160" ttm:agent="v1">La, la-la, la-la-la, la, la</p>
+      <p begin="00:08.160" end="00:09.970" ttm:agent="v1">I don't need no one-two-three</p>
+      <p begin="00:09.970" end="00:12.010" ttm:agent="v1">Not bourgeoisie, i'll step in</p>
+      <p begin="00:12.010" end="00:13.680" ttm:agent="v1">Know just how to make a scene</p>
+      <p begin="00:13.680" end="00:15.750" ttm:agent="v1">Just me, myself, my best friends</p>
+      <p begin="00:15.750" end="00:19.210" ttm:agent="v1">Uh-huh, i like it, it's simple as that</p>
+      <p begin="00:19.210" end="00:23.830" ttm:agent="v1" itunes:key="role" itunes:value="background">That's right, uh-huh, i like it, i keep coming back (huh, uh)</p>
+      <p begin="00:23.830" end="00:27.510" ttm:agent="v1">I don't need nobody, tryna tell me how to run it</p>
+      <p begin="00:27.510" end="00:31.370" ttm:agent="v1">Found myself some baddies, 'bout to turn it to a hundred</p>
+      <p begin="00:31.370" end="00:34.890" ttm:agent="v1">Uh-huh, they like it, it's simple as that</p>
+      <p begin="00:34.890" end="00:38.990" ttm:agent="v1">That's right, uh-huh, they like it, they keep coming back</p>
+      <p begin="00:38.990" end="00:40.990" ttm:agent="v1">Oh, we-ee-ee ain't flexin'</p>
+      <p begin="00:40.990" end="00:42.720" ttm:agent="v1">Babe, we do what we do</p>
+      <p begin="00:42.720" end="00:44.330" ttm:agent="v1">Wanna pull up on us?</p>
+      <p begin="00:44.330" end="00:46.680" ttm:agent="v1">Check in at the gate and come through</p>
+      <p begin="00:46.680" end="00:50.850" ttm:agent="v1">We can run it, run it, run it, no, this ain't a debut</p>
+      <p begin="00:50.850" end="00:53.340" ttm:agent="v1">Love me once, i know you'll love me twice</p>
+      <p begin="00:53.340" end="00:55.100" ttm:agent="v1">Love me once, the naughty turns to nice</p>
+      <p begin="00:55.100" end="00:58.990" ttm:agent="v1">La, la-la, la-la-la, la, la</p>
+      <p begin="00:58.990" end="01:02.820" ttm:agent="v1">I don't need no cookie cutter, perfect ordinary</p>
+      <p begin="01:02.820" end="01:06.690" ttm:agent="v1">Can find me under ride or die inside that dictionary</p>
+      <p begin="01:06.690" end="01:10.350" ttm:agent="v1">Babe, uh-huh, they like it, it's simple as that</p>
+      <p begin="01:10.350" end="01:14.320" ttm:agent="v1">That's right, uh-huh, they like it, they keep coming back</p>
+      <p begin="01:14.320" end="01:16.610" ttm:agent="v1">Oh, we-ee-ee ain't flexin'</p>
+      <p begin="01:16.610" end="01:18.220" ttm:agent="v1">Babe, we do what we do</p>
+      <p begin="01:18.220" end="01:19.790" ttm:agent="v1">Wanna pull up on us?</p>
+      <p begin="01:19.790" end="01:22.270" ttm:agent="v1">Check in at the gate and come through</p>
+      <p begin="01:22.270" end="01:26.550" ttm:agent="v1">We can run it, run it, run it, no, this ain't a debut</p>
+      <p begin="01:26.550" end="01:28.440" ttm:agent="v1">Love me once, i know you'll love me twice</p>
+      <p begin="01:28.440" end="01:30.410" ttm:agent="v1">Love me once, the naughty turns to nice</p>
+      <p begin="01:30.410" end="01:31.950" ttm:agent="v1">Oh, we-ee-ee ain't flexin'</p>
+      <p begin="01:31.950" end="01:33.600" ttm:agent="v1">Babe, we do what we do</p>
+      <p begin="01:33.600" end="01:35.280" ttm:agent="v1">Wanna pull up on us?</p>
+      <p begin="01:35.280" end="01:37.960" ttm:agent="v1">Check in at the gate and come through</p>
+      <p begin="01:37.960" end="01:42.180" ttm:agent="v1">We can run it, run it, run it, no, this ain't a debut</p>
+      <p begin="01:42.180" end="01:44.240" ttm:agent="v1">Love me once, i know you'll love me twice</p>
+      <p begin="01:44.240" end="01:46.580" ttm:agent="v1">Love me once, the naughty turns to nice</p>
+      <p begin="01:46.580" end="01:50.020" ttm:agent="v1">La, la-la, la-la-la, la, la</p>
+      <p begin="01:50.020" end="01:52.550" ttm:agent="v1">La, la-la, la</p>
+      <p begin="01:52.550" end="01:54.060" ttm:agent="v1">Love me once, i know you'll love me twice</p>
+      <p begin="01:54.060" end="01:57.910" ttm:agent="v1">La, la-la, la-la-la, la, la</p>
+      <p begin="01:57.910" end="02:00.050" ttm:agent="v1">Love me once, i know you'll love me twice</p>
+      <p begin="02:00.050" end="02:01.950" ttm:agent="v1">Love me once, it's time to roll the dice</p>
+      <p begin="02:01.950" end="02:05.950" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

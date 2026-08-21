@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Indiana Jones</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Yuno Miles</ttm:agent>
+      <ttm:item type="album">Indiana Jones</ttm:item>
+      <ttm:item type="spotify_id">5PDPAxwraBHCOhe21caAp8</ttm:item>
+      <itunes:duration>01:04.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:05.170" end="00:08.020" ttm:agent="v1" itunes:key="role" itunes:value="background">(Vinxia)</p>
+      <p begin="00:08.020" end="00:10.150" ttm:agent="v1" itunes:key="role" itunes:value="background">(Wooskii, I think we got one)</p>
+      <p begin="00:10.150" end="00:18.150" ttm:agent="v1"/>
+      <p begin="00:20.730" end="00:23.020" ttm:agent="v1">Bitch, I'm in the field, nigga, call me Indiana Jones</p>
+      <p begin="00:23.020" end="00:25.410" ttm:agent="v1">Feel like Soulja Boy today, so kiss me through the phone</p>
+      <p begin="00:25.410" end="00:28.390" ttm:agent="v1">Feel like Usher yesterday in the shower, bitch, I was burnin'</p>
+      <p begin="00:28.390" end="00:31.010" ttm:agent="v1">This nigga really think he in Indiana, he not Indiana Jones</p>
+      <p begin="00:31.010" end="00:33.440" ttm:agent="v1">This nigga thought he bought a beagle, that nigga bought a duck</p>
+      <p begin="00:33.440" end="00:36.070" ttm:agent="v1">Tried to fit in a skinny hole, why my dumbass get stuck?</p>
+      <p begin="00:36.070" end="00:38.550" ttm:agent="v1">Tried to buy a BMW, but I just bought a random truck</p>
+      <p begin="00:38.550" end="00:41.220" ttm:agent="v1">She keep calling my phone, I'm like, &quot;Damn, girl, what the fuck?&quot;</p>
+      <p begin="00:41.220" end="00:44.220" ttm:agent="v1">Stopped going to Taco Bell, why the fuck they had my stomach hurtin'?</p>
+      <p begin="00:44.220" end="00:46.880" ttm:agent="v1">This girl asked for her number, I had bought her a Birkin</p>
+      <p begin="00:46.880" end="00:49.390" ttm:agent="v1">My momma mad, because she at home, her pockets hurting</p>
+      <p begin="00:49.390" end="00:52.300" ttm:agent="v1">If you don't give up on rappin', I swear one day, it's gon' work, man</p>
+      <p begin="00:52.300" end="00:56.300" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Sour Grapes</ttm:title>
+      <ttm:agent type="person" xml:id="v1">LE SSERAFIM</ttm:agent>
+      <ttm:item type="album">FEARLESS</ttm:item>
+      <ttm:item type="spotify_id">6wBpO4Xc4YgShnENGSFA1M</ttm:item>
+      <itunes:duration>03:17.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:02.720" end="00:10.720" ttm:agent="v1">Duru-ruru-dudu, yeah, yeah</p>
+      <p begin="00:13.230" end="00:16.380" ttm:agent="v1">Oh, nado moreuge</p>
+      <p begin="00:16.380" end="00:20.230" ttm:agent="v1">Dalkomhae nan chimi goyeo igeon sarang maja</p>
+      <p begin="00:20.230" end="00:23.400" ttm:agent="v1">Neol hancham noryeobwa</p>
+      <p begin="00:23.400" end="00:27.320" ttm:agent="v1">Nae sone ttuk tteoreojigil gidarigo isseo</p>
+      <p begin="00:27.320" end="00:31.030" ttm:agent="v1">Gatgo sipeo sonswipge</p>
+      <p begin="00:31.030" end="00:34.380" ttm:agent="v1">Nangmanjeogin fairy-tale</p>
+      <p begin="00:34.380" end="00:37.770" ttm:agent="v1">Sadarireul oreul ttae</p>
+      <p begin="00:37.770" end="00:41.050" ttm:agent="v1">Du bararae nan ajjilhae</p>
+      <p begin="00:41.050" end="00:44.690" ttm:agent="v1">Heona jom deo gilge pareul ppeodeodo</p>
+      <p begin="00:44.690" end="00:48.230" ttm:agent="v1">Dachi ana dwikkumchireul deureodo</p>
+      <p begin="00:48.230" end="00:51.370" ttm:agent="v1">Domujiga sone jwil su eopneun love</p>
+      <p begin="00:51.370" end="00:55.560" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, irodaga naman dachigesseo (yeah, you'll hurt me)</p>
+      <p begin="00:55.560" end="00:58.450" ttm:agent="v1">Pureut ssapssareumhae I don't wanna taste</p>
+      <p begin="00:58.450" end="01:01.930" ttm:agent="v1">Mwo geuri dalkomhajin aneul geot gata</p>
+      <p begin="01:01.930" end="01:05.450" ttm:agent="v1">Seorigun gamjeongdeuri I just feel afraid</p>
+      <p begin="01:05.450" end="01:08.640" ttm:agent="v1">I'll never bite, I'll never bite the pain</p>
+      <p begin="01:08.640" end="01:12.100" ttm:agent="v1" itunes:key="role" itunes:value="background">(Sour) Nunmul nage sikeumhan mat</p>
+      <p begin="01:12.100" end="01:15.760" ttm:agent="v1" itunes:key="role" itunes:value="background">(Sour) Geureon ge manyak sarangimyeon</p>
+      <p begin="01:15.760" end="01:19.080" ttm:agent="v1">Matbogo sipji ana I just feel afraid</p>
+      <p begin="01:19.080" end="01:22.210" ttm:agent="v1">Love is sour, love is sour grapes</p>
+      <p begin="01:22.210" end="01:24.680" ttm:agent="v1">Nuni seuchimyeon</p>
+      <p begin="01:24.680" end="01:28.750" ttm:agent="v1">Gakkeumssigeun mam kkeuchi jom tteolligido haesseo</p>
+      <p begin="01:28.750" end="01:31.610" ttm:agent="v1">Cheoeum neukkyeoboneun heart</p>
+      <p begin="01:31.610" end="01:36.030" ttm:agent="v1">Han ip jeongdo kkaemundamyeon eotteolkkado haesseo</p>
+      <p begin="01:36.030" end="01:39.610" ttm:agent="v1">Bulgeojineun yeolmaee</p>
+      <p begin="01:39.610" end="01:42.870" ttm:agent="v1">Siseoneul da ppaetgin chae</p>
+      <p begin="01:42.870" end="01:46.490" ttm:agent="v1">Gaji kkeute dallin grapes</p>
+      <p begin="01:46.490" end="01:49.690" ttm:agent="v1">Daldalhalkka sangsanghae</p>
+      <p begin="01:49.690" end="01:53.090" ttm:agent="v1">Heona han georeumssik georil jophyeodo</p>
+      <p begin="01:53.090" end="01:56.620" ttm:agent="v1">Neoui soneul jabul suneun eopneun-geol</p>
+      <p begin="01:56.620" end="01:59.830" ttm:agent="v1">Sadari jeo neomeo wie noin love</p>
+      <p begin="01:59.830" end="02:04.080" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, naman gwaenhi sangcheobatgin silheo (yeah, you'll hurt me)</p>
+      <p begin="02:04.080" end="02:07.250" ttm:agent="v1">Pureut ssapssareumhae I don't wanna taste</p>
+      <p begin="02:07.250" end="02:10.640" ttm:agent="v1">Mwo geuri dalkomhajin aneul geot gata</p>
+      <p begin="02:10.640" end="02:14.000" ttm:agent="v1">Seorigun gamjeongdeuri I just feel afraid</p>
+      <p begin="02:14.000" end="02:17.190" ttm:agent="v1">I'll never bite, I'll never bite the pain</p>
+      <p begin="02:17.190" end="02:20.420" ttm:agent="v1" itunes:key="role" itunes:value="background">(Sour) Nunmul nage sikeumhan mat</p>
+      <p begin="02:20.420" end="02:24.380" ttm:agent="v1" itunes:key="role" itunes:value="background">(Sour) Geureon ge manyak sarangimyeon</p>
+      <p begin="02:24.380" end="02:27.650" ttm:agent="v1">Matbogo sipji ana I just feel afraid</p>
+      <p begin="02:27.650" end="02:31.020" ttm:agent="v1">Love is sour, love is sour grapes</p>
+      <p begin="02:31.020" end="02:32.520" ttm:agent="v1">Chakgageun ma</p>
+      <p begin="02:32.410" end="02:36.120" ttm:agent="v1">Ttakhi neol johahan jeok eopsneun-gakkaji</p>
+      <p begin="02:36.120" end="02:39.490" ttm:agent="v1">Jogeumdo aswipjiga antanikkaji</p>
+      <p begin="02:39.490" end="02:45.270" ttm:agent="v1">Naega nal sogyeo all day, all night, yeah</p>
+      <p begin="02:45.270" end="02:48.250" ttm:agent="v1">Ajik eoseolpeuge ikji aneun grapes</p>
+      <p begin="02:48.250" end="02:51.840" ttm:agent="v1">Amado naegen ttaega anin geot gata</p>
+      <p begin="02:51.840" end="02:55.110" ttm:agent="v1">Pureuthage ajik seorigun ne scent</p>
+      <p begin="02:55.110" end="02:58.350" ttm:agent="v1">I'm feeling scared, I'm feeling scared, yeah</p>
+      <p begin="02:58.350" end="03:01.600" ttm:agent="v1" itunes:key="role" itunes:value="background">(Sour) Nunmul nage sikeumhan mat</p>
+      <p begin="03:01.600" end="03:05.380" ttm:agent="v1" itunes:key="role" itunes:value="background">(Sour) Geureon ge manyak sarangimyeon</p>
+      <p begin="03:05.380" end="03:08.860" ttm:agent="v1">Matbogo sipji ana I just feel afraid</p>
+      <p begin="03:08.860" end="03:11.780" ttm:agent="v1">Love is sour, love is sour grapes</p>
+      <p begin="03:11.780" end="03:15.780" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

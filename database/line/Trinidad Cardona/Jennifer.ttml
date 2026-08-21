@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Jennifer</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Trinidad Cardona</ttm:agent>
+      <ttm:item type="album">Jennifer</ttm:item>
+      <ttm:item type="spotify_id">5ZJ9wxMqAhIOekYLmukc2L</ttm:item>
+      <itunes:duration>03:33.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:02.260" end="00:08.690" ttm:agent="v1">Oh, oh, oh baby, oh</p>
+      <p begin="00:08.690" end="00:16.690" ttm:agent="v1" itunes:key="role" itunes:value="background">No, oh my, baby oh (my, my, my, my,my)</p>
+      <p begin="00:19.920" end="00:25.180" ttm:agent="v1">Oh my, baby, oh</p>
+      <p begin="00:25.180" end="00:27.540" ttm:agent="v1">I'm reachin' for your soul</p>
+      <p begin="00:27.540" end="00:34.170" ttm:agent="v1">Oh my, I'm reachin' for your soul, oh my</p>
+      <p begin="00:34.170" end="00:36.760" ttm:agent="v1">Jennifer would you prefer</p>
+      <p begin="00:36.760" end="00:38.660" ttm:agent="v1">I know you playin' games</p>
+      <p begin="00:38.660" end="00:40.570" ttm:agent="v1">I know that's how it work</p>
+      <p begin="00:40.570" end="00:44.270" ttm:agent="v1">The first girl that I loved, first girl that I hurt</p>
+      <p begin="00:44.270" end="00:48.220" ttm:agent="v1">I'm calling out for Jennifer, been calling out for her</p>
+      <p begin="00:48.220" end="00:52.300" ttm:agent="v1">I'm calling for you Jennifer, oh my</p>
+      <p begin="00:52.300" end="00:55.900" ttm:agent="v1">The pain in your eyes, when I slipped up and fucked Caroline</p>
+      <p begin="00:55.900" end="01:00.090" ttm:agent="v1">I know you playin' games, girl you on my mind</p>
+      <p begin="01:00.090" end="01:03.460" ttm:agent="v1">The girl I wanna finish with until the end of time</p>
+      <p begin="01:03.460" end="01:06.440" ttm:agent="v1">And now I'm like</p>
+      <p begin="01:06.440" end="01:10.100" ttm:agent="v1">Oh my, baby, oh</p>
+      <p begin="01:10.100" end="01:18.100" ttm:agent="v1">No, alright, oh, oh baby, oh</p>
+      <p begin="01:18.120" end="01:26.120" ttm:agent="v1" itunes:key="role" itunes:value="background">No, alright, oh my, baby, oh (my, my, my, my, my)</p>
+      <p begin="01:27.000" end="01:31.000" ttm:agent="v1">I'm reaching for your soul, oh my</p>
+      <p begin="01:31.000" end="01:35.760" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm reaching for your soul, oh my (you still love me? Yeah)</p>
+      <p begin="01:35.760" end="01:39.350" ttm:agent="v1">I whip, she stunt, we milly rock when we walk</p>
+      <p begin="01:39.350" end="01:43.110" ttm:agent="v1">She never leavin' me out, I'm never lettin' her down</p>
+      <p begin="01:43.110" end="01:47.030" ttm:agent="v1">I never leave my baby, 'cause she my leader</p>
+      <p begin="01:47.030" end="01:49.500" ttm:agent="v1">I'm gonna see her in heaven</p>
+      <p begin="01:49.500" end="01:51.380" ttm:agent="v1">I'm gonna fear her</p>
+      <p begin="01:51.380" end="01:54.060" ttm:agent="v1">Jennifer would you prefer</p>
+      <p begin="01:54.060" end="01:55.620" ttm:agent="v1">I know you playin' games</p>
+      <p begin="01:55.620" end="01:57.610" ttm:agent="v1">I know that's how it work</p>
+      <p begin="01:57.610" end="02:01.370" ttm:agent="v1">The first girl that I loved, first girl that I hurt</p>
+      <p begin="02:01.370" end="02:05.350" ttm:agent="v1">I'm calling out for Jennifer, been calling out for her</p>
+      <p begin="02:05.350" end="02:09.660" ttm:agent="v1">I'm calling for you Jennifer, oh my</p>
+      <p begin="02:09.660" end="02:13.400" ttm:agent="v1">The pain in your eyes, when I slipped up and fucked Caroline</p>
+      <p begin="02:13.400" end="02:17.070" ttm:agent="v1">I know you playin' games, girl you on my mind</p>
+      <p begin="02:17.070" end="02:20.800" ttm:agent="v1">The girl I wanna finish with until end of time</p>
+      <p begin="02:20.800" end="02:26.360" ttm:agent="v1">And now I'm like</p>
+      <p begin="02:26.360" end="02:30.060" ttm:agent="v1">Jennifer, Jennifer, aye</p>
+      <p begin="02:30.060" end="02:31.810" ttm:agent="v1">Jennifer, Jennifer let me know</p>
+      <p begin="02:31.810" end="02:33.310" ttm:agent="v1">Let me work, 'fore I'm all in the dirt</p>
+      <p begin="02:33.230" end="02:35.170" ttm:agent="v1">One call from the boy, never gon' berzerk</p>
+      <p begin="02:35.170" end="02:36.670" ttm:agent="v1">What you want from my 'Ma?</p>
+      <p begin="02:36.230" end="02:37.730" ttm:agent="v1">So I'm watching you twerk</p>
+      <p begin="02:37.280" end="02:38.780" ttm:agent="v1">See your boy on a wave</p>
+      <p begin="02:38.320" end="02:39.820" ttm:agent="v1">Know they all gonna surf</p>
+      <p begin="02:39.170" end="02:40.670" ttm:agent="v1">You're the love of my life</p>
+      <p begin="02:40.090" end="02:41.590" ttm:agent="v1">'Til we leavin' the Earth</p>
+      <p begin="02:41.030" end="02:42.530" ttm:agent="v1">See, the pain you brought</p>
+      <p begin="02:42.030" end="02:43.530" ttm:agent="v1">'Cause I did do you work</p>
+      <p begin="02:42.990" end="02:44.710" ttm:agent="v1">My love never die, multiply, to two thirds</p>
+      <p begin="02:44.710" end="02:46.830" ttm:agent="v1">She ridin' with me, and I'm being honest</p>
+      <p begin="02:46.830" end="02:48.620" ttm:agent="v1">If you fuckin' with us, got the crew behind us</p>
+      <p begin="02:48.620" end="02:50.510" ttm:agent="v1">I been, grillin' niggas, I got Benihana's</p>
+      <p begin="02:50.510" end="02:52.510" ttm:agent="v1">Only foreign women, no Americanas</p>
+      <p begin="02:52.510" end="02:54.470" ttm:agent="v1">I been fuckin' wit her, and her 2 hermanas</p>
+      <p begin="02:54.470" end="02:56.390" ttm:agent="v1">Dime que te gusta y te veo mañana</p>
+      <p begin="02:56.390" end="02:58.510" ttm:agent="v1">Call me Papi Chuloh, hotter than the sun</p>
+      <p begin="02:58.510" end="03:00.670" ttm:agent="v1">Now she rubbin' on her, like she rubbin' Rana, that's</p>
+      <p begin="03:00.670" end="03:03.230" ttm:agent="v1">Jennifer would you prefer</p>
+      <p begin="03:03.230" end="03:05.210" ttm:agent="v1">I know you playin' games</p>
+      <p begin="03:05.210" end="03:06.990" ttm:agent="v1">I know that's how it work</p>
+      <p begin="03:06.990" end="03:10.990" ttm:agent="v1">The first girl that I loved, first girl that I hurt</p>
+      <p begin="03:10.990" end="03:14.490" ttm:agent="v1">I'm calling out for Jennifer, been calling out for her</p>
+      <p begin="03:14.490" end="03:18.660" ttm:agent="v1">I'm calling for you Jennifer, oh my</p>
+      <p begin="03:18.660" end="03:22.760" ttm:agent="v1">The pain in your eyes, when I slipped up and fucked Caroline</p>
+      <p begin="03:22.760" end="03:26.510" ttm:agent="v1">I know you playin' games, girl you on my mind</p>
+      <p begin="03:26.510" end="03:30.310" ttm:agent="v1">The girl I wanna finish with until the end of time</p>
+      <p begin="03:30.310" end="03:34.310" ttm:agent="v1">And now I'm like</p>
+    </div>
+  </body>
+</tt>

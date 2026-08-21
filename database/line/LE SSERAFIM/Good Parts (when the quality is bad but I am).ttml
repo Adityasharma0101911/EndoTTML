@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Good Parts (when the quality is bad but I am)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">LE SSERAFIM</ttm:agent>
+      <ttm:item type="album">ANTIFRAGILE</ttm:item>
+      <ttm:item type="spotify_id">1sZBzYhrQG40zcSuKkI93c</ttm:item>
+      <itunes:duration>02:36.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.660" end="00:03.390" ttm:agent="v1">I just wanna love myself</p>
+      <p begin="00:03.390" end="00:07.880" ttm:agent="v1">난 좋을 때도 나쁠 때도, love my weakness</p>
+      <p begin="00:07.880" end="00:11.600" ttm:agent="v1">화려했던 기대와는 달리 왠지</p>
+      <p begin="00:11.600" end="00:17.890" ttm:agent="v1" itunes:key="role" itunes:value="background">볼품없다 해도, find the good parts, the good parts (ah)</p>
+      <p begin="00:17.890" end="00:19.670" ttm:agent="v1">얄궂은 phone 화면 위로</p>
+      <p begin="00:19.670" end="00:22.640" ttm:agent="v1">애꿎은 내 손가락만, tick, tick</p>
+      <p begin="00:22.640" end="00:26.490" ttm:agent="v1">Oh, my, 기분은 falling down</p>
+      <p begin="00:26.490" end="00:34.490" ttm:agent="v1">Pic of mine, zoom in, out, pretend I'm fine</p>
+      <p begin="00:34.590" end="00:37.030" ttm:agent="v1">I just wanna love myself</p>
+      <p begin="00:37.030" end="00:41.400" ttm:agent="v1">난 좋을 때도 나쁠 때도, love my weakness</p>
+      <p begin="00:41.400" end="00:45.260" ttm:agent="v1">화려했던 기대와는 달리 왠지</p>
+      <p begin="00:45.260" end="00:50.390" ttm:agent="v1">볼품없다 해도, find the good parts, the good parts</p>
+      <p begin="00:50.390" end="00:51.890" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh-ooh-ooh-ooh)</p>
+      <p begin="00:51.370" end="00:53.390" ttm:agent="v1" itunes:key="role" itunes:value="background">Good, good (oh-ooh-ooh-ooh)</p>
+      <p begin="00:53.390" end="00:55.240" ttm:agent="v1" itunes:key="role" itunes:value="background">Good, good (oh-ooh-ooh-ooh)</p>
+      <p begin="00:55.240" end="00:58.300" ttm:agent="v1">실수해도 좋아, find the good parts</p>
+      <p begin="00:58.300" end="00:59.800" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh-ooh-ooh-ooh)</p>
+      <p begin="00:59.210" end="01:01.390" ttm:agent="v1" itunes:key="role" itunes:value="background">Good, good (oh-ooh-ooh-ooh)</p>
+      <p begin="01:01.390" end="01:03.210" ttm:agent="v1" itunes:key="role" itunes:value="background">Good, good (oh-ooh-ooh-ooh)</p>
+      <p begin="01:03.210" end="01:07.220" ttm:agent="v1">이대로도 좋아, find the good parts</p>
+      <p begin="01:07.220" end="01:10.500" ttm:agent="v1">모든 게 so blurry 허나 바랜 polaroid</p>
+      <p begin="01:10.500" end="01:16.230" ttm:agent="v1">그게 때로는 better than the 4K cam</p>
+      <p begin="01:16.230" end="01:22.250" ttm:agent="v1">흐릿한 내 마음을 아름답게 해</p>
+      <p begin="01:22.250" end="01:24.500" ttm:agent="v1">I just wanna love myself</p>
+      <p begin="01:24.500" end="01:29.020" ttm:agent="v1">난 좋을 때도 나쁠 때도, love my weakness</p>
+      <p begin="01:29.020" end="01:32.820" ttm:agent="v1">화려했던 기대와는 달리 왠지</p>
+      <p begin="01:32.820" end="01:38.950" ttm:agent="v1">볼품없다 해도, find the good parts, the good parts</p>
+      <p begin="01:38.950" end="01:45.720" ttm:agent="v1">Like a film, 아련히 남을 오늘을 wanna share</p>
+      <p begin="01:45.720" end="01:48.760" ttm:agent="v1">좀 흐릿한 나 창핀한 reels</p>
+      <p begin="01:48.760" end="01:53.500" ttm:agent="v1">마주 볼 courage 그거면 충분해</p>
+      <p begin="01:53.500" end="01:56.790" ttm:agent="v1">'Cause I don't want to blame my weakness</p>
+      <p begin="01:56.790" end="02:00.950" ttm:agent="v1">있는 그대로의 나를 사랑할래</p>
+      <p begin="02:00.950" end="02:04.780" ttm:agent="v1">화려했던 기대와는 달리 왠지</p>
+      <p begin="02:04.780" end="02:09.690" ttm:agent="v1">볼품없다 해도, love my bad parts, my bad parts</p>
+      <p begin="02:09.690" end="02:11.190" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh-ooh-ooh-ooh)</p>
+      <p begin="02:10.860" end="02:12.740" ttm:agent="v1" itunes:key="role" itunes:value="background">Good, good (oh-ooh-ooh-ooh)</p>
+      <p begin="02:12.740" end="02:14.640" ttm:agent="v1" itunes:key="role" itunes:value="background">Good, good (oh-ooh-ooh-ooh)</p>
+      <p begin="02:14.640" end="02:17.640" ttm:agent="v1">실수해도 좋아, find the good parts</p>
+      <p begin="02:17.640" end="02:19.140" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh-ooh-ooh-ooh)</p>
+      <p begin="02:18.740" end="02:20.680" ttm:agent="v1" itunes:key="role" itunes:value="background">Good, good (oh-ooh-ooh-ooh)</p>
+      <p begin="02:20.680" end="02:22.740" ttm:agent="v1" itunes:key="role" itunes:value="background">Good, good (oh-ooh-ooh-ooh)</p>
+      <p begin="02:22.740" end="02:26.420" ttm:agent="v1">이대로도 좋아, find the good parts</p>
+      <p begin="02:26.420" end="02:28.570" ttm:agent="v1" itunes:key="role" itunes:value="background">Good, good (oh-ooh-ooh-ooh)</p>
+      <p begin="02:28.570" end="02:30.520" ttm:agent="v1" itunes:key="role" itunes:value="background">Good, good (oh-ooh-ooh-ooh)</p>
+      <p begin="02:30.520" end="02:33.320" ttm:agent="v1">실수해도 좋아, find the good parts</p>
+      <p begin="02:33.320" end="02:37.320" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

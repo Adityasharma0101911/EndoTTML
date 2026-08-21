@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>好想你</ttm:title>
+      <ttm:agent type="person" xml:id="v1">朱主爱</ttm:agent>
+      <ttm:item type="album">好想你</ttm:item>
+      <ttm:item type="spotify_id">7r8AgJZ3cyFQ9GFJsDTdbU</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:01.290" end="00:04.470" ttm:agent="v1">
+        <span begin="00:01.290" end="00:01.930">想 </span>
+        <span begin="00:01.930" end="00:02.520">要 </span>
+        <span begin="00:02.520" end="00:02.820">传 </span>
+        <span begin="00:02.820" end="00:02.920">送 </span>
+        <span begin="00:02.920" end="00:03.070">一 </span>
+        <span begin="00:03.070" end="00:03.220">封 </span>
+        <span begin="00:03.220" end="00:03.470">简 </span>
+        <span begin="00:03.470" end="00:03.830">讯 </span>
+        <span begin="00:03.830" end="00:04.150">给 </span>
+        <span begin="00:04.150" end="00:04.470">你</span>
+      </p>
+      <p begin="00:04.770" end="00:06.600" ttm:agent="v1">
+        <span begin="00:04.770" end="00:05.020">我 </span>
+        <span begin="00:05.020" end="00:05.260">好 </span>
+        <span begin="00:05.260" end="00:05.650">想 </span>
+        <span begin="00:05.650" end="00:05.900">好 </span>
+        <span begin="00:05.900" end="00:06.320">想 </span>
+        <span begin="00:06.320" end="00:06.600">你</span>
+      </p>
+      <p begin="00:07.200" end="00:09.390" ttm:agent="v1">
+        <span begin="00:07.200" end="00:07.440">想 </span>
+        <span begin="00:07.440" end="00:07.560">要 </span>
+        <span begin="00:07.560" end="00:07.720">立 </span>
+        <span begin="00:07.720" end="00:07.840">刻 </span>
+        <span begin="00:07.840" end="00:08.000">打 </span>
+        <span begin="00:08.000" end="00:08.160">通 </span>
+        <span begin="00:08.160" end="00:08.460">电 </span>
+        <span begin="00:08.460" end="00:08.760">话 </span>
+        <span begin="00:08.760" end="00:09.090">给 </span>
+        <span begin="00:09.090" end="00:09.390">你</span>
+      </p>
+      <p begin="00:09.720" end="00:11.910" ttm:agent="v1">
+        <span begin="00:09.720" end="00:09.960">我 </span>
+        <span begin="00:09.960" end="00:10.250">好 </span>
+        <span begin="00:10.250" end="00:10.610">想 </span>
+        <span begin="00:10.610" end="00:10.880">好 </span>
+        <span begin="00:10.880" end="00:11.250">想 </span>
+        <span begin="00:11.250" end="00:11.910">你</span>
+      </p>
+      <p begin="00:12.170" end="00:14.430" ttm:agent="v1">
+        <span begin="00:12.170" end="00:12.340">每 </span>
+        <span begin="00:12.340" end="00:12.500">天 </span>
+        <span begin="00:12.500" end="00:12.670">起 </span>
+        <span begin="00:12.670" end="00:12.850">床 </span>
+        <span begin="00:12.850" end="00:12.960">的 </span>
+        <span begin="00:12.960" end="00:13.090">第 </span>
+        <span begin="00:13.090" end="00:13.330">一 </span>
+        <span begin="00:13.330" end="00:13.680">件 </span>
+        <span begin="00:13.680" end="00:13.930">事 </span>
+        <span begin="00:13.930" end="00:14.430">情</span>
+      </p>
+      <p begin="00:14.580" end="00:16.910" ttm:agent="v1">
+        <span begin="00:14.580" end="00:14.850">就 </span>
+        <span begin="00:14.850" end="00:14.930">是 </span>
+        <span begin="00:14.930" end="00:15.170">好 </span>
+        <span begin="00:15.170" end="00:15.530">想 </span>
+        <span begin="00:15.530" end="00:15.770">好 </span>
+        <span begin="00:15.770" end="00:16.220">想 </span>
+        <span begin="00:16.220" end="00:16.910">你</span>
+      </p>
+      <p begin="00:17.470" end="00:19.820" ttm:agent="v1">
+        <span begin="00:17.470" end="00:17.720">无 </span>
+        <span begin="00:17.720" end="00:18.030">论 </span>
+        <span begin="00:18.030" end="00:18.360">晴 </span>
+        <span begin="00:18.360" end="00:18.630">天 </span>
+        <span begin="00:18.630" end="00:18.970">还 </span>
+        <span begin="00:18.970" end="00:19.240">是 </span>
+        <span begin="00:19.240" end="00:19.680">下 </span>
+        <span begin="00:19.680" end="00:19.820">雨</span>
+      </p>
+      <p begin="00:19.820" end="00:21.850" ttm:agent="v1">
+        <span begin="00:19.820" end="00:19.920">都 </span>
+        <span begin="00:19.920" end="00:20.150">好 </span>
+        <span begin="00:20.150" end="00:20.450">想 </span>
+        <span begin="00:20.450" end="00:20.770">好 </span>
+        <span begin="00:20.770" end="00:21.120">想 </span>
+        <span begin="00:21.120" end="00:21.850">你</span>
+      </p>
+      <p begin="00:22.040" end="00:24.870" ttm:agent="v1">
+        <span begin="00:22.040" end="00:22.230">每 </span>
+        <span begin="00:22.230" end="00:22.380">次 </span>
+        <span begin="00:22.380" end="00:22.670">当 </span>
+        <span begin="00:22.670" end="00:22.980">我 </span>
+        <span begin="00:22.980" end="00:23.280">一 </span>
+        <span begin="00:23.280" end="00:23.610">说 </span>
+        <span begin="00:23.610" end="00:23.920">我 </span>
+        <span begin="00:23.920" end="00:24.220">好 </span>
+        <span begin="00:24.220" end="00:24.580">想 </span>
+        <span begin="00:24.580" end="00:24.870">你</span>
+      </p>
+      <p begin="00:24.870" end="00:26.770" ttm:agent="v1">
+        <span begin="00:24.870" end="00:25.170">你 </span>
+        <span begin="00:25.170" end="00:25.460">都 </span>
+        <span begin="00:25.460" end="00:25.720">不 </span>
+        <span begin="00:25.720" end="00:26.070">相 </span>
+        <span begin="00:26.070" end="00:26.770">信</span>
+      </p>
+      <p begin="00:27.010" end="00:31.430" ttm:agent="v1">
+        <span begin="00:27.010" end="00:27.170">但 </span>
+        <span begin="00:27.170" end="00:27.310">却 </span>
+        <span begin="00:27.310" end="00:27.740">总 </span>
+        <span begin="00:27.740" end="00:27.960">爱 </span>
+        <span begin="00:27.960" end="00:28.280">问 </span>
+        <span begin="00:28.280" end="00:28.550">我 </span>
+        <span begin="00:28.550" end="00:28.900">有 </span>
+        <span begin="00:28.900" end="00:29.220">没 </span>
+        <span begin="00:29.220" end="00:29.470">有 </span>
+        <span begin="00:29.470" end="00:30.160">想 </span>
+        <span begin="00:30.160" end="00:31.430">你</span>
+      </p>
+      <p begin="00:31.980" end="00:34.150" ttm:agent="v1">
+        <span begin="00:31.980" end="00:32.140">我 </span>
+        <span begin="00:32.140" end="00:32.270">不 </span>
+        <span begin="00:32.270" end="00:32.650">懂 </span>
+        <span begin="00:32.650" end="00:32.860">的 </span>
+        <span begin="00:32.860" end="00:33.170">甜 </span>
+        <span begin="00:33.170" end="00:33.480">言 </span>
+        <span begin="00:33.480" end="00:33.930">蜜 </span>
+        <span begin="00:33.930" end="00:34.150">语</span>
+      </p>
+      <p begin="00:34.150" end="00:36.700" ttm:agent="v1">
+        <span begin="00:34.150" end="00:34.430">所 </span>
+        <span begin="00:34.430" end="00:34.770">以 </span>
+        <span begin="00:34.770" end="00:34.960">只 </span>
+        <span begin="00:34.960" end="00:35.280">说 </span>
+        <span begin="00:35.280" end="00:35.610">好 </span>
+        <span begin="00:35.610" end="00:36.000">想 </span>
+        <span begin="00:36.000" end="00:36.700">你</span>
+      </p>
+      <p begin="00:36.930" end="00:38.430" ttm:agent="v1">
+        <span begin="00:36.930" end="00:37.100">反 </span>
+        <span begin="00:37.100" end="00:37.210">正 </span>
+        <span begin="00:37.210" end="00:37.520">说 </span>
+        <span begin="00:37.520" end="00:37.800">来 </span>
+        <span begin="00:37.800" end="00:38.090">说 </span>
+        <span begin="00:38.090" end="00:38.430">去</span>
+      </p>
+      <p begin="00:38.430" end="00:41.090" ttm:agent="v1">
+        <span begin="00:38.430" end="00:38.730">都 </span>
+        <span begin="00:38.730" end="00:38.990">只 </span>
+        <span begin="00:38.990" end="00:39.350">想 </span>
+        <span begin="00:39.350" end="00:39.720">让 </span>
+        <span begin="00:39.720" end="00:39.970">你 </span>
+        <span begin="00:39.970" end="00:40.250">开 </span>
+        <span begin="00:40.250" end="00:41.090">心</span>
+      </p>
+      <p begin="00:41.500" end="00:46.210" ttm:agent="v1">
+        <span begin="00:41.500" end="00:41.780">好 </span>
+        <span begin="00:41.780" end="00:42.210">想 </span>
+        <span begin="00:42.210" end="00:42.790">你 </span>
+        <span begin="00:42.790" end="00:43.060">好 </span>
+        <span begin="00:43.060" end="00:43.470">想 </span>
+        <span begin="00:43.470" end="00:44.000">你 </span>
+        <span begin="00:44.000" end="00:44.310">好 </span>
+        <span begin="00:44.310" end="00:44.680">想 </span>
+        <span begin="00:44.680" end="00:45.280">你 </span>
+        <span begin="00:45.280" end="00:45.530">好 </span>
+        <span begin="00:45.530" end="00:45.920">想 </span>
+        <span begin="00:45.920" end="00:46.210">你</span>
+      </p>
+      <p begin="00:46.830" end="00:48.710" ttm:agent="v1">
+        <span begin="00:46.830" end="00:47.060">是 </span>
+        <span begin="00:47.060" end="00:47.330">真 </span>
+        <span begin="00:47.330" end="00:47.430">的 </span>
+        <span begin="00:47.430" end="00:47.640">真 </span>
+        <span begin="00:47.640" end="00:47.730">的 </span>
+        <span begin="00:47.730" end="00:47.980">好 </span>
+        <span begin="00:47.980" end="00:48.370">想 </span>
+        <span begin="00:48.370" end="00:48.710">你</span>
+      </p>
+      <p begin="00:49.000" end="00:51.220" ttm:agent="v1">
+        <span begin="00:49.000" end="00:49.200">不 </span>
+        <span begin="00:49.200" end="00:49.510">是 </span>
+        <span begin="00:49.510" end="00:49.800">假 </span>
+        <span begin="00:49.800" end="00:49.890">的 </span>
+        <span begin="00:49.890" end="00:50.110">假 </span>
+        <span begin="00:50.110" end="00:50.190">的 </span>
+        <span begin="00:50.190" end="00:50.460">好 </span>
+        <span begin="00:50.460" end="00:50.880">想 </span>
+        <span begin="00:50.880" end="00:51.220">你</span>
+      </p>
+      <p begin="00:51.430" end="00:56.460" ttm:agent="v1">
+        <span begin="00:51.430" end="00:51.730">好 </span>
+        <span begin="00:51.730" end="00:52.030">想 </span>
+        <span begin="00:52.030" end="00:52.760">你 </span>
+        <span begin="00:52.760" end="00:52.990">好 </span>
+        <span begin="00:52.990" end="00:53.380">想 </span>
+        <span begin="00:53.380" end="00:53.930">你 </span>
+        <span begin="00:53.930" end="00:54.210">好 </span>
+        <span begin="00:54.210" end="00:54.570">想 </span>
+        <span begin="00:54.570" end="00:55.190">你 </span>
+        <span begin="00:55.190" end="00:55.420">好 </span>
+        <span begin="00:55.420" end="00:55.830">想 </span>
+        <span begin="00:55.830" end="00:56.460">你</span>
+      </p>
+      <p begin="00:56.700" end="00:58.590" ttm:agent="v1">
+        <span begin="00:56.700" end="00:56.940">是 </span>
+        <span begin="00:56.940" end="00:57.180">够 </span>
+        <span begin="00:57.180" end="00:57.330">力 </span>
+        <span begin="00:57.330" end="00:57.480">够 </span>
+        <span begin="00:57.480" end="00:57.640">力 </span>
+        <span begin="00:57.640" end="00:57.860">好 </span>
+        <span begin="00:57.860" end="00:58.260">想 </span>
+        <span begin="00:58.260" end="00:58.590">你</span>
+      </p>
+      <p begin="00:58.860" end="01:01.070" ttm:agent="v1">
+        <span begin="00:58.860" end="00:59.220">真 </span>
+        <span begin="00:59.220" end="00:59.470">的 </span>
+        <span begin="00:59.470" end="00:59.680">西 </span>
+        <span begin="00:59.680" end="00:59.790">北 </span>
+        <span begin="00:59.790" end="00:59.980">西 </span>
+        <span begin="00:59.980" end="01:00.070">北 </span>
+        <span begin="01:00.070" end="01:00.360">好 </span>
+        <span begin="01:00.360" end="01:00.790">想 </span>
+        <span begin="01:00.790" end="01:01.070">你</span>
+      </p>
+      <p begin="01:01.320" end="01:04.050" ttm:agent="v1">
+        <span begin="01:01.320" end="01:01.600">好 </span>
+        <span begin="01:01.600" end="01:01.960">想 </span>
+        <span begin="01:01.960" end="01:04.050">你</span>
+      </p>
+      <p begin="01:21.420" end="01:24.250" ttm:agent="v1">
+        <span begin="01:21.420" end="01:21.630">每 </span>
+        <span begin="01:21.630" end="01:21.790">次 </span>
+        <span begin="01:21.790" end="01:22.090">当 </span>
+        <span begin="01:22.090" end="01:22.380">我 </span>
+        <span begin="01:22.380" end="01:22.660">一 </span>
+        <span begin="01:22.660" end="01:23.020">说 </span>
+        <span begin="01:23.020" end="01:23.310">我 </span>
+        <span begin="01:23.310" end="01:23.600">好 </span>
+        <span begin="01:23.600" end="01:23.870">想 </span>
+        <span begin="01:23.870" end="01:24.250">你</span>
+      </p>
+      <p begin="01:24.250" end="01:26.200" ttm:agent="v1">
+        <span begin="01:24.250" end="01:24.540">你 </span>
+        <span begin="01:24.540" end="01:24.860">都 </span>
+        <span begin="01:24.860" end="01:25.140">不 </span>
+        <span begin="01:25.140" end="01:25.470">相 </span>
+        <span begin="01:25.470" end="01:26.200">信</span>
+      </p>
+      <p begin="01:26.470" end="01:30.770" ttm:agent="v1">
+        <span begin="01:26.470" end="01:26.600">但 </span>
+        <span begin="01:26.600" end="01:26.720">却 </span>
+        <span begin="01:26.720" end="01:27.160">总 </span>
+        <span begin="01:27.160" end="01:27.340">爱 </span>
+        <span begin="01:27.340" end="01:27.630">问 </span>
+        <span begin="01:27.630" end="01:27.930">我 </span>
+        <span begin="01:27.930" end="01:28.270">有 </span>
+        <span begin="01:28.270" end="01:28.610">没 </span>
+        <span begin="01:28.610" end="01:28.890">有 </span>
+        <span begin="01:28.890" end="01:29.560">想 </span>
+        <span begin="01:29.560" end="01:30.770">你</span>
+      </p>
+      <p begin="01:31.360" end="01:33.500" ttm:agent="v1">
+        <span begin="01:31.360" end="01:31.530">我 </span>
+        <span begin="01:31.530" end="01:31.660">不 </span>
+        <span begin="01:31.660" end="01:32.040">懂 </span>
+        <span begin="01:32.040" end="01:32.280">的 </span>
+        <span begin="01:32.280" end="01:32.540">甜 </span>
+        <span begin="01:32.540" end="01:32.820">言 </span>
+        <span begin="01:32.820" end="01:33.390">蜜 </span>
+        <span begin="01:33.390" end="01:33.500">语</span>
+      </p>
+      <p begin="01:33.500" end="01:36.040" ttm:agent="v1">
+        <span begin="01:33.500" end="01:33.840">所 </span>
+        <span begin="01:33.840" end="01:34.160">以 </span>
+        <span begin="01:34.160" end="01:34.330">只 </span>
+        <span begin="01:34.330" end="01:34.710">说 </span>
+        <span begin="01:34.710" end="01:34.990">好 </span>
+        <span begin="01:34.990" end="01:35.360">想 </span>
+        <span begin="01:35.360" end="01:36.040">你</span>
+      </p>
+      <p begin="01:36.300" end="01:37.840" ttm:agent="v1">
+        <span begin="01:36.300" end="01:36.460">反 </span>
+        <span begin="01:36.460" end="01:36.570">正 </span>
+        <span begin="01:36.570" end="01:36.860">说 </span>
+        <span begin="01:36.860" end="01:37.170">来 </span>
+        <span begin="01:37.170" end="01:37.470">说 </span>
+        <span begin="01:37.470" end="01:37.840">去</span>
+      </p>
+      <p begin="01:37.840" end="01:40.640" ttm:agent="v1">
+        <span begin="01:37.840" end="01:38.110">都 </span>
+        <span begin="01:38.110" end="01:38.390">只 </span>
+        <span begin="01:38.390" end="01:38.700">想 </span>
+        <span begin="01:38.700" end="01:39.100">让 </span>
+        <span begin="01:39.100" end="01:39.340">你 </span>
+        <span begin="01:39.340" end="01:39.640">开 </span>
+        <span begin="01:39.640" end="01:40.640">心</span>
+      </p>
+      <p begin="01:40.910" end="01:45.950" ttm:agent="v1">
+        <span begin="01:40.910" end="01:41.180">好 </span>
+        <span begin="01:41.180" end="01:41.480">想 </span>
+        <span begin="01:41.480" end="01:42.210">你 </span>
+        <span begin="01:42.210" end="01:42.430">好 </span>
+        <span begin="01:42.430" end="01:42.790">想 </span>
+        <span begin="01:42.790" end="01:43.420">你 </span>
+        <span begin="01:43.420" end="01:43.700">好 </span>
+        <span begin="01:43.700" end="01:44.000">想 </span>
+        <span begin="01:44.000" end="01:44.690">你 </span>
+        <span begin="01:44.690" end="01:44.930">好 </span>
+        <span begin="01:44.930" end="01:45.310">想 </span>
+        <span begin="01:45.310" end="01:45.950">你</span>
+      </p>
+      <p begin="01:46.190" end="01:48.050" ttm:agent="v1">
+        <span begin="01:46.190" end="01:46.400">是 </span>
+        <span begin="01:46.400" end="01:46.690">真 </span>
+        <span begin="01:46.690" end="01:46.800">的 </span>
+        <span begin="01:46.800" end="01:47.040">真 </span>
+        <span begin="01:47.040" end="01:47.160">的 </span>
+        <span begin="01:47.160" end="01:47.360">好 </span>
+        <span begin="01:47.360" end="01:47.750">想 </span>
+        <span begin="01:47.750" end="01:48.050">你</span>
+      </p>
+      <p begin="01:48.360" end="01:50.550" ttm:agent="v1">
+        <span begin="01:48.360" end="01:48.580">不 </span>
+        <span begin="01:48.580" end="01:48.940">是 </span>
+        <span begin="01:48.940" end="01:49.230">假 </span>
+        <span begin="01:49.230" end="01:49.320">的 </span>
+        <span begin="01:49.320" end="01:49.500">假 </span>
+        <span begin="01:49.500" end="01:49.590">的 </span>
+        <span begin="01:49.590" end="01:49.870">好 </span>
+        <span begin="01:49.870" end="01:50.240">想 </span>
+        <span begin="01:50.240" end="01:50.550">你</span>
+      </p>
+      <p begin="01:50.800" end="01:55.840" ttm:agent="v1">
+        <span begin="01:50.800" end="01:51.110">好 </span>
+        <span begin="01:51.110" end="01:51.490">想 </span>
+        <span begin="01:51.490" end="01:52.100">你 </span>
+        <span begin="01:52.100" end="01:52.340">好 </span>
+        <span begin="01:52.340" end="01:52.740">想 </span>
+        <span begin="01:52.740" end="01:53.270">你 </span>
+        <span begin="01:53.270" end="01:53.580">好 </span>
+        <span begin="01:53.580" end="01:53.940">想 </span>
+        <span begin="01:53.940" end="01:54.530">你 </span>
+        <span begin="01:54.530" end="01:54.800">好 </span>
+        <span begin="01:54.800" end="01:55.190">想 </span>
+        <span begin="01:55.190" end="01:55.840">你</span>
+      </p>
+      <p begin="01:56.080" end="01:57.970" ttm:agent="v1">
+        <span begin="01:56.080" end="01:56.330">是 </span>
+        <span begin="01:56.330" end="01:56.580">够 </span>
+        <span begin="01:56.580" end="01:56.740">力 </span>
+        <span begin="01:56.740" end="01:56.880">够 </span>
+        <span begin="01:56.880" end="01:57.060">力 </span>
+        <span begin="01:57.060" end="01:57.260">好 </span>
+        <span begin="01:57.260" end="01:57.650">想 </span>
+        <span begin="01:57.650" end="01:57.970">你</span>
+      </p>
+      <p begin="01:58.250" end="02:00.440" ttm:agent="v1">
+        <span begin="01:58.250" end="01:58.570">真 </span>
+        <span begin="01:58.570" end="01:58.820">的 </span>
+        <span begin="01:58.820" end="01:59.040">西 </span>
+        <span begin="01:59.040" end="01:59.150">北 </span>
+        <span begin="01:59.150" end="01:59.340">西 </span>
+        <span begin="01:59.340" end="01:59.440">北 </span>
+        <span begin="01:59.440" end="01:59.730">好 </span>
+        <span begin="01:59.730" end="02:00.140">想 </span>
+        <span begin="02:00.140" end="02:00.440">你</span>
+      </p>
+      <p begin="02:00.720" end="02:05.710" ttm:agent="v1">
+        <span begin="02:00.720" end="02:01.000">好 </span>
+        <span begin="02:01.000" end="02:01.300">想 </span>
+        <span begin="02:01.300" end="02:01.980">你 </span>
+        <span begin="02:01.980" end="02:02.230">好 </span>
+        <span begin="02:02.230" end="02:02.620">想 </span>
+        <span begin="02:02.620" end="02:03.160">你 </span>
+        <span begin="02:03.160" end="02:03.460">好 </span>
+        <span begin="02:03.460" end="02:03.820">想 </span>
+        <span begin="02:03.820" end="02:04.450">你 </span>
+        <span begin="02:04.450" end="02:04.670">好 </span>
+        <span begin="02:04.670" end="02:05.070">想 </span>
+        <span begin="02:05.070" end="02:05.710">你</span>
+      </p>
+      <p begin="02:05.980" end="02:07.770" ttm:agent="v1">
+        <span begin="02:05.980" end="02:06.210">是 </span>
+        <span begin="02:06.210" end="02:06.480">真 </span>
+        <span begin="02:06.480" end="02:06.600">的 </span>
+        <span begin="02:06.600" end="02:06.790">真 </span>
+        <span begin="02:06.790" end="02:06.870">的 </span>
+        <span begin="02:06.870" end="02:07.130">好 </span>
+        <span begin="02:07.130" end="02:07.530">想 </span>
+        <span begin="02:07.530" end="02:07.770">你</span>
+      </p>
+      <p begin="02:08.160" end="02:10.360" ttm:agent="v1">
+        <span begin="02:08.160" end="02:08.350">不 </span>
+        <span begin="02:08.350" end="02:08.660">是 </span>
+        <span begin="02:08.660" end="02:08.980">假 </span>
+        <span begin="02:08.980" end="02:09.060">的 </span>
+        <span begin="02:09.060" end="02:09.280">假 </span>
+        <span begin="02:09.280" end="02:09.370">的 </span>
+        <span begin="02:09.370" end="02:09.650">好 </span>
+        <span begin="02:09.650" end="02:10.050">想 </span>
+        <span begin="02:10.050" end="02:10.360">你</span>
+      </p>
+      <p begin="02:10.630" end="02:15.620" ttm:agent="v1">
+        <span begin="02:10.630" end="02:10.890">好 </span>
+        <span begin="02:10.890" end="02:11.270">想 </span>
+        <span begin="02:11.270" end="02:11.910">你 </span>
+        <span begin="02:11.910" end="02:12.160">好 </span>
+        <span begin="02:12.160" end="02:12.440">想 </span>
+        <span begin="02:12.440" end="02:13.040">你 </span>
+        <span begin="02:13.040" end="02:13.360">好 </span>
+        <span begin="02:13.360" end="02:13.730">想 </span>
+        <span begin="02:13.730" end="02:14.380">你 </span>
+        <span begin="02:14.380" end="02:14.630">好 </span>
+        <span begin="02:14.630" end="02:14.980">想 </span>
+        <span begin="02:14.980" end="02:15.620">你</span>
+      </p>
+      <p begin="02:15.820" end="02:17.800" ttm:agent="v1">
+        <span begin="02:15.820" end="02:16.120">是 </span>
+        <span begin="02:16.120" end="02:16.360">够 </span>
+        <span begin="02:16.360" end="02:16.490">力 </span>
+        <span begin="02:16.490" end="02:16.640">够 </span>
+        <span begin="02:16.640" end="02:16.810">力 </span>
+        <span begin="02:16.810" end="02:17.050">好 </span>
+        <span begin="02:17.050" end="02:17.420">想 </span>
+        <span begin="02:17.420" end="02:17.800">你</span>
+      </p>
+      <p begin="02:18.020" end="02:20.260" ttm:agent="v1">
+        <span begin="02:18.020" end="02:18.370">真 </span>
+        <span begin="02:18.370" end="02:18.580">的 </span>
+        <span begin="02:18.580" end="02:18.830">西 </span>
+        <span begin="02:18.830" end="02:18.930">北 </span>
+        <span begin="02:18.930" end="02:19.130">西 </span>
+        <span begin="02:19.130" end="02:19.220">北 </span>
+        <span begin="02:19.220" end="02:19.510">好 </span>
+        <span begin="02:19.510" end="02:19.940">想 </span>
+        <span begin="02:19.940" end="02:20.260">你</span>
+      </p>
+      <p begin="02:20.460" end="02:22.780" ttm:agent="v1">
+        <span begin="02:20.460" end="02:20.780">好 </span>
+        <span begin="02:20.780" end="02:21.170">想 </span>
+        <span begin="02:21.170" end="02:22.780">你</span>
+      </p>
+      <p begin="02:23.180" end="02:25.510" ttm:agent="v1">
+        <span begin="02:23.180" end="02:23.490">好 </span>
+        <span begin="02:23.490" end="02:23.910">想 </span>
+        <span begin="02:23.910" end="02:25.510">你</span>
+      </p>
+      <p begin="02:26.070" end="02:30.840" ttm:agent="v1">
+        <span begin="02:26.070" end="02:26.470">好 </span>
+        <span begin="02:26.470" end="02:27.240">想 </span>
+        <span begin="02:27.240" end="02:30.840">你</span>
+      </p>
+    </div>
+  </body>
+</tt>

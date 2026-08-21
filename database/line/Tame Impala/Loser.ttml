@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Loser</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Tame Impala</ttm:agent>
+      <ttm:item type="album">Loser</ttm:item>
+      <ttm:item type="spotify_id">3RmFPuTTAjSQ2pbEd2j9oA</ttm:item>
+      <itunes:duration>03:44.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:12.560" end="00:20.560" ttm:agent="v1">I had to tell ya, it's now or never</p>
+      <p begin="00:24.070" end="00:32.070" ttm:agent="v1">So much for closure, I lost composure</p>
+      <p begin="00:35.810" end="00:41.520" ttm:agent="v1">I get the message, I learned my lesson</p>
+      <p begin="00:41.520" end="00:47.360" ttm:agent="v1">Tried to correct it, I think I wrecked it</p>
+      <p begin="00:47.360" end="00:53.120" ttm:agent="v1">Man, it's a crisis, I'm never like this</p>
+      <p begin="00:53.120" end="00:59.620" ttm:agent="v1">That's how my life is, you couldn't write this</p>
+      <p begin="00:59.620" end="01:05.390" ttm:agent="v1">I'm a loser, babe</p>
+      <p begin="01:05.390" end="01:11.150" ttm:agent="v1">Do you wanna tear my heart out?</p>
+      <p begin="01:11.150" end="01:16.920" ttm:agent="v1">I'm a tragedy</p>
+      <p begin="01:16.920" end="01:24.920" ttm:agent="v1">Tryin' to figure this whole mess out</p>
+      <p begin="01:27.730" end="01:35.730" ttm:agent="v1">I'm out of favor, my worst behavior</p>
+      <p begin="01:39.210" end="01:45.200" ttm:agent="v1">I get the message, I learned my lesson</p>
+      <p begin="01:45.200" end="01:50.800" ttm:agent="v1">Desperate times call for desperate measures</p>
+      <p begin="01:50.800" end="01:56.700" ttm:agent="v1">I fell into ya, I fell into ya</p>
+      <p begin="01:56.700" end="02:03.280" ttm:agent="v1">Tried to correct it, well shit, I wrecked it</p>
+      <p begin="02:03.280" end="02:08.980" ttm:agent="v1">I'm a loser, babe</p>
+      <p begin="02:08.980" end="02:14.780" ttm:agent="v1">Do you wanna tear my heart out?</p>
+      <p begin="02:14.780" end="02:20.560" ttm:agent="v1">I'm a tragedy</p>
+      <p begin="02:20.560" end="02:25.330" ttm:agent="v1">Tryin' to figure my whole life out</p>
+      <p begin="02:25.330" end="02:31.020" ttm:agent="v1">I leave alone and</p>
+      <p begin="02:31.020" end="02:36.830" ttm:agent="v1">Dark streets I roam in</p>
+      <p begin="02:36.830" end="02:42.390" ttm:agent="v1">Night air, I breathe in</p>
+      <p begin="02:42.390" end="02:50.390" ttm:agent="v1">The stars I believe in</p>
+      <p begin="02:51.620" end="02:57.400" ttm:agent="v1">I don't know why I didn't fight it</p>
+      <p begin="02:57.400" end="03:03.160" ttm:agent="v1">I probably tried and magnified it</p>
+      <p begin="03:03.160" end="03:08.930" ttm:agent="v1">I cannot lie, I feel defeated</p>
+      <p begin="03:08.930" end="03:16.920" ttm:agent="v1">Take it as a sign, you're badly needed</p>
+      <p begin="03:16.920" end="03:23.130" ttm:agent="v1">You're badly needed</p>
+      <p begin="03:23.130" end="03:29.150" ttm:agent="v1">Badly wanted</p>
+      <p begin="03:29.150" end="03:33.150" ttm:agent="v1">Fuck</p>
+    </div>
+  </body>
+</tt>

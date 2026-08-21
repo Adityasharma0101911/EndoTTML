@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Thunder</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Imagine Dragons</ttm:agent>
+      <ttm:item type="album">Evolve</ttm:item>
+      <ttm:item type="spotify_id">1zB4vmk8tFRmM9UULNzbLB</ttm:item>
+      <itunes:duration>03:07.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.550" end="00:03.180" ttm:agent="v1">Just a young gun with a quick fuse</p>
+      <p begin="00:03.180" end="00:06.120" ttm:agent="v1">I was uptight, wanna let loose</p>
+      <p begin="00:06.120" end="00:08.830" ttm:agent="v1">I was dreaming of bigger things and</p>
+      <p begin="00:08.830" end="00:11.630" ttm:agent="v1">Wanna leave my own life behind</p>
+      <p begin="00:11.630" end="00:14.680" ttm:agent="v1">Not a &quot;Yes sir&quot;, not a follower</p>
+      <p begin="00:14.680" end="00:16.240" ttm:agent="v1">Fit the box, fit the mold</p>
+      <p begin="00:16.240" end="00:19.600" ttm:agent="v1">Have a seat in the foyer, take a number</p>
+      <p begin="00:19.600" end="00:22.020" ttm:agent="v1">I was lightning before the thunder</p>
+      <p begin="00:22.020" end="00:24.330" ttm:agent="v1">Thunder, thunder</p>
+      <p begin="00:24.330" end="00:26.680" ttm:agent="v1">Thunder, thun-, thunder</p>
+      <p begin="00:26.680" end="00:28.570" ttm:agent="v1">Thun-thun-thunder, thunder</p>
+      <p begin="00:28.570" end="00:32.450" ttm:agent="v1">Thunder, thunder, thun-, thunder</p>
+      <p begin="00:32.450" end="00:34.190" ttm:agent="v1">Thun-thun-thunder, thunder</p>
+      <p begin="00:34.190" end="00:37.240" ttm:agent="v1">Thunder, feel the thunder</p>
+      <p begin="00:37.240" end="00:39.870" ttm:agent="v1">Lightning and the thunder</p>
+      <p begin="00:39.870" end="00:43.060" ttm:agent="v1">Thunder, feel the thunder</p>
+      <p begin="00:43.060" end="00:44.950" ttm:agent="v1">Lightning and the thunder</p>
+      <p begin="00:44.950" end="00:48.530" ttm:agent="v1">Thunder, thunder</p>
+      <p begin="00:48.530" end="00:51.850" ttm:agent="v1">Thunder</p>
+      <p begin="00:51.850" end="00:54.440" ttm:agent="v1">Kids were laughing in my classes</p>
+      <p begin="00:54.440" end="00:57.100" ttm:agent="v1">While I was scheming for the masses</p>
+      <p begin="00:57.100" end="01:00.060" ttm:agent="v1">Who do you think you are?</p>
+      <p begin="01:00.060" end="01:03.170" ttm:agent="v1">Dreaming 'bout being a big star</p>
+      <p begin="01:03.170" end="01:05.920" ttm:agent="v1">They say, &quot;You're basic&quot;, they say, &quot;You're easy&quot;</p>
+      <p begin="01:05.920" end="01:08.980" ttm:agent="v1">You're always riding in the backseat</p>
+      <p begin="01:08.980" end="01:11.860" ttm:agent="v1">Now I'm smiling from the stage while</p>
+      <p begin="01:11.860" end="01:14.310" ttm:agent="v1">You were clapping in the nosebleeds</p>
+      <p begin="01:14.310" end="01:17.030" ttm:agent="v1">Thunder, thunder, thun-</p>
+      <p begin="01:17.030" end="01:19.510" ttm:agent="v1">Thunder, thun-thun-thunder</p>
+      <p begin="01:19.510" end="01:21.670" ttm:agent="v1">Thunder, thunder</p>
+      <p begin="01:21.670" end="01:24.090" ttm:agent="v1">Thunder, thun-, thunder</p>
+      <p begin="01:24.090" end="01:25.890" ttm:agent="v1">Thun-thun-thunder, thunder</p>
+      <p begin="01:25.890" end="01:28.890" ttm:agent="v1">Thunder, feel the thunder</p>
+      <p begin="01:28.890" end="01:31.220" ttm:agent="v1">Lightning and the thunder</p>
+      <p begin="01:31.220" end="01:34.330" ttm:agent="v1">Thunder, feel the thunder</p>
+      <p begin="01:34.330" end="01:36.280" ttm:agent="v1">Lightning and the thunder</p>
+      <p begin="01:36.280" end="01:39.090" ttm:agent="v1">Thunder</p>
+      <p begin="01:39.090" end="01:47.090" ttm:agent="v1"/>
+      <p begin="01:59.950" end="02:03.240" ttm:agent="v1">Thunder, feel the thunder</p>
+      <p begin="02:03.240" end="02:05.600" ttm:agent="v1">Lightning and the thunder, thunder</p>
+      <p begin="02:05.600" end="02:08.790" ttm:agent="v1">Thunder, feel the thunder</p>
+      <p begin="02:08.790" end="02:11.230" ttm:agent="v1">Lightning and the thunder, thunder</p>
+      <p begin="02:11.230" end="02:14.580" ttm:agent="v1">Thunder, feel the thunder</p>
+      <p begin="02:14.580" end="02:17.150" ttm:agent="v1">Lightning and the thunder, thunder</p>
+      <p begin="02:17.150" end="02:20.220" ttm:agent="v1" itunes:key="role" itunes:value="background">Thunder, feel the thunder (never give up, never give up)</p>
+      <p begin="02:20.220" end="02:22.810" ttm:agent="v1" itunes:key="role" itunes:value="background">Lightning and the thunder, thunder (never give up, never give up)</p>
+      <p begin="02:22.810" end="02:26.020" ttm:agent="v1" itunes:key="role" itunes:value="background">Thunder, feel the thunder (never give up, never give up)</p>
+      <p begin="02:26.020" end="02:28.690" ttm:agent="v1" itunes:key="role" itunes:value="background">Lightning and the thunder, thunder (never give up)</p>
+      <p begin="02:28.690" end="02:31.570" ttm:agent="v1">Thunder, thunder, thun-</p>
+      <p begin="02:31.570" end="02:34.150" ttm:agent="v1">Thunder, thun-thun-thunder, thunder</p>
+      <p begin="02:34.150" end="02:37.240" ttm:agent="v1">Thunder, thunder, thun-</p>
+      <p begin="02:37.240" end="02:40.120" ttm:agent="v1">Thunder, thun-thun-thunder, thunder</p>
+      <p begin="02:40.120" end="02:42.950" ttm:agent="v1">Thunder, thunder, thun-</p>
+      <p begin="02:42.950" end="02:46.000" ttm:agent="v1">Thunder, thun-thun-thunder, thunder</p>
+      <p begin="02:46.000" end="02:49.180" ttm:agent="v1">Thunder, thunder, thun-, thunder</p>
+      <p begin="02:49.180" end="02:50.680" ttm:agent="v1">Thun-thun-thunder, thunder</p>
+      <p begin="02:50.390" end="02:54.390" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

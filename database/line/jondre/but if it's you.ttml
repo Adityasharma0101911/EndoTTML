@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>but if it's you</ttm:title>
+      <ttm:agent type="person" xml:id="v1">jondre</ttm:agent>
+      <ttm:item type="album">but if it's you</ttm:item>
+      <ttm:item type="spotify_id">6GzV0Bx8OAg9EHPIlz2Ph8</ttm:item>
+      <itunes:duration>02:57.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:06.320" end="00:08.670" ttm:agent="v1">But if it's you</p>
+      <p begin="00:08.670" end="00:10.170" ttm:agent="v1">I need</p>
+      <p begin="00:09.910" end="00:12.170" ttm:agent="v1">I need to know</p>
+      <p begin="00:12.170" end="00:13.700" ttm:agent="v1">If you'll go</p>
+      <p begin="00:13.700" end="00:16.140" ttm:agent="v1">'Cause loving for you</p>
+      <p begin="00:16.140" end="00:21.130" ttm:agent="v1">Is leaving me alone</p>
+      <p begin="00:21.130" end="00:23.520" ttm:agent="v1">But if it's you</p>
+      <p begin="00:23.520" end="00:25.020" ttm:agent="v1">I've wanted</p>
+      <p begin="00:24.630" end="00:27.060" ttm:agent="v1">All along</p>
+      <p begin="00:27.060" end="00:28.720" ttm:agent="v1">Then I can't go</p>
+      <p begin="00:28.720" end="00:31.970" ttm:agent="v1">Much longer without asking</p>
+      <p begin="00:31.970" end="00:35.980" ttm:agent="v1">To be mine</p>
+      <p begin="00:35.980" end="00:38.320" ttm:agent="v1">But if it's you</p>
+      <p begin="00:38.320" end="00:39.940" ttm:agent="v1">I'll make it work</p>
+      <p begin="00:39.940" end="00:41.910" ttm:agent="v1">In time</p>
+      <p begin="00:41.910" end="00:43.610" ttm:agent="v1">Because I cannot</p>
+      <p begin="00:43.610" end="00:46.730" ttm:agent="v1">Imagine being happy</p>
+      <p begin="00:46.730" end="00:52.110" ttm:agent="v1">Without you</p>
+      <p begin="00:52.110" end="00:53.980" ttm:agent="v1">I just want love</p>
+      <p begin="00:53.980" end="00:55.860" ttm:agent="v1">I just want us</p>
+      <p begin="00:55.860" end="00:57.360" ttm:agent="v1">I just wanna</p>
+      <p begin="00:57.100" end="00:59.360" ttm:agent="v1">Be there with you by my side</p>
+      <p begin="00:59.360" end="01:01.150" ttm:agent="v1">But I can't go on</p>
+      <p begin="01:01.150" end="01:03.160" ttm:agent="v1">Not if you're still gone</p>
+      <p begin="01:03.160" end="01:04.660" ttm:agent="v1">I need someone</p>
+      <p begin="01:04.570" end="01:06.870" ttm:agent="v1">Here that won't go breaking hearts</p>
+      <p begin="01:06.870" end="01:08.580" ttm:agent="v1">Yeah it's been real hard</p>
+      <p begin="01:08.580" end="01:10.500" ttm:agent="v1">Know that I've been scarred</p>
+      <p begin="01:10.500" end="01:12.000" ttm:agent="v1">But I still find this</p>
+      <p begin="01:11.950" end="01:14.120" ttm:agent="v1">Need to make you feel alright</p>
+      <p begin="01:14.120" end="01:15.870" ttm:agent="v1">And I should move on</p>
+      <p begin="01:15.870" end="01:17.640" ttm:agent="v1">'Cause our love's long gone</p>
+      <p begin="01:17.640" end="01:19.140" ttm:agent="v1">Yeah I need</p>
+      <p begin="01:18.390" end="01:20.200" ttm:agent="v1">Someone</p>
+      <p begin="01:20.200" end="01:22.550" ttm:agent="v1">But if it's you</p>
+      <p begin="01:22.550" end="01:24.050" ttm:agent="v1">I need</p>
+      <p begin="01:23.700" end="01:25.960" ttm:agent="v1">I need to know</p>
+      <p begin="01:25.960" end="01:27.460" ttm:agent="v1">If you'll go</p>
+      <p begin="01:27.450" end="01:29.970" ttm:agent="v1">'Cause loving for you</p>
+      <p begin="01:29.970" end="01:35.010" ttm:agent="v1">Is leaving me alone</p>
+      <p begin="01:35.010" end="01:37.440" ttm:agent="v1">But if it's you</p>
+      <p begin="01:37.440" end="01:38.940" ttm:agent="v1">I've wanted</p>
+      <p begin="01:38.550" end="01:41.050" ttm:agent="v1">All along</p>
+      <p begin="01:41.050" end="01:42.630" ttm:agent="v1">Then I can't go</p>
+      <p begin="01:42.630" end="01:45.870" ttm:agent="v1">Much longer without asking</p>
+      <p begin="01:45.870" end="01:49.840" ttm:agent="v1">To be mine</p>
+      <p begin="01:49.840" end="01:52.190" ttm:agent="v1">But if it's you</p>
+      <p begin="01:52.190" end="01:53.850" ttm:agent="v1">I'll make it work</p>
+      <p begin="01:53.850" end="01:55.640" ttm:agent="v1">In time</p>
+      <p begin="01:55.640" end="01:57.480" ttm:agent="v1">Because I cannot</p>
+      <p begin="01:57.480" end="02:00.630" ttm:agent="v1">Imagine being happy</p>
+      <p begin="02:00.630" end="02:08.630" ttm:agent="v1">Without you</p>
+      <p begin="02:34.150" end="02:36.460" ttm:agent="v1">But if it's you</p>
+      <p begin="02:36.460" end="02:38.160" ttm:agent="v1">I'll make it work</p>
+      <p begin="02:38.160" end="02:39.950" ttm:agent="v1">In time</p>
+      <p begin="02:39.950" end="02:41.790" ttm:agent="v1">Because I cannot</p>
+      <p begin="02:41.790" end="02:44.990" ttm:agent="v1">Imagine being happy</p>
+      <p begin="02:44.990" end="02:47.290" ttm:agent="v1">Without you</p>
+      <p begin="02:47.290" end="02:51.290" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

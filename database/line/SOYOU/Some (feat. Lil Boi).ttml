@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Some (feat. Lil Boi)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">SOYOU</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Junggigo</ttm:agent>
+      <ttm:agent type="person" xml:id="v3">lIlBOI</ttm:agent>
+      <ttm:item type="album">Some</ttm:item>
+      <ttm:item type="spotify_id">0g1AmSKokPboFrxmG1dxKx</ttm:item>
+      <itunes:duration>03:31.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:07.050" end="00:11.280" ttm:agent="v1">가끔씩 나도 모르게 짜증이나</p>
+      <p begin="00:11.280" end="00:17.040" ttm:agent="v1">너를 향한 맘은 변하지 않았는데</p>
+      <p begin="00:17.040" end="00:20.720" ttm:agent="v1">혹시 내가 이상한 걸까</p>
+      <p begin="00:20.720" end="00:27.020" ttm:agent="v1">혼자 힘들게 지내고 있었어</p>
+      <p begin="00:27.020" end="00:31.880" ttm:agent="v1">텅 빈 방 혼자 멍하니 뒤척이다</p>
+      <p begin="00:31.880" end="00:37.570" ttm:agent="v1">티비에는 어제 본 것 같은 드라마</p>
+      <p begin="00:37.570" end="00:40.940" ttm:agent="v1">잠이 들 때까지 한번도</p>
+      <p begin="00:40.940" end="00:45.460" ttm:agent="v1">울리지 않는 핸드폰을 들고</p>
+      <p begin="00:45.460" end="00:46.960" ttm:agent="v1">요즘 따라</p>
+      <p begin="00:46.850" end="00:51.740" ttm:agent="v1">내꺼인 듯 내꺼 아닌 내꺼 같은 너</p>
+      <p begin="00:51.740" end="00:56.800" ttm:agent="v1">니꺼인 듯 니꺼 아닌 니꺼 같은 나</p>
+      <p begin="00:56.800" end="01:04.360" ttm:agent="v1">이게 무슨 사이인 건지 사실 헷갈려</p>
+      <p begin="01:04.360" end="01:06.910" ttm:agent="v1">무뚝뚝하게 굴지마</p>
+      <p begin="01:06.910" end="01:11.970" ttm:agent="v1">연인인 듯 연인 아닌 연인 같은 너</p>
+      <p begin="01:11.970" end="01:16.940" ttm:agent="v1">나만 볼 듯 애매하게 날 대하는 너</p>
+      <p begin="01:16.940" end="01:21.080" ttm:agent="v1">때로는 친구 같다는 말이</p>
+      <p begin="01:21.080" end="01:27.510" ttm:agent="v1">괜히 요즘 난 듣기 싫어 졌어</p>
+      <p begin="01:27.510" end="01:32.440" ttm:agent="v1">매일 아침 너의 문자에 눈을 뜨고</p>
+      <p begin="01:32.440" end="01:37.120" ttm:agent="v1">하루 끝에는 니 목소리에 잠들고 파</p>
+      <p begin="01:37.120" end="01:41.510" ttm:agent="v1">주말에는 많은 사람 속에서</p>
+      <p begin="01:41.510" end="01:46.060" ttm:agent="v1">보란 듯이 널 끌어 안고 싶어</p>
+      <p begin="01:46.060" end="01:47.560" ttm:agent="v1">요즘 따라</p>
+      <p begin="01:47.360" end="01:52.250" ttm:agent="v1">내꺼인 듯 내꺼 아닌 내꺼 같은 너</p>
+      <p begin="01:52.250" end="01:57.510" ttm:agent="v1">니꺼인 듯 니꺼 아닌 니꺼 같은 나</p>
+      <p begin="01:57.510" end="02:01.470" ttm:agent="v1">때로는 친구 같다는 말이</p>
+      <p begin="02:01.470" end="02:07.720" ttm:agent="v1">괜히 요즘 난 듣기 싫어 졌어</p>
+      <p begin="02:07.720" end="02:12.690" ttm:agent="v1">너 요즘 너 별로야 너 별로야</p>
+      <p begin="02:12.690" end="02:17.530" ttm:agent="v1">나 근데 난 너뿐이야 난 너뿐이야</p>
+      <p begin="02:17.530" end="02:21.920" ttm:agent="v1">분명하게 내게 선을 그어줘</p>
+      <p begin="02:21.920" end="02:24.770" ttm:agent="v1">자꾸 뒤로 빼지 말고</p>
+      <p begin="02:24.770" end="02:27.790" ttm:agent="v1">날 사랑한다 고백해 줘</p>
+      <p begin="02:27.790" end="02:30.100" ttm:agent="v1">여전히 친구인척 또 연인인척</p>
+      <p begin="02:30.100" end="02:32.710" ttm:agent="v1">행동하는 모습을 전부다 돌이켜</p>
+      <p begin="02:32.710" end="02:35.130" ttm:agent="v1">생각 할 수록 너의 진심이 더</p>
+      <p begin="02:35.130" end="02:39.320" ttm:agent="v1">궁금해지는 걸 girl you're so ambiguous</p>
+      <p begin="02:39.320" end="02:42.700" ttm:agent="v1">난 못해 무엇도 아니 어쩌면 기적을 바라지 lotto</p>
+      <p begin="02:42.700" end="02:45.290" ttm:agent="v1">확실한 표현을 원하지만</p>
+      <p begin="02:45.290" end="02:47.560" ttm:agent="v1">너의 미소 띈 표정에 잊어버리지 난</p>
+      <p begin="02:47.560" end="02:49.060" ttm:agent="v1">요즘 따라</p>
+      <p begin="02:48.160" end="02:52.840" ttm:agent="v1">내꺼인 듯 내꺼 아닌 내꺼 같은 너</p>
+      <p begin="02:52.840" end="02:57.910" ttm:agent="v1">니꺼인 듯 니꺼 아닌 니꺼 같은 나</p>
+      <p begin="02:57.910" end="03:05.570" ttm:agent="v1">순진한 척 웃지만 말고 그만 좀 해 너</p>
+      <p begin="03:05.570" end="03:08.110" ttm:agent="v1">솔직하게 좀 굴어봐</p>
+      <p begin="03:08.110" end="03:13.220" ttm:agent="v1">니 맘 속에 날 놔두고 한 눈 팔지 마</p>
+      <p begin="03:13.220" end="03:18.340" ttm:agent="v1">너야말로 다 알면서 딴청 피우지 마</p>
+      <p begin="03:18.340" end="03:22.340" ttm:agent="v1">피곤하게 힘 빼지 말고</p>
+      <p begin="03:22.340" end="03:27.910" ttm:agent="v1">어서 말해줘 사랑한단 말이야</p>
+      <p begin="03:27.910" end="03:31.910" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

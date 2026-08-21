@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Please Please Please</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Sabrina Carpenter</ttm:agent>
+      <ttm:item type="album">Short n' Sweet</ttm:item>
+      <ttm:item type="spotify_id">2tHwzyyOLoWSFqYNjeVMzj</ttm:item>
+      <itunes:duration>03:04.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:17.910" end="00:22.260" ttm:agent="v1">I know I have good judgment, I know I have good taste</p>
+      <p begin="00:22.260" end="00:26.550" ttm:agent="v1">It's funny and it's ironic that only I feel that way</p>
+      <p begin="00:26.550" end="00:30.860" ttm:agent="v1">I promise 'em that you're different and everyone makes mistakes</p>
+      <p begin="00:30.860" end="00:35.920" ttm:agent="v1">But just don't</p>
+      <p begin="00:35.920" end="00:40.050" ttm:agent="v1">I heard that you're an actor, so act like a stand-up guy</p>
+      <p begin="00:40.050" end="00:44.430" ttm:agent="v1">Whatever devil's inside you, don't let him out tonight</p>
+      <p begin="00:44.430" end="00:48.920" ttm:agent="v1">I tell them it's just your culture and everyone rolls their eyes</p>
+      <p begin="00:48.920" end="00:52.040" ttm:agent="v1">Yeah, I know</p>
+      <p begin="00:52.040" end="00:53.800" ttm:agent="v1">All I'm asking, baby</p>
+      <p begin="00:53.800" end="01:01.800" ttm:agent="v1">Please, please, please don't prove I'm right</p>
+      <p begin="01:02.600" end="01:06.010" ttm:agent="v1">And please, please, please</p>
+      <p begin="01:06.010" end="01:11.930" ttm:agent="v1">Don't bring me to tears when I just did my makeup so nice</p>
+      <p begin="01:11.930" end="01:16.040" ttm:agent="v1">Heartbreak is one thing, my ego's another</p>
+      <p begin="01:16.040" end="01:24.040" ttm:agent="v1">I beg you, don't embarrass me, motherfucker, ah</p>
+      <p begin="01:24.290" end="01:29.780" ttm:agent="v1" itunes:key="role" itunes:value="background">Please, please, please (ah)</p>
+      <p begin="01:29.780" end="01:33.770" ttm:agent="v1" itunes:key="role" itunes:value="background">Well, I have a fun idea, babe (uh-huh), maybe just stay inside</p>
+      <p begin="01:33.770" end="01:38.650" ttm:agent="v1" itunes:key="role" itunes:value="background">I know you're craving some fresh air, but the ceiling fan is so nice (it's so nice, right?)</p>
+      <p begin="01:38.650" end="01:42.800" ttm:agent="v1">And we could live so happily if no one knows that you're with me</p>
+      <p begin="01:42.800" end="01:47.730" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm just kidding, but really (kinda), really, really</p>
+      <p begin="01:47.730" end="01:55.730" ttm:agent="v1">Please, please, please don't prove I'm right</p>
+      <p begin="01:56.440" end="01:59.860" ttm:agent="v1">And please, please, please</p>
+      <p begin="01:59.860" end="02:05.790" ttm:agent="v1">Don't bring me to tears when I just did my makeup so nice</p>
+      <p begin="02:05.790" end="02:09.990" ttm:agent="v1" itunes:key="role" itunes:value="background">Heartbreak is one thing (heartbreak is one thing), my ego's another (ego's another)</p>
+      <p begin="02:09.990" end="02:17.990" ttm:agent="v1">I beg you, don't embarrass me, motherfucker, ah</p>
+      <p begin="02:18.000" end="02:24.490" ttm:agent="v1" itunes:key="role" itunes:value="background">Please, please, please (ah)</p>
+      <p begin="02:24.490" end="02:32.490" ttm:agent="v1">If you wanna go and be stupid, don't do it in front of me</p>
+      <p begin="02:33.160" end="02:41.160" ttm:agent="v1">If you don't wanna cry to my music, don't make me hate you prolifically</p>
+      <p begin="02:42.740" end="02:44.990" ttm:agent="v1" itunes:key="role" itunes:value="background">Please, please, please (please)</p>
+      <p begin="02:44.990" end="02:47.290" ttm:agent="v1" itunes:key="role" itunes:value="background">Please, please, please (please)</p>
+      <p begin="02:47.290" end="02:52.630" ttm:agent="v1" itunes:key="role" itunes:value="background">Please (please), please (please), please (ah)</p>
+      <p begin="02:52.630" end="02:56.630" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

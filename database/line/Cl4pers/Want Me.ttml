@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Want Me</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Cl4pers</ttm:agent>
+      <ttm:item type="album">Want Me</ttm:item>
+      <ttm:item type="spotify_id">00199FIJyFpSTVEd87qkUr</ttm:item>
+      <itunes:duration>01:38.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:04.200" end="00:07.590" ttm:agent="v1">Fah, fah</p>
+      <p begin="00:07.590" end="00:10.570" ttm:agent="v1">Fah, fah</p>
+      <p begin="00:10.570" end="00:13.560" ttm:agent="v1">Fah, fah</p>
+      <p begin="00:13.560" end="00:15.200" ttm:agent="v1">Fah, fah-fah, fah</p>
+      <p begin="00:15.200" end="00:16.700" ttm:agent="v1">Hit a nigga up, call it 2Pac</p>
+      <p begin="00:16.640" end="00:18.450" ttm:agent="v1">She tryna play my song on the boom box</p>
+      <p begin="00:18.450" end="00:20.160" ttm:agent="v1">I'm in the back and I'm chillin' with two thots</p>
+      <p begin="00:20.160" end="00:21.690" ttm:agent="v1">Look at that girl like, &quot;Man, that bitch too hot&quot;</p>
+      <p begin="00:21.690" end="00:23.290" ttm:agent="v1" itunes:key="role" itunes:value="background">Shout-out to Autumn cause I got two Glocks (VDV got it)</p>
+      <p begin="00:23.290" end="00:24.790" ttm:agent="v1">Jumped off the porch, now I'm on the rooftop</p>
+      <p begin="00:24.200" end="00:26.600" ttm:agent="v1">Ayy, ayy, ayy, ayy</p>
+      <p begin="00:26.600" end="00:28.370" ttm:agent="v1">Bad lil bitch and she givin' me knowledge</p>
+      <p begin="00:28.370" end="00:29.950" ttm:agent="v1">Shawty real fine and she go to college</p>
+      <p begin="00:29.950" end="00:31.490" ttm:agent="v1">Might give that girl all the money in my wallet</p>
+      <p begin="00:31.490" end="00:33.290" ttm:agent="v1">Me and my niggas, you know that we ballin'</p>
+      <p begin="00:33.290" end="00:34.790" ttm:agent="v1">I brought a 40 and bro brought the MAC in</p>
+      <p begin="00:34.730" end="00:36.500" ttm:agent="v1">Me and my niggas, yeah, we never lackin'</p>
+      <p begin="00:36.500" end="00:38.160" ttm:agent="v1">40 gon' make that boy dance, Michael Jackson</p>
+      <p begin="00:38.160" end="00:39.660" ttm:agent="v1">Niggas is mad cause the paper I'm stackin'</p>
+      <p begin="00:39.490" end="00:40.990" ttm:agent="v1">It's gettin' real messy, think I need a napkin</p>
+      <p begin="00:40.870" end="00:42.390" ttm:agent="v1">Told that boy Millie K, he gon' hand mе the MAC-10</p>
+      <p begin="00:42.390" end="00:44.050" ttm:agent="v1">No, I'm not a Crip but I get it crackin'</p>
+      <p begin="00:44.050" end="00:45.700" ttm:agent="v1">If I see a hoe, I'ma blow hеr back in</p>
+      <p begin="00:45.700" end="00:47.710" ttm:agent="v1">Look at your boy, you know that I'm paper chasin'</p>
+      <p begin="00:47.710" end="00:49.210" ttm:agent="v1">I'm soundin' like Dami, no reparations</p>
+      <p begin="00:49.090" end="00:50.620" ttm:agent="v1">Me and my bros goin' on vacation</p>
+      <p begin="00:50.620" end="00:55.430" ttm:agent="v1">Like Quavo, I can't wait to say that we made it</p>
+      <p begin="00:55.430" end="00:56.930" ttm:agent="v1">Call me Santana cause I stay on go</p>
+      <p begin="00:56.910" end="00:58.830" ttm:agent="v1">I'm sorry, bro, I ain't tried to steal your flow</p>
+      <p begin="00:58.830" end="01:00.550" ttm:agent="v1">I'm 4'2&quot; in real life, I stand on my money, I'm 5'2&quot;</p>
+      <p begin="01:00.550" end="01:02.410" ttm:agent="v1">Yo' ass been talkin', can't wait till we find you</p>
+      <p begin="01:02.410" end="01:04.030" ttm:agent="v1">I stick to yo' ho just like she some fine glue</p>
+      <p begin="01:04.030" end="01:06.330" ttm:agent="v1">No King Von, but nigga, she mine too</p>
+      <p begin="01:06.330" end="01:10.330" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

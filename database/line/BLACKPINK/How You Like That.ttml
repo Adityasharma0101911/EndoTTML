@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>How You Like That</ttm:title>
+      <ttm:agent type="person" xml:id="v1">BLACKPINK</ttm:agent>
+      <ttm:item type="album">THE ALBUM</ttm:item>
+      <ttm:item type="spotify_id">4SFknyjLcyTLJFPKD2m96o</ttm:item>
+      <itunes:duration>03:01.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:07.780" end="00:12.840" ttm:agent="v1">BLACKPINK in your area</p>
+      <p begin="00:12.840" end="00:16.610" ttm:agent="v1">보란 듯이 무너졌어^It all crumbled spectacularly</p>
+      <p begin="00:16.610" end="00:20.380" ttm:agent="v1">바닥을 뚫고 저 지하까지^Down to the very bottom, even below the ground</p>
+      <p begin="00:20.380" end="00:24.020" ttm:agent="v1">옷 끝자락 잡겠다고^Even if I reach out my hands so high</p>
+      <p begin="00:24.020" end="00:27.920" ttm:agent="v1">저 높이 두 손을 뻗어 봐도^Trying to grab onto the hem of your clothes</p>
+      <p begin="00:27.920" end="00:32.040" ttm:agent="v1">다시 캄캄한 이곳에 light up the sky^In this dark place again, light up the sky</p>
+      <p begin="00:32.040" end="00:36.060" ttm:agent="v1">네 두 눈을 보며, I'll kiss you goodbye^Looking into your eyes, I'll kiss you goodbye</p>
+      <p begin="00:36.060" end="00:39.170" ttm:agent="v1">실컷 비웃어라 꼴 좋으니까^Go ahead and laugh, it's a good sight, isn't it?</p>
+      <p begin="00:39.170" end="00:41.790" ttm:agent="v1">이제 너희, 하나, 둘, 셋^Now you guys, one, two, three</p>
+      <p begin="00:41.790" end="00:46.080" ttm:agent="v1">Ha, how you like that?</p>
+      <p begin="00:46.080" end="00:49.920" ttm:agent="v1">You gon' like that, that-that-that-that, that-that-that-that</p>
+      <p begin="00:49.920" end="00:53.220" ttm:agent="v1" itunes:key="role" itunes:value="background">How you like that? (Bada-bing, bada-boom-boom-boom)</p>
+      <p begin="00:53.220" end="00:57.380" ttm:agent="v1">How you like that, that-that-that-that, that-that-that-that?</p>
+      <p begin="00:57.380" end="01:02.280" ttm:agent="v1">Now look at you, now look at me, look at you, now look at me</p>
+      <p begin="01:02.280" end="01:05.100" ttm:agent="v1">Look at you, now look at me, how you like that?</p>
+      <p begin="01:05.100" end="01:09.500" ttm:agent="v1">Now look at you, now look at me, look at you, now look at me</p>
+      <p begin="01:09.500" end="01:12.560" ttm:agent="v1">Look at you, now look at me, how you like that?</p>
+      <p begin="01:12.560" end="01:14.530" ttm:agent="v1">Your girl need it all and that's a hunnid</p>
+      <p begin="01:14.530" end="01:16.760" ttm:agent="v1">백 개 중에 백, 내 몫을 원해^One hundred out of one hundred, I want my share</p>
+      <p begin="01:16.760" end="01:18.320" ttm:agent="v1">Karma come and get some</p>
+      <p begin="01:18.320" end="01:19.950" ttm:agent="v1">딱하지만 어쩔 수 없잖아^It's pitiful, but what can you do?</p>
+      <p begin="01:19.950" end="01:21.860" ttm:agent="v1" itunes:key="role" itunes:value="background">What's up? I'm right back (right back)</p>
+      <p begin="01:21.860" end="01:23.580" ttm:agent="v1" itunes:key="role" itunes:value="background">방아쇠를 cock back (cock back)^Cock back the trigger (cock back)</p>
+      <p begin="01:23.580" end="01:25.470" ttm:agent="v1">Plain Jane get hijacked, don't like me?</p>
+      <p begin="01:25.470" end="01:27.260" ttm:agent="v1">Then tell me how you like that, like that</p>
+      <p begin="01:27.260" end="01:30.970" ttm:agent="v1">더 캄캄한 이곳에 shine like the stars^In this even darker place, shine like the stars</p>
+      <p begin="01:30.970" end="01:34.960" ttm:agent="v1">그 미소를 띠며, I'll kiss you goodbye^With that smile, I'll kiss you goodbye</p>
+      <p begin="01:34.960" end="01:38.220" ttm:agent="v1">실컷 비웃어라 꼴 좋으니까^Go ahead and laugh, it's a good sight, isn't it?</p>
+      <p begin="01:38.220" end="01:40.710" ttm:agent="v1">이제 너희, 하나, 둘, 셋^Now you guys, one, two, three</p>
+      <p begin="01:40.710" end="01:45.050" ttm:agent="v1">Ha, how you like that?</p>
+      <p begin="01:45.050" end="01:48.940" ttm:agent="v1">You gon' like that, that-that-that-that, that-that-that-that</p>
+      <p begin="01:48.940" end="01:52.380" ttm:agent="v1" itunes:key="role" itunes:value="background">How you like that? (Bada-bing, bada-boom-boom-boom)</p>
+      <p begin="01:52.380" end="01:56.650" ttm:agent="v1">How you like that, that-that-that-that, that-that-that-that?</p>
+      <p begin="01:56.650" end="02:02.390" ttm:agent="v1">Now look at you, now look at me, look at you, now look at me</p>
+      <p begin="02:02.390" end="02:04.220" ttm:agent="v1">Look at you, now look at me, how you like that?</p>
+      <p begin="02:04.220" end="02:08.680" ttm:agent="v1">Now look at you, now look at me, look at you, now look at me</p>
+      <p begin="02:08.680" end="02:12.440" ttm:agent="v1">Look at you, now look at me, how you like that?</p>
+      <p begin="02:12.440" end="02:16.080" ttm:agent="v1">날개 잃은 채로 추락했던 날^The day I fell, having lost my wings</p>
+      <p begin="02:16.080" end="02:19.650" ttm:agent="v1">어두운 나날 속에 갇혀 있던 날^The day I was trapped in dark days</p>
+      <p begin="02:19.650" end="02:22.830" ttm:agent="v1">그때쯤에 넌 날 끝내야 했어^You should have finished me off back then</p>
+      <p begin="02:22.830" end="02:26.470" ttm:agent="v1">Look up in the sky, it's a bird, it's a plane</p>
+      <p begin="02:26.470" end="02:32.870" ttm:agent="v1">Yeah-eh-eh-eh</p>
+      <p begin="02:32.870" end="02:36.850" ttm:agent="v1">Bring out your boss, bitch</p>
+      <p begin="02:36.850" end="02:40.560" ttm:agent="v1">Yeah-eh-eh-eh</p>
+      <p begin="02:40.560" end="02:42.060" ttm:agent="v1">BLACKPINK!</p>
+      <p begin="02:41.560" end="02:46.050" ttm:agent="v1" itunes:key="role" itunes:value="background">뚜뚜뚜뚜두두, 뚜뚜뚜뚜두두 (how you like that?)^Doo doo doo doo doo doo, doo doo doo doo doo doo (how you like that?)</p>
+      <p begin="02:46.050" end="02:49.360" ttm:agent="v1" itunes:key="role" itunes:value="background">뚜뚜뚜뚜두두, 뚜뚜뚜뚜두두두 (you gon' like that)^Doo doo doo doo doo doo, doo doo doo doo doo doo doo (you gon' like that)</p>
+      <p begin="02:49.360" end="02:52.320" ttm:agent="v1" itunes:key="role" itunes:value="background">뚜뚜뚜뚜두두, 뚜뚜뚜뚜두두 (how you like that?)^Doo doo doo doo doo doo, doo doo doo doo doo doo (how you like that?)</p>
+      <p begin="02:52.320" end="02:54.980" ttm:agent="v1">뚜뚜뚜뚜두두, 뚜뚜뚜뚜두두두^Doo doo doo doo doo doo, doo doo doo doo doo doo doo</p>
+      <p begin="02:54.980" end="02:58.980" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

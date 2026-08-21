@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>By My Side</ttm:title>
+      <ttm:agent type="person" xml:id="v1">JUNNY</ttm:agent>
+      <ttm:item type="album">By My Side</ttm:item>
+      <ttm:item type="spotify_id">6nzCvAtyADh0wwZEVMoujK</ttm:item>
+      <itunes:duration>03:27.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:11.940" end="00:16.820" ttm:agent="v1">Ooh-ooh-ooh</p>
+      <p begin="00:16.820" end="00:22.540" ttm:agent="v1">난 네 거니까 우리 둘 사이엔</p>
+      <p begin="00:22.540" end="00:28.600" ttm:agent="v1">비밀은 없기로 해 시간이 지나도</p>
+      <p begin="00:28.600" end="00:33.480" ttm:agent="v1">너와 나 사이가 지금 같길 기도해</p>
+      <p begin="00:33.480" end="00:38.380" ttm:agent="v1">I'm deep in love with you</p>
+      <p begin="00:38.380" end="00:41.230" ttm:agent="v1">너와 나란히 누우면</p>
+      <p begin="00:41.230" end="00:47.230" ttm:agent="v1">천장이 사라지는듯해, yeah, yeah</p>
+      <p begin="00:47.230" end="00:54.220" ttm:agent="v1">내 곁에, stay right by my side</p>
+      <p begin="00:54.220" end="00:58.010" ttm:agent="v1">And let me teach you how to love</p>
+      <p begin="00:58.010" end="01:03.390" ttm:agent="v1">With you, I just can't get enough, oh, girl</p>
+      <p begin="01:03.390" end="01:10.110" ttm:agent="v1">그래, 나도 너와 같아</p>
+      <p begin="01:10.110" end="01:13.630" ttm:agent="v1">이 무심한 한 마디면</p>
+      <p begin="01:13.630" end="01:17.570" ttm:agent="v1">난 모든 걸 다 가지는 걸</p>
+      <p begin="01:17.570" end="01:21.050" ttm:agent="v1">Just know you're a part of me</p>
+      <p begin="01:21.050" end="01:24.020" ttm:agent="v1">Girl, honestly, I feel so insecure</p>
+      <p begin="01:24.020" end="01:28.120" ttm:agent="v1">Just something on about you make this feel important</p>
+      <p begin="01:28.120" end="01:32.380" ttm:agent="v1">시간은 멈출 수는 없어 아름답다고</p>
+      <p begin="01:32.380" end="01:36.690" ttm:agent="v1">근데 그보다 더 아름다운 건 나의 너</p>
+      <p begin="01:36.690" end="01:40.500" ttm:agent="v1">Every time I hit you up, you were there to cheer me on</p>
+      <p begin="01:40.500" end="01:44.930" ttm:agent="v1">구름에 몸을 띄워 너는 내 숨통을 틔워줘</p>
+      <p begin="01:44.930" end="01:49.960" ttm:agent="v1">그런 마음이 불어와, yeah, I can't deny</p>
+      <p begin="01:49.960" end="01:53.860" ttm:agent="v1">Girl, you changed my life so now</p>
+      <p begin="01:53.860" end="01:58.390" ttm:agent="v1">There are times I feel like goin' under</p>
+      <p begin="01:58.390" end="02:01.920" ttm:agent="v1">너로 인해, girl, I prosper</p>
+      <p begin="02:01.920" end="02:07.280" ttm:agent="v1">네가 웃으면, it gets brighter than July</p>
+      <p begin="02:07.280" end="02:14.180" ttm:agent="v1">내 곁에, stay right by my side</p>
+      <p begin="02:14.180" end="02:18.260" ttm:agent="v1">Let me teach you how to love</p>
+      <p begin="02:18.260" end="02:23.330" ttm:agent="v1">With you, I just can't get enough, oh, girl</p>
+      <p begin="02:23.330" end="02:30.330" ttm:agent="v1">그래, 나도 너와 같아</p>
+      <p begin="02:30.330" end="02:33.540" ttm:agent="v1">이 무심한 한 마디면</p>
+      <p begin="02:33.540" end="02:37.670" ttm:agent="v1">난 모든 걸 다 가지는 걸</p>
+      <p begin="02:37.670" end="02:39.450" ttm:agent="v1">Just know you're a part of me</p>
+      <p begin="02:39.450" end="02:46.290" ttm:agent="v1" itunes:key="role" itunes:value="background">Let me get down right by your side (oh, I just stay by my side)</p>
+      <p begin="02:46.290" end="02:50.180" ttm:agent="v1" itunes:key="role" itunes:value="background">And let me teach you how to love (oh, whoa, oh)</p>
+      <p begin="02:50.180" end="02:55.430" ttm:agent="v1" itunes:key="role" itunes:value="background">With you, I just can't get enough, oh, girl (can't get enough)</p>
+      <p begin="02:55.430" end="03:02.360" ttm:agent="v1">그래, 나도 너와 같아</p>
+      <p begin="03:02.360" end="03:05.700" ttm:agent="v1" itunes:key="role" itunes:value="background">이 무심한 한 마디면 (yeah, girl, I need you)</p>
+      <p begin="03:05.700" end="03:09.670" ttm:agent="v1">난 모든 걸 다 가지는 걸</p>
+      <p begin="03:09.670" end="03:12.280" ttm:agent="v1">Just know you're a part of me, yeah</p>
+      <p begin="03:12.280" end="03:16.280" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

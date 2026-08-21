@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>this is what falling in love feels like</ttm:title>
+      <ttm:agent type="person" xml:id="v1">JVKE</ttm:agent>
+      <ttm:item type="album">this is what falling in love feels like (554Hz)</ttm:item>
+      <ttm:item type="spotify_id">38Z9KEEfRt0itvmgsW60vG</ttm:item>
+      <itunes:duration>02:00.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:16.510" end="00:21.090" ttm:agent="v1">Feel like sun on my skin</p>
+      <p begin="00:21.090" end="00:25.210" ttm:agent="v1">So this is love, I know it is</p>
+      <p begin="00:25.210" end="00:27.330" ttm:agent="v1">I know I sound super cliché</p>
+      <p begin="00:27.330" end="00:29.570" ttm:agent="v1">But you make me feel some type of way</p>
+      <p begin="00:29.570" end="00:35.550" ttm:agent="v1">This is falling, falling in love</p>
+      <p begin="00:35.550" end="00:37.720" ttm:agent="v1">Yeah</p>
+      <p begin="00:37.720" end="00:40.820" ttm:agent="v1">Ooh, yeah</p>
+      <p begin="00:40.820" end="00:42.980" ttm:agent="v1">I got a lot on my mind</p>
+      <p begin="00:42.980" end="00:44.790" ttm:agent="v1">Got some more on my plate</p>
+      <p begin="00:44.790" end="00:48.300" ttm:agent="v1">My baby got me looking forward to the end of the day</p>
+      <p begin="00:48.300" end="00:52.130" ttm:agent="v1">What you say? You and me?</p>
+      <p begin="00:52.130" end="00:56.060" ttm:agent="v1">Just forget about the past, throw it in the trash</p>
+      <p begin="00:56.060" end="00:59.660" ttm:agent="v1">What you say? You and me?</p>
+      <p begin="00:59.660" end="01:05.060" ttm:agent="v1">Live the life we never had, like we're never going back</p>
+      <p begin="01:05.060" end="01:07.590" ttm:agent="v1"/>
+      <p begin="01:07.590" end="01:11.620" ttm:agent="v1">Feel like sun on my skin</p>
+      <p begin="01:11.620" end="01:15.880" ttm:agent="v1">So this is love, I know it is</p>
+      <p begin="01:15.880" end="01:17.880" ttm:agent="v1">I know I sound super cliché</p>
+      <p begin="01:17.880" end="01:19.560" ttm:agent="v1">But you make me feel some type of way</p>
+      <p begin="01:19.560" end="01:24.630" ttm:agent="v1">This is falling, falling in love</p>
+      <p begin="01:24.630" end="01:26.830" ttm:agent="v1">I know I sound super cliché</p>
+      <p begin="01:26.830" end="01:28.840" ttm:agent="v1">But you make me feel some type of way</p>
+      <p begin="01:28.840" end="01:33.850" ttm:agent="v1">This is falling, falling in love...</p>
+      <p begin="01:33.850" end="01:36.470" ttm:agent="v1"/>
+      <p begin="01:36.470" end="01:37.970" ttm:agent="v1">Yeah</p>
+      <p begin="01:37.850" end="01:42.290" ttm:agent="v1">This is falling, falling in love</p>
+      <p begin="01:42.290" end="01:46.480" ttm:agent="v1">Ooh...</p>
+      <p begin="01:46.480" end="01:49.950" ttm:agent="v1">This is falling, falling in love</p>
+      <p begin="01:49.950" end="01:53.950" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

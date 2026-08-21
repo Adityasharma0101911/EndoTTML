@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Go (Xtayalive 2)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Kanii</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">9lives</ttm:agent>
+      <ttm:item type="album">Go (Xtayalive 2)</ttm:item>
+      <ttm:item type="spotify_id">1slDsIJxew9AOOA3v0xFzn</ttm:item>
+      <itunes:duration>01:46.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.060" end="00:02.570" ttm:agent="v1">I've been M.I.A. so long, I think it's time to turn it on</p>
+      <p begin="00:02.570" end="00:05.870" ttm:agent="v1">This passion in my body, ragin' on me like a quiet storm</p>
+      <p begin="00:05.870" end="00:08.830" ttm:agent="v1">I've been stuck, surrounded by these losers, lames, and all above</p>
+      <p begin="00:08.830" end="00:11.700" ttm:agent="v1">I can't fuck with that girl 'cause she said she don't know how to love</p>
+      <p begin="00:11.700" end="00:14.830" ttm:agent="v1">Told you that you hurt me, I felt like I had to let you know</p>
+      <p begin="00:14.830" end="00:17.810" ttm:agent="v1">Now you tryna pull up to my crib, I think you really gotta</p>
+      <p begin="00:17.810" end="00:20.220" ttm:agent="v1" itunes:key="role" itunes:value="background">Go, just go (ahh)</p>
+      <p begin="00:20.220" end="00:23.230" ttm:agent="v1" itunes:key="role" itunes:value="background">Go, just go (ahh)</p>
+      <p begin="00:23.230" end="00:26.240" ttm:agent="v1" itunes:key="role" itunes:value="background">Go, just go (ahh)</p>
+      <p begin="00:26.240" end="00:28.840" ttm:agent="v1" itunes:key="role" itunes:value="background">Go, just go (ahh)</p>
+      <p begin="00:28.840" end="00:32.220" ttm:agent="v1" itunes:key="role" itunes:value="background">Go, just go (I think you really gotta)</p>
+      <p begin="00:32.220" end="00:35.060" ttm:agent="v1" itunes:key="role" itunes:value="background">Go, just go (I think you really gotta)</p>
+      <p begin="00:35.060" end="00:38.090" ttm:agent="v1" itunes:key="role" itunes:value="background">Go, just go (I think you really gotta)</p>
+      <p begin="00:38.090" end="00:40.860" ttm:agent="v1" itunes:key="role" itunes:value="background">Go, just go (I think you really gotta)</p>
+      <p begin="00:40.860" end="00:48.860" ttm:agent="v1">Go</p>
+      <p begin="00:52.890" end="00:55.570" ttm:agent="v1" itunes:key="role" itunes:value="background">Go, just go (ahh)</p>
+      <p begin="00:55.570" end="00:58.250" ttm:agent="v1" itunes:key="role" itunes:value="background">Go, just go (ahh)</p>
+      <p begin="00:58.250" end="01:01.380" ttm:agent="v1" itunes:key="role" itunes:value="background">Go, just go (ahh)</p>
+      <p begin="01:01.380" end="01:04.240" ttm:agent="v1" itunes:key="role" itunes:value="background">Go, just go (ahh)</p>
+      <p begin="01:04.240" end="01:07.320" ttm:agent="v1" itunes:key="role" itunes:value="background">Go, just go (ahh)</p>
+      <p begin="01:07.320" end="01:10.220" ttm:agent="v1" itunes:key="role" itunes:value="background">Go, just go (ahh)</p>
+      <p begin="01:10.220" end="01:13.280" ttm:agent="v1" itunes:key="role" itunes:value="background">Go, just go (ahh)</p>
+      <p begin="01:13.280" end="01:18.270" ttm:agent="v1" itunes:key="role" itunes:value="background">Go, just go (ahh)</p>
+      <p begin="01:18.270" end="01:22.270" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

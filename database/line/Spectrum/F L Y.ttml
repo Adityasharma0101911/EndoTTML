@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>F L Y</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Spectrum</ttm:agent>
+      <ttm:item type="album">Optical Sunrise/Spectrum2</ttm:item>
+      <ttm:item type="spotify_id">7BInSwH3Ha2YMEEezQLz95</ttm:item>
+      <itunes:duration>03:30.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:03.050" end="00:05.480" ttm:agent="v1">Fly in the sky</p>
+      <p begin="00:05.480" end="00:13.480" ttm:agent="v1">Fly in the wind 翔ばせココロ</p>
+      <p begin="00:13.920" end="00:16.620" ttm:agent="v1">Fly on the sum</p>
+      <p begin="00:16.620" end="00:24.620" ttm:agent="v1">Fly on the moon 見エテクルヨ</p>
+      <p begin="00:25.430" end="00:29.580" ttm:agent="v1">時計仕掛 狭くなった</p>
+      <p begin="00:29.580" end="00:35.930" ttm:agent="v1">夢はフワフワ</p>
+      <p begin="00:35.930" end="00:40.200" ttm:agent="v1">波瀾万丈 金ピカピカ</p>
+      <p begin="00:40.200" end="00:46.020" ttm:agent="v1">Fantasy 答えは</p>
+      <p begin="00:46.020" end="00:51.330" ttm:agent="v1">いつか見た コンサート</p>
+      <p begin="00:51.330" end="00:56.980" ttm:agent="v1">あの時と おんなじさ</p>
+      <p begin="00:56.980" end="01:02.070" ttm:agent="v1">待ちわびた 箱船に</p>
+      <p begin="01:02.070" end="01:08.950" ttm:agent="v1">君を乗せて 行こう</p>
+      <p begin="01:08.950" end="01:11.690" ttm:agent="v1">Fly in the sky</p>
+      <p begin="01:11.690" end="01:19.630" ttm:agent="v1">Fly in the wind 翔ばせココロ</p>
+      <p begin="01:19.630" end="01:22.370" ttm:agent="v1">Fly on the sum</p>
+      <p begin="01:22.370" end="01:30.370" ttm:agent="v1">Fly on the moon 見エテクルヨ</p>
+      <p begin="01:42.060" end="01:45.850" ttm:agent="v1">眺めせしま 夜のしじま</p>
+      <p begin="01:45.850" end="01:52.430" ttm:agent="v1">浮かびながらも</p>
+      <p begin="01:52.430" end="01:56.450" ttm:agent="v1">十重二十重に めくるめくは</p>
+      <p begin="01:56.450" end="02:02.540" ttm:agent="v1">Fantasy 無限に</p>
+      <p begin="02:02.540" end="02:08.100" ttm:agent="v1">知りすぎた 二人には</p>
+      <p begin="02:08.100" end="02:13.260" ttm:agent="v1">新しい 旅がいい</p>
+      <p begin="02:13.260" end="02:18.570" ttm:agent="v1">目を閉じて うなずけば</p>
+      <p begin="02:18.570" end="02:25.410" ttm:agent="v1">深く溶けて 行く</p>
+      <p begin="02:25.410" end="02:28.180" ttm:agent="v1">Fly in the sky</p>
+      <p begin="02:28.180" end="02:36.150" ttm:agent="v1">Fly in the wind 翔ばせココロ</p>
+      <p begin="02:36.150" end="02:39.010" ttm:agent="v1">Fly on the sum</p>
+      <p begin="02:39.010" end="02:47.010" ttm:agent="v1">Fly on the moon 見エテクルヨ・・・</p>
+      <p begin="03:16.930" end="03:20.930" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

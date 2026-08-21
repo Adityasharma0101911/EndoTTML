@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Sad Story</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Lil Candy Paint</ttm:agent>
+      <ttm:item type="album">EVERYTHANG PURPLE (Deluxe)</ttm:item>
+      <ttm:item type="spotify_id">6otanzSw1SJTSlcdwhpnLC</ttm:item>
+      <itunes:duration>02:32.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:02.750" end="00:06.020" ttm:agent="v1">Uh</p>
+      <p begin="00:06.020" end="00:09.010" ttm:agent="v1">Free Joey Exotic, know what I'm sayin'</p>
+      <p begin="00:09.010" end="00:13.420" ttm:agent="v1">Fuck Carol Baskins, she's a ho</p>
+      <p begin="00:13.420" end="00:16.490" ttm:agent="v1">Shawty trippin' in my phone like, who you talking to?</p>
+      <p begin="00:16.490" end="00:19.570" ttm:agent="v1">I replied back Lil' shawty who you talkin to?</p>
+      <p begin="00:19.570" end="00:22.850" ttm:agent="v1">I count paper everyday I ain't stalking you</p>
+      <p begin="00:22.850" end="00:26.740" ttm:agent="v1">Heard you laid up with a lame and he dogging you</p>
+      <p begin="00:26.740" end="00:29.110" ttm:agent="v1">It's just another sad story</p>
+      <p begin="00:29.110" end="00:32.450" ttm:agent="v1">You had yo' chance lil' baby in yo' glory, huh</p>
+      <p begin="00:32.450" end="00:35.400" ttm:agent="v1">Now you wakin' up so pissed every mornin'</p>
+      <p begin="00:35.400" end="00:38.880" ttm:agent="v1">You got a ticket to the chin yo' life borin', huh, ooh</p>
+      <p begin="00:38.880" end="00:42.060" ttm:agent="v1">I'm not tripping every mornin', my life straight</p>
+      <p begin="00:42.060" end="00:45.080" ttm:agent="v1">I wake up to lobster, pussy, and some steak</p>
+      <p begin="00:45.080" end="00:48.240" ttm:agent="v1">She was talkin bout love again, I told you to get out my face</p>
+      <p begin="00:48.240" end="00:51.480" ttm:agent="v1">I don't want that shit no more 'cause that shit there so fake, uh</p>
+      <p begin="00:51.480" end="00:54.620" ttm:agent="v1">How the fuck you not my bitch and you be on my case?</p>
+      <p begin="00:54.620" end="00:57.850" ttm:agent="v1">How the fuck you not in my life and you be in my face?</p>
+      <p begin="00:57.850" end="01:01.060" ttm:agent="v1">How the fuck you not around but still be in my way?</p>
+      <p begin="01:01.060" end="01:05.010" ttm:agent="v1">How the fuck you makin' time to make up all these plays?</p>
+      <p begin="01:05.010" end="01:07.450" ttm:agent="v1">I guess another sad story</p>
+      <p begin="01:07.450" end="01:11.460" ttm:agent="v1">Its on me, karma, bitch I'm paying for it, hm</p>
+      <p begin="01:11.460" end="01:14.030" ttm:agent="v1">I guess another sad story</p>
+      <p begin="01:14.030" end="01:17.280" ttm:agent="v1">It was raining but I made it through the storm</p>
+      <p begin="01:17.280" end="01:20.440" ttm:agent="v1">I had dropped out, I ain't make it to the dorms</p>
+      <p begin="01:20.440" end="01:23.590" ttm:agent="v1">Now they feel me when they see me and perform</p>
+      <p begin="01:23.590" end="01:26.820" ttm:agent="v1">Turned my dream into my life, I wouldn't change shit</p>
+      <p begin="01:26.820" end="01:31.640" ttm:agent="v1">You gon' prolly buy my album and gon' hate this</p>
+      <p begin="01:31.640" end="01:38.640" ttm:agent="v1"/>
+      <p begin="01:38.640" end="01:46.640" ttm:agent="v1" itunes:key="role" itunes:value="background">(Da-da-da-da-da-da-da)</p>
+      <p begin="02:32.290" end="02:36.290" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

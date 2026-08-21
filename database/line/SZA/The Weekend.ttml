@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>The Weekend</ttm:title>
+      <ttm:agent type="person" xml:id="v1">SZA</ttm:agent>
+      <ttm:item type="album">Ctrl</ttm:item>
+      <ttm:item type="spotify_id">6gU9OKjOE7ghfEd55oRO57</ttm:item>
+      <itunes:duration>04:32.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:57.090" end="01:00.260" ttm:agent="v1">You say you got a girl</p>
+      <p begin="01:00.260" end="01:01.880" ttm:agent="v1">How you want me?</p>
+      <p begin="01:01.880" end="01:04.280" ttm:agent="v1">How you want me when you got a girl?</p>
+      <p begin="01:04.280" end="01:09.020" ttm:agent="v1">The feelin' is reckless of knowin' it's selfish</p>
+      <p begin="01:09.020" end="01:11.220" ttm:agent="v1">Knowin' I'm desperate</p>
+      <p begin="01:11.220" end="01:14.170" ttm:agent="v1">Gettin' all in your love, fallin' all over love, like</p>
+      <p begin="01:14.170" end="01:17.660" ttm:agent="v1">Do it 'til it hurts less</p>
+      <p begin="01:17.660" end="01:21.940" ttm:agent="v1">Hanging out the back, all up in your lap</p>
+      <p begin="01:21.940" end="01:23.660" ttm:agent="v1">Like is you comin' home?</p>
+      <p begin="01:23.660" end="01:26.910" ttm:agent="v1">Is you out with her?</p>
+      <p begin="01:26.910" end="01:30.360" ttm:agent="v1">I don't care long as you're here by 10:30</p>
+      <p begin="01:30.360" end="01:32.580" ttm:agent="v1">No later than, drop them drawers</p>
+      <p begin="01:32.580" end="01:36.460" ttm:agent="v1">Give me what I want</p>
+      <p begin="01:36.460" end="01:38.650" ttm:agent="v1">My man is my man, is your man</p>
+      <p begin="01:38.650" end="01:42.230" ttm:agent="v1">Heard it's her man too</p>
+      <p begin="01:42.230" end="01:44.640" ttm:agent="v1">My man is my man, is your man</p>
+      <p begin="01:44.640" end="01:46.900" ttm:agent="v1">Heard that's her man</p>
+      <p begin="01:46.900" end="01:50.480" ttm:agent="v1">Tuesday and Wednesday, Thursday and Friday</p>
+      <p begin="01:50.480" end="01:55.040" ttm:agent="v1">I just keep him satisfied through the weekend</p>
+      <p begin="01:55.040" end="01:59.990" ttm:agent="v1">You're like nine to five, I'm the weekend</p>
+      <p begin="01:59.990" end="02:04.430" ttm:agent="v1">Make him lose his mind every weekend</p>
+      <p begin="02:04.430" end="02:07.080" ttm:agent="v1">You take Wednesday, Thursday</p>
+      <p begin="02:07.080" end="02:09.410" ttm:agent="v1">Then just send him my way</p>
+      <p begin="02:09.410" end="02:13.560" ttm:agent="v1">Think I got it covered for the weekend</p>
+      <p begin="02:13.560" end="02:18.350" ttm:agent="v1">I gotta say I'm in the mood for a little bit more of that</p>
+      <p begin="02:18.350" end="02:21.560" ttm:agent="v1">I mean I'm saying what kind of deal is two days?</p>
+      <p begin="02:21.560" end="02:23.930" ttm:agent="v1">I need me at least 'bout four of them</p>
+      <p begin="02:23.930" end="02:27.550" ttm:agent="v1">More of them, more of you on me</p>
+      <p begin="02:27.550" end="02:31.730" ttm:agent="v1">On us, just tell me you want me, yeah</p>
+      <p begin="02:31.730" end="02:36.620" ttm:agent="v1">Monday and I'll be at your door</p>
+      <p begin="02:36.620" end="02:38.650" ttm:agent="v1">Ready to take her place</p>
+      <p begin="02:38.650" end="02:40.400" ttm:agent="v1">Ready to give you</p>
+      <p begin="02:40.400" end="02:42.700" ttm:agent="v1">What you've been missin' on weekdays</p>
+      <p begin="02:42.700" end="02:44.410" ttm:agent="v1">What you've been waitin' for</p>
+      <p begin="02:44.410" end="02:46.620" ttm:agent="v1">10:30, no later than</p>
+      <p begin="02:46.620" end="02:51.630" ttm:agent="v1">Drop them drawers, I know what you want</p>
+      <p begin="02:51.630" end="02:54.090" ttm:agent="v1">My man is my man, is your man</p>
+      <p begin="02:54.090" end="02:57.580" ttm:agent="v1">Heard it's her man too</p>
+      <p begin="02:57.580" end="02:59.870" ttm:agent="v1">My man is my man, is your man</p>
+      <p begin="02:59.870" end="03:02.450" ttm:agent="v1">Heard that's her man</p>
+      <p begin="03:02.450" end="03:05.700" ttm:agent="v1">Tuesday and Wednesday, Thursday and Friday</p>
+      <p begin="03:05.700" end="03:10.330" ttm:agent="v1">I just keep him satisfied through the weekend</p>
+      <p begin="03:10.330" end="03:15.140" ttm:agent="v1">You're like nine to five, I'm the weekend</p>
+      <p begin="03:15.140" end="03:19.760" ttm:agent="v1">Make him lose his mind every weekend</p>
+      <p begin="03:19.760" end="03:22.390" ttm:agent="v1">You take Wednesday, Thursday</p>
+      <p begin="03:22.390" end="03:24.780" ttm:agent="v1">Then just send him my way</p>
+      <p begin="03:24.780" end="03:30.150" ttm:agent="v1">Think I got it covered for the weekend</p>
+      <p begin="03:30.150" end="03:38.150" ttm:agent="v1"/>
+      <p begin="04:02.200" end="04:08.190" ttm:agent="v1">Ayy</p>
+      <p begin="04:08.190" end="04:09.690" ttm:agent="v1">Bright ideas</p>
+      <p begin="04:09.160" end="04:12.240" ttm:agent="v1">We got bright ideas</p>
+      <p begin="04:12.240" end="04:15.270" ttm:agent="v1">Ayy</p>
+      <p begin="04:15.270" end="04:18.390" ttm:agent="v1"/>
+      <p begin="04:18.390" end="04:19.890" ttm:agent="v1">Bright ideas</p>
+      <p begin="04:19.490" end="04:22.430" ttm:agent="v1">We got bright ideas</p>
+      <p begin="04:22.430" end="04:25.520" ttm:agent="v1">Ayy</p>
+      <p begin="04:25.520" end="04:28.100" ttm:agent="v1"/>
+      <p begin="04:28.100" end="04:29.660" ttm:agent="v1">Bright ideas</p>
+      <p begin="04:29.660" end="04:31.160" ttm:agent="v1">We got bright ideas</p>
+      <p begin="04:30.820" end="04:34.820" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

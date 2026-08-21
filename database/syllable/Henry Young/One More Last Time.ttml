@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>One More Last Time</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Henry Young</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Ashley Alisha</ttm:agent>
+      <ttm:item type="album">One More Last Time</ttm:item>
+      <ttm:item type="spotify_id">2EPQXOr3VLvDImQnoHOYO3</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.865" end="00:02.745" ttm:agent="v1">
+        <span begin="00:00.865" end="00:01.131">남 </span>
+        <span begin="00:01.132" end="00:01.466">아 </span>
+        <span begin="00:01.466" end="00:01.699">있 </span>
+        <span begin="00:01.699" end="00:02.745">는</span>
+      </p>
+      <p begin="00:02.977" end="00:07.455" ttm:agent="v1">
+        <span begin="00:02.977" end="00:03.190">너 </span>
+        <span begin="00:03.191" end="00:03.508">의 </span>
+        <span begin="00:03.508" end="00:03.991">온 </span>
+        <span begin="00:03.991" end="00:04.376">기 </span>
+        <span begin="00:04.377" end="00:04.894">와 </span>
+        <span begin="00:04.894" end="00:05.246">너 </span>
+        <span begin="00:05.247" end="00:05.730">만 </span>
+        <span begin="00:05.730" end="00:06.146">의 </span>
+        <span begin="00:06.147" end="00:06.663">향 </span>
+        <span begin="00:06.663" end="00:07.455">기</span>
+      </p>
+      <p begin="00:08.448" end="00:10.080" ttm:agent="v1">
+        <span begin="00:08.448" end="00:08.679">함 </span>
+        <span begin="00:08.680" end="00:08.913">께 </span>
+        <span begin="00:08.913" end="00:09.212">있 </span>
+        <span begin="00:09.213" end="00:10.080">던</span>
+      </p>
+      <p begin="00:10.080" end="00:14.815" ttm:agent="v1">
+        <span begin="00:10.080" end="00:10.279">그 </span>
+        <span begin="00:10.280" end="00:10.497">같 </span>
+        <span begin="00:10.497" end="00:10.679">은 </span>
+        <span begin="00:10.680" end="00:10.880">공 </span>
+        <span begin="00:10.880" end="00:11.413">간 </span>
+        <span begin="00:11.414" end="00:11.730">도 </span>
+        <span begin="00:11.730" end="00:12.262">난 </span>
+        <span begin="00:12.263" end="00:12.695">지 </span>
+        <span begin="00:12.696" end="00:13.180">우 </span>
+        <span begin="00:13.180" end="00:13.497">고 </span>
+        <span begin="00:13.497" end="00:14.013">있 </span>
+        <span begin="00:14.013" end="00:14.815">어</span>
+      </p>
+      <p begin="00:15.059" end="00:16.842" ttm:agent="v1">
+        <span begin="00:15.059" end="00:15.276">All </span>
+        <span begin="00:15.276" end="00:15.458">I </span>
+        <span begin="00:15.459" end="00:15.693">can </span>
+        <span begin="00:15.693" end="00:15.909">do </span>
+        <span begin="00:15.909" end="00:16.126">is </span>
+        <span begin="00:16.126" end="00:16.842">try</span>
+      </p>
+      <p begin="00:16.843" end="00:18.675" ttm:agent="v1">
+        <span begin="00:16.843" end="00:17.042">우 </span>
+        <span begin="00:17.043" end="00:17.276">리 </span>
+        <span begin="00:17.276" end="00:17.526">만 </span>
+        <span begin="00:17.526" end="00:17.742">에 </span>
+        <span begin="00:17.743" end="00:18.009">시 </span>
+        <span begin="00:18.009" end="00:18.675">간</span>
+      </p>
+      <p begin="00:18.676" end="00:22.408" ttm:agent="v1">
+        <span begin="00:18.676" end="00:18.893">뒤 </span>
+        <span begin="00:18.893" end="00:19.126">돌 </span>
+        <span begin="00:19.126" end="00:19.376">려 </span>
+        <span begin="00:19.376" end="00:19.609">봐 </span>
+        <span begin="00:19.610" end="00:19.843">도 </span>
+        <span begin="00:19.843" end="00:20.091">없 </span>
+        <span begin="00:20.092" end="00:20.342">어 </span>
+        <span begin="00:20.342" end="00:20.726">지 </span>
+        <span begin="00:20.726" end="00:20.976">지 </span>
+        <span begin="00:20.976" end="00:21.443">는 </span>
+        <span begin="00:21.443" end="00:21.725">않 </span>
+        <span begin="00:21.726" end="00:22.408">아</span>
+      </p>
+      <p begin="00:22.409" end="00:24.193" ttm:agent="v1">
+        <span begin="00:22.409" end="00:22.626">따 </span>
+        <span begin="00:22.626" end="00:22.842">뜻 </span>
+        <span begin="00:22.843" end="00:23.093">한 </span>
+        <span begin="00:23.093" end="00:23.292">그 </span>
+        <span begin="00:23.293" end="00:23.509">미 </span>
+        <span begin="00:23.509" end="00:24.193">소</span>
+      </p>
+      <p begin="00:24.193" end="00:26.091" ttm:agent="v1">
+        <span begin="00:24.193" end="00:24.425">너 </span>
+        <span begin="00:24.426" end="00:24.659">무 </span>
+        <span begin="00:24.659" end="00:24.909">좋 </span>
+        <span begin="00:24.909" end="00:25.159">았 </span>
+        <span begin="00:25.159" end="00:25.376">던 </span>
+        <span begin="00:25.376" end="00:25.708">말 </span>
+        <span begin="00:25.709" end="00:26.091">투</span>
+      </p>
+      <p begin="00:26.092" end="00:27.869" ttm:agent="v1">
+        <span begin="00:26.092" end="00:26.326">두 </span>
+        <span begin="00:26.326" end="00:26.508">눈 </span>
+        <span begin="00:26.509" end="00:26.742">을 </span>
+        <span begin="00:26.743" end="00:26.959">감 </span>
+        <span begin="00:26.959" end="00:27.193">아 </span>
+        <span begin="00:27.193" end="00:27.525">봐 </span>
+        <span begin="00:27.526" end="00:27.869">도</span>
+      </p>
+      <p begin="00:27.869" end="00:29.570" ttm:agent="v1">
+        <span begin="00:27.869" end="00:28.135">Dont </span>
+        <span begin="00:28.135" end="00:28.601">wanna </span>
+        <span begin="00:28.602" end="00:29.001">let </span>
+        <span begin="00:29.002" end="00:29.570">you</span>
+      </p>
+      <p begin="00:29.570" end="00:31.126" ttm:agent="v1">
+        <span begin="00:29.570" end="00:29.952">Go </span>
+        <span begin="00:29.953" end="00:31.126">baby</span>
+      </p>
+      <p begin="00:31.126" end="00:33.010" ttm:agent="v1">
+        <span begin="00:31.126" end="00:31.376">빗 </span>
+        <span begin="00:31.376" end="00:31.675">속 </span>
+        <span begin="00:31.676" end="00:32.027">에 </span>
+        <span begin="00:32.027" end="00:32.392">너 </span>
+        <span begin="00:32.392" end="00:33.010">와</span>
+      </p>
+      <p begin="00:33.011" end="00:34.860" ttm:agent="v1">
+        <span begin="00:33.011" end="00:33.227">It's </span>
+        <span begin="00:33.228" end="00:33.694">ooh </span>
+        <span begin="00:33.695" end="00:34.860">raining</span>
+      </p>
+      <p begin="00:34.861" end="00:36.868" ttm:agent="v1">
+        <span begin="00:34.861" end="00:35.078">갇 </span>
+        <span begin="00:35.078" end="00:35.410">혀 </span>
+        <span begin="00:35.411" end="00:35.994">있 </span>
+        <span begin="00:35.995" end="00:36.445">어 </span>
+        <span begin="00:36.445" end="00:36.868">널</span>
+      </p>
+      <p begin="00:36.868" end="00:38.566" ttm:agent="v1">
+        <span begin="00:36.868" end="00:37.218">닮 </span>
+        <span begin="00:37.218" end="00:37.600">은 </span>
+        <span begin="00:37.601" end="00:38.018">사 </span>
+        <span begin="00:38.018" end="00:38.566">람</span>
+      </p>
+      <p begin="00:38.567" end="00:40.280" ttm:agent="v1">
+        <span begin="00:38.567" end="00:38.801">아 </span>
+        <span begin="00:38.801" end="00:39.035">무 </span>
+        <span begin="00:39.036" end="00:39.234">리 </span>
+        <span begin="00:39.234" end="00:39.417">찾 </span>
+        <span begin="00:39.418" end="00:39.634">아 </span>
+        <span begin="00:39.634" end="00:40.280">도</span>
+      </p>
+      <p begin="00:40.280" end="00:42.012" ttm:agent="v1">
+        <span begin="00:40.280" end="00:40.479">Thinkin </span>
+        <span begin="00:40.480" end="00:40.680">bout </span>
+        <span begin="00:40.680" end="00:41.362">you </span>
+        <span begin="00:41.363" end="00:42.012">yeah</span>
+      </p>
+      <p begin="00:42.013" end="00:43.083" ttm:agent="v1">
+        <span begin="00:42.013" end="00:42.479">Only </span>
+        <span begin="00:42.480" end="00:43.083">you</span>
+      </p>
+      <p begin="00:43.083" end="00:44.685" ttm:agent="v1">
+        <span begin="00:43.083" end="00:43.633">너 </span>
+        <span begin="00:43.633" end="00:43.881">만 </span>
+        <span begin="00:43.882" end="00:44.116">보 </span>
+        <span begin="00:44.116" end="00:44.685">여</span>
+      </p>
+      <p begin="00:44.685" end="00:48.250" ttm:agent="v1">
+        <span begin="00:44.685" end="00:44.918">널 </span>
+        <span begin="00:44.919" end="00:45.101">한 </span>
+        <span begin="00:45.102" end="00:45.302">번 </span>
+        <span begin="00:45.302" end="00:45.502">붙 </span>
+        <span begin="00:45.502" end="00:45.718">잡 </span>
+        <span begin="00:45.719" end="00:45.935">아 </span>
+        <span begin="00:45.935" end="00:46.350">봐 </span>
+        <span begin="00:46.351" end="00:46.718">one </span>
+        <span begin="00:46.718" end="00:47.067">more </span>
+        <span begin="00:47.068" end="00:47.517">last </span>
+        <span begin="00:47.517" end="00:48.250">time</span>
+      </p>
+      <p begin="00:48.251" end="00:49.718" ttm:agent="v1">
+        <span begin="00:48.251" end="00:48.484">바 </span>
+        <span begin="00:48.484" end="00:48.667">람 </span>
+        <span begin="00:48.668" end="00:48.884">이 </span>
+        <span begin="00:48.884" end="00:49.084">불 </span>
+        <span begin="00:49.084" end="00:49.334">어 </span>
+        <span begin="00:49.335" end="00:49.718">와</span>
+      </p>
+      <p begin="00:49.718" end="00:51.825" ttm:agent="v1">
+        <span begin="00:49.718" end="00:49.950">모 </span>
+        <span begin="00:49.951" end="00:50.301">두 </span>
+        <span begin="00:50.301" end="00:50.673">버 </span>
+        <span begin="00:50.674" end="00:50.856">리 </span>
+        <span begin="00:50.857" end="00:51.240">기 </span>
+        <span begin="00:51.240" end="00:51.825">엔</span>
+      </p>
+      <p begin="00:51.826" end="00:53.526" ttm:agent="v1">
+        <span begin="00:51.826" end="00:52.109">아 </span>
+        <span begin="00:52.109" end="00:52.359">까 </span>
+        <span begin="00:52.359" end="00:52.826">운 </span>
+        <span begin="00:52.827" end="00:53.076">추 </span>
+        <span begin="00:53.076" end="00:53.310">억 </span>
+        <span begin="00:53.311" end="00:53.526">들</span>
+      </p>
+      <p begin="00:53.537" end="00:55.199" ttm:agent="v1">
+        <span begin="00:53.537" end="00:53.776">기 </span>
+        <span begin="00:53.776" end="00:54.159">억 </span>
+        <span begin="00:54.160" end="00:54.460">해 </span>
+        <span begin="00:54.460" end="00:55.199">봐</span>
+      </p>
+      <p begin="00:55.643" end="00:57.683" ttm:agent="v1">
+        <span begin="00:55.643" end="00:55.843">영 </span>
+        <span begin="00:55.843" end="00:56.058">원 </span>
+        <span begin="00:56.059" end="00:56.276">히 </span>
+        <span begin="00:56.276" end="00:56.509">기 </span>
+        <span begin="00:56.510" end="00:56.759">다 </span>
+        <span begin="00:56.759" end="00:56.993">려 </span>
+        <span begin="00:56.993" end="00:57.292">줄 </span>
+        <span begin="00:57.293" end="00:57.683">게</span>
+      </p>
+      <p begin="00:57.683" end="00:59.536" ttm:agent="v1">
+        <span begin="00:57.683" end="00:58.165">My </span>
+        <span begin="00:58.166" end="00:59.536">baby</span>
+      </p>
+      <p begin="00:59.536" end="01:01.519" ttm:agent="v1">
+        <span begin="00:59.536" end="00:59.718">차 </span>
+        <span begin="00:59.719" end="00:59.886">가 </span>
+        <span begin="00:59.886" end="01:00.035">워 </span>
+        <span begin="01:00.036" end="01:00.201">지 </span>
+        <span begin="01:00.202" end="01:00.351">는 </span>
+        <span begin="01:00.352" end="01:00.519">너 </span>
+        <span begin="01:00.519" end="01:00.685">의 </span>
+        <span begin="01:00.685" end="01:01.018">마 </span>
+        <span begin="01:01.019" end="01:01.519">음</span>
+      </p>
+      <p begin="01:01.519" end="01:03.519" ttm:agent="v1">
+        <span begin="01:01.519" end="01:01.735">상 </span>
+        <span begin="01:01.735" end="01:01.869">처 </span>
+        <span begin="01:01.869" end="01:02.052">만 </span>
+        <span begin="01:02.053" end="01:02.186">남 </span>
+        <span begin="01:02.186" end="01:02.351">긴 </span>
+        <span begin="01:02.352" end="01:02.519">너 </span>
+        <span begin="01:02.519" end="01:02.819">만 </span>
+        <span begin="01:02.819" end="01:03.001">보 </span>
+        <span begin="01:03.002" end="01:03.519">면</span>
+      </p>
+      <p begin="01:03.569" end="01:06.936" ttm:agent="v1">
+        <span begin="01:03.569" end="01:03.851">먼 </span>
+        <span begin="01:03.852" end="01:04.152">저 </span>
+        <span begin="01:04.152" end="01:04.352">말 </span>
+        <span begin="01:04.352" end="01:04.584">하 </span>
+        <span begin="01:04.584" end="01:04.818">고 </span>
+        <span begin="01:04.819" end="01:05.069">싶 </span>
+        <span begin="01:05.069" end="01:05.301">은 </span>
+        <span begin="01:05.302" end="01:05.535">내 </span>
+        <span begin="01:05.536" end="01:06.936">goodbye</span>
+      </p>
+      <p begin="01:06.936" end="01:09.257" ttm:agent="v1">
+        <span begin="01:06.936" end="01:07.135">길 </span>
+        <span begin="01:07.136" end="01:07.319">을 </span>
+        <span begin="01:07.319" end="01:07.569">잃 </span>
+        <span begin="01:07.569" end="01:07.852">어 </span>
+        <span begin="01:07.852" end="01:08.068">어 </span>
+        <span begin="01:08.069" end="01:08.492">쩔 </span>
+        <span begin="01:08.492" end="01:08.791">수 </span>
+        <span begin="01:08.792" end="01:09.025">없 </span>
+        <span begin="01:09.025" end="01:09.257">어</span>
+      </p>
+      <p begin="01:09.258" end="01:12.673" ttm:agent="v1">
+        <span begin="01:09.258" end="01:09.641">그 </span>
+        <span begin="01:09.641" end="01:10.613">만 </span>
+        <span begin="01:10.614" end="01:10.846">하 </span>
+        <span begin="01:10.847" end="01:11.097">고 </span>
+        <span begin="01:11.097" end="01:11.313">싶 </span>
+        <span begin="01:11.314" end="01:11.564">어 </span>
+        <span begin="01:11.564" end="01:11.780">도 </span>
+        <span begin="01:11.780" end="01:12.673">난</span>
+      </p>
+      <p begin="01:14.337" end="01:15.871" ttm:agent="v1">
+        <span begin="01:14.337" end="01:14.406">All </span>
+        <span begin="01:14.406" end="01:14.605">I </span>
+        <span begin="01:14.606" end="01:14.806">can </span>
+        <span begin="01:14.806" end="01:15.006">do </span>
+        <span begin="01:15.006" end="01:15.222">is </span>
+        <span begin="01:15.223" end="01:15.871">try</span>
+      </p>
+      <p begin="01:15.872" end="01:17.722" ttm:agent="v1">
+        <span begin="01:15.872" end="01:16.088">우 </span>
+        <span begin="01:16.089" end="01:16.323">리 </span>
+        <span begin="01:16.324" end="01:16.539">만 </span>
+        <span begin="01:16.539" end="01:16.789">에 </span>
+        <span begin="01:16.789" end="01:17.039">시 </span>
+        <span begin="01:17.039" end="01:17.722">간</span>
+      </p>
+      <p begin="01:17.723" end="01:21.415" ttm:agent="v1">
+        <span begin="01:17.723" end="01:17.956">뒤 </span>
+        <span begin="01:17.957" end="01:18.172">돌 </span>
+        <span begin="01:18.172" end="01:18.438">려 </span>
+        <span begin="01:18.439" end="01:18.656">봐 </span>
+        <span begin="01:18.656" end="01:18.906">도 </span>
+        <span begin="01:18.906" end="01:19.121">없 </span>
+        <span begin="01:19.122" end="01:19.388">어 </span>
+        <span begin="01:19.389" end="01:19.756">지 </span>
+        <span begin="01:19.756" end="01:20.040">지 </span>
+        <span begin="01:20.040" end="01:20.482">는 </span>
+        <span begin="01:20.483" end="01:20.800">않 </span>
+        <span begin="01:20.801" end="01:21.415">아</span>
+      </p>
+      <p begin="01:21.416" end="01:23.299" ttm:agent="v1">
+        <span begin="01:21.416" end="01:21.666">따 </span>
+        <span begin="01:21.666" end="01:21.899">뜻 </span>
+        <span begin="01:21.899" end="01:22.150">한 </span>
+        <span begin="01:22.150" end="01:22.349">그 </span>
+        <span begin="01:22.350" end="01:22.600">미 </span>
+        <span begin="01:22.600" end="01:23.299">소</span>
+      </p>
+      <p begin="01:23.299" end="01:25.166" ttm:agent="v1">
+        <span begin="01:23.299" end="01:23.498">너 </span>
+        <span begin="01:23.499" end="01:23.733">무 </span>
+        <span begin="01:23.733" end="01:23.965">좋 </span>
+        <span begin="01:23.966" end="01:24.183">았 </span>
+        <span begin="01:24.183" end="01:24.415">던 </span>
+        <span begin="01:24.416" end="01:24.784">말 </span>
+        <span begin="01:24.784" end="01:25.166">투</span>
+      </p>
+      <p begin="01:25.167" end="01:26.983" ttm:agent="v1">
+        <span begin="01:25.167" end="01:25.365">두 </span>
+        <span begin="01:25.366" end="01:25.567">눈 </span>
+        <span begin="01:25.568" end="01:25.816">을 </span>
+        <span begin="01:25.816" end="01:26.032">감 </span>
+        <span begin="01:26.033" end="01:26.249">아 </span>
+        <span begin="01:26.250" end="01:26.549">봐 </span>
+        <span begin="01:26.550" end="01:26.983">도</span>
+      </p>
+      <p begin="01:26.983" end="01:28.507" ttm:agent="v1">
+        <span begin="01:26.983" end="01:27.233">Dont </span>
+        <span begin="01:27.233" end="01:27.582">wanna </span>
+        <span begin="01:27.583" end="01:28.099">let </span>
+        <span begin="01:28.100" end="01:28.507">you</span>
+      </p>
+      <p begin="01:28.507" end="01:30.322" ttm:agent="v1">
+        <span begin="01:28.507" end="01:29.022">Go </span>
+        <span begin="01:29.023" end="01:30.322">baby</span>
+      </p>
+      <p begin="01:30.323" end="01:32.057" ttm:agent="v1">
+        <span begin="01:30.323" end="01:30.523">빗 </span>
+        <span begin="01:30.523" end="01:30.773">속 </span>
+        <span begin="01:30.773" end="01:31.040">에 </span>
+        <span begin="01:31.040" end="01:31.439">너 </span>
+        <span begin="01:31.440" end="01:32.057">와</span>
+      </p>
+      <p begin="01:32.057" end="01:33.940" ttm:agent="v1">
+        <span begin="01:32.057" end="01:32.290">It's </span>
+        <span begin="01:32.291" end="01:32.706">ooh </span>
+        <span begin="01:32.707" end="01:33.940">raining</span>
+      </p>
+      <p begin="01:33.940" end="01:36.123" ttm:agent="v1">
+        <span begin="01:33.940" end="01:34.140">갇 </span>
+        <span begin="01:34.140" end="01:34.456">혀 </span>
+        <span begin="01:34.457" end="01:34.990">있 </span>
+        <span begin="01:34.990" end="01:35.507">어 </span>
+        <span begin="01:35.507" end="01:36.123">널</span>
+      </p>
+      <p begin="01:36.124" end="01:37.623" ttm:agent="v1">
+        <span begin="01:36.124" end="01:36.340">닮 </span>
+        <span begin="01:36.340" end="01:36.672">은 </span>
+        <span begin="01:36.673" end="01:37.090">사 </span>
+        <span begin="01:37.090" end="01:37.623">람</span>
+      </p>
+      <p begin="01:37.623" end="01:39.239" ttm:agent="v1">
+        <span begin="01:37.623" end="01:37.839">아 </span>
+        <span begin="01:37.840" end="01:38.090">무 </span>
+        <span begin="01:38.090" end="01:38.272">리 </span>
+        <span begin="01:38.273" end="01:38.456">찾 </span>
+        <span begin="01:38.456" end="01:38.755">아 </span>
+        <span begin="01:38.756" end="01:39.239">도</span>
+      </p>
+      <p begin="01:39.239" end="01:41.022" ttm:agent="v1">
+        <span begin="01:39.239" end="01:39.455">Thinkin </span>
+        <span begin="01:39.456" end="01:39.706">bout </span>
+        <span begin="01:39.706" end="01:40.338">you </span>
+        <span begin="01:40.339" end="01:41.022">yeah</span>
+      </p>
+      <p begin="01:41.023" end="01:42.206" ttm:agent="v1">
+        <span begin="01:41.023" end="01:41.523">Only </span>
+        <span begin="01:41.523" end="01:42.206">you</span>
+      </p>
+      <p begin="01:42.206" end="01:43.675" ttm:agent="v1">
+        <span begin="01:42.206" end="01:42.656">너 </span>
+        <span begin="01:42.656" end="01:42.939">만 </span>
+        <span begin="01:42.940" end="01:43.188">보 </span>
+        <span begin="01:43.189" end="01:43.675">여</span>
+      </p>
+      <p begin="01:43.675" end="01:47.444" ttm:agent="v1">
+        <span begin="01:43.675" end="01:43.876">널 </span>
+        <span begin="01:43.876" end="01:44.091">한 </span>
+        <span begin="01:44.092" end="01:44.308">번 </span>
+        <span begin="01:44.309" end="01:44.525">붙 </span>
+        <span begin="01:44.526" end="01:44.727">잡 </span>
+        <span begin="01:44.727" end="01:44.975">아 </span>
+        <span begin="01:44.976" end="01:45.341">봐 </span>
+        <span begin="01:45.342" end="01:45.558">one </span>
+        <span begin="01:45.559" end="01:46.092">more </span>
+        <span begin="01:46.092" end="01:46.542">last </span>
+        <span begin="01:46.542" end="01:47.444">time</span>
+      </p>
+      <p begin="01:47.445" end="01:48.844" ttm:agent="v1">
+        <span begin="01:47.445" end="01:47.662">바 </span>
+        <span begin="01:47.662" end="01:47.844">람 </span>
+        <span begin="01:47.845" end="01:48.028">이 </span>
+        <span begin="01:48.029" end="01:48.230">불 </span>
+        <span begin="01:48.230" end="01:48.461">어 </span>
+        <span begin="01:48.462" end="01:48.844">와</span>
+      </p>
+      <p begin="01:48.845" end="01:51.044" ttm:agent="v1">
+        <span begin="01:48.845" end="01:49.061">모 </span>
+        <span begin="01:49.062" end="01:49.462">두 </span>
+        <span begin="01:49.462" end="01:49.677">버 </span>
+        <span begin="01:49.678" end="01:50.012">리 </span>
+        <span begin="01:50.012" end="01:50.346">기 </span>
+        <span begin="01:50.346" end="01:51.044">엔</span>
+      </p>
+      <p begin="01:51.045" end="01:52.594" ttm:agent="v1">
+        <span begin="01:51.045" end="01:51.278">아 </span>
+        <span begin="01:51.278" end="01:51.494">까 </span>
+        <span begin="01:51.495" end="01:51.927">운 </span>
+        <span begin="01:51.928" end="01:52.262">추 </span>
+        <span begin="01:52.262" end="01:52.462">억 </span>
+        <span begin="01:52.462" end="01:52.594">들</span>
+      </p>
+      <p begin="01:52.595" end="01:54.674" ttm:agent="v1">
+        <span begin="01:52.595" end="01:52.912">기 </span>
+        <span begin="01:52.912" end="01:53.244">억 </span>
+        <span begin="01:53.245" end="01:53.528">해 </span>
+        <span begin="01:53.528" end="01:54.674">봐</span>
+      </p>
+      <p begin="01:54.675" end="01:58.687" ttm:agent="v1">
+        <span begin="01:54.675" end="01:54.873">영 </span>
+        <span begin="01:54.874" end="01:55.090">원 </span>
+        <span begin="01:55.091" end="01:55.391">히 </span>
+        <span begin="01:55.391" end="01:55.607">기 </span>
+        <span begin="01:55.608" end="01:55.858">다 </span>
+        <span begin="01:55.859" end="01:56.075">려 </span>
+        <span begin="01:56.075" end="01:56.308">줄 </span>
+        <span begin="01:56.308" end="01:56.909">게 </span>
+        <span begin="01:56.910" end="01:57.308">my </span>
+        <span begin="01:57.308" end="01:58.687">babe</span>
+      </p>
+    </div>
+  </body>
+</tt>

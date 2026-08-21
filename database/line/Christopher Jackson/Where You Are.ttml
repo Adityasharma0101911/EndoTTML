@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Where You Are</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Christopher Jackson</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Rachel House</ttm:agent>
+      <ttm:agent type="person" xml:id="v3">Nicole Scherzinger</ttm:agent>
+      <ttm:agent type="person" xml:id="v4">Auli'i Cravalho</ttm:agent>
+      <ttm:agent type="person" xml:id="v5">Louise Bush</ttm:agent>
+      <ttm:agent type="person" xml:id="v6">Disney</ttm:agent>
+      <ttm:item type="album">Moana (Original Motion Picture Soundtrack/Deluxe Edition)</ttm:item>
+      <ttm:item type="spotify_id">2bwSCIuNtVrQPVddCi8sOW</ttm:item>
+      <itunes:duration>03:30.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:12.050" end="00:16.490" ttm:agent="v1">Moana, make way, make way</p>
+      <p begin="00:16.490" end="00:18.520" ttm:agent="v1">Moana, it's time you knew</p>
+      <p begin="00:18.520" end="00:22.660" ttm:agent="v1">The village of Motunui is all you need</p>
+      <p begin="00:22.660" end="00:24.570" ttm:agent="v1">The dancers are practicing</p>
+      <p begin="00:24.570" end="00:26.550" ttm:agent="v1">They dance to an ancient song</p>
+      <p begin="00:26.550" end="00:29.960" ttm:agent="v1" itunes:key="role" itunes:value="background">(Who needs a new song? This old one's all we need)</p>
+      <p begin="00:29.960" end="00:32.200" ttm:agent="v1">This tradition is our mission</p>
+      <p begin="00:32.200" end="00:34.970" ttm:agent="v1" itunes:key="role" itunes:value="background">And Moana, there's so much to do (make way)</p>
+      <p begin="00:34.970" end="00:38.830" ttm:agent="v1">Don't trip on the taro root, that's all you need</p>
+      <p begin="00:38.830" end="00:41.000" ttm:agent="v1" itunes:key="role" itunes:value="background">We share everything we make (we make)</p>
+      <p begin="00:41.000" end="00:42.870" ttm:agent="v1" itunes:key="role" itunes:value="background">We joke, and we weave our baskets (ah-ha!)</p>
+      <p begin="00:42.870" end="00:45.350" ttm:agent="v1">The fishermen come back from the sea</p>
+      <p begin="00:45.350" end="00:47.020" ttm:agent="v1">I wanna see</p>
+      <p begin="00:47.020" end="00:49.100" ttm:agent="v1">Don't walk away</p>
+      <p begin="00:49.100" end="00:50.950" ttm:agent="v1">Moana, stay on the ground now</p>
+      <p begin="00:50.950" end="00:55.210" ttm:agent="v1">Our people will need a chief, and there you are</p>
+      <p begin="00:55.210" end="00:57.270" ttm:agent="v1">There comes a day</p>
+      <p begin="00:57.270" end="00:59.410" ttm:agent="v1">When you're gonna look around</p>
+      <p begin="00:59.410" end="01:03.360" ttm:agent="v1">And realize happiness is where you are</p>
+      <p begin="01:03.360" end="01:05.580" ttm:agent="v1" itunes:key="role" itunes:value="background">Consider the coconut (the what?)</p>
+      <p begin="01:05.580" end="01:07.080" ttm:agent="v1">Consider its tree</p>
+      <p begin="01:06.990" end="01:11.470" ttm:agent="v1">We use each part of the coconut, that's all we need</p>
+      <p begin="01:11.470" end="01:13.500" ttm:agent="v1">We make our nets from the fibers</p>
+      <p begin="01:13.500" end="01:15.430" ttm:agent="v1">The water is sweet inside</p>
+      <p begin="01:15.430" end="01:17.710" ttm:agent="v1">We use the leaves to build fires</p>
+      <p begin="01:17.710" end="01:19.510" ttm:agent="v1">We cook up the meat inside</p>
+      <p begin="01:19.510" end="01:21.780" ttm:agent="v1">Consider the coconuts</p>
+      <p begin="01:21.780" end="01:23.700" ttm:agent="v1" itunes:key="role" itunes:value="background">The trunks and the leaves (ha!)</p>
+      <p begin="01:23.700" end="01:25.950" ttm:agent="v1">The island gives us what we need</p>
+      <p begin="01:25.950" end="01:27.850" ttm:agent="v1">And no one leaves</p>
+      <p begin="01:27.850" end="01:29.850" ttm:agent="v1">That's right, we stay</p>
+      <p begin="01:29.850" end="01:31.650" ttm:agent="v1">We're safe, and we're well provided</p>
+      <p begin="01:31.650" end="01:35.780" ttm:agent="v1">And when we look to the future, there you are</p>
+      <p begin="01:35.780" end="01:37.920" ttm:agent="v1">You'll be okay</p>
+      <p begin="01:37.920" end="01:39.920" ttm:agent="v1">In time you'll learn just as I did</p>
+      <p begin="01:39.920" end="01:44.840" ttm:agent="v1">You must find happiness right where you are</p>
+      <p begin="01:44.840" end="01:50.230" ttm:agent="v1"/>
+      <p begin="01:50.230" end="01:52.480" ttm:agent="v1">I like to dance with the water</p>
+      <p begin="01:52.480" end="01:54.530" ttm:agent="v1">The undertow and the waves</p>
+      <p begin="01:54.530" end="01:58.500" ttm:agent="v1">The water is mischievous, ha! I like how it misbehaves</p>
+      <p begin="01:58.500" end="02:00.720" ttm:agent="v1">The village may think I'm crazy</p>
+      <p begin="02:00.720" end="02:02.830" ttm:agent="v1">Or say that I drift too far</p>
+      <p begin="02:02.830" end="02:09.190" ttm:agent="v1">But once you know what you like, well, there you are</p>
+      <p begin="02:09.190" end="02:13.570" ttm:agent="v1">You are your father's daughter, stubbornness and pride</p>
+      <p begin="02:13.570" end="02:15.550" ttm:agent="v1">Mind what he says but remember</p>
+      <p begin="02:15.550" end="02:18.000" ttm:agent="v1">You may hear a voice inside</p>
+      <p begin="02:18.000" end="02:20.030" ttm:agent="v1">And if the voice starts to whisper</p>
+      <p begin="02:20.030" end="02:22.370" ttm:agent="v1">To follow the farthest star</p>
+      <p begin="02:22.370" end="02:27.400" ttm:agent="v1">Moana, that voice inside is who you are</p>
+      <p begin="02:27.400" end="02:35.400" ttm:agent="v1"/>
+      <p begin="02:40.670" end="02:42.850" ttm:agent="v1">We make our nets from the fibers</p>
+      <p begin="02:42.850" end="02:44.930" ttm:agent="v1">The water is sweet inside</p>
+      <p begin="02:44.930" end="02:46.650" ttm:agent="v1">We use the leaves to build fires</p>
+      <p begin="02:46.650" end="02:48.640" ttm:agent="v1">And cook up the meat inside</p>
+      <p begin="02:48.640" end="02:50.800" ttm:agent="v1" itunes:key="role" itunes:value="background">The village believes in us (ha, that's right!)</p>
+      <p begin="02:50.800" end="02:52.860" ttm:agent="v1" itunes:key="role" itunes:value="background">The village believes (ha!)</p>
+      <p begin="02:52.860" end="02:55.170" ttm:agent="v1">The island gives us what we need</p>
+      <p begin="02:55.170" end="02:56.910" ttm:agent="v1">And no one leaves</p>
+      <p begin="02:56.910" end="02:59.080" ttm:agent="v1">So here I'll stay</p>
+      <p begin="02:59.080" end="03:00.950" ttm:agent="v1">My home, my people beside me</p>
+      <p begin="03:00.950" end="03:05.010" ttm:agent="v1">And when I think of tomorrow, there we are</p>
+      <p begin="03:05.010" end="03:06.930" ttm:agent="v1">I'll lead the way</p>
+      <p begin="03:06.930" end="03:08.910" ttm:agent="v1">I'll have my people to guide me</p>
+      <p begin="03:08.910" end="03:13.170" ttm:agent="v1">We'll build our future together where we are</p>
+      <p begin="03:13.170" end="03:17.290" ttm:agent="v1">'Cause every path leads you back to where you are</p>
+      <p begin="03:17.290" end="03:21.090" ttm:agent="v1">You can find happiness right where you are</p>
+      <p begin="03:21.090" end="03:24.190" ttm:agent="v1">Where you are</p>
+      <p begin="03:24.190" end="03:28.190" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>SoulMate (feat. IU)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">ZICO</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">IU</ttm:agent>
+      <ttm:item type="album">SoulMate (feat. IU)</ttm:item>
+      <ttm:item type="spotify_id">1pz24zu5H9A0S1a2NKT4F0</ttm:item>
+      <itunes:duration>03:39.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:16.850" end="00:19.310" ttm:agent="v1">젊음의 한복판에서</p>
+      <p begin="00:19.310" end="00:21.630" ttm:agent="v1">두 남녀가 사는 작은 섬</p>
+      <p begin="00:21.630" end="00:24.210" ttm:agent="v1">네 기분이 여기 날씨고</p>
+      <p begin="00:24.210" end="00:26.670" ttm:agent="v1">새빨간 열매가 열렸어</p>
+      <p begin="00:26.670" end="00:29.190" ttm:agent="v1">조금 낯설었던 맞은편</p>
+      <p begin="00:29.190" end="00:31.190" ttm:agent="v1">이제 내가 제일 아끼는 곳</p>
+      <p begin="00:31.190" end="00:36.190" ttm:agent="v1">나오기 싫은 이부자리 같아</p>
+      <p begin="00:36.190" end="00:41.320" ttm:agent="v1">대체 왜 너여야만 했는지</p>
+      <p begin="00:41.320" end="00:45.930" ttm:agent="v1">매일 다른 이유를 말해줄게</p>
+      <p begin="00:45.930" end="00:51.280" ttm:agent="v1">형체를 알아보지 못해도</p>
+      <p begin="00:51.280" end="00:56.250" ttm:agent="v1">테두리를 함께 그릴 사람</p>
+      <p begin="00:56.250" end="00:58.140" ttm:agent="v1">오래 기다렸지</p>
+      <p begin="00:58.140" end="01:01.200" ttm:agent="v1">안녕 나의 소울메이트</p>
+      <p begin="01:01.200" end="01:06.090" ttm:agent="v1">모든 게 너다워졌어</p>
+      <p begin="01:06.090" end="01:09.320" ttm:agent="v1">투명한 매듭에 묶여</p>
+      <p begin="01:09.320" end="01:13.870" ttm:agent="v1">한시도 이곳을 못 떠나</p>
+      <p begin="01:13.870" end="01:17.790" ttm:agent="v1"/>
+      <p begin="01:17.790" end="01:19.290" ttm:agent="v1">Stuck with each other</p>
+      <p begin="01:18.760" end="01:20.530" ttm:agent="v1">큰 소파에 누워 스푼 하나로</p>
+      <p begin="01:20.530" end="01:22.610" ttm:agent="v1">장난치며 먹는 아이스크림</p>
+      <p begin="01:22.610" end="01:24.110" ttm:agent="v1">손을 포개고</p>
+      <p begin="01:23.720" end="01:25.290" ttm:agent="v1">춤을 춰 낮부터 아무런 반주 없이</p>
+      <p begin="01:25.290" end="01:28.070" ttm:agent="v1">말풍선이 가득한 둘만의 파티</p>
+      <p begin="01:28.070" end="01:30.550" ttm:agent="v1">숨 쉴 때마다 향이 날 수 있어</p>
+      <p begin="01:30.550" end="01:32.940" ttm:agent="v1">잠에서 깨는 일도 신날 수 있어</p>
+      <p begin="01:32.940" end="01:35.210" ttm:agent="v1">일어나지 않은 일로 질투 날 수 있어</p>
+      <p begin="01:35.210" end="01:37.950" ttm:agent="v1">티격태격할 때 많지만 it's fine</p>
+      <p begin="01:37.950" end="01:39.450" ttm:agent="v1">These day</p>
+      <p begin="01:39.100" end="01:43.180" ttm:agent="v1">각자의 시계를 꺼낸 채</p>
+      <p begin="01:43.180" end="01:47.860" ttm:agent="v1">아낌없이 모래알 쏟네 yeah</p>
+      <p begin="01:47.860" end="01:53.180" ttm:agent="v1">평생 근사한 날만 준대도</p>
+      <p begin="01:53.180" end="01:58.040" ttm:agent="v1">우리한테 돌아갈 마음뿐이야</p>
+      <p begin="01:58.040" end="01:59.980" ttm:agent="v1">오래 기다렸지</p>
+      <p begin="01:59.980" end="02:03.120" ttm:agent="v1">안녕 나의 소울메이트</p>
+      <p begin="02:03.120" end="02:07.950" ttm:agent="v1">모든 게 너다워졌어</p>
+      <p begin="02:07.950" end="02:11.370" ttm:agent="v1">투명한 매듭에 묶여</p>
+      <p begin="02:11.370" end="02:15.600" ttm:agent="v1">한시도 이곳을 못 떠나</p>
+      <p begin="02:15.600" end="02:23.600" ttm:agent="v1"/>
+      <p begin="02:36.710" end="02:38.850" ttm:agent="v1">Love is the true art</p>
+      <p begin="02:38.850" end="02:43.350" ttm:agent="v1">표현력이 갈수록 늘어나</p>
+      <p begin="02:43.350" end="02:46.730" ttm:agent="v1">넌 날 글 짓고 그림 그리게 해</p>
+      <p begin="02:46.730" end="02:48.880" ttm:agent="v1">만나는 순간</p>
+      <p begin="02:48.880" end="02:53.440" ttm:agent="v1">어딘가로 계속 여행 다니는 느낌</p>
+      <p begin="02:53.440" end="02:59.990" ttm:agent="v1">Oh I will stay by your side</p>
+      <p begin="02:59.990" end="03:01.820" ttm:agent="v1">오래 기다렸지</p>
+      <p begin="03:01.820" end="03:04.840" ttm:agent="v1">안녕 나의 소울메이트</p>
+      <p begin="03:04.840" end="03:09.780" ttm:agent="v1">모든 게 너다워졌어</p>
+      <p begin="03:09.780" end="03:13.250" ttm:agent="v1">투명한 매듭에 묶여</p>
+      <p begin="03:13.250" end="03:19.730" ttm:agent="v1">한시도 이곳을 못 떠나</p>
+      <p begin="03:19.730" end="03:23.730" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

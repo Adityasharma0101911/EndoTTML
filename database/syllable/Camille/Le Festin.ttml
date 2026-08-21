@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Le Festin</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Camille</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Michael Giacchino</ttm:agent>
+      <ttm:item type="album">Ratatouille (Original Motion Picture Soundtrack)</ttm:item>
+      <ttm:item type="spotify_id">02JIdsrod3BYucThfUFDUX</ttm:item>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.018" end="00:00.547" ttm:agent="v1">
+        <span begin="00:00.018" end="00:00.396">Camille </span>
+        <span begin="00:00.396" end="00:00.497">- </span>
+        <span begin="00:00.497" end="00:00.497">Le </span>
+        <span begin="00:00.497" end="00:00.547">Festin</span>
+      </p>
+      <p begin="00:22.940" end="00:27.320" ttm:agent="v1">
+        <span begin="00:22.940" end="00:23.190">Les </span>
+        <span begin="00:23.190" end="00:23.450">r </span>
+        <span begin="00:23.450" end="00:23.620">ê </span>
+        <span begin="00:23.620" end="00:23.910">ves </span>
+        <span begin="00:23.910" end="00:24.340">des </span>
+        <span begin="00:24.340" end="00:25.660">amoureux </span>
+        <span begin="00:25.660" end="00:25.870">sont </span>
+        <span begin="00:25.870" end="00:26.220">comme </span>
+        <span begin="00:26.220" end="00:26.580">le </span>
+        <span begin="00:26.580" end="00:26.990">bon </span>
+        <span begin="00:26.990" end="00:27.320">vin</span>
+      </p>
+      <p begin="00:28.380" end="00:32.600" ttm:agent="v1">
+        <span begin="00:28.380" end="00:28.560">Ils </span>
+        <span begin="00:28.560" end="00:29.330">donnent </span>
+        <span begin="00:29.330" end="00:29.710">de </span>
+        <span begin="00:29.710" end="00:30.370">la </span>
+        <span begin="00:30.370" end="00:30.650">joie </span>
+        <span begin="00:30.650" end="00:31.140">ou </span>
+        <span begin="00:31.140" end="00:31.550">bien </span>
+        <span begin="00:31.550" end="00:32.010">du </span>
+        <span begin="00:32.010" end="00:32.600">chagrin</span>
+      </p>
+      <p begin="00:33.510" end="00:37.930" ttm:agent="v1">
+        <span begin="00:33.510" end="00:34.360">Affaibli </span>
+        <span begin="00:34.360" end="00:34.780">par </span>
+        <span begin="00:34.780" end="00:35.210">la </span>
+        <span begin="00:35.210" end="00:35.790">faim </span>
+        <span begin="00:35.790" end="00:36.470">je </span>
+        <span begin="00:36.470" end="00:36.760">suis </span>
+        <span begin="00:36.760" end="00:37.930">malheureux</span>
+      </p>
+      <p begin="00:39.380" end="00:43.480" ttm:agent="v1">
+        <span begin="00:39.380" end="00:40.020">Volant </span>
+        <span begin="00:40.020" end="00:40.460">en </span>
+        <span begin="00:40.460" end="00:41.790">chemin </span>
+        <span begin="00:41.790" end="00:41.960">tout </span>
+        <span begin="00:41.960" end="00:42.400">ce </span>
+        <span begin="00:42.400" end="00:42.780">que </span>
+        <span begin="00:42.780" end="00:43.160">je </span>
+        <span begin="00:43.160" end="00:43.480">peux</span>
+      </p>
+      <p begin="00:44.440" end="00:48.159" ttm:agent="v1">
+        <span begin="00:44.440" end="00:44.630">Car </span>
+        <span begin="00:44.630" end="00:45.030">rien </span>
+        <span begin="00:45.030" end="00:45.709">n'est </span>
+        <span begin="00:45.709" end="00:47.109">gratuit </span>
+        <span begin="00:47.109" end="00:47.329">dans </span>
+        <span begin="00:47.329" end="00:47.599">la </span>
+        <span begin="00:47.599" end="00:48.159">vie</span>
+      </p>
+      <p begin="00:52.719" end="00:57.199" ttm:agent="v1">
+        <span begin="00:52.719" end="00:53.439">L'espoir </span>
+        <span begin="00:53.439" end="00:53.669">est </span>
+        <span begin="00:53.669" end="00:54.059">un </span>
+        <span begin="00:54.059" end="00:54.719">plât </span>
+        <span begin="00:54.719" end="00:55.339">bien </span>
+        <span begin="00:55.339" end="00:55.629">trop </span>
+        <span begin="00:55.629" end="00:56.199">vite </span>
+        <span begin="00:56.199" end="00:56.739">consomm </span>
+        <span begin="00:56.739" end="00:57.199">é</span>
+      </p>
+      <p begin="00:58.039" end="01:02.489" ttm:agent="v1">
+        <span begin="00:58.039" end="00:58.209">À </span>
+        <span begin="00:58.209" end="00:58.899">sauter </span>
+        <span begin="00:58.899" end="00:59.419">les </span>
+        <span begin="00:59.419" end="01:00.749">repas </span>
+        <span begin="01:00.749" end="01:00.909">je </span>
+        <span begin="01:00.909" end="01:01.799">suis </span>
+        <span begin="01:01.799" end="01:02.059">habitu </span>
+        <span begin="01:02.059" end="01:02.489">é</span>
+      </p>
+      <p begin="01:02.979" end="01:07.779" ttm:agent="v1">
+        <span begin="01:02.979" end="01:03.459">Un </span>
+        <span begin="01:03.459" end="01:04.399">voleur </span>
+        <span begin="01:04.399" end="01:05.989">solitaire </span>
+        <span begin="01:05.989" end="01:06.279">est </span>
+        <span begin="01:06.279" end="01:06.829">triste </span>
+        <span begin="01:06.829" end="01:07.299">à </span>
+        <span begin="01:07.299" end="01:07.779">nourrir</span>
+      </p>
+      <p begin="01:08.739" end="01:12.898" ttm:agent="v1">
+        <span begin="01:08.739" end="01:08.919">À </span>
+        <span begin="01:08.919" end="01:09.168">nous </span>
+        <span begin="01:09.168" end="01:09.558">je </span>
+        <span begin="01:09.558" end="01:09.978">suis </span>
+        <span begin="01:09.978" end="01:11.128">amer </span>
+        <span begin="01:11.128" end="01:11.388">je </span>
+        <span begin="01:11.388" end="01:11.998">veux </span>
+        <span begin="01:11.998" end="01:12.248">r </span>
+        <span begin="01:12.248" end="01:12.568">é </span>
+        <span begin="01:12.568" end="01:12.898">ussir</span>
+      </p>
+      <p begin="01:13.808" end="01:18.368" ttm:agent="v1">
+        <span begin="01:13.808" end="01:13.978">Car </span>
+        <span begin="01:13.978" end="01:14.418">rien </span>
+        <span begin="01:14.418" end="01:14.988">n'est </span>
+        <span begin="01:14.988" end="01:16.588">gratuit </span>
+        <span begin="01:16.588" end="01:17.588">dans </span>
+        <span begin="01:17.588" end="01:17.878">la </span>
+        <span begin="01:17.878" end="01:18.368">vie</span>
+      </p>
+      <p begin="01:18.738" end="01:21.538" ttm:agent="v1">
+        <span begin="01:18.738" end="01:20.438">Jamais </span>
+        <span begin="01:20.438" end="01:20.628">on </span>
+        <span begin="01:20.628" end="01:20.928">ne </span>
+        <span begin="01:20.928" end="01:21.538">redira</span>
+      </p>
+      <p begin="01:22.728" end="01:27.358" ttm:agent="v1">
+        <span begin="01:22.728" end="01:22.888">Que </span>
+        <span begin="01:22.888" end="01:23.228">la </span>
+        <span begin="01:23.228" end="01:23.958">course </span>
+        <span begin="01:23.958" end="01:24.148">aux </span>
+        <span begin="01:24.148" end="01:24.418">é </span>
+        <span begin="01:24.418" end="01:25.308">toiles </span>
+        <span begin="01:25.308" end="01:25.508">ça </span>
+        <span begin="01:25.508" end="01:26.028">n'est </span>
+        <span begin="01:26.028" end="01:26.408">pas </span>
+        <span begin="01:26.408" end="01:26.748">pour </span>
+        <span begin="01:26.748" end="01:27.358">moi</span>
+      </p>
+      <p begin="01:27.978" end="01:31.817" ttm:agent="v1">
+        <span begin="01:27.978" end="01:28.958">Laisser-moi </span>
+        <span begin="01:28.958" end="01:29.158">vous </span>
+        <span begin="01:29.158" end="01:29.388">é </span>
+        <span begin="01:29.388" end="01:30.518">merveiller </span>
+        <span begin="01:30.518" end="01:30.867">prendre </span>
+        <span begin="01:30.867" end="01:31.537">mon </span>
+        <span begin="01:31.537" end="01:31.817">envol</span>
+      </p>
+      <p begin="01:32.887" end="01:35.927" ttm:agent="v1">
+        <span begin="01:32.887" end="01:33.217">Nous </span>
+        <span begin="01:33.217" end="01:34.007">allons </span>
+        <span begin="01:34.007" end="01:34.887">enfin </span>
+        <span begin="01:34.887" end="01:35.057">nous </span>
+        <span begin="01:35.057" end="01:35.267">r </span>
+        <span begin="01:35.267" end="01:35.527">é </span>
+        <span begin="01:35.527" end="01:35.927">ga</span>
+      </p>
+      <p begin="01:52.731" end="01:57.950" ttm:agent="v1">
+        <span begin="01:52.731" end="01:53.211">La </span>
+        <span begin="01:53.211" end="01:53.431">f </span>
+        <span begin="01:53.431" end="01:53.610">ê </span>
+        <span begin="01:53.610" end="01:53.820">te </span>
+        <span begin="01:53.820" end="01:54.130">va </span>
+        <span begin="01:54.130" end="01:54.830">enfin </span>
+        <span begin="01:54.830" end="01:57.950">commencer</span>
+      </p>
+      <p begin="01:59.110" end="02:03.339" ttm:agent="v1">
+        <span begin="01:59.110" end="01:59.310">Et </span>
+        <span begin="01:59.310" end="01:59.779">sortez </span>
+        <span begin="01:59.779" end="02:00.509">les </span>
+        <span begin="02:00.509" end="02:01.809">bouteilles </span>
+        <span begin="02:01.809" end="02:02.039">finis </span>
+        <span begin="02:02.039" end="02:02.939">les </span>
+        <span begin="02:02.939" end="02:03.339">ennuis</span>
+      </p>
+      <p begin="02:04.279" end="02:08.539" ttm:agent="v1">
+        <span begin="02:04.279" end="02:04.459">Je </span>
+        <span begin="02:04.459" end="02:05.409">dresse </span>
+        <span begin="02:05.409" end="02:05.639">la </span>
+        <span begin="02:05.639" end="02:06.939">table </span>
+        <span begin="02:06.939" end="02:07.629">demain </span>
+        <span begin="02:07.629" end="02:08.229">nouvelle </span>
+        <span begin="02:08.229" end="02:08.539">vie</span>
+      </p>
+      <p begin="02:09.099" end="02:13.728" ttm:agent="v1">
+        <span begin="02:09.099" end="02:09.379">Je </span>
+        <span begin="02:09.379" end="02:09.589">suis </span>
+        <span begin="02:09.589" end="02:10.579">heureux </span>
+        <span begin="02:10.579" end="02:10.768">à </span>
+        <span begin="02:10.768" end="02:11.018">l'id </span>
+        <span begin="02:11.018" end="02:11.858">é </span>
+        <span begin="02:11.858" end="02:12.038">e </span>
+        <span begin="02:12.038" end="02:12.218">de </span>
+        <span begin="02:12.218" end="02:12.598">ce </span>
+        <span begin="02:12.598" end="02:13.348">nouveau </span>
+        <span begin="02:13.348" end="02:13.728">destin</span>
+      </p>
+      <p begin="02:14.648" end="02:18.938" ttm:agent="v1">
+        <span begin="02:14.648" end="02:14.828">Une </span>
+        <span begin="02:14.828" end="02:14.988">vie </span>
+        <span begin="02:14.988" end="02:15.348">à </span>
+        <span begin="02:15.348" end="02:15.988">me </span>
+        <span begin="02:15.988" end="02:17.178">cacher </span>
+        <span begin="02:17.178" end="02:17.408">et </span>
+        <span begin="02:17.408" end="02:18.148">puis </span>
+        <span begin="02:18.148" end="02:18.558">libre </span>
+        <span begin="02:18.558" end="02:18.938">enfin</span>
+      </p>
+      <p begin="02:19.818" end="02:25.047" ttm:agent="v1">
+        <span begin="02:19.818" end="02:20.207">Le </span>
+        <span begin="02:20.207" end="02:20.457">festin </span>
+        <span begin="02:20.457" end="02:21.147">est </span>
+        <span begin="02:21.147" end="02:22.427">sur </span>
+        <span begin="02:22.427" end="02:23.747">mon </span>
+        <span begin="02:23.747" end="02:25.047">chemin</span>
+      </p>
+      <p begin="02:28.927" end="02:33.227" ttm:agent="v1">
+        <span begin="02:28.927" end="02:29.077">Une </span>
+        <span begin="02:29.077" end="02:29.277">vie </span>
+        <span begin="02:29.277" end="02:29.647">à </span>
+        <span begin="02:29.647" end="02:30.037">me </span>
+        <span begin="02:30.037" end="02:31.357">cacher </span>
+        <span begin="02:31.357" end="02:31.537">et </span>
+        <span begin="02:31.537" end="02:32.147">puis </span>
+        <span begin="02:32.147" end="02:32.707">libre </span>
+        <span begin="02:32.707" end="02:33.227">enfin</span>
+      </p>
+      <p begin="02:34.007" end="02:39.527" ttm:agent="v1">
+        <span begin="02:34.007" end="02:34.147">Le </span>
+        <span begin="02:34.147" end="02:34.767">festin </span>
+        <span begin="02:34.767" end="02:35.367">est </span>
+        <span begin="02:35.367" end="02:36.757">sur </span>
+        <span begin="02:36.757" end="02:37.927">mon </span>
+        <span begin="02:37.927" end="02:39.527">chemin</span>
+      </p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Ethereal</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Txmy</ttm:agent>
+      <ttm:item type="album">Ethereal</ttm:item>
+      <ttm:item type="spotify_id">7iq0IYOnYZUHrz7F4rIIq4</ttm:item>
+      <itunes:duration>02:48.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:21.380" end="00:26.410" ttm:agent="v1">You are like pure starlight</p>
+      <p begin="00:26.410" end="00:31.520" ttm:agent="v1">Dancing through my veins</p>
+      <p begin="00:31.520" end="00:36.450" ttm:agent="v1">It felt like dark as night</p>
+      <p begin="00:36.450" end="00:41.250" ttm:agent="v1">'Til you spoke my name</p>
+      <p begin="00:41.250" end="00:45.720" ttm:agent="v1">And you and I</p>
+      <p begin="00:45.720" end="00:51.450" ttm:agent="v1">Felt our hearts collide</p>
+      <p begin="00:51.450" end="00:56.380" ttm:agent="v1">Like space and time</p>
+      <p begin="00:56.380" end="00:59.830" ttm:agent="v1">All ends tonight</p>
+      <p begin="00:59.830" end="01:06.870" ttm:agent="v1">All I wanted was you, you, you</p>
+      <p begin="01:06.870" end="01:11.150" ttm:agent="v1">You, you, you</p>
+      <p begin="01:11.150" end="01:15.690" ttm:agent="v1">All I do, ooh-ooh</p>
+      <p begin="01:15.690" end="01:19.030" ttm:agent="v1">Is love you more</p>
+      <p begin="01:19.030" end="01:22.160" ttm:agent="v1">Your love is ethereal</p>
+      <p begin="01:22.160" end="01:27.280" ttm:agent="v1">Crystal eyes locked with mine</p>
+      <p begin="01:27.280" end="01:32.160" ttm:agent="v1">As you touch my skin</p>
+      <p begin="01:32.160" end="01:37.070" ttm:agent="v1">We are like dynamite</p>
+      <p begin="01:37.070" end="01:42.110" ttm:agent="v1">Slowly exploding</p>
+      <p begin="01:42.110" end="01:46.880" ttm:agent="v1">And you and I</p>
+      <p begin="01:46.880" end="01:52.040" ttm:agent="v1">Are souls entwined</p>
+      <p begin="01:52.040" end="01:56.500" ttm:agent="v1">Like fire and ice</p>
+      <p begin="01:56.500" end="02:00.670" ttm:agent="v1">When the stars align</p>
+      <p begin="02:00.670" end="02:07.650" ttm:agent="v1">All I wanted was you, you, you</p>
+      <p begin="02:07.650" end="02:11.720" ttm:agent="v1">You, you, you</p>
+      <p begin="02:11.720" end="02:16.300" ttm:agent="v1">All I do, ooh-ooh</p>
+      <p begin="02:16.300" end="02:19.860" ttm:agent="v1">Is love you more</p>
+      <p begin="02:19.860" end="02:27.860" ttm:agent="v1" itunes:key="role" itunes:value="background">Your love is ethereal (ooh)</p>
+      <p begin="02:31.010" end="02:36.270" ttm:agent="v1" itunes:key="role" itunes:value="background">And all I do (ooh)</p>
+      <p begin="02:36.270" end="02:39.820" ttm:agent="v1">Is love you more</p>
+      <p begin="02:39.820" end="02:45.560" ttm:agent="v1">Your love is ethereal</p>
+      <p begin="02:45.560" end="02:49.560" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

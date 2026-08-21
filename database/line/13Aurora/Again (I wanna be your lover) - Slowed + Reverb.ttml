@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Again (I wanna be your lover) - Slowed + Reverb</ttm:title>
+      <ttm:agent type="person" xml:id="v1">13Aurora</ttm:agent>
+      <ttm:item type="album">Again (I wanna be your lover) [Slowed + Reverb]</ttm:item>
+      <ttm:item type="spotify_id">0OH1kj9djepmGhNAvpXX2B</ttm:item>
+      <itunes:duration>03:35.327</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:09.190" end="00:13.400" ttm:agent="v1">You just made the worst mistake</p>
+      <p begin="00:13.400" end="00:18.090" ttm:agent="v1">And you'll regret it,darling</p>
+      <p begin="00:18.090" end="00:22.530" ttm:agent="v1">Cause once you give and then you take</p>
+      <p begin="00:22.530" end="00:30.530" ttm:agent="v1">You'll only end up wanting</p>
+      <p begin="00:31.740" end="00:39.740" ttm:agent="v1">Was everything hard enough?</p>
+      <p begin="00:41.080" end="00:44.550" ttm:agent="v1">Cause one day you'll wake up</p>
+      <p begin="00:44.550" end="00:46.050" ttm:agent="v1">And then you'll say</p>
+      <p begin="00:46.040" end="00:50.500" ttm:agent="v1">I don't wanna be your lover</p>
+      <p begin="00:50.500" end="00:54.900" ttm:agent="v1">I don't wanna be your friend</p>
+      <p begin="00:54.900" end="00:59.520" ttm:agent="v1">You don't know what you got'til it's gone,my dear</p>
+      <p begin="00:59.520" end="01:03.980" ttm:agent="v1">So tell me that you love me again</p>
+      <p begin="01:03.980" end="01:08.950" ttm:agent="v1">I-I don't wanna be your lover</p>
+      <p begin="01:08.950" end="01:13.220" ttm:agent="v1">Baby,I'll hold my breath</p>
+      <p begin="01:13.220" end="01:17.510" ttm:agent="v1">You don't know what you got'til it's gone,my dear</p>
+      <p begin="01:17.510" end="01:21.930" ttm:agent="v1">So tell me that you love me again</p>
+      <p begin="01:21.930" end="01:26.690" ttm:agent="v1">Again,babe,again</p>
+      <p begin="01:26.690" end="01:31.470" ttm:agent="v1">Again,babe,again</p>
+      <p begin="01:31.470" end="01:36.050" ttm:agent="v1">You don't know what you got'til it's gone,my dear</p>
+      <p begin="01:36.050" end="01:40.740" ttm:agent="v1">So tell me that you love me again</p>
+      <p begin="01:40.740" end="01:45.310" ttm:agent="v1">Oohoohooh</p>
+      <p begin="01:45.310" end="01:49.960" ttm:agent="v1">She's screaming in my head</p>
+      <p begin="01:49.960" end="01:54.110" ttm:agent="v1">Oohoohooh</p>
+      <p begin="01:54.110" end="01:59.480" ttm:agent="v1">I left her where I slept</p>
+      <p begin="01:59.480" end="02:03.460" ttm:agent="v1">Somewhere,I can't escape</p>
+      <p begin="02:03.460" end="02:08.290" ttm:agent="v1">I'm running from myself</p>
+      <p begin="02:08.290" end="02:16.290" ttm:agent="v1">Somewhere in between in love and broken,I'm in hell</p>
+      <p begin="02:16.940" end="02:18.440" ttm:agent="v1">Sayin'</p>
+      <p begin="02:17.790" end="02:21.930" ttm:agent="v1">I don't wanna be your lover</p>
+      <p begin="02:21.930" end="02:26.260" ttm:agent="v1">I don't wanna be your friend</p>
+      <p begin="02:26.260" end="02:30.870" ttm:agent="v1">You don't know what you got'til it's gone,my dear</p>
+      <p begin="02:30.870" end="02:36.120" ttm:agent="v1">So tell me that you love me again</p>
+      <p begin="02:36.120" end="02:40.460" ttm:agent="v1">I don't wanna be your lover</p>
+      <p begin="02:40.460" end="02:44.750" ttm:agent="v1">You're leaving when the clock hits ten</p>
+      <p begin="02:44.750" end="02:49.440" ttm:agent="v1">You don't know what you got'til it's gone,my dear</p>
+      <p begin="02:49.440" end="02:54.190" ttm:agent="v1">So tell me that you love me again</p>
+      <p begin="02:54.190" end="02:58.450" ttm:agent="v1">Again,babe,again</p>
+      <p begin="02:58.450" end="03:03.390" ttm:agent="v1">Again,babe,again</p>
+      <p begin="03:03.390" end="03:07.920" ttm:agent="v1">You don't know what you got'til it's gone,my dear</p>
+      <p begin="03:07.920" end="03:12.540" ttm:agent="v1">So tell me that you love me again</p>
+      <p begin="03:12.540" end="03:16.690" ttm:agent="v1">Again,babe,again</p>
+      <p begin="03:16.690" end="03:21.660" ttm:agent="v1">Again,babe,again</p>
+      <p begin="03:21.660" end="03:26.240" ttm:agent="v1">You don't know what you got'til it's gone,my dear</p>
+      <p begin="03:26.240" end="03:29.930" ttm:agent="v1">So tell me that you love me again</p>
+      <p begin="03:29.930" end="03:33.930" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

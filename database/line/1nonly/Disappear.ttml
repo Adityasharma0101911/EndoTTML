@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>Disappear</ttm:title>
+      <ttm:agent type="person" xml:id="v1">1nonly</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">Shady Moon</ttm:agent>
+      <ttm:agent type="person" xml:id="v3">Junya Shii</ttm:agent>
+      <ttm:item type="album">Homesick</ttm:item>
+      <ttm:item type="spotify_id">2iRi7iqoZsHW9zZlLSfRjU</ttm:item>
+      <itunes:duration>01:55.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00.010" end="00:08.010" ttm:agent="v1">It's funny how all I see is faces</p>
+      <p begin="00:08.930" end="00:15.420" ttm:agent="v1">'Be if I go away, I could disappear with no traces</p>
+      <p begin="00:15.420" end="00:18.130" ttm:agent="v1">If I disappear from this world, would you think about me?</p>
+      <p begin="00:18.130" end="00:20.110" ttm:agent="v1">And I know that it's selfish, but it's so funny</p>
+      <p begin="00:20.110" end="00:22.140" ttm:agent="v1">That you never get the hints that I'll leave when I'm gone</p>
+      <p begin="00:22.140" end="00:23.640" ttm:agent="v1">What's the cost, am I helpless?</p>
+      <p begin="00:23.480" end="00:25.500" ttm:agent="v1">And you've always said I was the one for you</p>
+      <p begin="00:25.500" end="00:27.680" ttm:agent="v1">When my time comes, know I did it all for you</p>
+      <p begin="00:27.680" end="00:29.680" ttm:agent="v1">Said &quot;Fuck you&quot; once, now you on the loose</p>
+      <p begin="00:29.680" end="00:31.550" ttm:agent="v1">Only the money that I make keep me off a noose</p>
+      <p begin="00:31.550" end="00:33.540" ttm:agent="v1" itunes:key="role" itunes:value="background">If I disappear from your life, would you chase me? (Would you chase me?)</p>
+      <p begin="00:33.540" end="00:35.590" ttm:agent="v1" itunes:key="role" itunes:value="background">Even if you don't feel the same, you better tell me (Fine)</p>
+      <p begin="00:35.590" end="00:37.340" ttm:agent="v1">I don't wanna fall, or be lied to</p>
+      <p begin="00:37.340" end="00:39.410" ttm:agent="v1" itunes:key="role" itunes:value="background">The songs that I write for you are saying &quot;Help me&quot; (Damn)</p>
+      <p begin="00:39.410" end="00:42.190" ttm:agent="v1" itunes:key="role" itunes:value="background">Girl, let's talk it out, change it up for the one time (One time)</p>
+      <p begin="00:42.190" end="00:44.050" ttm:agent="v1">You always tryna argue with me through the whole night</p>
+      <p begin="00:44.050" end="00:46.120" ttm:agent="v1">I'll slide through when you need me, I won't pass by</p>
+      <p begin="00:46.120" end="00:47.620" ttm:agent="v1" itunes:key="role" itunes:value="background">You know I'll always show up in the long ride (Shady)</p>
+      <p begin="00:47.120" end="00:48.740" ttm:agent="v1">'Cause, bitch, you my ride forever</p>
+      <p begin="00:48.740" end="00:51.380" ttm:agent="v1" itunes:key="role" itunes:value="background">I don't wanna see you posted up with another man that's not me (Hello?)</p>
+      <p begin="00:51.380" end="00:53.140" ttm:agent="v1">This money come clutch, but it's not enough, girl</p>
+      <p begin="00:53.140" end="00:55.180" ttm:agent="v1" itunes:key="role" itunes:value="background">I need you here, I don't wanna feel this lonely (Ha)</p>
+      <p begin="00:55.180" end="00:57.640" ttm:agent="v1">Whenever you around, it's a feeling that no other could create</p>
+      <p begin="00:57.640" end="00:59.340" ttm:agent="v1" itunes:key="role" itunes:value="background">'Cause your heart took away my blue (my blue)</p>
+      <p begin="00:59.340" end="01:01.490" ttm:agent="v1">I wish we'd stay together, but I know our lifestyle is different</p>
+      <p begin="01:01.490" end="01:03.190" ttm:agent="v1">But I wonder if we see that shit through</p>
+      <p begin="01:03.190" end="01:06.650" ttm:agent="v1">But I would never let you go</p>
+      <p begin="01:06.650" end="01:10.440" ttm:agent="v1">'Cause you steady runnin' in my mind</p>
+      <p begin="01:10.440" end="01:14.510" ttm:agent="v1">Can you tell me why it's always cold?</p>
+      <p begin="01:14.510" end="01:18.730" ttm:agent="v1">It's 'cause you not right here by my side</p>
+      <p begin="01:18.730" end="01:22.560" ttm:agent="v1">But I would never let you go</p>
+      <p begin="01:22.560" end="01:26.450" ttm:agent="v1">'Cause you steady runnin' in my mind</p>
+      <p begin="01:26.450" end="01:30.550" ttm:agent="v1">Can you tell me why it's always cold?</p>
+      <p begin="01:30.550" end="01:35.400" ttm:agent="v1">It's 'cause you not right here by my side</p>
+      <p begin="01:35.400" end="01:38.160" ttm:agent="v1">If I disappear from this world, would you think about me?</p>
+      <p begin="01:38.160" end="01:40.100" ttm:agent="v1">And I know that it's selfish but it's so funny</p>
+      <p begin="01:40.100" end="01:42.190" ttm:agent="v1">That you never get the hints that I'll leave when I'm gone</p>
+      <p begin="01:42.190" end="01:43.690" ttm:agent="v1">What's the cost, am I helpless?</p>
+      <p begin="01:43.560" end="01:45.680" ttm:agent="v1">And you've always said I was the one for you</p>
+      <p begin="01:45.680" end="01:47.770" ttm:agent="v1">When my time comes, know I did it all for you</p>
+      <p begin="01:47.770" end="01:49.620" ttm:agent="v1">Said &quot;Fuck you&quot; once, now you on the loose</p>
+      <p begin="01:49.620" end="01:51.620" ttm:agent="v1">Only the money that I make keep me off a noose</p>
+      <p begin="01:51.620" end="01:55.620" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>WDYS</ttm:title>
+      <ttm:agent type="person" xml:id="v1">yedira</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">asheu</ttm:agent>
+      <ttm:item type="album">WDYS</ttm:item>
+      <ttm:item type="spotify_id">1a8gwdUECQHmUvLxqdirSm</ttm:item>
+      <itunes:duration>02:24.835</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:07.930" end="00:09.750" ttm:agent="v1">Hey</p>
+      <p begin="00:09.750" end="00:11.940" ttm:agent="v1">It's been awhile</p>
+      <p begin="00:11.940" end="00:13.780" ttm:agent="v1">Let's meet tonight</p>
+      <p begin="00:13.780" end="00:15.830" ttm:agent="v1">We'll go run away</p>
+      <p begin="00:15.830" end="00:17.720" ttm:agent="v1">Hey</p>
+      <p begin="00:17.720" end="00:19.220" ttm:agent="v1" itunes:key="role" itunes:value="background">(Hey)</p>
+      <p begin="00:17.840" end="00:19.900" ttm:agent="v1">I know it's been hard</p>
+      <p begin="00:19.900" end="00:21.680" ttm:agent="v1">I know this feeling</p>
+      <p begin="00:21.680" end="00:23.180" ttm:agent="v1">It's empty</p>
+      <p begin="00:22.670" end="00:24.820" ttm:agent="v1">But you make me smile</p>
+      <p begin="00:24.820" end="00:26.330" ttm:agent="v1">I cannot lie</p>
+      <p begin="00:26.330" end="00:30.620" ttm:agent="v1">Your touch is a melody played on my mind</p>
+      <p begin="00:30.620" end="00:33.010" ttm:agent="v1">When you're out of sight</p>
+      <p begin="00:33.010" end="00:35.090" ttm:agent="v1">I cannot lie</p>
+      <p begin="00:35.090" end="00:39.510" ttm:agent="v1">I can't stop thinking of you</p>
+      <p begin="00:39.510" end="00:41.630" ttm:agent="v1">Baby let's meet tonight</p>
+      <p begin="00:41.630" end="00:43.670" ttm:agent="v1">Take my heart away</p>
+      <p begin="00:43.670" end="00:45.650" ttm:agent="v1">I know it's been awhile</p>
+      <p begin="00:45.650" end="00:47.150" ttm:agent="v1">Let's go far away</p>
+      <p begin="00:46.620" end="00:49.920" ttm:agent="v1">Ooh ooh ooh ooh</p>
+      <p begin="00:49.920" end="00:51.420" ttm:agent="v1">Ooh ooh ooh ooh</p>
+      <p begin="00:50.480" end="00:53.990" ttm:agent="v1">Ooh ooh ooh ooh</p>
+      <p begin="00:53.990" end="00:55.500" ttm:agent="v1">What do you say?</p>
+      <p begin="00:55.500" end="00:57.630" ttm:agent="v1">Baby let's meet tonight</p>
+      <p begin="00:57.630" end="00:59.660" ttm:agent="v1">Take my heart away</p>
+      <p begin="00:59.660" end="01:01.660" ttm:agent="v1">I know it's been awhile</p>
+      <p begin="01:01.660" end="01:03.160" ttm:agent="v1">Let's go far away</p>
+      <p begin="01:02.690" end="01:06.420" ttm:agent="v1">Ooh ooh ooh ooh</p>
+      <p begin="01:06.420" end="01:08.480" ttm:agent="v1">Ooh ooh ooh ooh</p>
+      <p begin="01:08.480" end="01:09.990" ttm:agent="v1">Ooh ooh ooh ooh</p>
+      <p begin="01:09.990" end="01:11.760" ttm:agent="v1">What do you say?</p>
+      <p begin="01:11.760" end="01:16.030" ttm:agent="v1">Address me as another home</p>
+      <p begin="01:16.030" end="01:19.740" ttm:agent="v1">We'll build a place of our own</p>
+      <p begin="01:19.740" end="01:23.340" ttm:agent="v1">Our destiny seems to be overdue</p>
+      <p begin="01:23.340" end="01:27.970" ttm:agent="v1">But I'm lucky to be under the same stars as you</p>
+      <p begin="01:27.970" end="01:29.470" ttm:agent="v1">Smile</p>
+      <p begin="01:29.050" end="01:30.590" ttm:agent="v1">I cannot lie</p>
+      <p begin="01:30.590" end="01:34.980" ttm:agent="v1">Your touch is a melody played on my mind</p>
+      <p begin="01:34.980" end="01:37.030" ttm:agent="v1">When you're out of sight</p>
+      <p begin="01:37.030" end="01:39.060" ttm:agent="v1">I cannot lie</p>
+      <p begin="01:39.060" end="01:43.500" ttm:agent="v1">I can't stop dreaming of you</p>
+      <p begin="01:43.500" end="01:45.870" ttm:agent="v1">Baby let's meet tonight</p>
+      <p begin="01:45.870" end="01:47.680" ttm:agent="v1">Take my heart away</p>
+      <p begin="01:47.680" end="01:49.610" ttm:agent="v1">I know it's been awhile</p>
+      <p begin="01:49.610" end="01:51.110" ttm:agent="v1">Let's go far away</p>
+      <p begin="01:50.670" end="01:53.700" ttm:agent="v1">Ooh ooh ooh ooh</p>
+      <p begin="01:53.700" end="01:55.200" ttm:agent="v1">Ooh ooh ooh ooh</p>
+      <p begin="01:54.350" end="01:57.940" ttm:agent="v1">Ooh ooh ooh ooh</p>
+      <p begin="01:57.940" end="01:59.550" ttm:agent="v1">What do you say?</p>
+      <p begin="01:59.550" end="02:01.570" ttm:agent="v1">Baby let's meet tonight</p>
+      <p begin="02:01.570" end="02:03.670" ttm:agent="v1">Take my heart away</p>
+      <p begin="02:03.670" end="02:05.640" ttm:agent="v1">I know it's been awhile</p>
+      <p begin="02:05.640" end="02:07.370" ttm:agent="v1">Let's go far away</p>
+      <p begin="02:07.370" end="02:11.780" ttm:agent="v1">Ooh ooh ooh ooh</p>
+      <p begin="02:11.780" end="02:13.380" ttm:agent="v1">Ooh ooh ooh ooh</p>
+      <p begin="02:13.380" end="02:14.880" ttm:agent="v1">Ooh ooh ooh ooh</p>
+      <p begin="02:13.940" end="02:18.330" ttm:agent="v1">What do you say?</p>
+      <p begin="02:18.330" end="02:19.830" ttm:agent="v1">Ooh ooh ooh ooh</p>
+      <p begin="02:18.490" end="02:21.060" ttm:agent="v1">Ooh ooh ooh ooh</p>
+      <p begin="02:21.060" end="02:22.560" ttm:agent="v1">Ooh ooh ooh ooh</p>
+      <p begin="02:21.920" end="02:23.510" ttm:agent="v1">What do you say?</p>
+      <p begin="02:23.510" end="02:27.510" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>

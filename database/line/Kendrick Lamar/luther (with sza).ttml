@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+  <head>
+    <metadata>
+      <ttm:title>luther (with sza)</ttm:title>
+      <ttm:agent type="person" xml:id="v1">Kendrick Lamar</ttm:agent>
+      <ttm:agent type="person" xml:id="v2">SZA</ttm:agent>
+      <ttm:item type="album">GNX</ttm:item>
+      <ttm:item type="spotify_id">45J4avUb9Ni0bnETYaYFVJ</ttm:item>
+      <itunes:duration>02:58.000</itunes:duration>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+    </styling>
+    <layout>
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:10.109" end="00:12.547" ttm:agent="v1">If this world were mine</p>
+      <p begin="00:12.547" end="00:15.940" ttm:agent="v1">Hey, Roman numeral seven, bae, drop it like it's hot</p>
+      <p begin="00:15.940" end="00:19.413" ttm:agent="v1">If this world was mine, I'd take your dreams and make 'em multiply</p>
+      <p begin="00:19.413" end="00:22.860" ttm:agent="v1">If this world was mine, I'd take your enemies in front of God</p>
+      <p begin="00:22.860" end="00:26.290" ttm:agent="v1">Introduce 'em to that light, hit them strictly with that fire</p>
+      <p begin="00:26.290" end="00:33.398" ttm:agent="v1">Fah-fah, fah-fah-fah, fah-fah, fah</p>
+      <p begin="00:33.398" end="00:36.799" ttm:agent="v1">Hey, Roman numeral seven, bae, drop it like it's hot</p>
+      <p begin="00:36.799" end="00:40.217" ttm:agent="v1">If this world was mine, I'd take your dreams and make 'em multiply</p>
+      <p begin="00:40.217" end="00:43.674" ttm:agent="v1">If this world was mine, I'd take your enemies in front of God</p>
+      <p begin="00:43.674" end="00:47.332" ttm:agent="v1">Introduce 'em to that light, hit them strictly with that fire</p>
+      <p begin="00:47.332" end="00:49.924" ttm:agent="v1">It's a vibe, do your dance, let 'em watch</p>
+      <p begin="00:49.924" end="00:53.790" ttm:agent="v1">She a fan, he a flop, they just wanna kumbaya, nah</p>
+      <p begin="00:53.790" end="00:57.271" ttm:agent="v1">In this world, concrete flowers grow</p>
+      <p begin="00:57.271" end="01:00.801" ttm:agent="v1">Heartache, she only doin' what she know</p>
+      <p begin="01:00.801" end="01:04.245" ttm:agent="v1">Weekends, get it poppin' on the low</p>
+      <p begin="01:04.245" end="01:09.000" ttm:agent="v1" itunes:key="role" itunes:value="background">Better days comin' for sure (if this world were)</p>
+      <p begin="01:09.000" end="01:10.500" ttm:agent="v1"/>
+      <p begin="01:09.563" end="01:14.953" ttm:agent="v1">If it was up to me, I wouldn't give these nobodies no sympathy</p>
+      <p begin="01:14.953" end="01:19.779" ttm:agent="v1">I'd take away the pain, I'd give you everything</p>
+      <p begin="01:19.779" end="01:23.063" ttm:agent="v1" itunes:key="role" itunes:value="background">I just wanna see you win, wanna see (if this world were mine)</p>
+      <p begin="01:23.063" end="01:26.999" ttm:agent="v1" itunes:key="role" itunes:value="background">It go in (when you), out (ride it), do it real slow (slide)</p>
+      <p begin="01:26.999" end="01:30.327" ttm:agent="v1" itunes:key="role" itunes:value="background">Baby, you a star, strike, pose (right)</p>
+      <p begin="01:30.327" end="01:33.790" ttm:agent="v1" itunes:key="role" itunes:value="background">When I'm (when you), with you (with me), everything goes (slow)</p>
+      <p begin="01:33.790" end="01:37.185" ttm:agent="v1" itunes:key="role" itunes:value="background">Come and (put that), put that (on my), on my (titi), soul (soul)</p>
+      <p begin="01:37.185" end="01:40.772" ttm:agent="v1" itunes:key="role" itunes:value="background">'Rari (red), crown (stack), wrist (stay), froze (really)</p>
+      <p begin="01:40.772" end="01:44.185" ttm:agent="v1" itunes:key="role" itunes:value="background">Drip (tell me), pound (if you), on the way home (love me)</p>
+      <p begin="01:44.185" end="01:47.622" ttm:agent="v1">In this world, concrete flowers grow</p>
+      <p begin="01:47.622" end="01:51.175" ttm:agent="v1">Heartache, she only doin' what she know</p>
+      <p begin="01:51.175" end="01:54.684" ttm:agent="v1">Weekends, get it poppin' on the low</p>
+      <p begin="01:54.684" end="01:58.600" ttm:agent="v1" itunes:key="role" itunes:value="background">Better days comin' for sure (if this world were)</p>
+      <p begin="01:58.600" end="02:00.100" ttm:agent="v1"/>
+      <p begin="01:59.929" end="02:05.454" ttm:agent="v1">If it was up to me, I wouldn't give these nobodies no sympathy</p>
+      <p begin="02:05.454" end="02:10.323" ttm:agent="v1">I'd take away the pain, I'd give you everything</p>
+      <p begin="02:10.323" end="02:13.473" ttm:agent="v1" itunes:key="role" itunes:value="background">I just wanna see you win, wanna see (if this world were mine)</p>
+      <p begin="02:13.473" end="02:17.251" ttm:agent="v1">I can't lie, I trust you, I love you, I won't waste your time</p>
+      <p begin="02:17.251" end="02:19.744" ttm:agent="v1">I turn it off just so I can turn you on</p>
+      <p begin="02:19.744" end="02:22.385" ttm:agent="v1">I'ma make you say it loud</p>
+      <p begin="02:22.385" end="02:25.516" ttm:agent="v1">I'm not even trippin', I won't stress you out</p>
+      <p begin="02:25.516" end="02:29.014" ttm:agent="v1">I might even settle down for you, I'ma show you I'm a pro</p>
+      <p begin="02:29.014" end="02:32.938" ttm:agent="v1">I'ma take my time and turn it off</p>
+      <p begin="02:32.938" end="02:34.900" ttm:agent="v1">Just so I can turn you on, baby</p>
+      <p begin="02:34.900" end="02:38.004" ttm:agent="v1">Weekends, get it poppin' on the low</p>
+      <p begin="02:38.004" end="02:40.264" ttm:agent="v1">Better days comin' for sure</p>
+      <p begin="02:40.264" end="02:42.000" ttm:agent="v1">I know you're comin' for</p>
+      <p begin="02:42.000" end="02:47.600" ttm:agent="v1"/>
+      <p begin="02:47.600" end="02:49.100" ttm:agent="v1" itunes:key="role" itunes:value="background">(Anything)</p>
+      <p begin="02:49.000" end="02:53.000" ttm:agent="v1"/>
+      <p begin="02:53.000" end="02:56.300" ttm:agent="v1" itunes:key="role" itunes:value="background">(If this world were mine)</p>
+      <p begin="02:56.300" end="03:00.300" ttm:agent="v1"/>
+    </div>
+  </body>
+</tt>
