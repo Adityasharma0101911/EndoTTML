@@ -7,17 +7,17 @@
     "completed": 2110,
     "failed": 89,
     "pending": 0,
-    "syllable_synced": 1473,
-    "line_synced": 573,
-    "plain": 64,
+    "syllable_synced": 1475,
+    "line_synced": 572,
+    "plain": 63,
     "providers": {
       "Historical fallback (0ade197)": 2,
       "Historical fallback (0e805e7)": 126,
       "Historical fallback (5191c08)": 4,
-      "Historical fallback (f7edf51)": 297,
+      "Historical fallback (f7edf51)": 296,
       "LRCLIB": 1,
-      "Musixmatch": 48,
-      "NetEase": 1032,
+      "Musixmatch": 51,
+      "NetEase": 1030,
       "QQMusic": 520,
       "Recovered": 1,
       "SyncedLyrics": 79
@@ -18274,11 +18274,11 @@
       "artist": "Løvesick",
       "album": "Cigs & Alcohol",
       "duration_seconds": null,
-      "sync_type": "line_synced",
-      "provider": "Historical fallback (f7edf51)",
+      "sync_type": "syllable_synced",
+      "provider": "Musixmatch",
       "line_count": 51,
       "word_count": 373,
-      "rel_path": "database/line/Løvesick/Cigs & Alcohol.ttml"
+      "rel_path": "database/syllable/Løvesick/Cigs & Alcohol.ttml"
     },
     {
       "id": 1312,
@@ -20403,9 +20403,9 @@
       "album": "girls like me don't cry",
       "duration_seconds": null,
       "sync_type": "syllable_synced",
-      "provider": "NetEase",
-      "line_count": 39,
-      "word_count": 286,
+      "provider": "Musixmatch",
+      "line_count": 44,
+      "word_count": 298,
       "rel_path": "database/syllable/thủy/girls like me don't cry.ttml"
     },
     {
@@ -22096,11 +22096,11 @@
       "artist": "Glorb",
       "album": "EUGENE",
       "duration_seconds": null,
-      "sync_type": "plain",
-      "provider": "NetEase",
-      "line_count": 1,
-      "word_count": 3,
-      "rel_path": "database/plain/Glorb/EUGENE.ttml"
+      "sync_type": "syllable_synced",
+      "provider": "Musixmatch",
+      "line_count": 53,
+      "word_count": 467,
+      "rel_path": "database/syllable/Glorb/EUGENE.ttml"
     },
     {
       "id": 1587,
