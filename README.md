@@ -8,10 +8,10 @@
 -->
 <p align="center"><!--endo:badges-->
   <a href="https://github.com/Adityasharma0101911/EndoTTML"><img src="https://img.shields.io/badge/Database-EndoTTML-a855f7?style=for-the-badge&logo=apple-music&logoColor=white" alt="Database" /></a>
-  <a href="https://github.com/Adityasharma0101911/EndoTTML"><img src="https://img.shields.io/badge/TTML%20Files-2%2C111-10b981?style=for-the-badge&logo=spotify&logoColor=white" alt="TTML Files" /></a>
-  <a href="https://github.com/Adityasharma0101911/EndoTTML"><img src="https://img.shields.io/badge/Syllable%20Karaoke-1%2C490-ec4899?style=for-the-badge" alt="Syllable Karaoke" /></a>
-  <a href="https://github.com/Adityasharma0101911/EndoTTML"><img src="https://img.shields.io/badge/Line%20Synced-556-3b82f6?style=for-the-badge" alt="Line Synced" /></a>
-  <a href="https://github.com/Adityasharma0101911/EndoTTML"><img src="https://img.shields.io/badge/Plain%20Text-65-64748b?style=for-the-badge" alt="Plain Text" /></a>
+  <a href="https://github.com/Adityasharma0101911/EndoTTML"><img src="https://img.shields.io/badge/TTML%20Files-2%2C239-10b981?style=for-the-badge&logo=spotify&logoColor=white" alt="TTML Files" /></a>
+  <a href="https://github.com/Adityasharma0101911/EndoTTML"><img src="https://img.shields.io/badge/Syllable%20Karaoke-1%2C524-ec4899?style=for-the-badge" alt="Syllable Karaoke" /></a>
+  <a href="https://github.com/Adityasharma0101911/EndoTTML"><img src="https://img.shields.io/badge/Line%20Synced-614-3b82f6?style=for-the-badge" alt="Line Synced" /></a>
+  <a href="https://github.com/Adityasharma0101911/EndoTTML"><img src="https://img.shields.io/badge/Plain%20Text-101-64748b?style=for-the-badge" alt="Plain Text" /></a>
   <a href="https://github.com/Adityasharma0101911/EndoTTML"><img src="https://img.shields.io/badge/Format-Apple%20Music%20TTML-white?style=for-the-badge&logo=apple" alt="Format" /></a>
 <!--/endo:badges--></p>
 
@@ -23,7 +23,7 @@
 
 ## 📖 About EndoTTML Database
 
-**EndoTTML** is a public, open-source **Timed Text Markup Language (TTML)** database engineered to standard **Apple Music** and **W3C** specifications. It provides millisecond-precise, word-by-word syllable karaoke timestamps and line-by-line synchronized lyrics for over **<!--endo:rounded-->2,100+<!--/endo:rounded--> songs**, accessible directly via global CDNs for **zero hosting costs**.
+**EndoTTML** is a public, open-source **Timed Text Markup Language (TTML)** database engineered to standard **Apple Music** and **W3C** specifications. It provides millisecond-precise, word-by-word syllable karaoke timestamps and line-by-line synchronized lyrics for over **<!--endo:rounded-->2,200+<!--/endo:rounded--> songs**, accessible directly via global CDNs for **zero hosting costs**.
 
 Any music player, mobile application (iOS/Android), web visualizer, or desktop app can query and stream these `.ttml` lyrics directly from this repository without maintaining a backend server.
 
@@ -35,9 +35,9 @@ All lyrics in this repository are divided into 3 distinct quality tiers:
 
 | Tier | Directory | Count | Share | Precision | Description |
 | :--- | :--- | ---: | ---: | :--- | :--- |
-| **Tier 1** | [`database/syllable/`](database/syllable/) | **<!--endo:syllable-->1,490<!--/endo:syllable-->** | <!--endo:syllable_pct-->70.6%<!--/endo:syllable_pct--> | `Millisecond Word / Syllable` | High-precision word-by-word Apple Music glowing karaoke spans (`<span>`). |
-| **Tier 2** | [`database/line/`](database/line/) | **<!--endo:line-->556<!--/endo:line-->** | <!--endo:line_pct-->26.3%<!--/endo:line_pct--> | `Line-Level Timestamps` | Synchronized paragraph line timings (`<p begin="..." end="...">`). |
-| **Tier 3** | [`database/plain/`](database/plain/) | **<!--endo:plain-->65<!--/endo:plain-->** | <!--endo:plain_pct-->3.1%<!--/endo:plain_pct--> | `Text Fallback` | Complete lyrics formatted in standard TTML structure. |
+| **Tier 1** | [`database/syllable/`](database/syllable/) | **<!--endo:syllable-->1,524<!--/endo:syllable-->** | <!--endo:syllable_pct-->68.1%<!--/endo:syllable_pct--> | `Millisecond Word / Syllable` | High-precision word-by-word Apple Music glowing karaoke spans (`<span>`). |
+| **Tier 2** | [`database/line/`](database/line/) | **<!--endo:line-->614<!--/endo:line-->** | <!--endo:line_pct-->27.4%<!--/endo:line_pct--> | `Line-Level Timestamps` | Synchronized paragraph line timings (`<p begin="..." end="...">`). |
+| **Tier 3** | [`database/plain/`](database/plain/) | **<!--endo:plain-->101<!--/endo:plain-->** | <!--endo:plain_pct-->4.5%<!--/endo:plain_pct--> | `Text Fallback` | Complete lyrics formatted in standard TTML structure. |
 
 ### 🔄 Automatic Quality Promotion
 When a higher-tier (syllable-level) sync is discovered for a track currently classified as `line` or `plain`, the system promotes the track to `database/syllable/` and purges the lower-tier copy to maintain high database hygiene.
@@ -49,7 +49,7 @@ When a higher-tier (syllable-level) sync is discovered for a track currently cla
 You can consume these lyrics from anywhere in the world using **GitHub Raw** or **jsDelivr Global Edge CDN**:
 
 ### 1. Master Search Catalog (`catalog.json`)
-Contains the full JSON index of all <!--endo:total-->2,111<!--/endo:total--> tracks with artist names, track titles, albums, duration, word counts, line counts, and relative CDN paths.
+Contains the full JSON index of all <!--endo:total-->2,239<!--/endo:total--> tracks with artist names, track titles, albums, duration, word counts, line counts, and relative CDN paths.
 
 ```http
 https://raw.githubusercontent.com/Adityasharma0101911/EndoTTML/main/catalog.json
@@ -185,11 +185,11 @@ Lines sung entirely as backing vocals carry `itunes:key="role" itunes:value="bac
 
 ## 📊 Database Statistics
 
-- **Total Track Records**: <!--endo:records-->2,199<!--/endo:records-->
-- **Completed TTML Files**: <!--endo:total-->2,111<!--/endo:total--> (<!--endo:coverage-->96.0%<!--/endo:coverage--> hit rate)
-- **Syllable-Level Karaoke Sync (Tier 1)**: <!--endo:syllable-->1,490<!--/endo:syllable--> tracks (<!--endo:syllable_pct-->70.6%<!--/endo:syllable_pct-->)
-- **Line-Level Synchronized (Tier 2)**: <!--endo:line-->556<!--/endo:line--> tracks (<!--endo:line_pct-->26.3%<!--/endo:line_pct-->)
-- **Plain Text Fallback (Tier 3)**: <!--endo:plain-->65<!--/endo:plain--> tracks (<!--endo:plain_pct-->3.1%<!--/endo:plain_pct-->)
+- **Total Track Records**: <!--endo:records-->2,346<!--/endo:records-->
+- **Completed TTML Files**: <!--endo:total-->2,239<!--/endo:total--> (<!--endo:coverage-->95.4%<!--/endo:coverage--> hit rate)
+- **Syllable-Level Karaoke Sync (Tier 1)**: <!--endo:syllable-->1,524<!--/endo:syllable--> tracks (<!--endo:syllable_pct-->68.1%<!--/endo:syllable_pct-->)
+- **Line-Level Synchronized (Tier 2)**: <!--endo:line-->614<!--/endo:line--> tracks (<!--endo:line_pct-->27.4%<!--/endo:line_pct-->)
+- **Plain Text Fallback (Tier 3)**: <!--endo:plain-->101<!--/endo:plain--> tracks (<!--endo:plain_pct-->4.5%<!--/endo:plain_pct-->)
 
 > These figures and the banner above are regenerated automatically on every database push.
 
