@@ -1,14 +1,14 @@
 {
   "database": "EndoTTML",
   "schema_version": "2.0.0",
-  "total_tracks": 2304,
+  "total_tracks": 2307,
   "statistics": {
-    "total_tracks": 2412,
-    "completed": 2304,
+    "total_tracks": 2415,
+    "completed": 2307,
     "failed": 108,
     "pending": 0,
-    "syllable_synced": 1546,
-    "line_synced": 640,
+    "syllable_synced": 1548,
+    "line_synced": 641,
     "plain": 118,
     "providers": {
       "Historical fallback (0ade197)": 2,
@@ -17,10 +17,10 @@
       "Historical fallback (f7edf51)": 281,
       "LRCLIB": 1,
       "Musixmatch": 51,
-      "NetEase": 683,
-      "QQMusic": 1042,
+      "NetEase": 684,
+      "QQMusic": 1043,
       "Recovered": 1,
-      "SyncedLyrics": 114
+      "SyncedLyrics": 115
     }
   },
   "tracks": [
@@ -32279,6 +32279,48 @@
       "line_count": 2,
       "word_count": 6,
       "rel_path": "database/plain/Sunny Yaduvanshi/Yadav Brand 2.ttml"
+    },
+    {
+      "id": 20936,
+      "spotify_id": "7J1uxwnxfQLu4APicE5Rnj",
+      "spotify_uri": "spotify:track:7J1uxwnxfQLu4APicE5Rnj",
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "album": "Thriller",
+      "duration_seconds": null,
+      "sync_type": "syllable_synced",
+      "provider": "NetEase",
+      "line_count": 54,
+      "word_count": 442,
+      "rel_path": "database/syllable/Michael Jackson/Billie Jean [7J1uxwnxfQLu4APicE5Rnj].ttml"
+    },
+    {
+      "id": 20937,
+      "spotify_id": "3BovdzfaX4jb5KFQwoPfAw",
+      "spotify_uri": "spotify:track:3BovdzfaX4jb5KFQwoPfAw",
+      "title": "Beat It",
+      "artist": "Michael Jackson",
+      "album": "Thriller",
+      "duration_seconds": null,
+      "sync_type": "syllable_synced",
+      "provider": "QQMusic",
+      "line_count": 82,
+      "word_count": 505,
+      "rel_path": "database/syllable/Michael Jackson/Beat It.ttml"
+    },
+    {
+      "id": 20943,
+      "spotify_id": "2gSNBigeWMVtY3QBIvPAEc",
+      "spotify_uri": "spotify:track:2gSNBigeWMVtY3QBIvPAEc",
+      "title": "Bad - 2012 Remaster",
+      "artist": "Michael Jackson",
+      "album": "Bad (Remastered)",
+      "duration_seconds": null,
+      "sync_type": "line_synced",
+      "provider": "SyncedLyrics",
+      "line_count": 72,
+      "word_count": 492,
+      "rel_path": "database/line/Michael Jackson/Bad - 2012 Remaster.ttml"
     }
   ]
 }
