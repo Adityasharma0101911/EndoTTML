@@ -1,67 +1,134 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>LUKAKU</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Cochise</ttm:agent>
-      <ttm:item type="album">LUKAKU</ttm:item>
-      <ttm:item type="spotify_id">6SyxWg5jvCZe5brD3dNL1q</ttm:item>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:01.121" end="00:02.621" ttm:agent="v1">Huh, huh, yeah</p>
-      <p begin="00:02.181" end="00:03.927" ttm:agent="v1">Shawty know that, hm-hm</p>
-      <p begin="00:03.927" end="00:06.801" ttm:agent="v1">I can get this money, I can count it in like hm-hm</p>
-      <p begin="00:06.801" end="00:09.886" ttm:agent="v1">Shawty in the back of the crib, it be like ''Hm-hm''</p>
-      <p begin="00:09.886" end="00:13.360" ttm:agent="v1">All my niggas countin' up the blue, I'm talkin' ''Hm-hm''</p>
-      <p begin="00:13.360" end="00:16.190" ttm:agent="v1" itunes:key="role" itunes:value="background">(Hm-hm, ayy, hm-hm, yeah)</p>
-      <p begin="00:16.190" end="00:19.110" ttm:agent="v1">Bitch, I'm 'bout my blue I feel like Nipsey</p>
-      <p begin="00:19.110" end="00:21.519" ttm:agent="v1">I been off the drink, I'm feelin' tipsy</p>
-      <p begin="00:21.519" end="00:24.547" ttm:agent="v1">Kamisaki on my chest, I'm feelin' like crispy</p>
-      <p begin="00:24.547" end="00:27.982" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, I thought I told you, I been stackin' bread like Jiffy (I thought I told you)</p>
-      <p begin="00:27.982" end="00:30.887" ttm:agent="v1" itunes:key="role" itunes:value="background">I thought I told you, I got power like I'm 50 (I thought I told you)</p>
-      <p begin="00:30.887" end="00:33.523" ttm:agent="v1">I thought I told you could throw it like a frisbee</p>
-      <p begin="00:33.523" end="00:37.705" ttm:agent="v1" itunes:key="role" itunes:value="background">I thought I told you, I can sing it like I'm Whitney (I thought I told you)</p>
-      <p begin="00:37.705" end="00:39.807" ttm:agent="v1" itunes:key="role" itunes:value="background">Yee, yee (Ah, ha, ooh)</p>
-      <p begin="00:39.807" end="00:41.307" ttm:agent="v1" itunes:key="role" itunes:value="background">Yee, yee (Ah, ha, ooh)</p>
-      <p begin="00:40.972" end="00:43.055" ttm:agent="v1" itunes:key="role" itunes:value="background">Yee, yee (Ah, ha, ooh)</p>
-      <p begin="00:43.055" end="00:46.262" ttm:agent="v1">Bad bih', on me</p>
-      <p begin="00:46.262" end="00:49.309" ttm:agent="v1">Ridin' Poney</p>
-      <p begin="00:49.309" end="00:52.277" ttm:agent="v1">Give me cony</p>
-      <p begin="00:52.277" end="00:55.476" ttm:agent="v1">Patek, Rollie</p>
-      <p begin="00:55.476" end="00:58.380" ttm:agent="v1">Ricky, Louis</p>
-      <p begin="00:58.380" end="01:02.191" ttm:agent="v1" itunes:key="role" itunes:value="background">Try me toolie (Got the tool)</p>
-      <p begin="01:02.191" end="01:06.886" ttm:agent="v1">Thought I told you, got my racks up, now I'm older</p>
-      <p begin="01:06.886" end="01:10.327" ttm:agent="v1">Got a backup, got a folder, it get colder</p>
-      <p begin="01:10.327" end="01:13.061" ttm:agent="v1">Yeah, it get colder, yeah, it gеt polar</p>
-      <p begin="01:13.061" end="01:15.941" ttm:agent="v1">Yeah, okay, yeah, okay</p>
-      <p begin="01:15.941" end="01:17.533" ttm:agent="v1">Coutin' bucks, yeah, okay</p>
-      <p begin="01:17.533" end="01:19.079" ttm:agent="v1">Fittin' bucks, yеah, okay</p>
-      <p begin="01:19.079" end="01:22.042" ttm:agent="v1">Feel like Giannis, I'm a buck, huh-huh, okay</p>
-      <p begin="01:22.042" end="01:24.372" ttm:agent="v1">Like, ''Where my cup?'', might pick it up</p>
-      <p begin="01:24.372" end="01:29.348" ttm:agent="v1">Yeah, she say I'm too fancy, shawty tried to pull up on me and said I'm too nasty</p>
-      <p begin="01:29.348" end="01:32.524" ttm:agent="v1">Cash yo' money, I can make it flip just like I—</p>
-      <p begin="01:32.524" end="01:35.474" ttm:agent="v1">Cash yo' money, I can make it flip just like I'm lastly</p>
-      <p begin="01:35.474" end="01:43.474" ttm:agent="v1">I don't wanna marry a Jane, I want a Ashley</p>
-      <p begin="01:44.260" end="01:47.302" ttm:agent="v1">Bad bih', on me</p>
-      <p begin="01:47.302" end="01:50.393" ttm:agent="v1">Ridin' Poney</p>
-      <p begin="01:50.393" end="01:53.430" ttm:agent="v1">Give me cony</p>
-      <p begin="01:53.430" end="01:56.500" ttm:agent="v1">Patek, Rollie</p>
-      <p begin="01:56.500" end="01:59.580" ttm:agent="v1">Ricky, Louis</p>
-      <p begin="01:59.580" end="02:03.480" ttm:agent="v1">Try me toolie</p>
-      <p begin="02:03.480" end="02:04.980" ttm:agent="v1">Uh-huh, yeah</p>
-      <p begin="02:04.245" end="02:06.014" ttm:agent="v1">Shawty know that, hm-hm</p>
-      <p begin="02:06.014" end="02:09.110" ttm:agent="v1">I can get this money, I can count it in like hm-hm</p>
-      <p begin="02:09.110" end="02:12.105" ttm:agent="v1">Shawty in the back, of the crib, it be like ''Hm-hm''</p>
-      <p begin="02:12.105" end="02:16.105" ttm:agent="v1">All my niggas countin' up the blue, I'm talkin'—</p>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>LUKAKU</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Cochise</ttm:agent>
+
+      <ttm:item type="album">LUKAKU</ttm:item>
+
+      <ttm:item type="spotify_id">6SyxWg5jvCZe5brD3dNL1q</ttm:item>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:01.121" end="00:02.621" ttm:agent="v1">Huh, huh, yeah</p>
+
+      <p begin="00:02.181" end="00:03.927" ttm:agent="v1">Shawty know that, hm-hm</p>
+
+      <p begin="00:03.927" end="00:06.801" ttm:agent="v1">I can get this money, I can count it in like hm-hm</p>
+
+      <p begin="00:06.801" end="00:09.886" ttm:agent="v1">Shawty in the back of the crib, it be like ''Hm-hm''</p>
+
+      <p begin="00:09.886" end="00:13.360" ttm:agent="v1">All my niggas countin' up the blue, I'm talkin' ''Hm-hm''</p>
+
+      <p begin="00:13.360" end="00:16.190" ttm:agent="v1" itunes:key="role" itunes:value="background">(Hm-hm, ayy, hm-hm, yeah)</p>
+
+      <p begin="00:16.190" end="00:19.110" ttm:agent="v1">Bitch, I'm 'bout my blue I feel like Nipsey</p>
+
+      <p begin="00:19.110" end="00:21.519" ttm:agent="v1">I been off the drink, I'm feelin' tipsy</p>
+
+      <p begin="00:21.519" end="00:24.547" ttm:agent="v1">Kamisaki on my chest, I'm feelin' like crispy</p>
+
+      <p begin="00:24.547" end="00:27.982" ttm:agent="v1">Yeah, I thought I told you, I been stackin' bread like Jiffy (I thought I told you)</p>
+
+      <p begin="00:27.982" end="00:30.887" ttm:agent="v1">I thought I told you, I got power like I'm 50 (I thought I told you)</p>
+
+      <p begin="00:30.887" end="00:33.523" ttm:agent="v1">I thought I told you could throw it like a frisbee</p>
+
+      <p begin="00:33.523" end="00:37.705" ttm:agent="v1">I thought I told you, I can sing it like I'm Whitney (I thought I told you)</p>
+
+      <p begin="00:37.705" end="00:39.807" ttm:agent="v1">Yee, yee (Ah, ha, ooh)</p>
+
+      <p begin="00:39.807" end="00:41.307" ttm:agent="v1">Yee, yee (Ah, ha, ooh)</p>
+
+      <p begin="00:40.972" end="00:43.055" ttm:agent="v1">Yee, yee (Ah, ha, ooh)</p>
+
+      <p begin="00:43.055" end="00:46.262" ttm:agent="v1">Bad bih', on me</p>
+
+      <p begin="00:46.262" end="00:49.309" ttm:agent="v1">Ridin' Poney</p>
+
+      <p begin="00:49.309" end="00:52.277" ttm:agent="v1">Give me cony</p>
+
+      <p begin="00:52.277" end="00:55.476" ttm:agent="v1">Patek, Rollie</p>
+
+      <p begin="00:55.476" end="00:58.380" ttm:agent="v1">Ricky, Louis</p>
+
+      <p begin="00:58.380" end="01:02.191" ttm:agent="v1">Try me toolie (Got the tool)</p>
+
+      <p begin="01:02.191" end="01:06.886" ttm:agent="v1">Thought I told you, got my racks up, now I'm older</p>
+
+      <p begin="01:06.886" end="01:10.327" ttm:agent="v1">Got a backup, got a folder, it get colder</p>
+
+      <p begin="01:10.327" end="01:13.061" ttm:agent="v1">Yeah, it get colder, yeah, it gеt polar</p>
+
+      <p begin="01:13.061" end="01:15.941" ttm:agent="v1">Yeah, okay, yeah, okay</p>
+
+      <p begin="01:15.941" end="01:17.533" ttm:agent="v1">Coutin' bucks, yeah, okay</p>
+
+      <p begin="01:17.533" end="01:19.079" ttm:agent="v1">Fittin' bucks, yеah, okay</p>
+
+      <p begin="01:19.079" end="01:22.042" ttm:agent="v1">Feel like Giannis, I'm a buck, huh-huh, okay</p>
+
+      <p begin="01:22.042" end="01:24.372" ttm:agent="v1">Like, ''Where my cup?'', might pick it up</p>
+
+      <p begin="01:24.372" end="01:29.348" ttm:agent="v1">Yeah, she say I'm too fancy, shawty tried to pull up on me and said I'm too nasty</p>
+
+      <p begin="01:29.348" end="01:32.524" ttm:agent="v1">Cash yo' money, I can make it flip just like I—</p>
+
+      <p begin="01:32.524" end="01:35.474" ttm:agent="v1">Cash yo' money, I can make it flip just like I'm lastly</p>
+
+      <p begin="01:35.474" end="01:43.474" ttm:agent="v1">I don't wanna marry a Jane, I want a Ashley</p>
+
+      <p begin="01:44.260" end="01:47.302" ttm:agent="v1">Bad bih', on me</p>
+
+      <p begin="01:47.302" end="01:50.393" ttm:agent="v1">Ridin' Poney</p>
+
+      <p begin="01:50.393" end="01:53.430" ttm:agent="v1">Give me cony</p>
+
+      <p begin="01:53.430" end="01:56.500" ttm:agent="v1">Patek, Rollie</p>
+
+      <p begin="01:56.500" end="01:59.580" ttm:agent="v1">Ricky, Louis</p>
+
+      <p begin="01:59.580" end="02:03.480" ttm:agent="v1">Try me toolie</p>
+
+      <p begin="02:03.480" end="02:04.980" ttm:agent="v1">Uh-huh, yeah</p>
+
+      <p begin="02:04.245" end="02:06.014" ttm:agent="v1">Shawty know that, hm-hm</p>
+
+      <p begin="02:06.014" end="02:09.110" ttm:agent="v1">I can get this money, I can count it in like hm-hm</p>
+
+      <p begin="02:09.110" end="02:12.105" ttm:agent="v1">Shawty in the back, of the crib, it be like ''Hm-hm''</p>
+
+      <p begin="02:12.105" end="02:16.105" ttm:agent="v1">All my niggas countin' up the blue, I'm talkin'—</p>
+
+    </div>
+
+  </body>
+
+</tt>
+

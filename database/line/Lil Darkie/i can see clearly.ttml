@@ -1,57 +1,114 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>i can see clearly</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Lil Darkie</ttm:agent>
-      <ttm:item type="album">SWAMP</ttm:item>
-      <ttm:item type="spotify_id">1A40cWbsF9yQskTD8U6Ci5</ttm:item>
-      <itunes:duration>03:14.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.950" end="00:02.750" ttm:agent="v1">Let us begin</p>
-      <p begin="00:02.750" end="00:06.370" ttm:agent="v1">Once upon a time, Darkie was camping in the forest</p>
-      <p begin="00:06.370" end="00:09.420" ttm:agent="v1">Have, probably having a really nice dream</p>
-      <p begin="00:09.420" end="00:12.610" ttm:agent="v1">And, um, the sun started to rise</p>
-      <p begin="00:12.610" end="00:16.610" ttm:agent="v1">And he woke up to the sight of a beam of light coming through his tent</p>
-      <p begin="00:16.610" end="00:20.340" ttm:agent="v1">And uh, he couldn't wait to see what was outside</p>
-      <p begin="00:20.340" end="00:28.340" ttm:agent="v1" itunes:key="role" itunes:value="background">I wish you saw me like you see you (see you, oh, oh, oh)</p>
-      <p begin="00:30.760" end="00:38.760" ttm:agent="v1">I wish you saw me like you see you, see me, see you</p>
-      <p begin="00:39.230" end="00:41.220" ttm:agent="v1" itunes:key="role" itunes:value="background">(And this is what he thought about)</p>
-      <p begin="00:41.220" end="00:49.220" ttm:agent="v1">I wish you could see that I'm a person too</p>
-      <p begin="00:51.230" end="00:59.230" ttm:agent="v1">I wish you could see that I am hurting too</p>
-      <p begin="01:01.110" end="01:06.170" ttm:agent="v1">On the attack, the ignorant see me and they see food</p>
-      <p begin="01:06.170" end="01:11.220" ttm:agent="v1">But I'll see them yack if it's truly the last thing that I do</p>
-      <p begin="01:11.220" end="01:16.430" ttm:agent="v1">And they want that back, the power to place someone under rule</p>
-      <p begin="01:16.430" end="01:21.530" ttm:agent="v1">But all of that's crap, mm, but all of that's crap to mе</p>
-      <p begin="01:21.530" end="01:23.580" ttm:agent="v1">And all of that's crap</p>
-      <p begin="01:23.580" end="01:28.850" ttm:agent="v1">I can't see your face through all the shit you're talkin' to mе</p>
-      <p begin="01:28.850" end="01:33.990" ttm:agent="v1">Let's sit down and mix perspectives up and sip that smoothie</p>
-      <p begin="01:33.990" end="01:39.040" ttm:agent="v1">Hate will bring you down or bring you up if you move smoothly</p>
-      <p begin="01:39.040" end="01:45.190" ttm:agent="v1">I may get around and act a clown but you can't fool me</p>
-      <p begin="01:45.190" end="01:53.190" ttm:agent="v1" itunes:key="role" itunes:value="background">I wish you saw me like you see you (oh, oh, oh)</p>
-      <p begin="01:55.870" end="02:03.870" ttm:agent="v1">I wish you saw me like you see you, see me, see you</p>
-      <p begin="02:07.280" end="02:12.580" ttm:agent="v1">I wish you saw me</p>
-      <p begin="02:12.580" end="02:17.610" ttm:agent="v1">I wish you saw me at all</p>
-      <p begin="02:17.610" end="02:22.440" ttm:agent="v1">Saw us both the same</p>
-      <p begin="02:22.440" end="02:24.570" ttm:agent="v1">I wish you saw me the same</p>
-      <p begin="02:24.570" end="02:31.970" ttm:agent="v1">Ooh, na-na-na-na, na-na-na-na-na</p>
-      <p begin="02:31.970" end="02:36.860" ttm:agent="v1">Na-na-na-na, na-na, na-na-na</p>
-      <p begin="02:36.860" end="02:43.820" ttm:agent="v1">Na-na-na-na, na-na-na-na, na-na-na</p>
-      <p begin="02:43.820" end="02:49.110" ttm:agent="v1"/>
-      <p begin="02:49.110" end="02:57.110" ttm:agent="v1">I am outside right now and I see a hummingbird in the tree, oh</p>
-      <p begin="03:00.120" end="03:03.340" ttm:agent="v1"/>
-      <p begin="03:03.340" end="03:07.800" ttm:agent="v1">It flies away, how beautiful</p>
-      <p begin="03:07.800" end="03:11.800" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>i can see clearly</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Lil Darkie</ttm:agent>
+
+      <ttm:item type="album">SWAMP</ttm:item>
+
+      <ttm:item type="spotify_id">1A40cWbsF9yQskTD8U6Ci5</ttm:item>
+
+      <itunes:duration>03:14.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.950" end="00:02.750" ttm:agent="v1">Let us begin</p>
+
+      <p begin="00:02.750" end="00:06.370" ttm:agent="v1">Once upon a time, Darkie was camping in the forest</p>
+
+      <p begin="00:06.370" end="00:09.420" ttm:agent="v1">Have, probably having a really nice dream</p>
+
+      <p begin="00:09.420" end="00:12.610" ttm:agent="v1">And, um, the sun started to rise</p>
+
+      <p begin="00:12.610" end="00:16.610" ttm:agent="v1">And he woke up to the sight of a beam of light coming through his tent</p>
+
+      <p begin="00:16.610" end="00:20.340" ttm:agent="v1">And uh, he couldn't wait to see what was outside</p>
+
+      <p begin="00:20.340" end="00:28.340" ttm:agent="v1">I wish you saw me like you see you (see you, oh, oh, oh)</p>
+
+      <p begin="00:30.760" end="00:38.760" ttm:agent="v1">I wish you saw me like you see you, see me, see you</p>
+
+      <p begin="00:39.230" end="00:41.220" ttm:agent="v1" itunes:key="role" itunes:value="background">(And this is what he thought about)</p>
+
+      <p begin="00:41.220" end="00:49.220" ttm:agent="v1">I wish you could see that I'm a person too</p>
+
+      <p begin="00:51.230" end="00:59.230" ttm:agent="v1">I wish you could see that I am hurting too</p>
+
+      <p begin="01:01.110" end="01:06.170" ttm:agent="v1">On the attack, the ignorant see me and they see food</p>
+
+      <p begin="01:06.170" end="01:11.220" ttm:agent="v1">But I'll see them yack if it's truly the last thing that I do</p>
+
+      <p begin="01:11.220" end="01:16.430" ttm:agent="v1">And they want that back, the power to place someone under rule</p>
+
+      <p begin="01:16.430" end="01:21.530" ttm:agent="v1">But all of that's crap, mm, but all of that's crap to mе</p>
+
+      <p begin="01:21.530" end="01:23.580" ttm:agent="v1">And all of that's crap</p>
+
+      <p begin="01:23.580" end="01:28.850" ttm:agent="v1">I can't see your face through all the shit you're talkin' to mе</p>
+
+      <p begin="01:28.850" end="01:33.990" ttm:agent="v1">Let's sit down and mix perspectives up and sip that smoothie</p>
+
+      <p begin="01:33.990" end="01:39.040" ttm:agent="v1">Hate will bring you down or bring you up if you move smoothly</p>
+
+      <p begin="01:39.040" end="01:45.190" ttm:agent="v1">I may get around and act a clown but you can't fool me</p>
+
+      <p begin="01:45.190" end="01:53.190" ttm:agent="v1">I wish you saw me like you see you (oh, oh, oh)</p>
+
+      <p begin="01:55.870" end="02:03.870" ttm:agent="v1">I wish you saw me like you see you, see me, see you</p>
+
+      <p begin="02:07.280" end="02:12.580" ttm:agent="v1">I wish you saw me</p>
+
+      <p begin="02:12.580" end="02:17.610" ttm:agent="v1">I wish you saw me at all</p>
+
+      <p begin="02:17.610" end="02:22.440" ttm:agent="v1">Saw us both the same</p>
+
+      <p begin="02:22.440" end="02:24.570" ttm:agent="v1">I wish you saw me the same</p>
+
+      <p begin="02:24.570" end="02:31.970" ttm:agent="v1">Ooh, na-na-na-na, na-na-na-na-na</p>
+
+      <p begin="02:31.970" end="02:36.860" ttm:agent="v1">Na-na-na-na, na-na, na-na-na</p>
+
+      <p begin="02:36.860" end="02:43.820" ttm:agent="v1">Na-na-na-na, na-na-na-na, na-na-na</p>
+
+      <p begin="02:43.820" end="02:49.110" ttm:agent="v1"/>
+
+      <p begin="02:49.110" end="02:57.110" ttm:agent="v1">I am outside right now and I see a hummingbird in the tree, oh</p>
+
+      <p begin="03:00.120" end="03:03.340" ttm:agent="v1"/>
+
+      <p begin="03:03.340" end="03:07.800" ttm:agent="v1">It flies away, how beautiful</p>
+
+      <p begin="03:07.800" end="03:11.800" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

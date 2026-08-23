@@ -1,68 +1,136 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>AINT NOTHING</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Rich Amiri</ttm:agent>
-      <ttm:item type="album">Ghetto Fabulous</ttm:item>
-      <ttm:item type="spotify_id">4HmE2Qs4HHAtqc1UBNIMtz</ttm:item>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.760" end="00:03.292" ttm:agent="v1">[Intro]</p>
-      <p begin="00:03.292" end="00:06.697" ttm:agent="v1" itunes:key="role" itunes:value="background">(Huh, 2023, bxxch, this Chase year)</p>
-      <p begin="00:06.697" end="00:11.297" ttm:agent="v1" itunes:key="role" itunes:value="background">(Turn up)</p>
-      <p begin="00:11.297" end="00:14.425" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yeah, yeah, Amiri Flair, yeah)</p>
-      <p begin="00:14.425" end="00:15.925" ttm:agent="v1">[Chorus]</p>
-      <p begin="00:14.766" end="00:17.875" ttm:agent="v1">Huh, yeah, goin' crazy in this bxxch, and they think that a young nxxxa slow</p>
-      <p begin="00:17.875" end="00:21.559" ttm:agent="v1">Pour up my pour and I roll up my dope, hit up Fairfax finna catch a right ho</p>
-      <p begin="00:21.559" end="00:25.400" ttm:agent="v1">Puffin' on dro got a nxxxa eyes low, can't put yo' axx on, you ain't one my bro</p>
-      <p begin="00:25.400" end="00:29.931" ttm:agent="v1" itunes:key="role" itunes:value="background">Can't put yo' axx on, you ain't one of my folks, and the hoes and the cars and the clothes and the Benz and Rolls ain't nothin' (Ain't nothin')</p>
-      <p begin="00:29.931" end="00:33.399" ttm:agent="v1" itunes:key="role" itunes:value="background">And the two-tone AP froze on the wrist with the rose ain't nothin' (Ain’t nothin')</p>
-      <p begin="00:33.399" end="00:34.899" ttm:agent="v1" itunes:key="role" itunes:value="background">Instagram hoes ain't nothin’ (Nope)</p>
-      <p begin="00:34.713" end="00:36.213" ttm:agent="v1">Instagram poles ain't nothin'</p>
-      <p begin="00:36.060" end="00:38.175" ttm:agent="v1">Thinking yo' bxxch on lock, lil' boy, she fxxkin'</p>
-      <p begin="00:38.175" end="00:39.848" ttm:agent="v1">Dirty lil' whore, she love it</p>
-      <p begin="00:39.848" end="00:42.007" ttm:agent="v1">Think you gon' do something 'bout that bxxch, you buggin'</p>
-      <p begin="00:42.007" end="00:44.745" ttm:agent="v1">Nxxxa gon' whack yo' muffin, go ahead, call my bluff</p>
-      <p begin="00:44.745" end="00:46.245" ttm:agent="v1">[Verse]</p>
-      <p begin="00:44.994" end="00:48.104" ttm:agent="v1">Hundred racks in the zip, I’ma fxxk around, put a bag on a bxxch</p>
-      <p begin="00:48.104" end="00:51.850" ttm:agent="v1">Goin' fast in the whip, in the passenger, got a nat, give me lip</p>
-      <p begin="00:51.850" end="00:55.577" ttm:agent="v1">Smokin' gas out the zip and I'm pourin' the lemonade in the mix</p>
-      <p begin="00:55.577" end="00:59.516" ttm:agent="v1" itunes:key="role" itunes:value="background">Got the bae doin' tricks on my dxck, it’s a parade in my city (Go)</p>
-      <p begin="00:59.516" end="01:03.109" ttm:agent="v1">Hate but they broke, I don't get it, fxxk her, she probably regret it</p>
-      <p begin="01:03.109" end="01:06.743" ttm:agent="v1">Jayden be off the beans, oh, Chase, he be off the Venom</p>
-      <p begin="01:06.743" end="01:10.506" ttm:agent="v1">Hundred racks sittin' in the Phantom, bag on my head like bandana</p>
-      <p begin="01:10.506" end="01:13.478" ttm:agent="v1">These nxxxxs burnt like a candle, huh, ball like I'm Julius Randle</p>
-      <p begin="01:13.478" end="01:17.141" ttm:agent="v1">Don't you tell me what you seen or heard a nxxxa doin'</p>
-      <p begin="01:17.141" end="01:20.520" ttm:agent="v1">I got rich, I'm tryna put on my bruddas, I ain't there yet</p>
-      <p begin="01:20.520" end="01:24.058" ttm:agent="v1">Kate want me to die, hah, stupid bxxch, I ain't dead yet</p>
-      <p begin="01:24.058" end="01:28.008" ttm:agent="v1">I get them bricks from Fedex and I bag 'em up and sell 'em</p>
-      <p begin="01:28.008" end="01:31.724" ttm:agent="v1">And I can't even lie and say that I never needed you</p>
-      <p begin="01:31.724" end="01:35.381" ttm:agent="v1">When I was down I needed you, honestly, I was feelin' you</p>
-      <p begin="01:35.381" end="01:39.133" ttm:agent="v1">Now they come back, want some shxt, nxxxxs so flaw, cut 'em off quick</p>
-      <p begin="01:39.133" end="01:41.145" ttm:agent="v1">I done went up, I'm proud of my wrist</p>
-      <p begin="01:41.145" end="01:42.808" ttm:agent="v1">I'm proud of my hoes, I'm proud of my bxxches</p>
-      <p begin="01:42.808" end="01:44.308" ttm:agent="v1">[Chorus]</p>
-      <p begin="01:43.656" end="01:46.634" ttm:agent="v1">Huh, yeah, goin' crazy in this bxxch, and they think that a young nxxxa slow</p>
-      <p begin="01:46.634" end="01:50.065" ttm:agent="v1">Pour up my pour and I roll up my dope, hit up Fairfax finna catch a right ho</p>
-      <p begin="01:50.065" end="01:54.060" ttm:agent="v1">Puffin' on dro got a nxxxa eyes low, can't put yo' axx on, you ain't one my bro</p>
-      <p begin="01:54.060" end="01:58.232" ttm:agent="v1" itunes:key="role" itunes:value="background">Can't put yo' axx on, you ain't one of my folks, and the hoes and the cars and the clothes and the Benz and Rolls ain't nothin' (Ain't nothin')</p>
-      <p begin="01:58.232" end="02:01.913" ttm:agent="v1" itunes:key="role" itunes:value="background">And the two-tone AP froze on the wrist with the rose ain't nothin' (Ain’t nothin')</p>
-      <p begin="02:01.913" end="02:03.413" ttm:agent="v1" itunes:key="role" itunes:value="background">Instagram hoes ain't nothin’ (Nope)</p>
-      <p begin="02:03.170" end="02:04.670" ttm:agent="v1">Instagram poles ain't nothin'</p>
-      <p begin="02:04.651" end="02:06.863" ttm:agent="v1">Thinking yo' bxxch on lock, lil' boy, she fxxkin'</p>
-      <p begin="02:06.863" end="02:08.437" ttm:agent="v1">Dirty lil' whore, she love it</p>
-      <p begin="02:08.437" end="02:10.002" ttm:agent="v1">Think you gon' do something 'bout that bxxch, you buggin'</p>
-      <p begin="02:10.002" end="02:14.002" ttm:agent="v1">Nxxxa gon' whack yo' muffin, go ahead, call my bluff</p>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>AINT NOTHING</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Rich Amiri</ttm:agent>
+
+      <ttm:item type="album">Ghetto Fabulous</ttm:item>
+
+      <ttm:item type="spotify_id">4HmE2Qs4HHAtqc1UBNIMtz</ttm:item>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.760" end="00:03.292" ttm:agent="v1">[Intro]</p>
+
+      <p begin="00:03.292" end="00:06.697" ttm:agent="v1" itunes:key="role" itunes:value="background">(Huh, 2023, bxxch, this Chase year)</p>
+
+      <p begin="00:06.697" end="00:11.297" ttm:agent="v1" itunes:key="role" itunes:value="background">(Turn up)</p>
+
+      <p begin="00:11.297" end="00:14.425" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yeah, yeah, Amiri Flair, yeah)</p>
+
+      <p begin="00:14.425" end="00:15.925" ttm:agent="v1">[Chorus]</p>
+
+      <p begin="00:14.766" end="00:17.875" ttm:agent="v1">Huh, yeah, goin' crazy in this bxxch, and they think that a young nxxxa slow</p>
+
+      <p begin="00:17.875" end="00:21.559" ttm:agent="v1">Pour up my pour and I roll up my dope, hit up Fairfax finna catch a right ho</p>
+
+      <p begin="00:21.559" end="00:25.400" ttm:agent="v1">Puffin' on dro got a nxxxa eyes low, can't put yo' axx on, you ain't one my bro</p>
+
+      <p begin="00:25.400" end="00:29.931" ttm:agent="v1">Can't put yo' axx on, you ain't one of my folks, and the hoes and the cars and the clothes and the Benz and Rolls ain't nothin' (Ain't nothin')</p>
+
+      <p begin="00:29.931" end="00:33.399" ttm:agent="v1">And the two-tone AP froze on the wrist with the rose ain't nothin' (Ain’t nothin')</p>
+
+      <p begin="00:33.399" end="00:34.899" ttm:agent="v1">Instagram hoes ain't nothin’ (Nope)</p>
+
+      <p begin="00:34.713" end="00:36.213" ttm:agent="v1">Instagram poles ain't nothin'</p>
+
+      <p begin="00:36.060" end="00:38.175" ttm:agent="v1">Thinking yo' bxxch on lock, lil' boy, she fxxkin'</p>
+
+      <p begin="00:38.175" end="00:39.848" ttm:agent="v1">Dirty lil' whore, she love it</p>
+
+      <p begin="00:39.848" end="00:42.007" ttm:agent="v1">Think you gon' do something 'bout that bxxch, you buggin'</p>
+
+      <p begin="00:42.007" end="00:44.745" ttm:agent="v1">Nxxxa gon' whack yo' muffin, go ahead, call my bluff</p>
+
+      <p begin="00:44.745" end="00:46.245" ttm:agent="v1">[Verse]</p>
+
+      <p begin="00:44.994" end="00:48.104" ttm:agent="v1">Hundred racks in the zip, I’ma fxxk around, put a bag on a bxxch</p>
+
+      <p begin="00:48.104" end="00:51.850" ttm:agent="v1">Goin' fast in the whip, in the passenger, got a nat, give me lip</p>
+
+      <p begin="00:51.850" end="00:55.577" ttm:agent="v1">Smokin' gas out the zip and I'm pourin' the lemonade in the mix</p>
+
+      <p begin="00:55.577" end="00:59.516" ttm:agent="v1">Got the bae doin' tricks on my dxck, it’s a parade in my city (Go)</p>
+
+      <p begin="00:59.516" end="01:03.109" ttm:agent="v1">Hate but they broke, I don't get it, fxxk her, she probably regret it</p>
+
+      <p begin="01:03.109" end="01:06.743" ttm:agent="v1">Jayden be off the beans, oh, Chase, he be off the Venom</p>
+
+      <p begin="01:06.743" end="01:10.506" ttm:agent="v1">Hundred racks sittin' in the Phantom, bag on my head like bandana</p>
+
+      <p begin="01:10.506" end="01:13.478" ttm:agent="v1">These nxxxxs burnt like a candle, huh, ball like I'm Julius Randle</p>
+
+      <p begin="01:13.478" end="01:17.141" ttm:agent="v1">Don't you tell me what you seen or heard a nxxxa doin'</p>
+
+      <p begin="01:17.141" end="01:20.520" ttm:agent="v1">I got rich, I'm tryna put on my bruddas, I ain't there yet</p>
+
+      <p begin="01:20.520" end="01:24.058" ttm:agent="v1">Kate want me to die, hah, stupid bxxch, I ain't dead yet</p>
+
+      <p begin="01:24.058" end="01:28.008" ttm:agent="v1">I get them bricks from Fedex and I bag 'em up and sell 'em</p>
+
+      <p begin="01:28.008" end="01:31.724" ttm:agent="v1">And I can't even lie and say that I never needed you</p>
+
+      <p begin="01:31.724" end="01:35.381" ttm:agent="v1">When I was down I needed you, honestly, I was feelin' you</p>
+
+      <p begin="01:35.381" end="01:39.133" ttm:agent="v1">Now they come back, want some shxt, nxxxxs so flaw, cut 'em off quick</p>
+
+      <p begin="01:39.133" end="01:41.145" ttm:agent="v1">I done went up, I'm proud of my wrist</p>
+
+      <p begin="01:41.145" end="01:42.808" ttm:agent="v1">I'm proud of my hoes, I'm proud of my bxxches</p>
+
+      <p begin="01:42.808" end="01:44.308" ttm:agent="v1">[Chorus]</p>
+
+      <p begin="01:43.656" end="01:46.634" ttm:agent="v1">Huh, yeah, goin' crazy in this bxxch, and they think that a young nxxxa slow</p>
+
+      <p begin="01:46.634" end="01:50.065" ttm:agent="v1">Pour up my pour and I roll up my dope, hit up Fairfax finna catch a right ho</p>
+
+      <p begin="01:50.065" end="01:54.060" ttm:agent="v1">Puffin' on dro got a nxxxa eyes low, can't put yo' axx on, you ain't one my bro</p>
+
+      <p begin="01:54.060" end="01:58.232" ttm:agent="v1">Can't put yo' axx on, you ain't one of my folks, and the hoes and the cars and the clothes and the Benz and Rolls ain't nothin' (Ain't nothin')</p>
+
+      <p begin="01:58.232" end="02:01.913" ttm:agent="v1">And the two-tone AP froze on the wrist with the rose ain't nothin' (Ain’t nothin')</p>
+
+      <p begin="02:01.913" end="02:03.413" ttm:agent="v1">Instagram hoes ain't nothin’ (Nope)</p>
+
+      <p begin="02:03.170" end="02:04.670" ttm:agent="v1">Instagram poles ain't nothin'</p>
+
+      <p begin="02:04.651" end="02:06.863" ttm:agent="v1">Thinking yo' bxxch on lock, lil' boy, she fxxkin'</p>
+
+      <p begin="02:06.863" end="02:08.437" ttm:agent="v1">Dirty lil' whore, she love it</p>
+
+      <p begin="02:08.437" end="02:10.002" ttm:agent="v1">Think you gon' do something 'bout that bxxch, you buggin'</p>
+
+      <p begin="02:10.002" end="02:14.002" ttm:agent="v1">Nxxxa gon' whack yo' muffin, go ahead, call my bluff</p>
+
+    </div>
+
+  </body>
+
+</tt>
+

@@ -1,96 +1,192 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>Superhero (Heroes &amp; Villains) [with Future &amp; Chris Brown]</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Metro Boomin</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">Future</ttm:agent>
-      <ttm:agent type="person" xml:id="v3">Chris Brown</ttm:agent>
-      <ttm:item type="album">HEROES &amp; VILLAINS</ttm:item>
-      <ttm:item type="spotify_id">0vjeOZ3Ft5jvAi9SBFJm1j</ttm:item>
-      <itunes:duration>03:03.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:04.520" end="00:08.530" ttm:agent="v1" itunes:key="role" itunes:value="background">(Metro, metro, metro, metro)</p>
-      <p begin="00:08.530" end="00:12.520" ttm:agent="v1">Drankin' dope turned me to a superhero, yeah, yeah</p>
-      <p begin="00:12.520" end="00:16.720" ttm:agent="v1">Hit that pill, turned me to a superhero, yeah, yeah</p>
-      <p begin="00:16.720" end="00:21.090" ttm:agent="v1" itunes:key="role" itunes:value="background">Boominati turned me to a superhero, yeah, yeah (Metro)</p>
-      <p begin="00:21.090" end="00:24.810" ttm:agent="v1" itunes:key="role" itunes:value="background">(If Young Metro don't trust you, I'm gon' shoot you)</p>
-      <p begin="00:24.810" end="00:27.030" ttm:agent="v1">I'm on that dope again, I'm in that flow again</p>
-      <p begin="00:27.030" end="00:29.170" ttm:agent="v1">Switch up the flow again, yeah, yeah</p>
-      <p begin="00:29.170" end="00:31.250" ttm:agent="v1">Flyer than a parachute, gripping that pole again</p>
-      <p begin="00:31.250" end="00:34.620" ttm:agent="v1">I'm on that oil again, yeah, yeah</p>
-      <p begin="00:34.620" end="00:36.720" ttm:agent="v1">Candy in the cup, gotta get paid</p>
-      <p begin="00:36.720" end="00:38.680" ttm:agent="v1">King in the streets, young nigga made</p>
-      <p begin="00:38.680" end="00:41.090" ttm:agent="v1">Sprayin' up the crowd, take it to the grave</p>
-      <p begin="00:41.090" end="00:42.900" ttm:agent="v1">Ain't havin' problems, I'm sippin' the bar</p>
-      <p begin="00:42.900" end="00:45.030" ttm:agent="v1">Shoutout to Dallas, my bitch is a star</p>
-      <p begin="00:45.030" end="00:47.160" ttm:agent="v1">Nigga get rich, ready take you to war</p>
-      <p begin="00:47.160" end="00:48.960" ttm:agent="v1">Piss on your casket, shoot at your broad</p>
-      <p begin="00:48.960" end="00:51.190" ttm:agent="v1">Do you something nasty, roll you in a 'gar</p>
-      <p begin="00:51.190" end="00:53.220" ttm:agent="v1">Bitch get graphic, fuck me in a car</p>
-      <p begin="00:53.220" end="00:55.380" ttm:agent="v1">I get you a brand new Rollie tomorrow</p>
-      <p begin="00:55.380" end="00:57.180" ttm:agent="v1">I put that brand new Rollie on your arm</p>
-      <p begin="00:57.180" end="00:59.560" ttm:agent="v1">Ain't movin' slow but I'm still on oil</p>
-      <p begin="00:59.560" end="01:01.330" ttm:agent="v1">Tennis bracelets and they came with the frost</p>
-      <p begin="01:01.330" end="01:03.530" ttm:agent="v1">Cuban links all the way up to your jaw</p>
-      <p begin="01:03.530" end="01:05.640" ttm:agent="v1">Step up the swag when I step on a broad</p>
-      <p begin="01:05.640" end="01:07.780" ttm:agent="v1">Two dollar half, ooh, that's the cheapest one</p>
-      <p begin="01:07.780" end="01:09.850" ttm:agent="v1">Stackin' these hundreds up, like coupons</p>
-      <p begin="01:09.850" end="01:11.690" ttm:agent="v1">Told you from the beginning, upper echelon</p>
-      <p begin="01:11.690" end="01:13.780" ttm:agent="v1">And I get to stackin' up, I'm untouchable</p>
-      <p begin="01:13.780" end="01:16.030" ttm:agent="v1">I get to represent, money multiple</p>
-      <p begin="01:16.030" end="01:18.070" ttm:agent="v1">I'm at the top of the charts, unapproachable</p>
-      <p begin="01:18.070" end="01:19.900" ttm:agent="v1">Bread by the loaf, turbo the motor</p>
-      <p begin="01:19.900" end="01:22.070" ttm:agent="v1">Tic-tac-toe, killing all the vultures</p>
-      <p begin="01:22.070" end="01:24.080" ttm:agent="v1">Selling elbows, bitch do yoga</p>
-      <p begin="01:24.080" end="01:26.110" ttm:agent="v1">I deserve awards, serving these boulders</p>
-      <p begin="01:26.110" end="01:28.370" ttm:agent="v1">A hundred grand large when I shop, that's the total</p>
-      <p begin="01:28.370" end="01:30.200" ttm:agent="v1">Fill up the garage, bitch, I'm a mogul</p>
-      <p begin="01:30.200" end="01:32.250" ttm:agent="v1">Ain't no facadin', ain't no fugazi</p>
-      <p begin="01:32.250" end="01:34.440" ttm:agent="v1">I drop it off, I get paid</p>
-      <p begin="01:34.440" end="01:36.550" ttm:agent="v1">Drop top Royce, I'm going crazy</p>
-      <p begin="01:36.550" end="01:38.470" ttm:agent="v1">I push off, smoking on haze</p>
-      <p begin="01:38.470" end="01:40.470" ttm:agent="v1">Not tryna floss, Cartier shades</p>
-      <p begin="01:40.470" end="01:42.640" ttm:agent="v1">Candy in the cup, gotta get paid</p>
-      <p begin="01:42.640" end="01:44.770" ttm:agent="v1">King in the streets, young nigga made</p>
-      <p begin="01:44.770" end="01:46.670" ttm:agent="v1">Sprayin' up the crowd, take it to the grave</p>
-      <p begin="01:46.670" end="01:48.780" ttm:agent="v1">Ain't havin' problems, I'm sippin' the bar</p>
-      <p begin="01:48.780" end="01:50.730" ttm:agent="v1">Shoutout to Dallas, my bitch is a star</p>
-      <p begin="01:50.730" end="01:52.630" ttm:agent="v1">Nigga get rich, ready take you to war</p>
-      <p begin="01:52.630" end="01:54.880" ttm:agent="v1">Piss on your casket, shoot at your broad</p>
-      <p begin="01:54.880" end="01:57.160" ttm:agent="v1">Do you something nasty, roll you in a 'gar</p>
-      <p begin="01:57.160" end="01:59.020" ttm:agent="v1">Bitch get graphic, fuck me in a car</p>
-      <p begin="01:59.020" end="02:01.170" ttm:agent="v1">I get you a brand new Rollie tomorrow</p>
-      <p begin="02:01.170" end="02:03.320" ttm:agent="v1">I put that brand new Rollie on your arm</p>
-      <p begin="02:03.320" end="02:05.160" ttm:agent="v1">Ain't movin' slow but I'm still on oil</p>
-      <p begin="02:05.160" end="02:07.200" ttm:agent="v1">Tennis bracelets and they came with the frost</p>
-      <p begin="02:07.200" end="02:09.170" ttm:agent="v1">Cuban links all the way up to your jaw</p>
-      <p begin="02:09.170" end="02:12.420" ttm:agent="v1">Step up the swag when I step on a broad</p>
-      <p begin="02:12.420" end="02:14.530" ttm:agent="v1"/>
-      <p begin="02:14.530" end="02:17.360" ttm:agent="v1">Dark Knight feeling, die or be a hero</p>
-      <p begin="02:17.360" end="02:21.130" ttm:agent="v1">Or live long enough to see yourself become a villain</p>
-      <p begin="02:21.130" end="02:24.260" ttm:agent="v1"/>
-      <p begin="02:24.260" end="02:27.110" ttm:agent="v1">Soon as you up, these niggas wanna bring you down</p>
-      <p begin="02:27.110" end="02:30.090" ttm:agent="v1">The weight of the world sit on my shoulders, hold the crown</p>
-      <p begin="02:30.090" end="02:33.230" ttm:agent="v1">I ain't got a cape so I can't save you now</p>
-      <p begin="02:33.230" end="02:36.520" ttm:agent="v1" itunes:key="role" itunes:value="background">Niggas wanna hate, rather see you drown (yeah)</p>
-      <p begin="02:36.520" end="02:38.970" ttm:agent="v1" itunes:key="role" itunes:value="background">And the world keep spinnin' (yeah)</p>
-      <p begin="02:38.970" end="02:42.420" ttm:agent="v1" itunes:key="role" itunes:value="background">Like I'm the only one in it (am I the only one?) Why?</p>
-      <p begin="02:42.420" end="02:45.830" ttm:agent="v1" itunes:key="role" itunes:value="background">They don't wanna see you winnin' (no, no, no, no)</p>
-      <p begin="02:45.830" end="02:49.040" ttm:agent="v1" itunes:key="role" itunes:value="background">So who's really the villain? (Yeah)</p>
-      <p begin="02:49.040" end="02:56.530" ttm:agent="v1" itunes:key="role" itunes:value="background">(Whooo, who's the villain? Who's the villain?)</p>
-      <p begin="02:56.530" end="02:58.030" ttm:agent="v1" itunes:key="role" itunes:value="background">(Live long enough to see yourself become a villain)</p>
-      <p begin="02:58.010" end="03:02.010" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>Superhero (Heroes &amp; Villains) [with Future &amp; Chris Brown]</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Metro Boomin</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v2">Future</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v3">Chris Brown</ttm:agent>
+
+      <ttm:item type="album">HEROES &amp; VILLAINS</ttm:item>
+
+      <ttm:item type="spotify_id">0vjeOZ3Ft5jvAi9SBFJm1j</ttm:item>
+
+      <itunes:duration>03:03.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:04.520" end="00:08.530" ttm:agent="v1" itunes:key="role" itunes:value="background">(Metro, metro, metro, metro)</p>
+
+      <p begin="00:08.530" end="00:12.520" ttm:agent="v1">Drankin' dope turned me to a superhero, yeah, yeah</p>
+
+      <p begin="00:12.520" end="00:16.720" ttm:agent="v1">Hit that pill, turned me to a superhero, yeah, yeah</p>
+
+      <p begin="00:16.720" end="00:21.090" ttm:agent="v1">Boominati turned me to a superhero, yeah, yeah (Metro)</p>
+
+      <p begin="00:21.090" end="00:24.810" ttm:agent="v1" itunes:key="role" itunes:value="background">(If Young Metro don't trust you, I'm gon' shoot you)</p>
+
+      <p begin="00:24.810" end="00:27.030" ttm:agent="v1">I'm on that dope again, I'm in that flow again</p>
+
+      <p begin="00:27.030" end="00:29.170" ttm:agent="v1">Switch up the flow again, yeah, yeah</p>
+
+      <p begin="00:29.170" end="00:31.250" ttm:agent="v1">Flyer than a parachute, gripping that pole again</p>
+
+      <p begin="00:31.250" end="00:34.620" ttm:agent="v1">I'm on that oil again, yeah, yeah</p>
+
+      <p begin="00:34.620" end="00:36.720" ttm:agent="v1">Candy in the cup, gotta get paid</p>
+
+      <p begin="00:36.720" end="00:38.680" ttm:agent="v1">King in the streets, young nigga made</p>
+
+      <p begin="00:38.680" end="00:41.090" ttm:agent="v1">Sprayin' up the crowd, take it to the grave</p>
+
+      <p begin="00:41.090" end="00:42.900" ttm:agent="v1">Ain't havin' problems, I'm sippin' the bar</p>
+
+      <p begin="00:42.900" end="00:45.030" ttm:agent="v1">Shoutout to Dallas, my bitch is a star</p>
+
+      <p begin="00:45.030" end="00:47.160" ttm:agent="v1">Nigga get rich, ready take you to war</p>
+
+      <p begin="00:47.160" end="00:48.960" ttm:agent="v1">Piss on your casket, shoot at your broad</p>
+
+      <p begin="00:48.960" end="00:51.190" ttm:agent="v1">Do you something nasty, roll you in a 'gar</p>
+
+      <p begin="00:51.190" end="00:53.220" ttm:agent="v1">Bitch get graphic, fuck me in a car</p>
+
+      <p begin="00:53.220" end="00:55.380" ttm:agent="v1">I get you a brand new Rollie tomorrow</p>
+
+      <p begin="00:55.380" end="00:57.180" ttm:agent="v1">I put that brand new Rollie on your arm</p>
+
+      <p begin="00:57.180" end="00:59.560" ttm:agent="v1">Ain't movin' slow but I'm still on oil</p>
+
+      <p begin="00:59.560" end="01:01.330" ttm:agent="v1">Tennis bracelets and they came with the frost</p>
+
+      <p begin="01:01.330" end="01:03.530" ttm:agent="v1">Cuban links all the way up to your jaw</p>
+
+      <p begin="01:03.530" end="01:05.640" ttm:agent="v1">Step up the swag when I step on a broad</p>
+
+      <p begin="01:05.640" end="01:07.780" ttm:agent="v1">Two dollar half, ooh, that's the cheapest one</p>
+
+      <p begin="01:07.780" end="01:09.850" ttm:agent="v1">Stackin' these hundreds up, like coupons</p>
+
+      <p begin="01:09.850" end="01:11.690" ttm:agent="v1">Told you from the beginning, upper echelon</p>
+
+      <p begin="01:11.690" end="01:13.780" ttm:agent="v1">And I get to stackin' up, I'm untouchable</p>
+
+      <p begin="01:13.780" end="01:16.030" ttm:agent="v1">I get to represent, money multiple</p>
+
+      <p begin="01:16.030" end="01:18.070" ttm:agent="v1">I'm at the top of the charts, unapproachable</p>
+
+      <p begin="01:18.070" end="01:19.900" ttm:agent="v1">Bread by the loaf, turbo the motor</p>
+
+      <p begin="01:19.900" end="01:22.070" ttm:agent="v1">Tic-tac-toe, killing all the vultures</p>
+
+      <p begin="01:22.070" end="01:24.080" ttm:agent="v1">Selling elbows, bitch do yoga</p>
+
+      <p begin="01:24.080" end="01:26.110" ttm:agent="v1">I deserve awards, serving these boulders</p>
+
+      <p begin="01:26.110" end="01:28.370" ttm:agent="v1">A hundred grand large when I shop, that's the total</p>
+
+      <p begin="01:28.370" end="01:30.200" ttm:agent="v1">Fill up the garage, bitch, I'm a mogul</p>
+
+      <p begin="01:30.200" end="01:32.250" ttm:agent="v1">Ain't no facadin', ain't no fugazi</p>
+
+      <p begin="01:32.250" end="01:34.440" ttm:agent="v1">I drop it off, I get paid</p>
+
+      <p begin="01:34.440" end="01:36.550" ttm:agent="v1">Drop top Royce, I'm going crazy</p>
+
+      <p begin="01:36.550" end="01:38.470" ttm:agent="v1">I push off, smoking on haze</p>
+
+      <p begin="01:38.470" end="01:40.470" ttm:agent="v1">Not tryna floss, Cartier shades</p>
+
+      <p begin="01:40.470" end="01:42.640" ttm:agent="v1">Candy in the cup, gotta get paid</p>
+
+      <p begin="01:42.640" end="01:44.770" ttm:agent="v1">King in the streets, young nigga made</p>
+
+      <p begin="01:44.770" end="01:46.670" ttm:agent="v1">Sprayin' up the crowd, take it to the grave</p>
+
+      <p begin="01:46.670" end="01:48.780" ttm:agent="v1">Ain't havin' problems, I'm sippin' the bar</p>
+
+      <p begin="01:48.780" end="01:50.730" ttm:agent="v1">Shoutout to Dallas, my bitch is a star</p>
+
+      <p begin="01:50.730" end="01:52.630" ttm:agent="v1">Nigga get rich, ready take you to war</p>
+
+      <p begin="01:52.630" end="01:54.880" ttm:agent="v1">Piss on your casket, shoot at your broad</p>
+
+      <p begin="01:54.880" end="01:57.160" ttm:agent="v1">Do you something nasty, roll you in a 'gar</p>
+
+      <p begin="01:57.160" end="01:59.020" ttm:agent="v1">Bitch get graphic, fuck me in a car</p>
+
+      <p begin="01:59.020" end="02:01.170" ttm:agent="v1">I get you a brand new Rollie tomorrow</p>
+
+      <p begin="02:01.170" end="02:03.320" ttm:agent="v1">I put that brand new Rollie on your arm</p>
+
+      <p begin="02:03.320" end="02:05.160" ttm:agent="v1">Ain't movin' slow but I'm still on oil</p>
+
+      <p begin="02:05.160" end="02:07.200" ttm:agent="v1">Tennis bracelets and they came with the frost</p>
+
+      <p begin="02:07.200" end="02:09.170" ttm:agent="v1">Cuban links all the way up to your jaw</p>
+
+      <p begin="02:09.170" end="02:12.420" ttm:agent="v1">Step up the swag when I step on a broad</p>
+
+      <p begin="02:12.420" end="02:14.530" ttm:agent="v1"/>
+
+      <p begin="02:14.530" end="02:17.360" ttm:agent="v1">Dark Knight feeling, die or be a hero</p>
+
+      <p begin="02:17.360" end="02:21.130" ttm:agent="v1">Or live long enough to see yourself become a villain</p>
+
+      <p begin="02:21.130" end="02:24.260" ttm:agent="v1"/>
+
+      <p begin="02:24.260" end="02:27.110" ttm:agent="v1">Soon as you up, these niggas wanna bring you down</p>
+
+      <p begin="02:27.110" end="02:30.090" ttm:agent="v1">The weight of the world sit on my shoulders, hold the crown</p>
+
+      <p begin="02:30.090" end="02:33.230" ttm:agent="v1">I ain't got a cape so I can't save you now</p>
+
+      <p begin="02:33.230" end="02:36.520" ttm:agent="v1">Niggas wanna hate, rather see you drown (yeah)</p>
+
+      <p begin="02:36.520" end="02:38.970" ttm:agent="v1">And the world keep spinnin' (yeah)</p>
+
+      <p begin="02:38.970" end="02:42.420" ttm:agent="v1">Like I'm the only one in it (am I the only one?) Why?</p>
+
+      <p begin="02:42.420" end="02:45.830" ttm:agent="v1">They don't wanna see you winnin' (no, no, no, no)</p>
+
+      <p begin="02:45.830" end="02:49.040" ttm:agent="v1">So who's really the villain? (Yeah)</p>
+
+      <p begin="02:49.040" end="02:56.530" ttm:agent="v1" itunes:key="role" itunes:value="background">(Whooo, who's the villain? Who's the villain?)</p>
+
+      <p begin="02:56.530" end="02:58.030" ttm:agent="v1" itunes:key="role" itunes:value="background">(Live long enough to see yourself become a villain)</p>
+
+      <p begin="02:58.010" end="03:02.010" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

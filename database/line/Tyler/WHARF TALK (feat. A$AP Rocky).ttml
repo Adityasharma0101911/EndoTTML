@@ -1,87 +1,174 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>WHARF TALK (feat. A$AP Rocky)</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Tyler</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">The Creator</ttm:agent>
-      <ttm:agent type="person" xml:id="v3">A$AP Rocky</ttm:agent>
-      <ttm:item type="album">CALL ME IF YOU GET LOST: The Estate Sale</ttm:item>
-      <ttm:item type="spotify_id">3u9PAti8muEXXvEjeFpQK0</ttm:item>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:02.003" end="00:04.234" ttm:agent="v1">Call Me If You Get Lost</p>
-      <p begin="00:04.234" end="00:05.734" ttm:agent="v1"/>
-      <p begin="00:04.451" end="00:09.330" ttm:agent="v1">If God was here with us today</p>
-      <p begin="00:09.330" end="00:14.319" ttm:agent="v1" itunes:key="role" itunes:value="background">I think I know what He would say (Some shit like)</p>
-      <p begin="00:14.319" end="00:19.449" ttm:agent="v1">&quot;You're so beautiful, and your lips look nice&quot;</p>
-      <p begin="00:19.449" end="00:23.332" ttm:agent="v1" itunes:key="role" itunes:value="background">Uh (Like the one on your face)</p>
-      <p begin="00:23.332" end="00:24.832" ttm:agent="v1"/>
-      <p begin="00:24.405" end="00:26.785" ttm:agent="v1">I got a new boat, you should come with</p>
-      <p begin="00:26.785" end="00:29.185" ttm:agent="v1">I got a section for your luggage</p>
-      <p begin="00:29.185" end="00:31.751" ttm:agent="v1">Bring some fiction and a nightlight</p>
-      <p begin="00:31.751" end="00:34.146" ttm:agent="v1">Record player and your top five</p>
-      <p begin="00:34.146" end="00:36.615" ttm:agent="v1">Where we goin'? We should get lost</p>
-      <p begin="00:36.615" end="00:39.855" ttm:agent="v1">No more questions, let the wharf talk, uh</p>
-      <p begin="00:39.855" end="00:43.913" ttm:agent="v1" itunes:key="role" itunes:value="background">(So there's a lot goin' on, make you comfortable)</p>
-      <p begin="00:43.913" end="00:45.413" ttm:agent="v1"/>
-      <p begin="00:44.076" end="00:48.808" ttm:agent="v1">I want you to come get lost with me</p>
-      <p begin="00:48.808" end="00:53.986" ttm:agent="v1" itunes:key="role" itunes:value="background">Ask you one more time before I tread too deep (I want you)</p>
-      <p begin="00:53.986" end="00:57.058" ttm:agent="v1">So can you make up your mind?</p>
-      <p begin="00:57.058" end="00:59.164" ttm:agent="v1">A wave's gonna come, wave's gonna come</p>
-      <p begin="00:59.164" end="01:01.908" ttm:agent="v1">So can you make up your mind?</p>
-      <p begin="01:01.908" end="01:04.244" ttm:agent="v1" itunes:key="role" itunes:value="background">A wave's gonna come (I want)</p>
-      <p begin="01:04.244" end="01:05.744" ttm:agent="v1"/>
-      <p begin="01:04.428" end="01:09.220" ttm:agent="v1">Unlike my friends, don't think I'll fall in love again</p>
-      <p begin="01:09.220" end="01:14.083" ttm:agent="v1">But I'll take a chance, seclusion isn't in my plans</p>
-      <p begin="01:14.083" end="01:17.751" ttm:agent="v1">Pack my shit up, time I headed back out 'cause my shit's up</p>
-      <p begin="01:17.751" end="01:20.201" ttm:agent="v1">Spend it all in one out, wanna split some</p>
-      <p begin="01:20.201" end="01:21.701" ttm:agent="v1">Some here with you right now</p>
-      <p begin="01:21.621" end="01:23.562" ttm:agent="v1" itunes:key="role" itunes:value="background">(Whatever you want)</p>
-      <p begin="01:23.562" end="01:28.368" ttm:agent="v1">If you got cold feet, it's warm by the water</p>
-      <p begin="01:28.368" end="01:33.373" ttm:agent="v1">You can turn your page around, let me be the author</p>
-      <p begin="01:33.373" end="01:41.356" ttm:agent="v1">Don't leave your destiny by the harbor</p>
-      <p begin="01:41.356" end="01:43.504" ttm:agent="v1" itunes:key="role" itunes:value="background">(Come on, it don't gotta be like that)</p>
-      <p begin="01:43.504" end="01:45.004" ttm:agent="v1"/>
-      <p begin="01:43.683" end="01:48.600" ttm:agent="v1" itunes:key="role" itunes:value="background">I want you (Say yes), to come get lost with me</p>
-      <p begin="01:48.600" end="01:53.850" ttm:agent="v1" itunes:key="role" itunes:value="background">Ask you one more time (Say yes), before I tread too deep (I want you)</p>
-      <p begin="01:53.850" end="01:56.659" ttm:agent="v1">So can you make up your mind?</p>
-      <p begin="01:56.659" end="01:58.774" ttm:agent="v1">A wave's gonna come, wave's gonna come</p>
-      <p begin="01:58.774" end="02:01.585" ttm:agent="v1" itunes:key="role" itunes:value="background">So can you make up your mind? (Flacko)</p>
-      <p begin="02:01.585" end="02:03.617" ttm:agent="v1" itunes:key="role" itunes:value="background">A wave's gonna come (I want)</p>
-      <p begin="02:03.617" end="02:05.117" ttm:agent="v1"/>
-      <p begin="02:03.789" end="02:06.919" ttm:agent="v1">Them bitches say I'm too conceited, they see the way I treat her</p>
-      <p begin="02:06.919" end="02:09.242" ttm:agent="v1">Be my señorita, put a ring up on her finger</p>
-      <p begin="02:09.242" end="02:11.737" ttm:agent="v1">Take her out the climate, somewhere to put her feet up</p>
-      <p begin="02:11.737" end="02:14.337" ttm:agent="v1">Neck Valentinin', rubies, diamonds, uh</p>
-      <p begin="02:14.337" end="02:16.584" ttm:agent="v1">Billionaire yacht party, climate was hot</p>
-      <p begin="02:16.584" end="02:18.790" ttm:agent="v1">Baby, if you seasick, we could stop on the dock</p>
-      <p begin="02:18.790" end="02:21.598" ttm:agent="v1">Yeah, lobster and calamari, caviar, um</p>
-      <p begin="02:21.598" end="02:23.841" ttm:agent="v1" itunes:key="role" itunes:value="background">Lots of luggage, private boarding, carry on, um (Dance with us)</p>
-      <p begin="02:23.841" end="02:25.341" ttm:agent="v1"/>
-      <p begin="02:24.014" end="02:26.415" ttm:agent="v1" itunes:key="role" itunes:value="background">I got a new boat, you should come with (You should come with)</p>
-      <p begin="02:26.415" end="02:28.696" ttm:agent="v1" itunes:key="role" itunes:value="background">I got a section for your luggage (Luggage)</p>
-      <p begin="02:28.696" end="02:31.274" ttm:agent="v1" itunes:key="role" itunes:value="background">Bring some fiction and a nightlight (Nightlight)</p>
-      <p begin="02:31.274" end="02:33.632" ttm:agent="v1" itunes:key="role" itunes:value="background">Record player and your top five (Top five)</p>
-      <p begin="02:33.632" end="02:36.188" ttm:agent="v1" itunes:key="role" itunes:value="background">Where we goin'? We should get lost (Get lost)</p>
-      <p begin="02:36.188" end="02:38.770" ttm:agent="v1" itunes:key="role" itunes:value="background">No more questions, let the wharf talk (Wharf talk)</p>
-      <p begin="02:38.770" end="02:41.335" ttm:agent="v1">Wharf talk, uh-huh</p>
-      <p begin="02:41.335" end="02:43.754" ttm:agent="v1"/>
-      <p begin="02:43.754" end="02:45.854" ttm:agent="v1" itunes:key="role" itunes:value="background">I want you (I want you)</p>
-      <p begin="02:45.854" end="02:48.347" ttm:agent="v1" itunes:key="role" itunes:value="background">To come get lost with me (Make up your mind)</p>
-      <p begin="02:48.347" end="02:50.614" ttm:agent="v1" itunes:key="role" itunes:value="background">Ask you one more time (Ask you one more time)</p>
-      <p begin="02:50.614" end="02:53.184" ttm:agent="v1" itunes:key="role" itunes:value="background">Before I go (Oh-oh-oh-oh-oh-oh)</p>
-      <p begin="02:53.184" end="02:55.676" ttm:agent="v1" itunes:key="role" itunes:value="background">Before I go (Oh-oh-oh-oh-oh-oh)</p>
-      <p begin="02:55.676" end="02:59.676" ttm:agent="v1" itunes:key="role" itunes:value="background">Before I go (Oh-oh-oh-oh-oh-oh, oh, oh, oh, when you gonna come?)</p>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>WHARF TALK (feat. A$AP Rocky)</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Tyler</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v2">The Creator</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v3">A$AP Rocky</ttm:agent>
+
+      <ttm:item type="album">CALL ME IF YOU GET LOST: The Estate Sale</ttm:item>
+
+      <ttm:item type="spotify_id">3u9PAti8muEXXvEjeFpQK0</ttm:item>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:02.003" end="00:04.234" ttm:agent="v1">Call Me If You Get Lost</p>
+
+      <p begin="00:04.234" end="00:05.734" ttm:agent="v1"/>
+
+      <p begin="00:04.451" end="00:09.330" ttm:agent="v1">If God was here with us today</p>
+
+      <p begin="00:09.330" end="00:14.319" ttm:agent="v1">I think I know what He would say (Some shit like)</p>
+
+      <p begin="00:14.319" end="00:19.449" ttm:agent="v1">&quot;You're so beautiful, and your lips look nice&quot;</p>
+
+      <p begin="00:19.449" end="00:23.332" ttm:agent="v1">Uh (Like the one on your face)</p>
+
+      <p begin="00:23.332" end="00:24.832" ttm:agent="v1"/>
+
+      <p begin="00:24.405" end="00:26.785" ttm:agent="v1">I got a new boat, you should come with</p>
+
+      <p begin="00:26.785" end="00:29.185" ttm:agent="v1">I got a section for your luggage</p>
+
+      <p begin="00:29.185" end="00:31.751" ttm:agent="v1">Bring some fiction and a nightlight</p>
+
+      <p begin="00:31.751" end="00:34.146" ttm:agent="v1">Record player and your top five</p>
+
+      <p begin="00:34.146" end="00:36.615" ttm:agent="v1">Where we goin'? We should get lost</p>
+
+      <p begin="00:36.615" end="00:39.855" ttm:agent="v1">No more questions, let the wharf talk, uh</p>
+
+      <p begin="00:39.855" end="00:43.913" ttm:agent="v1" itunes:key="role" itunes:value="background">(So there's a lot goin' on, make you comfortable)</p>
+
+      <p begin="00:43.913" end="00:45.413" ttm:agent="v1"/>
+
+      <p begin="00:44.076" end="00:48.808" ttm:agent="v1">I want you to come get lost with me</p>
+
+      <p begin="00:48.808" end="00:53.986" ttm:agent="v1">Ask you one more time before I tread too deep (I want you)</p>
+
+      <p begin="00:53.986" end="00:57.058" ttm:agent="v1">So can you make up your mind?</p>
+
+      <p begin="00:57.058" end="00:59.164" ttm:agent="v1">A wave's gonna come, wave's gonna come</p>
+
+      <p begin="00:59.164" end="01:01.908" ttm:agent="v1">So can you make up your mind?</p>
+
+      <p begin="01:01.908" end="01:04.244" ttm:agent="v1">A wave's gonna come (I want)</p>
+
+      <p begin="01:04.244" end="01:05.744" ttm:agent="v1"/>
+
+      <p begin="01:04.428" end="01:09.220" ttm:agent="v1">Unlike my friends, don't think I'll fall in love again</p>
+
+      <p begin="01:09.220" end="01:14.083" ttm:agent="v1">But I'll take a chance, seclusion isn't in my plans</p>
+
+      <p begin="01:14.083" end="01:17.751" ttm:agent="v1">Pack my shit up, time I headed back out 'cause my shit's up</p>
+
+      <p begin="01:17.751" end="01:20.201" ttm:agent="v1">Spend it all in one out, wanna split some</p>
+
+      <p begin="01:20.201" end="01:21.701" ttm:agent="v1">Some here with you right now</p>
+
+      <p begin="01:21.621" end="01:23.562" ttm:agent="v1" itunes:key="role" itunes:value="background">(Whatever you want)</p>
+
+      <p begin="01:23.562" end="01:28.368" ttm:agent="v1">If you got cold feet, it's warm by the water</p>
+
+      <p begin="01:28.368" end="01:33.373" ttm:agent="v1">You can turn your page around, let me be the author</p>
+
+      <p begin="01:33.373" end="01:41.356" ttm:agent="v1">Don't leave your destiny by the harbor</p>
+
+      <p begin="01:41.356" end="01:43.504" ttm:agent="v1" itunes:key="role" itunes:value="background">(Come on, it don't gotta be like that)</p>
+
+      <p begin="01:43.504" end="01:45.004" ttm:agent="v1"/>
+
+      <p begin="01:43.683" end="01:48.600" ttm:agent="v1">I want you (Say yes), to come get lost with me</p>
+
+      <p begin="01:48.600" end="01:53.850" ttm:agent="v1">Ask you one more time (Say yes), before I tread too deep (I want you)</p>
+
+      <p begin="01:53.850" end="01:56.659" ttm:agent="v1">So can you make up your mind?</p>
+
+      <p begin="01:56.659" end="01:58.774" ttm:agent="v1">A wave's gonna come, wave's gonna come</p>
+
+      <p begin="01:58.774" end="02:01.585" ttm:agent="v1">So can you make up your mind? (Flacko)</p>
+
+      <p begin="02:01.585" end="02:03.617" ttm:agent="v1">A wave's gonna come (I want)</p>
+
+      <p begin="02:03.617" end="02:05.117" ttm:agent="v1"/>
+
+      <p begin="02:03.789" end="02:06.919" ttm:agent="v1">Them bitches say I'm too conceited, they see the way I treat her</p>
+
+      <p begin="02:06.919" end="02:09.242" ttm:agent="v1">Be my señorita, put a ring up on her finger</p>
+
+      <p begin="02:09.242" end="02:11.737" ttm:agent="v1">Take her out the climate, somewhere to put her feet up</p>
+
+      <p begin="02:11.737" end="02:14.337" ttm:agent="v1">Neck Valentinin', rubies, diamonds, uh</p>
+
+      <p begin="02:14.337" end="02:16.584" ttm:agent="v1">Billionaire yacht party, climate was hot</p>
+
+      <p begin="02:16.584" end="02:18.790" ttm:agent="v1">Baby, if you seasick, we could stop on the dock</p>
+
+      <p begin="02:18.790" end="02:21.598" ttm:agent="v1">Yeah, lobster and calamari, caviar, um</p>
+
+      <p begin="02:21.598" end="02:23.841" ttm:agent="v1">Lots of luggage, private boarding, carry on, um (Dance with us)</p>
+
+      <p begin="02:23.841" end="02:25.341" ttm:agent="v1"/>
+
+      <p begin="02:24.014" end="02:26.415" ttm:agent="v1">I got a new boat, you should come with (You should come with)</p>
+
+      <p begin="02:26.415" end="02:28.696" ttm:agent="v1">I got a section for your luggage (Luggage)</p>
+
+      <p begin="02:28.696" end="02:31.274" ttm:agent="v1">Bring some fiction and a nightlight (Nightlight)</p>
+
+      <p begin="02:31.274" end="02:33.632" ttm:agent="v1">Record player and your top five (Top five)</p>
+
+      <p begin="02:33.632" end="02:36.188" ttm:agent="v1">Where we goin'? We should get lost (Get lost)</p>
+
+      <p begin="02:36.188" end="02:38.770" ttm:agent="v1">No more questions, let the wharf talk (Wharf talk)</p>
+
+      <p begin="02:38.770" end="02:41.335" ttm:agent="v1">Wharf talk, uh-huh</p>
+
+      <p begin="02:41.335" end="02:43.754" ttm:agent="v1"/>
+
+      <p begin="02:43.754" end="02:45.854" ttm:agent="v1">I want you (I want you)</p>
+
+      <p begin="02:45.854" end="02:48.347" ttm:agent="v1">To come get lost with me (Make up your mind)</p>
+
+      <p begin="02:48.347" end="02:50.614" ttm:agent="v1">Ask you one more time (Ask you one more time)</p>
+
+      <p begin="02:50.614" end="02:53.184" ttm:agent="v1">Before I go (Oh-oh-oh-oh-oh-oh)</p>
+
+      <p begin="02:53.184" end="02:55.676" ttm:agent="v1">Before I go (Oh-oh-oh-oh-oh-oh)</p>
+
+      <p begin="02:55.676" end="02:59.676" ttm:agent="v1">Before I go (Oh-oh-oh-oh-oh-oh, oh, oh, oh, when you gonna come?)</p>
+
+    </div>
+
+  </body>
+
+</tt>
+

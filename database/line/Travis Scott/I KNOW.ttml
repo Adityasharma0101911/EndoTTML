@@ -1,87 +1,174 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>I KNOW ?</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Travis Scott</ttm:agent>
-      <ttm:item type="album">UTOPIA</ttm:item>
-      <ttm:item type="spotify_id">6wsqVwoiVH2kde4k4KKAFU</ttm:item>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:18.015" end="00:20.020" ttm:agent="v1" itunes:key="role" itunes:value="background">Tell me, is you still up? (Up)</p>
-      <p begin="00:20.020" end="00:21.967" ttm:agent="v1">It's five A.M. and I'm drunk right now</p>
-      <p begin="00:21.967" end="00:24.097" ttm:agent="v1" itunes:key="role" itunes:value="background">Tell me, can we still ****? (**** that shit)</p>
-      <p begin="00:24.097" end="00:26.003" ttm:agent="v1">One of one, I'm in the zone right now</p>
-      <p begin="00:26.003" end="00:28.195" ttm:agent="v1" itunes:key="role" itunes:value="background">Tell me, am I still? (Mmm)</p>
-      <p begin="00:28.195" end="00:30.113" ttm:agent="v1">Tellin' you just how I feel right now</p>
-      <p begin="00:30.113" end="00:32.856" ttm:agent="v1">You said it's just the drugs and I know</p>
-      <p begin="00:32.856" end="00:38.607" ttm:agent="v1">I know, I know, I know, I know, I know, I know</p>
-      <p begin="00:38.607" end="00:42.029" ttm:agent="v1" itunes:key="role" itunes:value="background">I lied too, way before (Let's go), before</p>
-      <p begin="00:42.029" end="00:47.352" ttm:agent="v1">Before I had you right inside my arms</p>
-      <p begin="00:47.352" end="00:50.462" ttm:agent="v1" itunes:key="role" itunes:value="background">But then again, I could be drunk (It's lit, yeah)</p>
-      <p begin="00:50.462" end="00:51.962" ttm:agent="v1"/>
-      <p begin="00:50.615" end="00:52.116" ttm:agent="v1" itunes:key="role" itunes:value="background">Baby, I don't wanna sound righteous (Yeah)</p>
-      <p begin="00:52.116" end="00:54.173" ttm:agent="v1">I got twenty ******* suckin' like bisons</p>
-      <p begin="00:54.173" end="00:58.542" ttm:agent="v1" itunes:key="role" itunes:value="background">I just eeny, meeny, miney, roll the dices, I pick her (Pop it, pop it)</p>
-      <p begin="00:58.542" end="01:00.652" ttm:agent="v1">She ain't really even my type, been out here</p>
-      <p begin="01:00.652" end="01:02.760" ttm:agent="v1">She been losin' herself to the night shift</p>
-      <p begin="01:02.760" end="01:07.522" ttm:agent="v1">She been losin' herself and I get it, oh, girl, yeah, I get it</p>
-      <p begin="01:07.522" end="01:10.293" ttm:agent="v1">Yeah, yeah, you've been fightin' for your shot</p>
-      <p begin="01:10.293" end="01:12.217" ttm:agent="v1">And you've been searchin' for your spot</p>
-      <p begin="01:12.217" end="01:16.798" ttm:agent="v1">Girl, I feel it, yeah, girl, I feel it, yeah</p>
-      <p begin="01:16.798" end="01:18.756" ttm:agent="v1">Oh, you think you got your groove</p>
-      <p begin="01:18.756" end="01:23.061" ttm:agent="v1" itunes:key="role" itunes:value="background">But you want someone like you (Let's go)</p>
-      <p begin="01:23.061" end="01:24.561" ttm:agent="v1"/>
-      <p begin="01:23.224" end="01:25.073" ttm:agent="v1" itunes:key="role" itunes:value="background">Tell me, is you still up? (Up)</p>
-      <p begin="01:25.073" end="01:27.052" ttm:agent="v1">It's five A.M. and I'm drunk right now</p>
-      <p begin="01:27.052" end="01:29.177" ttm:agent="v1" itunes:key="role" itunes:value="background">Tell me, can we still ****? (**** that shit)</p>
-      <p begin="01:29.177" end="01:31.158" ttm:agent="v1">One of one, I'm in the zone right now</p>
-      <p begin="01:31.158" end="01:33.197" ttm:agent="v1" itunes:key="role" itunes:value="background">Tell me, am I still? (Mmm)</p>
-      <p begin="01:33.197" end="01:35.193" ttm:agent="v1">Tellin' you just how I feel right now</p>
-      <p begin="01:35.193" end="01:37.942" ttm:agent="v1">You said it's just the drugs and I know</p>
-      <p begin="01:37.942" end="01:43.601" ttm:agent="v1" itunes:key="role" itunes:value="background">I know, I know, I know, I know, I know, I know (Ooh, it's the kid, know it, damn it)</p>
-      <p begin="01:43.601" end="01:47.326" ttm:agent="v1" itunes:key="role" itunes:value="background">I lied too, way before, before (How they feelin', how they feelin', ooh)</p>
-      <p begin="01:47.326" end="01:52.702" ttm:agent="v1" itunes:key="role" itunes:value="background">Before I had you right inside my arms (Feelin' like some money tonight)</p>
-      <p begin="01:52.702" end="01:54.591" ttm:agent="v1" itunes:key="role" itunes:value="background">But then again, I could be drunk (Yeah)</p>
-      <p begin="01:54.591" end="01:56.091" ttm:agent="v1"/>
-      <p begin="01:55.282" end="01:59.148" ttm:agent="v1" itunes:key="role" itunes:value="background">I know, mami, I know (Know), it's two A.M., don't stress (Stress)</p>
-      <p begin="01:59.148" end="02:03.237" ttm:agent="v1">At three, that bullshit kick in, in thirty, you'll feel your best</p>
-      <p begin="02:03.237" end="02:07.254" ttm:agent="v1" itunes:key="role" itunes:value="background">I turned my whole spot to crucial, it's crucial, the way I left (It's lit)</p>
-      <p begin="02:07.254" end="02:11.357" ttm:agent="v1" itunes:key="role" itunes:value="background">Upstairs is like a low, my new ******* be the best (Let's go)</p>
-      <p begin="02:11.357" end="02:13.788" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm lookin' at her, when her startin' to turn into you (Her)</p>
-      <p begin="02:13.788" end="02:16.361" ttm:agent="v1">Now you startin' to **** up my mind, is it you, is it her?</p>
-      <p begin="02:16.361" end="02:17.940" ttm:agent="v1">We brought Booby Trap to the 'burbs</p>
-      <p begin="02:17.940" end="02:20.473" ttm:agent="v1">F29 is my address, in case you ain't heard</p>
-      <p begin="02:20.473" end="02:22.038" ttm:agent="v1">It's floodin' upstairs, it's a leak</p>
-      <p begin="02:22.038" end="02:23.538" ttm:agent="v1">I don't make it squeak, make it squirt</p>
-      <p begin="02:23.461" end="02:25.967" ttm:agent="v1">I make this shit beat, bon appétit when I feast</p>
-      <p begin="02:25.967" end="02:28.796" ttm:agent="v1">Slippin' and slide through the streets, it takes a finesse</p>
-      <p begin="02:28.796" end="02:31.538" ttm:agent="v1">Especially in this Cabriolet Jeep, engine make it hard to creep</p>
-      <p begin="02:31.538" end="02:34.072" ttm:agent="v1" itunes:key="role" itunes:value="background">Just leave the gate open, through the side door, I'ma creep (Ooh, ooh)</p>
-      <p begin="02:34.072" end="02:36.649" ttm:agent="v1">Are you 'bout it? Too real, and are the kids downstairs asleep?</p>
-      <p begin="02:36.649" end="02:39.280" ttm:agent="v1">And are you upstairs by yourself? A minute from there</p>
-      <p begin="02:39.280" end="02:44.017" ttm:agent="v1">Is there some room for me? Baby, do tell, do tell</p>
-      <p begin="02:44.017" end="02:45.517" ttm:agent="v1"/>
-      <p begin="02:44.477" end="02:46.396" ttm:agent="v1" itunes:key="role" itunes:value="background">Tell me, is she still up? (Up)</p>
-      <p begin="02:46.396" end="02:48.405" ttm:agent="v1">It's five A.M. and I'm drunk right now</p>
-      <p begin="02:48.405" end="02:50.485" ttm:agent="v1" itunes:key="role" itunes:value="background">Tell me, can we still ****? (**** that shit)</p>
-      <p begin="02:50.485" end="02:52.426" ttm:agent="v1">One of one, I'm in the zone right now</p>
-      <p begin="02:52.426" end="02:54.568" ttm:agent="v1" itunes:key="role" itunes:value="background">Tell me, am I still? (Mmm)</p>
-      <p begin="02:54.568" end="02:56.536" ttm:agent="v1">Tellin' you just how I feel right now</p>
-      <p begin="02:56.536" end="02:59.247" ttm:agent="v1">You said it's just the drugs and I know</p>
-      <p begin="02:59.247" end="03:04.743" ttm:agent="v1">I know, I know, I know, I know, I know, I know</p>
-      <p begin="03:04.743" end="03:08.464" ttm:agent="v1" itunes:key="role" itunes:value="background">I lied too, way before (Let's go), before</p>
-      <p begin="03:08.464" end="03:13.925" ttm:agent="v1">Before I had you right inside my arms</p>
-      <p begin="03:13.925" end="03:17.925" ttm:agent="v1">But then again, I could be drunk</p>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>I KNOW ?</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Travis Scott</ttm:agent>
+
+      <ttm:item type="album">UTOPIA</ttm:item>
+
+      <ttm:item type="spotify_id">6wsqVwoiVH2kde4k4KKAFU</ttm:item>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:18.015" end="00:20.020" ttm:agent="v1">Tell me, is you still up? (Up)</p>
+
+      <p begin="00:20.020" end="00:21.967" ttm:agent="v1">It's five A.M. and I'm drunk right now</p>
+
+      <p begin="00:21.967" end="00:24.097" ttm:agent="v1">Tell me, can we still ****? (**** that shit)</p>
+
+      <p begin="00:24.097" end="00:26.003" ttm:agent="v1">One of one, I'm in the zone right now</p>
+
+      <p begin="00:26.003" end="00:28.195" ttm:agent="v1">Tell me, am I still? (Mmm)</p>
+
+      <p begin="00:28.195" end="00:30.113" ttm:agent="v1">Tellin' you just how I feel right now</p>
+
+      <p begin="00:30.113" end="00:32.856" ttm:agent="v1">You said it's just the drugs and I know</p>
+
+      <p begin="00:32.856" end="00:38.607" ttm:agent="v1">I know, I know, I know, I know, I know, I know</p>
+
+      <p begin="00:38.607" end="00:42.029" ttm:agent="v1">I lied too, way before (Let's go), before</p>
+
+      <p begin="00:42.029" end="00:47.352" ttm:agent="v1">Before I had you right inside my arms</p>
+
+      <p begin="00:47.352" end="00:50.462" ttm:agent="v1">But then again, I could be drunk (It's lit, yeah)</p>
+
+      <p begin="00:50.462" end="00:51.962" ttm:agent="v1"/>
+
+      <p begin="00:50.615" end="00:52.116" ttm:agent="v1">Baby, I don't wanna sound righteous (Yeah)</p>
+
+      <p begin="00:52.116" end="00:54.173" ttm:agent="v1">I got twenty ******* suckin' like bisons</p>
+
+      <p begin="00:54.173" end="00:58.542" ttm:agent="v1">I just eeny, meeny, miney, roll the dices, I pick her (Pop it, pop it)</p>
+
+      <p begin="00:58.542" end="01:00.652" ttm:agent="v1">She ain't really even my type, been out here</p>
+
+      <p begin="01:00.652" end="01:02.760" ttm:agent="v1">She been losin' herself to the night shift</p>
+
+      <p begin="01:02.760" end="01:07.522" ttm:agent="v1">She been losin' herself and I get it, oh, girl, yeah, I get it</p>
+
+      <p begin="01:07.522" end="01:10.293" ttm:agent="v1">Yeah, yeah, you've been fightin' for your shot</p>
+
+      <p begin="01:10.293" end="01:12.217" ttm:agent="v1">And you've been searchin' for your spot</p>
+
+      <p begin="01:12.217" end="01:16.798" ttm:agent="v1">Girl, I feel it, yeah, girl, I feel it, yeah</p>
+
+      <p begin="01:16.798" end="01:18.756" ttm:agent="v1">Oh, you think you got your groove</p>
+
+      <p begin="01:18.756" end="01:23.061" ttm:agent="v1">But you want someone like you (Let's go)</p>
+
+      <p begin="01:23.061" end="01:24.561" ttm:agent="v1"/>
+
+      <p begin="01:23.224" end="01:25.073" ttm:agent="v1">Tell me, is you still up? (Up)</p>
+
+      <p begin="01:25.073" end="01:27.052" ttm:agent="v1">It's five A.M. and I'm drunk right now</p>
+
+      <p begin="01:27.052" end="01:29.177" ttm:agent="v1">Tell me, can we still ****? (**** that shit)</p>
+
+      <p begin="01:29.177" end="01:31.158" ttm:agent="v1">One of one, I'm in the zone right now</p>
+
+      <p begin="01:31.158" end="01:33.197" ttm:agent="v1">Tell me, am I still? (Mmm)</p>
+
+      <p begin="01:33.197" end="01:35.193" ttm:agent="v1">Tellin' you just how I feel right now</p>
+
+      <p begin="01:35.193" end="01:37.942" ttm:agent="v1">You said it's just the drugs and I know</p>
+
+      <p begin="01:37.942" end="01:43.601" ttm:agent="v1">I know, I know, I know, I know, I know, I know (Ooh, it's the kid, know it, damn it)</p>
+
+      <p begin="01:43.601" end="01:47.326" ttm:agent="v1">I lied too, way before, before (How they feelin', how they feelin', ooh)</p>
+
+      <p begin="01:47.326" end="01:52.702" ttm:agent="v1">Before I had you right inside my arms (Feelin' like some money tonight)</p>
+
+      <p begin="01:52.702" end="01:54.591" ttm:agent="v1">But then again, I could be drunk (Yeah)</p>
+
+      <p begin="01:54.591" end="01:56.091" ttm:agent="v1"/>
+
+      <p begin="01:55.282" end="01:59.148" ttm:agent="v1">I know, mami, I know (Know), it's two A.M., don't stress (Stress)</p>
+
+      <p begin="01:59.148" end="02:03.237" ttm:agent="v1">At three, that bullshit kick in, in thirty, you'll feel your best</p>
+
+      <p begin="02:03.237" end="02:07.254" ttm:agent="v1">I turned my whole spot to crucial, it's crucial, the way I left (It's lit)</p>
+
+      <p begin="02:07.254" end="02:11.357" ttm:agent="v1">Upstairs is like a low, my new ******* be the best (Let's go)</p>
+
+      <p begin="02:11.357" end="02:13.788" ttm:agent="v1">I'm lookin' at her, when her startin' to turn into you (Her)</p>
+
+      <p begin="02:13.788" end="02:16.361" ttm:agent="v1">Now you startin' to **** up my mind, is it you, is it her?</p>
+
+      <p begin="02:16.361" end="02:17.940" ttm:agent="v1">We brought Booby Trap to the 'burbs</p>
+
+      <p begin="02:17.940" end="02:20.473" ttm:agent="v1">F29 is my address, in case you ain't heard</p>
+
+      <p begin="02:20.473" end="02:22.038" ttm:agent="v1">It's floodin' upstairs, it's a leak</p>
+
+      <p begin="02:22.038" end="02:23.538" ttm:agent="v1">I don't make it squeak, make it squirt</p>
+
+      <p begin="02:23.461" end="02:25.967" ttm:agent="v1">I make this shit beat, bon appétit when I feast</p>
+
+      <p begin="02:25.967" end="02:28.796" ttm:agent="v1">Slippin' and slide through the streets, it takes a finesse</p>
+
+      <p begin="02:28.796" end="02:31.538" ttm:agent="v1">Especially in this Cabriolet Jeep, engine make it hard to creep</p>
+
+      <p begin="02:31.538" end="02:34.072" ttm:agent="v1">Just leave the gate open, through the side door, I'ma creep (Ooh, ooh)</p>
+
+      <p begin="02:34.072" end="02:36.649" ttm:agent="v1">Are you 'bout it? Too real, and are the kids downstairs asleep?</p>
+
+      <p begin="02:36.649" end="02:39.280" ttm:agent="v1">And are you upstairs by yourself? A minute from there</p>
+
+      <p begin="02:39.280" end="02:44.017" ttm:agent="v1">Is there some room for me? Baby, do tell, do tell</p>
+
+      <p begin="02:44.017" end="02:45.517" ttm:agent="v1"/>
+
+      <p begin="02:44.477" end="02:46.396" ttm:agent="v1">Tell me, is she still up? (Up)</p>
+
+      <p begin="02:46.396" end="02:48.405" ttm:agent="v1">It's five A.M. and I'm drunk right now</p>
+
+      <p begin="02:48.405" end="02:50.485" ttm:agent="v1">Tell me, can we still ****? (**** that shit)</p>
+
+      <p begin="02:50.485" end="02:52.426" ttm:agent="v1">One of one, I'm in the zone right now</p>
+
+      <p begin="02:52.426" end="02:54.568" ttm:agent="v1">Tell me, am I still? (Mmm)</p>
+
+      <p begin="02:54.568" end="02:56.536" ttm:agent="v1">Tellin' you just how I feel right now</p>
+
+      <p begin="02:56.536" end="02:59.247" ttm:agent="v1">You said it's just the drugs and I know</p>
+
+      <p begin="02:59.247" end="03:04.743" ttm:agent="v1">I know, I know, I know, I know, I know, I know</p>
+
+      <p begin="03:04.743" end="03:08.464" ttm:agent="v1">I lied too, way before (Let's go), before</p>
+
+      <p begin="03:08.464" end="03:13.925" ttm:agent="v1">Before I had you right inside my arms</p>
+
+      <p begin="03:13.925" end="03:17.925" ttm:agent="v1">But then again, I could be drunk</p>
+
+    </div>
+
+  </body>
+
+</tt>
+

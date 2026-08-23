@@ -1,75 +1,150 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>1-800-hot-n-fun</ttm:title>
-      <ttm:agent type="person" xml:id="v1">LE SSERAFIM</ttm:agent>
-      <ttm:item type="album">CRAZY</ttm:item>
-      <ttm:item type="spotify_id">7vjfnsnDXZGK4PSq54ISjc</ttm:item>
-      <itunes:duration>02:53.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:04.380" end="00:12.380" ttm:agent="v1">Really, I'm honestly just sad about my shoes</p>
-      <p begin="00:12.840" end="00:19.160" ttm:agent="v1">Yeah, I like to dance when I party</p>
-      <p begin="00:19.160" end="00:21.130" ttm:agent="v1">I like to kiss everybody</p>
-      <p begin="00:21.130" end="00:22.760" ttm:agent="v1">Where the heck is Saki?</p>
-      <p begin="00:22.760" end="00:24.720" ttm:agent="v1">She's waiting down in the lobby</p>
-      <p begin="00:24.720" end="00:29.840" ttm:agent="v1">I'm tryna break it down, yeah, baby, get her, turn up the party</p>
-      <p begin="00:29.840" end="00:33.160" ttm:agent="v1">I like to dance when I party</p>
-      <p begin="00:33.160" end="00:35.210" ttm:agent="v1">I like to kiss everybody</p>
-      <p begin="00:35.210" end="00:36.840" ttm:agent="v1">Where the heck is Saki?</p>
-      <p begin="00:36.840" end="00:38.730" ttm:agent="v1">She's waiting down in the lobby</p>
-      <p begin="00:38.730" end="00:43.160" ttm:agent="v1">I'm tryna break it down, yeah, baby, get her, turn up the party</p>
-      <p begin="00:43.160" end="00:46.920" ttm:agent="v1" itunes:key="role" itunes:value="background">Run it back, yeah, I like this track (yeah), drop it, drop a bag</p>
-      <p begin="00:46.920" end="00:50.730" ttm:agent="v1">Louis V bag round my neck, oh, yeah, 'cause I'm so classy</p>
-      <p begin="00:50.730" end="00:53.800" ttm:agent="v1">I still break it down though, I bet you can't get past me</p>
-      <p begin="00:53.800" end="00:57.400" ttm:agent="v1">Hot babe, sweet angel, I'm so cute, I'm so nerdy, so sassy</p>
-      <p begin="00:57.400" end="01:00.880" ttm:agent="v1">Ooh, shit, oh, my god, DJ, play my favorite song</p>
-      <p begin="01:00.880" end="01:04.970" ttm:agent="v1">Raise the roof, let the dogs out, play something by Beyonce</p>
-      <p begin="01:04.970" end="01:08.240" ttm:agent="v1">I'm not tryna leave until they kick us to the road</p>
-      <p begin="01:08.240" end="01:12.170" ttm:agent="v1">But if they do, it's cool though, got an address in my phone</p>
-      <p begin="01:12.170" end="01:15.690" ttm:agent="v1">I like to dance when I party</p>
-      <p begin="01:15.690" end="01:17.520" ttm:agent="v1">I like to kiss everybody</p>
-      <p begin="01:17.520" end="01:19.240" ttm:agent="v1">Where the heck is Saki?</p>
-      <p begin="01:19.240" end="01:21.080" ttm:agent="v1">She's waiting down in the lobby</p>
-      <p begin="01:21.080" end="01:26.520" ttm:agent="v1">I'm tryna break it down, yeah, baby, get her, turn up the party</p>
-      <p begin="01:26.520" end="01:29.800" ttm:agent="v1">I like to dance when I party</p>
-      <p begin="01:29.800" end="01:31.640" ttm:agent="v1">I like to kiss everybody</p>
-      <p begin="01:31.640" end="01:33.160" ttm:agent="v1">Where the heck is Saki?</p>
-      <p begin="01:33.160" end="01:35.210" ttm:agent="v1">She's waiting down in the lobby</p>
-      <p begin="01:35.210" end="01:39.690" ttm:agent="v1">I'm tryna break it down, yeah, baby, get her, turn up the party</p>
-      <p begin="01:39.690" end="01:43.080" ttm:agent="v1">1-800-hot-n-fun, that's my number, hit my line</p>
-      <p begin="01:43.080" end="01:46.640" ttm:agent="v1">1-800-hot-n-fun, hear my ringtone every time</p>
-      <p begin="01:46.640" end="01:50.250" ttm:agent="v1">1-1-800-hot-n-fun, that's my number, hit my line</p>
-      <p begin="01:50.250" end="01:54.090" ttm:agent="v1">1-800-hot-n-fun, hear my ringtone every time</p>
-      <p begin="01:54.090" end="01:57.290" ttm:agent="v1">Ooh, shit, oh, my god, DJ, play my favorite song</p>
-      <p begin="01:57.290" end="02:01.290" ttm:agent="v1">Raise the roof, let the dogs out, play something by Beyonce</p>
-      <p begin="02:01.290" end="02:04.230" ttm:agent="v1">I'm not tryna leave until they kick us to the road</p>
-      <p begin="02:04.230" end="02:08.530" ttm:agent="v1">But if they do, it's cool though, got an address in my phone</p>
-      <p begin="02:08.530" end="02:11.860" ttm:agent="v1">I like to dance when I party</p>
-      <p begin="02:11.860" end="02:13.970" ttm:agent="v1">I like to kiss everybody</p>
-      <p begin="02:13.970" end="02:15.660" ttm:agent="v1">Where the heck is Saki?</p>
-      <p begin="02:15.660" end="02:17.580" ttm:agent="v1">She's waiting down in the lobby</p>
-      <p begin="02:17.580" end="02:22.740" ttm:agent="v1">I'm tryna break it down, yeah, baby, get her, turn up the party</p>
-      <p begin="02:22.740" end="02:26.170" ttm:agent="v1">I like to dance when I party</p>
-      <p begin="02:26.170" end="02:28.050" ttm:agent="v1">I like to kiss everybody</p>
-      <p begin="02:28.050" end="02:29.810" ttm:agent="v1">Where the heck is Saki?</p>
-      <p begin="02:29.810" end="02:31.610" ttm:agent="v1">She's waiting down in the lobby</p>
-      <p begin="02:31.610" end="02:35.890" ttm:agent="v1">I'm tryna break it down, yeah, baby, get her, turn up the party</p>
-      <p begin="02:35.890" end="02:39.620" ttm:agent="v1">1-800-hot-n-fun, that's my number, hit my line</p>
-      <p begin="02:39.620" end="02:43.250" ttm:agent="v1">1-800-hot-n-fun, hear my ringtone every time</p>
-      <p begin="02:43.250" end="02:46.410" ttm:agent="v1">1-800-hot-n-fun, that's my number, hit my line</p>
-      <p begin="02:46.410" end="02:50.400" ttm:agent="v1">1-800-hot-n-fun, hear my ringtone every time</p>
-      <p begin="02:50.400" end="02:54.400" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>1-800-hot-n-fun</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">LE SSERAFIM</ttm:agent>
+
+      <ttm:item type="album">CRAZY</ttm:item>
+
+      <ttm:item type="spotify_id">7vjfnsnDXZGK4PSq54ISjc</ttm:item>
+
+      <itunes:duration>02:53.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:04.380" end="00:12.380" ttm:agent="v1">Really, I'm honestly just sad about my shoes</p>
+
+      <p begin="00:12.840" end="00:19.160" ttm:agent="v1">Yeah, I like to dance when I party</p>
+
+      <p begin="00:19.160" end="00:21.130" ttm:agent="v1">I like to kiss everybody</p>
+
+      <p begin="00:21.130" end="00:22.760" ttm:agent="v1">Where the heck is Saki?</p>
+
+      <p begin="00:22.760" end="00:24.720" ttm:agent="v1">She's waiting down in the lobby</p>
+
+      <p begin="00:24.720" end="00:29.840" ttm:agent="v1">I'm tryna break it down, yeah, baby, get her, turn up the party</p>
+
+      <p begin="00:29.840" end="00:33.160" ttm:agent="v1">I like to dance when I party</p>
+
+      <p begin="00:33.160" end="00:35.210" ttm:agent="v1">I like to kiss everybody</p>
+
+      <p begin="00:35.210" end="00:36.840" ttm:agent="v1">Where the heck is Saki?</p>
+
+      <p begin="00:36.840" end="00:38.730" ttm:agent="v1">She's waiting down in the lobby</p>
+
+      <p begin="00:38.730" end="00:43.160" ttm:agent="v1">I'm tryna break it down, yeah, baby, get her, turn up the party</p>
+
+      <p begin="00:43.160" end="00:46.920" ttm:agent="v1">Run it back, yeah, I like this track (yeah), drop it, drop a bag</p>
+
+      <p begin="00:46.920" end="00:50.730" ttm:agent="v1">Louis V bag round my neck, oh, yeah, 'cause I'm so classy</p>
+
+      <p begin="00:50.730" end="00:53.800" ttm:agent="v1">I still break it down though, I bet you can't get past me</p>
+
+      <p begin="00:53.800" end="00:57.400" ttm:agent="v1">Hot babe, sweet angel, I'm so cute, I'm so nerdy, so sassy</p>
+
+      <p begin="00:57.400" end="01:00.880" ttm:agent="v1">Ooh, shit, oh, my god, DJ, play my favorite song</p>
+
+      <p begin="01:00.880" end="01:04.970" ttm:agent="v1">Raise the roof, let the dogs out, play something by Beyonce</p>
+
+      <p begin="01:04.970" end="01:08.240" ttm:agent="v1">I'm not tryna leave until they kick us to the road</p>
+
+      <p begin="01:08.240" end="01:12.170" ttm:agent="v1">But if they do, it's cool though, got an address in my phone</p>
+
+      <p begin="01:12.170" end="01:15.690" ttm:agent="v1">I like to dance when I party</p>
+
+      <p begin="01:15.690" end="01:17.520" ttm:agent="v1">I like to kiss everybody</p>
+
+      <p begin="01:17.520" end="01:19.240" ttm:agent="v1">Where the heck is Saki?</p>
+
+      <p begin="01:19.240" end="01:21.080" ttm:agent="v1">She's waiting down in the lobby</p>
+
+      <p begin="01:21.080" end="01:26.520" ttm:agent="v1">I'm tryna break it down, yeah, baby, get her, turn up the party</p>
+
+      <p begin="01:26.520" end="01:29.800" ttm:agent="v1">I like to dance when I party</p>
+
+      <p begin="01:29.800" end="01:31.640" ttm:agent="v1">I like to kiss everybody</p>
+
+      <p begin="01:31.640" end="01:33.160" ttm:agent="v1">Where the heck is Saki?</p>
+
+      <p begin="01:33.160" end="01:35.210" ttm:agent="v1">She's waiting down in the lobby</p>
+
+      <p begin="01:35.210" end="01:39.690" ttm:agent="v1">I'm tryna break it down, yeah, baby, get her, turn up the party</p>
+
+      <p begin="01:39.690" end="01:43.080" ttm:agent="v1">1-800-hot-n-fun, that's my number, hit my line</p>
+
+      <p begin="01:43.080" end="01:46.640" ttm:agent="v1">1-800-hot-n-fun, hear my ringtone every time</p>
+
+      <p begin="01:46.640" end="01:50.250" ttm:agent="v1">1-1-800-hot-n-fun, that's my number, hit my line</p>
+
+      <p begin="01:50.250" end="01:54.090" ttm:agent="v1">1-800-hot-n-fun, hear my ringtone every time</p>
+
+      <p begin="01:54.090" end="01:57.290" ttm:agent="v1">Ooh, shit, oh, my god, DJ, play my favorite song</p>
+
+      <p begin="01:57.290" end="02:01.290" ttm:agent="v1">Raise the roof, let the dogs out, play something by Beyonce</p>
+
+      <p begin="02:01.290" end="02:04.230" ttm:agent="v1">I'm not tryna leave until they kick us to the road</p>
+
+      <p begin="02:04.230" end="02:08.530" ttm:agent="v1">But if they do, it's cool though, got an address in my phone</p>
+
+      <p begin="02:08.530" end="02:11.860" ttm:agent="v1">I like to dance when I party</p>
+
+      <p begin="02:11.860" end="02:13.970" ttm:agent="v1">I like to kiss everybody</p>
+
+      <p begin="02:13.970" end="02:15.660" ttm:agent="v1">Where the heck is Saki?</p>
+
+      <p begin="02:15.660" end="02:17.580" ttm:agent="v1">She's waiting down in the lobby</p>
+
+      <p begin="02:17.580" end="02:22.740" ttm:agent="v1">I'm tryna break it down, yeah, baby, get her, turn up the party</p>
+
+      <p begin="02:22.740" end="02:26.170" ttm:agent="v1">I like to dance when I party</p>
+
+      <p begin="02:26.170" end="02:28.050" ttm:agent="v1">I like to kiss everybody</p>
+
+      <p begin="02:28.050" end="02:29.810" ttm:agent="v1">Where the heck is Saki?</p>
+
+      <p begin="02:29.810" end="02:31.610" ttm:agent="v1">She's waiting down in the lobby</p>
+
+      <p begin="02:31.610" end="02:35.890" ttm:agent="v1">I'm tryna break it down, yeah, baby, get her, turn up the party</p>
+
+      <p begin="02:35.890" end="02:39.620" ttm:agent="v1">1-800-hot-n-fun, that's my number, hit my line</p>
+
+      <p begin="02:39.620" end="02:43.250" ttm:agent="v1">1-800-hot-n-fun, hear my ringtone every time</p>
+
+      <p begin="02:43.250" end="02:46.410" ttm:agent="v1">1-800-hot-n-fun, that's my number, hit my line</p>
+
+      <p begin="02:46.410" end="02:50.400" ttm:agent="v1">1-800-hot-n-fun, hear my ringtone every time</p>
+
+      <p begin="02:50.400" end="02:54.400" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

@@ -1,65 +1,130 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>Righteous</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Mo Beats</ttm:agent>
-      <ttm:item type="album">Righteous</ttm:item>
-      <ttm:item type="spotify_id">1xZCK1MXhE4EkHGYENzP9U</ttm:item>
-      <itunes:duration>02:57.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:21.180" end="00:23.320" ttm:agent="v1">Yeah</p>
-      <p begin="00:23.320" end="00:26.150" ttm:agent="v1" itunes:key="role" itunes:value="background">Big wheels on a new ride, this a Trackhawk (Skrrt)</p>
-      <p begin="00:26.150" end="00:28.860" ttm:agent="v1" itunes:key="role" itunes:value="background">If a nigga play with my guys, let the Mac talk (Beep)</p>
-      <p begin="00:28.860" end="00:31.910" ttm:agent="v1">Thumbin', thumbin', thumbin' all these bands in the trap spot</p>
-      <p begin="00:31.910" end="00:34.650" ttm:agent="v1">Like she with me, yeah, good brain on a bad broad</p>
-      <p begin="00:34.650" end="00:37.950" ttm:agent="v1">Few YSL, I bought 'em, send 'em with another nigga</p>
-      <p begin="00:37.950" end="00:40.730" ttm:agent="v1" itunes:key="role" itunes:value="background">Balenciaga, it costs just two bands just to fuckin' kick it (Woo)</p>
-      <p begin="00:40.730" end="00:43.560" ttm:agent="v1" itunes:key="role" itunes:value="background">Bought her Chanel, I keep it player, say she like my pimpin' (Yeah, huh?)</p>
-      <p begin="00:43.560" end="00:46.790" ttm:agent="v1"/>
-      <p begin="00:46.790" end="00:49.550" ttm:agent="v1" itunes:key="role" itunes:value="background">Thick shorty pull to the house, go and shake sum' (Come on)</p>
-      <p begin="00:49.550" end="00:52.490" ttm:agent="v1">'Member tellin' my mama I need some money, she say &quot;Make sum'&quot;</p>
-      <p begin="00:52.490" end="00:55.330" ttm:agent="v1">Chop' loaded, smokin' on that earth, I'ma quake sum'</p>
-      <p begin="00:55.330" end="00:58.240" ttm:agent="v1" itunes:key="role" itunes:value="background">I hit yo' broad off a perc like a baseball (Yeah)</p>
-      <p begin="00:58.240" end="01:00.880" ttm:agent="v1">Fly soulja, know to keep a chopper in my whip</p>
-      <p begin="01:00.880" end="01:03.750" ttm:agent="v1">You can't spend it when you gonе, hunnid thousand on the wrist</p>
-      <p begin="01:03.750" end="01:06.630" ttm:agent="v1">Hunnid thousand on ya' head, hunnid thousand on my bitch</p>
-      <p begin="01:06.630" end="01:10.340" ttm:agent="v1" itunes:key="role" itunes:value="background">And I ran up all the racks, pourеd up on the Tris (Blatt, blatt)</p>
-      <p begin="01:10.340" end="01:13.290" ttm:agent="v1">They say life don't last forever, yeah, I hear that</p>
-      <p begin="01:13.290" end="01:15.360" ttm:agent="v1">Know I'm ballin' till I make it to heaven</p>
-      <p begin="01:15.360" end="01:17.950" ttm:agent="v1" itunes:key="role" itunes:value="background">Know I rock out (Rock), I rock out like I'm heavy metal (Rock)</p>
-      <p begin="01:17.950" end="01:21.770" ttm:agent="v1" itunes:key="role" itunes:value="background">All these chains on my chest, they can change the weather (Blatt, blatt, blatt)</p>
-      <p begin="01:21.770" end="01:24.330" ttm:agent="v1" itunes:key="role" itunes:value="background">Hunnid-hunnid bands on my AP (AP, blatt)</p>
-      <p begin="01:24.330" end="01:27.510" ttm:agent="v1" itunes:key="role" itunes:value="background">And your broad tryna rape me (Yeah)</p>
-      <p begin="01:27.510" end="01:30.410" ttm:agent="v1">I'm just tryna put kids inside a bitch that look like Kylie Jenner</p>
-      <p begin="01:30.410" end="01:33.240" ttm:agent="v1">I come from the mud, from the sand, had no pockets, pissin'</p>
-      <p begin="01:33.240" end="01:36.160" ttm:agent="v1" itunes:key="role" itunes:value="background">Big wheels on a new ride, this a Trackhawk (Skrrt)</p>
-      <p begin="01:36.160" end="01:39.330" ttm:agent="v1" itunes:key="role" itunes:value="background">If a nigga play with my guys, let the Mac talk (Beep)</p>
-      <p begin="01:39.330" end="01:42.020" ttm:agent="v1">Thumbin', thumbin', thumbin' all these bands in the trap spot</p>
-      <p begin="01:42.020" end="01:45.130" ttm:agent="v1" itunes:key="role" itunes:value="background">Like she with me (Yeah), good brain on a bad broad</p>
-      <p begin="01:45.130" end="01:48.210" ttm:agent="v1">Few YSL, I bought 'em, send 'em with another nigga</p>
-      <p begin="01:48.210" end="01:50.780" ttm:agent="v1" itunes:key="role" itunes:value="background">Balenciaga, it costs just two bands just to fuckin' kick it (Woo)</p>
-      <p begin="01:50.780" end="01:54.620" ttm:agent="v1" itunes:key="role" itunes:value="background">Bought her Chanel, I keep it player, say she like my pimpin' (Yeah, huh?)</p>
-      <p begin="01:54.620" end="01:56.540" ttm:agent="v1">Yeah</p>
-      <p begin="01:56.540" end="02:04.540" ttm:agent="v1"/>
-      <p begin="02:19.940" end="02:23.040" ttm:agent="v1" itunes:key="role" itunes:value="background">Big wheels on a new ride, this a Trackhawk (Skrrt)</p>
-      <p begin="02:23.040" end="02:26.080" ttm:agent="v1" itunes:key="role" itunes:value="background">I-If a nigga play with my guys, let the Mac talk (Beep)</p>
-      <p begin="02:26.080" end="02:28.960" ttm:agent="v1">Thumbin', thumbin', thumbin' all these bands in the trap spot</p>
-      <p begin="02:28.960" end="02:31.990" ttm:agent="v1" itunes:key="role" itunes:value="background">Like she with me (Yeah), good brain on a bad broad</p>
-      <p begin="02:31.990" end="02:34.740" ttm:agent="v1">Few YSL, I bought 'em, send 'em with another nigga</p>
-      <p begin="02:34.740" end="02:37.700" ttm:agent="v1" itunes:key="role" itunes:value="background">Balenciaga, it costs just two bands just to fuckin' kick it (Woo)</p>
-      <p begin="02:37.700" end="02:43.570" ttm:agent="v1" itunes:key="role" itunes:value="background">Bought her Chanel, I keep it player, say she like my pimpin' (Yeah, huh?)</p>
-      <p begin="02:43.570" end="02:47.570" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>Righteous</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Mo Beats</ttm:agent>
+
+      <ttm:item type="album">Righteous</ttm:item>
+
+      <ttm:item type="spotify_id">1xZCK1MXhE4EkHGYENzP9U</ttm:item>
+
+      <itunes:duration>02:57.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:21.180" end="00:23.320" ttm:agent="v1">Yeah</p>
+
+      <p begin="00:23.320" end="00:26.150" ttm:agent="v1">Big wheels on a new ride, this a Trackhawk (Skrrt)</p>
+
+      <p begin="00:26.150" end="00:28.860" ttm:agent="v1">If a nigga play with my guys, let the Mac talk (Beep)</p>
+
+      <p begin="00:28.860" end="00:31.910" ttm:agent="v1">Thumbin', thumbin', thumbin' all these bands in the trap spot</p>
+
+      <p begin="00:31.910" end="00:34.650" ttm:agent="v1">Like she with me, yeah, good brain on a bad broad</p>
+
+      <p begin="00:34.650" end="00:37.950" ttm:agent="v1">Few YSL, I bought 'em, send 'em with another nigga</p>
+
+      <p begin="00:37.950" end="00:40.730" ttm:agent="v1">Balenciaga, it costs just two bands just to fuckin' kick it (Woo)</p>
+
+      <p begin="00:40.730" end="00:43.560" ttm:agent="v1">Bought her Chanel, I keep it player, say she like my pimpin' (Yeah, huh?)</p>
+
+      <p begin="00:43.560" end="00:46.790" ttm:agent="v1"/>
+
+      <p begin="00:46.790" end="00:49.550" ttm:agent="v1">Thick shorty pull to the house, go and shake sum' (Come on)</p>
+
+      <p begin="00:49.550" end="00:52.490" ttm:agent="v1">'Member tellin' my mama I need some money, she say &quot;Make sum'&quot;</p>
+
+      <p begin="00:52.490" end="00:55.330" ttm:agent="v1">Chop' loaded, smokin' on that earth, I'ma quake sum'</p>
+
+      <p begin="00:55.330" end="00:58.240" ttm:agent="v1">I hit yo' broad off a perc like a baseball (Yeah)</p>
+
+      <p begin="00:58.240" end="01:00.880" ttm:agent="v1">Fly soulja, know to keep a chopper in my whip</p>
+
+      <p begin="01:00.880" end="01:03.750" ttm:agent="v1">You can't spend it when you gonе, hunnid thousand on the wrist</p>
+
+      <p begin="01:03.750" end="01:06.630" ttm:agent="v1">Hunnid thousand on ya' head, hunnid thousand on my bitch</p>
+
+      <p begin="01:06.630" end="01:10.340" ttm:agent="v1">And I ran up all the racks, pourеd up on the Tris (Blatt, blatt)</p>
+
+      <p begin="01:10.340" end="01:13.290" ttm:agent="v1">They say life don't last forever, yeah, I hear that</p>
+
+      <p begin="01:13.290" end="01:15.360" ttm:agent="v1">Know I'm ballin' till I make it to heaven</p>
+
+      <p begin="01:15.360" end="01:17.950" ttm:agent="v1">Know I rock out (Rock), I rock out like I'm heavy metal (Rock)</p>
+
+      <p begin="01:17.950" end="01:21.770" ttm:agent="v1">All these chains on my chest, they can change the weather (Blatt, blatt, blatt)</p>
+
+      <p begin="01:21.770" end="01:24.330" ttm:agent="v1">Hunnid-hunnid bands on my AP (AP, blatt)</p>
+
+      <p begin="01:24.330" end="01:27.510" ttm:agent="v1">And your broad tryna rape me (Yeah)</p>
+
+      <p begin="01:27.510" end="01:30.410" ttm:agent="v1">I'm just tryna put kids inside a bitch that look like Kylie Jenner</p>
+
+      <p begin="01:30.410" end="01:33.240" ttm:agent="v1">I come from the mud, from the sand, had no pockets, pissin'</p>
+
+      <p begin="01:33.240" end="01:36.160" ttm:agent="v1">Big wheels on a new ride, this a Trackhawk (Skrrt)</p>
+
+      <p begin="01:36.160" end="01:39.330" ttm:agent="v1">If a nigga play with my guys, let the Mac talk (Beep)</p>
+
+      <p begin="01:39.330" end="01:42.020" ttm:agent="v1">Thumbin', thumbin', thumbin' all these bands in the trap spot</p>
+
+      <p begin="01:42.020" end="01:45.130" ttm:agent="v1">Like she with me (Yeah), good brain on a bad broad</p>
+
+      <p begin="01:45.130" end="01:48.210" ttm:agent="v1">Few YSL, I bought 'em, send 'em with another nigga</p>
+
+      <p begin="01:48.210" end="01:50.780" ttm:agent="v1">Balenciaga, it costs just two bands just to fuckin' kick it (Woo)</p>
+
+      <p begin="01:50.780" end="01:54.620" ttm:agent="v1">Bought her Chanel, I keep it player, say she like my pimpin' (Yeah, huh?)</p>
+
+      <p begin="01:54.620" end="01:56.540" ttm:agent="v1">Yeah</p>
+
+      <p begin="01:56.540" end="02:04.540" ttm:agent="v1"/>
+
+      <p begin="02:19.940" end="02:23.040" ttm:agent="v1">Big wheels on a new ride, this a Trackhawk (Skrrt)</p>
+
+      <p begin="02:23.040" end="02:26.080" ttm:agent="v1">I-If a nigga play with my guys, let the Mac talk (Beep)</p>
+
+      <p begin="02:26.080" end="02:28.960" ttm:agent="v1">Thumbin', thumbin', thumbin' all these bands in the trap spot</p>
+
+      <p begin="02:28.960" end="02:31.990" ttm:agent="v1">Like she with me (Yeah), good brain on a bad broad</p>
+
+      <p begin="02:31.990" end="02:34.740" ttm:agent="v1">Few YSL, I bought 'em, send 'em with another nigga</p>
+
+      <p begin="02:34.740" end="02:37.700" ttm:agent="v1">Balenciaga, it costs just two bands just to fuckin' kick it (Woo)</p>
+
+      <p begin="02:37.700" end="02:43.570" ttm:agent="v1">Bought her Chanel, I keep it player, say she like my pimpin' (Yeah, huh?)</p>
+
+      <p begin="02:43.570" end="02:47.570" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

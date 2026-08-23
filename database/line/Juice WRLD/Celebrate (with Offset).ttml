@@ -1,89 +1,178 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>Celebrate (with Offset)</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Juice WRLD</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">Offset</ttm:agent>
-      <ttm:item type="album">The Party Never Ends</ttm:item>
-      <ttm:item type="spotify_id">1PJH81OEIhWwT6WKTpKRlv</ttm:item>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.549" end="00:07.102" ttm:agent="v1">Juice WRLD, you know I'm here 'cause my ex is a ****in' b***h, you know what I'm sayin'?</p>
-      <p begin="00:07.102" end="00:09.394" ttm:agent="v1">I just put some money on his head</p>
-      <p begin="00:09.394" end="00:13.298" ttm:agent="v1">I can't say his name 'cause he gon' really get brrr, brrr</p>
-      <p begin="00:13.298" end="00:16.481" ttm:agent="v1">I've been trying to numb all them pain I've been holding in since a jit</p>
-      <p begin="00:16.481" end="00:19.607" ttm:agent="v1">I mix the Rick with Raf and the RAF with the Rick</p>
-      <p begin="00:19.607" end="00:22.178" ttm:agent="v1">My first time got stabbed in the heart as a kid</p>
-      <p begin="00:22.178" end="00:25.407" ttm:agent="v1">It was that day I found out my friend was dead</p>
-      <p begin="00:25.407" end="00:28.179" ttm:agent="v1">Same day I jumped head first in a pill bottle full of meds</p>
-      <p begin="00:28.179" end="00:30.345" ttm:agent="v1">Sorrow symphonies, yeah, I invented that</p>
-      <p begin="00:30.345" end="00:31.845" ttm:agent="v1">Look at that watch on my wrist</p>
-      <p begin="00:31.607" end="00:33.107" ttm:agent="v1">Paid off another pocket</p>
-      <p begin="00:32.824" end="00:34.664" ttm:agent="v1">Paid two hundred and ten for that, yeah</p>
-      <p begin="00:34.664" end="00:37.238" ttm:agent="v1">Taking back to the good old days, nowadays, I'm over-stressed</p>
-      <p begin="00:37.238" end="00:40.616" ttm:agent="v1">When I say good old days, I'm talking 'bout He-Man and the little ThunderCats</p>
-      <p begin="00:40.616" end="00:44.466" ttm:agent="v1">Wow, I've been down, and Devil been on the prowl</p>
-      <p begin="00:44.466" end="00:47.528" ttm:agent="v1">He loves when I frown, make him and his demons smile</p>
-      <p begin="00:47.528" end="00:49.028" ttm:agent="v1">On me they dog pile</p>
-      <p begin="00:48.724" end="00:50.301" ttm:agent="v1">I done got way too involved now</p>
-      <p begin="00:50.301" end="00:53.471" ttm:agent="v1">And when they play with me, touching me playfully, I'm finna burn this all down</p>
-      <p begin="00:53.471" end="00:56.633" ttm:agent="v1">Bring all guns out, we going all out</p>
-      <p begin="00:56.633" end="00:59.735" ttm:agent="v1">We up, and he enemies, got them fall down</p>
-      <p begin="00:59.735" end="01:02.892" ttm:agent="v1">Please, ****, please take a chill pill, calm down</p>
-      <p begin="01:02.892" end="01:10.064" ttm:agent="v1">With some **** that be down to kill, kill, and blackout</p>
-      <p begin="01:10.064" end="01:12.805" ttm:agent="v1" itunes:key="role" itunes:value="background">I just put some money on his head (Money on his)</p>
-      <p begin="01:12.805" end="01:15.732" ttm:agent="v1" itunes:key="role" itunes:value="background">I can't say his name 'cause he gon' really get brrr, brrr (Brrr)</p>
-      <p begin="01:15.732" end="01:19.483" ttm:agent="v1">I've been trying to numb all them pain I've been holding since a jit</p>
-      <p begin="01:19.483" end="01:22.627" ttm:agent="v1" itunes:key="role" itunes:value="background">I mix the Rick with Raf and the RAF with the Rick (The RAF with the Rick)</p>
-      <p begin="01:22.627" end="01:25.802" ttm:agent="v1" itunes:key="role" itunes:value="background">My first time, got stabbed in the heart as a kid (Hey)</p>
-      <p begin="01:25.802" end="01:28.449" ttm:agent="v1" itunes:key="role" itunes:value="background">It was that day I found out my friend was dead (RIP)</p>
-      <p begin="01:28.449" end="01:31.764" ttm:agent="v1" itunes:key="role" itunes:value="background">Same day I jumped head first in a pill bottle full of meds (Meds)</p>
-      <p begin="01:31.764" end="01:35.484" ttm:agent="v1">On my dad, on my dad, on my mama, these **** play, I'm going Osama</p>
-      <p begin="01:35.484" end="01:36.984" ttm:agent="v1">Bin Laden</p>
-      <p begin="01:35.792" end="01:37.292" ttm:agent="v1">I'm having trauma spending my commas, I've been paying for the dead, I'm a sponsor</p>
-      <p begin="01:37.051" end="01:40.052" ttm:agent="v1">Got trauma, I paid for that</p>
-      <p begin="01:40.052" end="01:42.545" ttm:agent="v1">Two Percocets to the head, we've been looking, trying to haunt her</p>
-      <p begin="01:42.545" end="01:45.174" ttm:agent="v1">We poppin' drugs, it's making it worse, put them in a hearse</p>
-      <p begin="01:45.174" end="01:46.751" ttm:agent="v1">End of the month, they get killed on the first</p>
-      <p begin="01:46.751" end="01:48.351" ttm:agent="v1" itunes:key="role" itunes:value="background">Walkin' 'em down, he a demon, he cursed (Walked down)</p>
-      <p begin="01:48.351" end="01:51.880" ttm:agent="v1" itunes:key="role" itunes:value="background">Pull out the wrist work, take off your b***h skirt, I do not fear anybody on Earth (Why?)</p>
-      <p begin="01:51.880" end="01:53.380" ttm:agent="v1">Watching my back, I'm alert</p>
-      <p begin="01:53.082" end="01:54.663" ttm:agent="v1" itunes:key="role" itunes:value="background">I got pills from the b***h, she a nurse (Nurse)</p>
-      <p begin="01:54.663" end="01:56.163" ttm:agent="v1">I got water, do you want to surf?</p>
-      <p begin="01:56.127" end="01:57.627" ttm:agent="v1">Do you want to surf?</p>
-      <p begin="01:56.231" end="01:57.829" ttm:agent="v1">I'm on the edge, ****, don't push me</p>
-      <p begin="01:57.829" end="01:59.329" ttm:agent="v1">Poppin' the meds, it give me a cushion</p>
-      <p begin="01:59.201" end="02:00.701" ttm:agent="v1">Let's go</p>
-      <p begin="01:59.397" end="02:00.986" ttm:agent="v1">Everybody fed, I'm handing out blessings</p>
-      <p begin="02:00.986" end="02:02.486" ttm:agent="v1">Nobody scared, put switches on weapons</p>
-      <p begin="02:02.390" end="02:03.890" ttm:agent="v1">Nobody</p>
-      <p begin="02:02.584" end="02:04.129" ttm:agent="v1">All in my head, I'm thinking 'bout</p>
-      <p begin="02:04.129" end="02:05.689" ttm:agent="v1" itunes:key="role" itunes:value="background">**** tryna X me and cut me out (Cut me out)</p>
-      <p begin="02:05.689" end="02:07.287" ttm:agent="v1" itunes:key="role" itunes:value="background">Feds did a sweep, and we jumping out (Jumping out)</p>
-      <p begin="02:07.287" end="02:08.862" ttm:agent="v1" itunes:key="role" itunes:value="background">First he get beat, then we stomp him out (Let's go)</p>
-      <p begin="02:08.862" end="02:10.362" ttm:agent="v1">Taking the WRLD</p>
-      <p begin="02:10.045" end="02:12.034" ttm:agent="v1">Diamonds for girls but bought my mama some pearls</p>
-      <p begin="02:12.034" end="02:13.534" ttm:agent="v1" itunes:key="role" itunes:value="background">That's my world (Mama)</p>
-      <p begin="02:13.208" end="02:19.908" ttm:agent="v1" itunes:key="role" itunes:value="background">I put my babies in Birkins like what was the purpose 'cause they are my girls (My babies)</p>
-      <p begin="02:19.908" end="02:25.867" ttm:agent="v1">**** around and put some money in the street</p>
-      <p begin="02:25.867" end="02:28.595" ttm:agent="v1">I just put some money on his head</p>
-      <p begin="02:28.595" end="02:31.853" ttm:agent="v1" itunes:key="role" itunes:value="background">I can't say his name 'cause he gon' really get brrr, brrr (Brrr)</p>
-      <p begin="02:31.853" end="02:35.584" ttm:agent="v1">I've been trying to numb all the pain I've been holding since a jit</p>
-      <p begin="02:35.584" end="02:37.518" ttm:agent="v1">I mix the Rick with Raf and the RAF with the Rick</p>
-      <p begin="02:37.518" end="02:39.018" ttm:agent="v1">The Raf with the Rick, the Rick with the RAF</p>
-      <p begin="02:38.710" end="02:41.044" ttm:agent="v1" itunes:key="role" itunes:value="background">My first time, got stabbed in the heart as a kid (Hey, hey)</p>
-      <p begin="02:41.044" end="02:44.457" ttm:agent="v1" itunes:key="role" itunes:value="background">It was that day I found out my friend was dead (RIP)</p>
-      <p begin="02:44.457" end="02:48.457" ttm:agent="v1" itunes:key="role" itunes:value="background">Same day I jumped head first in a pill bottle full of meds (Meds)</p>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>Celebrate (with Offset)</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Juice WRLD</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v2">Offset</ttm:agent>
+
+      <ttm:item type="album">The Party Never Ends</ttm:item>
+
+      <ttm:item type="spotify_id">1PJH81OEIhWwT6WKTpKRlv</ttm:item>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.549" end="00:07.102" ttm:agent="v1">Juice WRLD, you know I'm here 'cause my ex is a ****in' b***h, you know what I'm sayin'?</p>
+
+      <p begin="00:07.102" end="00:09.394" ttm:agent="v1">I just put some money on his head</p>
+
+      <p begin="00:09.394" end="00:13.298" ttm:agent="v1">I can't say his name 'cause he gon' really get brrr, brrr</p>
+
+      <p begin="00:13.298" end="00:16.481" ttm:agent="v1">I've been trying to numb all them pain I've been holding in since a jit</p>
+
+      <p begin="00:16.481" end="00:19.607" ttm:agent="v1">I mix the Rick with Raf and the RAF with the Rick</p>
+
+      <p begin="00:19.607" end="00:22.178" ttm:agent="v1">My first time got stabbed in the heart as a kid</p>
+
+      <p begin="00:22.178" end="00:25.407" ttm:agent="v1">It was that day I found out my friend was dead</p>
+
+      <p begin="00:25.407" end="00:28.179" ttm:agent="v1">Same day I jumped head first in a pill bottle full of meds</p>
+
+      <p begin="00:28.179" end="00:30.345" ttm:agent="v1">Sorrow symphonies, yeah, I invented that</p>
+
+      <p begin="00:30.345" end="00:31.845" ttm:agent="v1">Look at that watch on my wrist</p>
+
+      <p begin="00:31.607" end="00:33.107" ttm:agent="v1">Paid off another pocket</p>
+
+      <p begin="00:32.824" end="00:34.664" ttm:agent="v1">Paid two hundred and ten for that, yeah</p>
+
+      <p begin="00:34.664" end="00:37.238" ttm:agent="v1">Taking back to the good old days, nowadays, I'm over-stressed</p>
+
+      <p begin="00:37.238" end="00:40.616" ttm:agent="v1">When I say good old days, I'm talking 'bout He-Man and the little ThunderCats</p>
+
+      <p begin="00:40.616" end="00:44.466" ttm:agent="v1">Wow, I've been down, and Devil been on the prowl</p>
+
+      <p begin="00:44.466" end="00:47.528" ttm:agent="v1">He loves when I frown, make him and his demons smile</p>
+
+      <p begin="00:47.528" end="00:49.028" ttm:agent="v1">On me they dog pile</p>
+
+      <p begin="00:48.724" end="00:50.301" ttm:agent="v1">I done got way too involved now</p>
+
+      <p begin="00:50.301" end="00:53.471" ttm:agent="v1">And when they play with me, touching me playfully, I'm finna burn this all down</p>
+
+      <p begin="00:53.471" end="00:56.633" ttm:agent="v1">Bring all guns out, we going all out</p>
+
+      <p begin="00:56.633" end="00:59.735" ttm:agent="v1">We up, and he enemies, got them fall down</p>
+
+      <p begin="00:59.735" end="01:02.892" ttm:agent="v1">Please, ****, please take a chill pill, calm down</p>
+
+      <p begin="01:02.892" end="01:10.064" ttm:agent="v1">With some **** that be down to kill, kill, and blackout</p>
+
+      <p begin="01:10.064" end="01:12.805" ttm:agent="v1">I just put some money on his head (Money on his)</p>
+
+      <p begin="01:12.805" end="01:15.732" ttm:agent="v1">I can't say his name 'cause he gon' really get brrr, brrr (Brrr)</p>
+
+      <p begin="01:15.732" end="01:19.483" ttm:agent="v1">I've been trying to numb all them pain I've been holding since a jit</p>
+
+      <p begin="01:19.483" end="01:22.627" ttm:agent="v1">I mix the Rick with Raf and the RAF with the Rick (The RAF with the Rick)</p>
+
+      <p begin="01:22.627" end="01:25.802" ttm:agent="v1">My first time, got stabbed in the heart as a kid (Hey)</p>
+
+      <p begin="01:25.802" end="01:28.449" ttm:agent="v1">It was that day I found out my friend was dead (RIP)</p>
+
+      <p begin="01:28.449" end="01:31.764" ttm:agent="v1">Same day I jumped head first in a pill bottle full of meds (Meds)</p>
+
+      <p begin="01:31.764" end="01:35.484" ttm:agent="v1">On my dad, on my dad, on my mama, these **** play, I'm going Osama</p>
+
+      <p begin="01:35.484" end="01:36.984" ttm:agent="v1">Bin Laden</p>
+
+      <p begin="01:35.792" end="01:37.292" ttm:agent="v1">I'm having trauma spending my commas, I've been paying for the dead, I'm a sponsor</p>
+
+      <p begin="01:37.051" end="01:40.052" ttm:agent="v1">Got trauma, I paid for that</p>
+
+      <p begin="01:40.052" end="01:42.545" ttm:agent="v1">Two Percocets to the head, we've been looking, trying to haunt her</p>
+
+      <p begin="01:42.545" end="01:45.174" ttm:agent="v1">We poppin' drugs, it's making it worse, put them in a hearse</p>
+
+      <p begin="01:45.174" end="01:46.751" ttm:agent="v1">End of the month, they get killed on the first</p>
+
+      <p begin="01:46.751" end="01:48.351" ttm:agent="v1">Walkin' 'em down, he a demon, he cursed (Walked down)</p>
+
+      <p begin="01:48.351" end="01:51.880" ttm:agent="v1">Pull out the wrist work, take off your b***h skirt, I do not fear anybody on Earth (Why?)</p>
+
+      <p begin="01:51.880" end="01:53.380" ttm:agent="v1">Watching my back, I'm alert</p>
+
+      <p begin="01:53.082" end="01:54.663" ttm:agent="v1">I got pills from the b***h, she a nurse (Nurse)</p>
+
+      <p begin="01:54.663" end="01:56.163" ttm:agent="v1">I got water, do you want to surf?</p>
+
+      <p begin="01:56.127" end="01:57.627" ttm:agent="v1">Do you want to surf?</p>
+
+      <p begin="01:56.231" end="01:57.829" ttm:agent="v1">I'm on the edge, ****, don't push me</p>
+
+      <p begin="01:57.829" end="01:59.329" ttm:agent="v1">Poppin' the meds, it give me a cushion</p>
+
+      <p begin="01:59.201" end="02:00.701" ttm:agent="v1">Let's go</p>
+
+      <p begin="01:59.397" end="02:00.986" ttm:agent="v1">Everybody fed, I'm handing out blessings</p>
+
+      <p begin="02:00.986" end="02:02.486" ttm:agent="v1">Nobody scared, put switches on weapons</p>
+
+      <p begin="02:02.390" end="02:03.890" ttm:agent="v1">Nobody</p>
+
+      <p begin="02:02.584" end="02:04.129" ttm:agent="v1">All in my head, I'm thinking 'bout</p>
+
+      <p begin="02:04.129" end="02:05.689" ttm:agent="v1">**** tryna X me and cut me out (Cut me out)</p>
+
+      <p begin="02:05.689" end="02:07.287" ttm:agent="v1">Feds did a sweep, and we jumping out (Jumping out)</p>
+
+      <p begin="02:07.287" end="02:08.862" ttm:agent="v1">First he get beat, then we stomp him out (Let's go)</p>
+
+      <p begin="02:08.862" end="02:10.362" ttm:agent="v1">Taking the WRLD</p>
+
+      <p begin="02:10.045" end="02:12.034" ttm:agent="v1">Diamonds for girls but bought my mama some pearls</p>
+
+      <p begin="02:12.034" end="02:13.534" ttm:agent="v1">That's my world (Mama)</p>
+
+      <p begin="02:13.208" end="02:19.908" ttm:agent="v1">I put my babies in Birkins like what was the purpose 'cause they are my girls (My babies)</p>
+
+      <p begin="02:19.908" end="02:25.867" ttm:agent="v1">**** around and put some money in the street</p>
+
+      <p begin="02:25.867" end="02:28.595" ttm:agent="v1">I just put some money on his head</p>
+
+      <p begin="02:28.595" end="02:31.853" ttm:agent="v1">I can't say his name 'cause he gon' really get brrr, brrr (Brrr)</p>
+
+      <p begin="02:31.853" end="02:35.584" ttm:agent="v1">I've been trying to numb all the pain I've been holding since a jit</p>
+
+      <p begin="02:35.584" end="02:37.518" ttm:agent="v1">I mix the Rick with Raf and the RAF with the Rick</p>
+
+      <p begin="02:37.518" end="02:39.018" ttm:agent="v1">The Raf with the Rick, the Rick with the RAF</p>
+
+      <p begin="02:38.710" end="02:41.044" ttm:agent="v1">My first time, got stabbed in the heart as a kid (Hey, hey)</p>
+
+      <p begin="02:41.044" end="02:44.457" ttm:agent="v1">It was that day I found out my friend was dead (RIP)</p>
+
+      <p begin="02:44.457" end="02:48.457" ttm:agent="v1">Same day I jumped head first in a pill bottle full of meds (Meds)</p>
+
+    </div>
+
+  </body>
+
+</tt>
+

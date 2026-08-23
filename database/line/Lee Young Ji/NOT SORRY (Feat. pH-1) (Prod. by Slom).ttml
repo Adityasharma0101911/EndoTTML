@@ -1,106 +1,212 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>NOT SORRY (Feat. pH-1) (Prod. by Slom)</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Lee Young Ji</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">pH-1</ttm:agent>
-      <ttm:item type="album">SHOW ME THE MONEY 11 Episode 3</ttm:item>
-      <ttm:item type="spotify_id">5UOY3OZib7H4KFwTfsT66g</ttm:item>
-      <itunes:duration>03:57.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:09.970" end="00:14.670" ttm:agent="v1">미안해, 하나도 하나도 아무것도 미안하지가 않아서</p>
-      <p begin="00:14.670" end="00:18.800" ttm:agent="v1">그저 나답게 살아가고픈 것뿐, oh</p>
-      <p begin="00:18.800" end="00:21.420" ttm:agent="v1">Okay, 엄마 나 힙합 관둘게</p>
-      <p begin="00:21.420" end="00:23.180" ttm:agent="v1">혼자서만 도태된 것 같애</p>
-      <p begin="00:23.180" end="00:25.290" ttm:agent="v1">다들 폭죽 터트리고 벌려 축제</p>
-      <p begin="00:25.290" end="00:26.790" ttm:agent="v1">진심은 전부 곡해돼</p>
-      <p begin="00:26.660" end="00:28.160" ttm:agent="v1">사랑은 왜곡돼</p>
-      <p begin="00:27.730" end="00:30.230" ttm:agent="v1">모든 게 다 쉽게 변해 플라스틱 같애</p>
-      <p begin="00:30.230" end="00:32.650" ttm:agent="v1">Look you in the mirror, you're the human being, too</p>
-      <p begin="00:32.650" end="00:35.170" ttm:agent="v1">철없긴 똑같지, 다 곁눈질 뿐</p>
-      <p begin="00:35.170" end="00:37.560" ttm:agent="v1">원리원칙에 갇힌 빈 깡통 덩어리</p>
-      <p begin="00:37.560" end="00:40.390" ttm:agent="v1">이리저리 굴러 온 세상을 휙 뒤집어 놓지</p>
-      <p begin="00:40.390" end="00:42.980" ttm:agent="v1">&quot;스타일 바꿔 마인드 바꿔, 이참에 챙겨, 눈치도&quot;</p>
-      <p begin="00:42.980" end="00:45.830" ttm:agent="v1">&quot;다리 떨지 말고 살 좀 빼, 동네 창피스러워&quot;</p>
-      <p begin="00:45.830" end="00:47.330" ttm:agent="v1">&quot;어깨 힘은 좀 빼&quot;</p>
-      <p begin="00:46.960" end="00:50.510" ttm:agent="v1">&quot;어차피 니가 뱉는 구절 전부 힙합 아니니까, 밥그릇 치워&quot;</p>
-      <p begin="00:50.510" end="00:52.670" ttm:agent="v1">Man, I don't give a damn about what you said</p>
-      <p begin="00:52.670" end="00:55.380" ttm:agent="v1">우리 엄마 말도 잘 안 듣던 내가, 네 말은 왜?</p>
-      <p begin="00:55.380" end="00:57.710" ttm:agent="v1">Hip-hop? Not hip-hop? I don't mind it</p>
-      <p begin="00:57.710" end="01:02.780" ttm:agent="v1">차례대로 퇴장해, 난 아냐 네 오마카세</p>
-      <p begin="01:02.780" end="01:06.510" ttm:agent="v1">I don't care, I don't care about what people said</p>
-      <p begin="01:06.510" end="01:10.560" ttm:agent="v1">Nah, I don't give a fuck about what you said</p>
-      <p begin="01:10.560" end="01:12.060" ttm:agent="v1">I'm not sorry</p>
-      <p begin="01:11.640" end="01:15.450" ttm:agent="v1">머릿속엔 언제나 only me, myself and I</p>
-      <p begin="01:15.450" end="01:16.950" ttm:agent="v1">Don't worry</p>
-      <p begin="01:16.670" end="01:20.580" ttm:agent="v1">철없게 살아도 어쩌겠어, I'm the only one</p>
-      <p begin="01:20.580" end="01:25.340" ttm:agent="v1">미안해, 하나도 하나도 아무것도 미안하지가 않아서</p>
-      <p begin="01:25.340" end="01:30.270" ttm:agent="v1">그저 나답게 살아가고픈 것뿐, oh</p>
-      <p begin="01:30.270" end="01:32.380" ttm:agent="v1">잘 웃으니까 내가 참 바보 같나 봐?</p>
-      <p begin="01:32.380" end="01:34.480" ttm:agent="v1">나에 대해서 잘 알지도 못하면서</p>
-      <p begin="01:34.480" end="01:35.980" ttm:agent="v1">Always killing my vibe</p>
-      <p begin="01:35.740" end="01:37.540" ttm:agent="v1">뭐라도 되는 줄 아나 봐</p>
-      <p begin="01:37.540" end="01:39.090" ttm:agent="v1">Feeling like you becoming somebody</p>
-      <p begin="01:39.090" end="01:40.860" ttm:agent="v1">하지만 그건 너의 착각</p>
-      <p begin="01:40.860" end="01:43.730" ttm:agent="v1">나 물어볼 게 있어, 삿대질 자격 어딨어?</p>
-      <p begin="01:43.730" end="01:45.870" ttm:agent="v1">날 가르쳐 들려 하지 마, you ain't my teacher</p>
-      <p begin="01:45.870" end="01:48.330" ttm:agent="v1">I'll school you, 넌 왈가왈부</p>
-      <p begin="01:48.330" end="01:50.160" ttm:agent="v1">할 짓 없이 그냥 말만 많구</p>
-      <p begin="01:50.160" end="01:51.660" ttm:agent="v1">Say what?</p>
-      <p begin="01:50.810" end="01:53.470" ttm:agent="v1">&quot;pH-1 쇼미 피처링 제발 좀 그만 나와&quot;</p>
-      <p begin="01:53.470" end="01:55.940" ttm:agent="v1">&quot;노래도 못하면서 싱잉 하는 복면가왕&quot;</p>
-      <p begin="01:55.940" end="01:58.460" ttm:agent="v1">&quot;자극적이지 않아, 재미없어, he need drama&quot;</p>
-      <p begin="01:58.460" end="02:00.860" ttm:agent="v1">괜찮아, 난 모든 일에 내 진심을 담아</p>
-      <p begin="02:00.860" end="02:04.020" ttm:agent="v1">But looky, 내 무기는 두 귀를 닫은 채 눈치 안 보기</p>
-      <p begin="02:04.020" end="02:06.100" ttm:agent="v1">헛수고해 버린 losers 물어봐 후기</p>
-      <p begin="02:06.100" end="02:07.600" ttm:agent="v1">My mercy, I'm cruising</p>
-      <p begin="02:07.430" end="02:08.930" ttm:agent="v1">목걸이는 Real Cuban</p>
-      <p begin="02:08.630" end="02:10.130" ttm:agent="v1">쉬워 보이면 너가 해봐</p>
-      <p begin="02:09.870" end="02:11.720" ttm:agent="v1">Come and show it, I'm proven</p>
-      <p begin="02:11.720" end="02:13.630" ttm:agent="v1">적당히 맞추면서 살아가</p>
-      <p begin="02:13.630" end="02:16.650" ttm:agent="v1">일일이 다 설명하기엔 내 입이 아파</p>
-      <p begin="02:16.650" end="02:18.730" ttm:agent="v1">I'm always tryna live my own life</p>
-      <p begin="02:18.730" end="02:21.090" ttm:agent="v1">내 앞가림하기에도 난 충분히 바빠</p>
-      <p begin="02:21.090" end="02:23.500" ttm:agent="v1">난 나를 속여가면서 바뀌고 싶진 않아</p>
-      <p begin="02:23.500" end="02:25.990" ttm:agent="v1">너 아니어도 날 사랑해 주는 사람들 많아</p>
-      <p begin="02:25.990" end="02:28.770" ttm:agent="v1" itunes:key="role" itunes:value="background">I don't care (I don't care) what you say (what you say)</p>
-      <p begin="02:28.770" end="02:30.970" ttm:agent="v1">I don't give a fuck about what you said</p>
-      <p begin="02:30.970" end="02:32.470" ttm:agent="v1">I'm not sorry</p>
-      <p begin="02:32.240" end="02:36.140" ttm:agent="v1">머릿속엔 언제나 only me, myself and I</p>
-      <p begin="02:36.140" end="02:37.640" ttm:agent="v1">Don't worry</p>
-      <p begin="02:37.540" end="02:41.230" ttm:agent="v1">철없게 살아도 어쩌겠어, I'm the only one</p>
-      <p begin="02:41.230" end="02:46.180" ttm:agent="v1">미안해, 하나도 하나도 아무것도 미안하지가 않아서</p>
-      <p begin="02:46.180" end="02:51.580" ttm:agent="v1">그저 나답게 살아가고픈 것뿐, oh</p>
-      <p begin="02:51.580" end="02:54.110" ttm:agent="v1">Look, I wish that I could be the only one</p>
-      <p begin="02:54.110" end="02:56.550" ttm:agent="v1">Who get a lot of love, no hate, but 어려워</p>
-      <p begin="02:56.550" end="02:59.210" ttm:agent="v1">내 나이 21 and I got a lot of problem to solve</p>
-      <p begin="02:59.210" end="03:01.680" ttm:agent="v1">길 잃은 청춘이지만 그게 내 길이고</p>
-      <p begin="03:01.680" end="03:03.760" ttm:agent="v1">우린 반의 반쪽짜리 육체를 다듬어</p>
-      <p begin="03:03.760" end="03:06.580" ttm:agent="v1">당당히 날 몰아붙인 위선과 거짓 다 깔고 기립해</p>
-      <p begin="03:06.580" end="03:09.170" ttm:agent="v1">막연히 끄덕이고 조아리긴 죽기보다 싫으니</p>
-      <p begin="03:09.170" end="03:14.240" ttm:agent="v1">I don't give a damn about what you said</p>
-      <p begin="03:14.240" end="03:15.740" ttm:agent="v1">I'm not sorry</p>
-      <p begin="03:15.310" end="03:19.030" ttm:agent="v1">머릿속엔 언제나 only me, myself and I</p>
-      <p begin="03:19.030" end="03:20.530" ttm:agent="v1">Don't worry</p>
-      <p begin="03:20.310" end="03:24.120" ttm:agent="v1">철없게 살아도 어쩌겠어, I'm the only one</p>
-      <p begin="03:24.120" end="03:29.140" ttm:agent="v1">미안해, 하나도 하나도 아무것도 미안하지가 않아서</p>
-      <p begin="03:29.140" end="03:34.240" ttm:agent="v1">그저 나답게 살아가고픈 것뿐, oh</p>
-      <p begin="03:34.240" end="03:39.350" ttm:agent="v1">I'm not sorry</p>
-      <p begin="03:39.350" end="03:44.510" ttm:agent="v1">Don't worry</p>
-      <p begin="03:44.510" end="03:49.470" ttm:agent="v1">미안해, 하나도 하나도 아무것도 미안하지가 않아서</p>
-      <p begin="03:49.470" end="03:52.990" ttm:agent="v1">그저 나답게 살아가고픈 것뿐, oh</p>
-      <p begin="03:52.990" end="03:56.990" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>NOT SORRY (Feat. pH-1) (Prod. by Slom)</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Lee Young Ji</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v2">pH-1</ttm:agent>
+
+      <ttm:item type="album">SHOW ME THE MONEY 11 Episode 3</ttm:item>
+
+      <ttm:item type="spotify_id">5UOY3OZib7H4KFwTfsT66g</ttm:item>
+
+      <itunes:duration>03:57.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:09.970" end="00:14.670" ttm:agent="v1">미안해, 하나도 하나도 아무것도 미안하지가 않아서</p>
+
+      <p begin="00:14.670" end="00:18.800" ttm:agent="v1">그저 나답게 살아가고픈 것뿐, oh</p>
+
+      <p begin="00:18.800" end="00:21.420" ttm:agent="v1">Okay, 엄마 나 힙합 관둘게</p>
+
+      <p begin="00:21.420" end="00:23.180" ttm:agent="v1">혼자서만 도태된 것 같애</p>
+
+      <p begin="00:23.180" end="00:25.290" ttm:agent="v1">다들 폭죽 터트리고 벌려 축제</p>
+
+      <p begin="00:25.290" end="00:26.790" ttm:agent="v1">진심은 전부 곡해돼</p>
+
+      <p begin="00:26.660" end="00:28.160" ttm:agent="v1">사랑은 왜곡돼</p>
+
+      <p begin="00:27.730" end="00:30.230" ttm:agent="v1">모든 게 다 쉽게 변해 플라스틱 같애</p>
+
+      <p begin="00:30.230" end="00:32.650" ttm:agent="v1">Look you in the mirror, you're the human being, too</p>
+
+      <p begin="00:32.650" end="00:35.170" ttm:agent="v1">철없긴 똑같지, 다 곁눈질 뿐</p>
+
+      <p begin="00:35.170" end="00:37.560" ttm:agent="v1">원리원칙에 갇힌 빈 깡통 덩어리</p>
+
+      <p begin="00:37.560" end="00:40.390" ttm:agent="v1">이리저리 굴러 온 세상을 휙 뒤집어 놓지</p>
+
+      <p begin="00:40.390" end="00:42.980" ttm:agent="v1">&quot;스타일 바꿔 마인드 바꿔, 이참에 챙겨, 눈치도&quot;</p>
+
+      <p begin="00:42.980" end="00:45.830" ttm:agent="v1">&quot;다리 떨지 말고 살 좀 빼, 동네 창피스러워&quot;</p>
+
+      <p begin="00:45.830" end="00:47.330" ttm:agent="v1">&quot;어깨 힘은 좀 빼&quot;</p>
+
+      <p begin="00:46.960" end="00:50.510" ttm:agent="v1">&quot;어차피 니가 뱉는 구절 전부 힙합 아니니까, 밥그릇 치워&quot;</p>
+
+      <p begin="00:50.510" end="00:52.670" ttm:agent="v1">Man, I don't give a damn about what you said</p>
+
+      <p begin="00:52.670" end="00:55.380" ttm:agent="v1">우리 엄마 말도 잘 안 듣던 내가, 네 말은 왜?</p>
+
+      <p begin="00:55.380" end="00:57.710" ttm:agent="v1">Hip-hop? Not hip-hop? I don't mind it</p>
+
+      <p begin="00:57.710" end="01:02.780" ttm:agent="v1">차례대로 퇴장해, 난 아냐 네 오마카세</p>
+
+      <p begin="01:02.780" end="01:06.510" ttm:agent="v1">I don't care, I don't care about what people said</p>
+
+      <p begin="01:06.510" end="01:10.560" ttm:agent="v1">Nah, I don't give a fuck about what you said</p>
+
+      <p begin="01:10.560" end="01:12.060" ttm:agent="v1">I'm not sorry</p>
+
+      <p begin="01:11.640" end="01:15.450" ttm:agent="v1">머릿속엔 언제나 only me, myself and I</p>
+
+      <p begin="01:15.450" end="01:16.950" ttm:agent="v1">Don't worry</p>
+
+      <p begin="01:16.670" end="01:20.580" ttm:agent="v1">철없게 살아도 어쩌겠어, I'm the only one</p>
+
+      <p begin="01:20.580" end="01:25.340" ttm:agent="v1">미안해, 하나도 하나도 아무것도 미안하지가 않아서</p>
+
+      <p begin="01:25.340" end="01:30.270" ttm:agent="v1">그저 나답게 살아가고픈 것뿐, oh</p>
+
+      <p begin="01:30.270" end="01:32.380" ttm:agent="v1">잘 웃으니까 내가 참 바보 같나 봐?</p>
+
+      <p begin="01:32.380" end="01:34.480" ttm:agent="v1">나에 대해서 잘 알지도 못하면서</p>
+
+      <p begin="01:34.480" end="01:35.980" ttm:agent="v1">Always killing my vibe</p>
+
+      <p begin="01:35.740" end="01:37.540" ttm:agent="v1">뭐라도 되는 줄 아나 봐</p>
+
+      <p begin="01:37.540" end="01:39.090" ttm:agent="v1">Feeling like you becoming somebody</p>
+
+      <p begin="01:39.090" end="01:40.860" ttm:agent="v1">하지만 그건 너의 착각</p>
+
+      <p begin="01:40.860" end="01:43.730" ttm:agent="v1">나 물어볼 게 있어, 삿대질 자격 어딨어?</p>
+
+      <p begin="01:43.730" end="01:45.870" ttm:agent="v1">날 가르쳐 들려 하지 마, you ain't my teacher</p>
+
+      <p begin="01:45.870" end="01:48.330" ttm:agent="v1">I'll school you, 넌 왈가왈부</p>
+
+      <p begin="01:48.330" end="01:50.160" ttm:agent="v1">할 짓 없이 그냥 말만 많구</p>
+
+      <p begin="01:50.160" end="01:51.660" ttm:agent="v1">Say what?</p>
+
+      <p begin="01:50.810" end="01:53.470" ttm:agent="v1">&quot;pH-1 쇼미 피처링 제발 좀 그만 나와&quot;</p>
+
+      <p begin="01:53.470" end="01:55.940" ttm:agent="v1">&quot;노래도 못하면서 싱잉 하는 복면가왕&quot;</p>
+
+      <p begin="01:55.940" end="01:58.460" ttm:agent="v1">&quot;자극적이지 않아, 재미없어, he need drama&quot;</p>
+
+      <p begin="01:58.460" end="02:00.860" ttm:agent="v1">괜찮아, 난 모든 일에 내 진심을 담아</p>
+
+      <p begin="02:00.860" end="02:04.020" ttm:agent="v1">But looky, 내 무기는 두 귀를 닫은 채 눈치 안 보기</p>
+
+      <p begin="02:04.020" end="02:06.100" ttm:agent="v1">헛수고해 버린 losers 물어봐 후기</p>
+
+      <p begin="02:06.100" end="02:07.600" ttm:agent="v1">My mercy, I'm cruising</p>
+
+      <p begin="02:07.430" end="02:08.930" ttm:agent="v1">목걸이는 Real Cuban</p>
+
+      <p begin="02:08.630" end="02:10.130" ttm:agent="v1">쉬워 보이면 너가 해봐</p>
+
+      <p begin="02:09.870" end="02:11.720" ttm:agent="v1">Come and show it, I'm proven</p>
+
+      <p begin="02:11.720" end="02:13.630" ttm:agent="v1">적당히 맞추면서 살아가</p>
+
+      <p begin="02:13.630" end="02:16.650" ttm:agent="v1">일일이 다 설명하기엔 내 입이 아파</p>
+
+      <p begin="02:16.650" end="02:18.730" ttm:agent="v1">I'm always tryna live my own life</p>
+
+      <p begin="02:18.730" end="02:21.090" ttm:agent="v1">내 앞가림하기에도 난 충분히 바빠</p>
+
+      <p begin="02:21.090" end="02:23.500" ttm:agent="v1">난 나를 속여가면서 바뀌고 싶진 않아</p>
+
+      <p begin="02:23.500" end="02:25.990" ttm:agent="v1">너 아니어도 날 사랑해 주는 사람들 많아</p>
+
+      <p begin="02:25.990" end="02:28.770" ttm:agent="v1">I don't care (I don't care) what you say (what you say)</p>
+
+      <p begin="02:28.770" end="02:30.970" ttm:agent="v1">I don't give a fuck about what you said</p>
+
+      <p begin="02:30.970" end="02:32.470" ttm:agent="v1">I'm not sorry</p>
+
+      <p begin="02:32.240" end="02:36.140" ttm:agent="v1">머릿속엔 언제나 only me, myself and I</p>
+
+      <p begin="02:36.140" end="02:37.640" ttm:agent="v1">Don't worry</p>
+
+      <p begin="02:37.540" end="02:41.230" ttm:agent="v1">철없게 살아도 어쩌겠어, I'm the only one</p>
+
+      <p begin="02:41.230" end="02:46.180" ttm:agent="v1">미안해, 하나도 하나도 아무것도 미안하지가 않아서</p>
+
+      <p begin="02:46.180" end="02:51.580" ttm:agent="v1">그저 나답게 살아가고픈 것뿐, oh</p>
+
+      <p begin="02:51.580" end="02:54.110" ttm:agent="v1">Look, I wish that I could be the only one</p>
+
+      <p begin="02:54.110" end="02:56.550" ttm:agent="v1">Who get a lot of love, no hate, but 어려워</p>
+
+      <p begin="02:56.550" end="02:59.210" ttm:agent="v1">내 나이 21 and I got a lot of problem to solve</p>
+
+      <p begin="02:59.210" end="03:01.680" ttm:agent="v1">길 잃은 청춘이지만 그게 내 길이고</p>
+
+      <p begin="03:01.680" end="03:03.760" ttm:agent="v1">우린 반의 반쪽짜리 육체를 다듬어</p>
+
+      <p begin="03:03.760" end="03:06.580" ttm:agent="v1">당당히 날 몰아붙인 위선과 거짓 다 깔고 기립해</p>
+
+      <p begin="03:06.580" end="03:09.170" ttm:agent="v1">막연히 끄덕이고 조아리긴 죽기보다 싫으니</p>
+
+      <p begin="03:09.170" end="03:14.240" ttm:agent="v1">I don't give a damn about what you said</p>
+
+      <p begin="03:14.240" end="03:15.740" ttm:agent="v1">I'm not sorry</p>
+
+      <p begin="03:15.310" end="03:19.030" ttm:agent="v1">머릿속엔 언제나 only me, myself and I</p>
+
+      <p begin="03:19.030" end="03:20.530" ttm:agent="v1">Don't worry</p>
+
+      <p begin="03:20.310" end="03:24.120" ttm:agent="v1">철없게 살아도 어쩌겠어, I'm the only one</p>
+
+      <p begin="03:24.120" end="03:29.140" ttm:agent="v1">미안해, 하나도 하나도 아무것도 미안하지가 않아서</p>
+
+      <p begin="03:29.140" end="03:34.240" ttm:agent="v1">그저 나답게 살아가고픈 것뿐, oh</p>
+
+      <p begin="03:34.240" end="03:39.350" ttm:agent="v1">I'm not sorry</p>
+
+      <p begin="03:39.350" end="03:44.510" ttm:agent="v1">Don't worry</p>
+
+      <p begin="03:44.510" end="03:49.470" ttm:agent="v1">미안해, 하나도 하나도 아무것도 미안하지가 않아서</p>
+
+      <p begin="03:49.470" end="03:52.990" ttm:agent="v1">그저 나답게 살아가고픈 것뿐, oh</p>
+
+      <p begin="03:52.990" end="03:56.990" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

@@ -1,99 +1,198 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>The Feels</ttm:title>
-      <ttm:agent type="person" xml:id="v1">TWICE</ttm:agent>
-      <ttm:item type="album">Formula of Love: O+T=&lt;3</ttm:item>
-      <ttm:item type="spotify_id">308Ir17KlNdlrbVLHWhlLe</ttm:item>
-      <itunes:duration>03:18.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:01.000" end="00:02.730" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
-      <p begin="00:02.730" end="00:04.810" ttm:agent="v1">I know you got the feels</p>
-      <p begin="00:04.810" end="00:07.020" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
-      <p begin="00:07.020" end="00:09.430" ttm:agent="v1">Uh, I'm so curious</p>
-      <p begin="00:09.430" end="00:11.340" ttm:agent="v1">'Bout you, boy, wanna keep it cool</p>
-      <p begin="00:11.340" end="00:14.340" ttm:agent="v1">But I know every time you move, got me frozen</p>
-      <p begin="00:14.340" end="00:17.410" ttm:agent="v1" itunes:key="role" itunes:value="background">I get so shy, it's obvious (get ya)</p>
-      <p begin="00:17.410" end="00:19.360" ttm:agent="v1">Catching feels like butterflies</p>
-      <p begin="00:19.360" end="00:21.580" ttm:agent="v1">If I say what's on my mind</p>
-      <p begin="00:21.580" end="00:23.080" ttm:agent="v1" itunes:key="role" itunes:value="background">Would I hit bullseye? (Woo)</p>
-      <p begin="00:22.660" end="00:26.590" ttm:agent="v1" itunes:key="role" itunes:value="background">Shoot, I'm ready, aim and fire (fire)</p>
-      <p begin="00:26.590" end="00:31.670" ttm:agent="v1" itunes:key="role" itunes:value="background">Baby, I (whoa-oh, ow!) Feel like cupid's alive</p>
-      <p begin="00:31.670" end="00:36.250" ttm:agent="v1" itunes:key="role" itunes:value="background">Alive tonight ('night), yeah, tonight</p>
-      <p begin="00:36.250" end="00:38.480" ttm:agent="v1" itunes:key="role" itunes:value="background">If your heart beats the same way, let me know (you let me know)</p>
-      <p begin="00:38.480" end="00:41.340" ttm:agent="v1" itunes:key="role" itunes:value="background">'Cause I'm boom-boom-boom from head to toe, and I (yeah, head to toe)</p>
-      <p begin="00:41.340" end="00:44.220" ttm:agent="v1">I know, love, it is such a funny thing</p>
-      <p begin="00:44.220" end="00:48.120" ttm:agent="v1">A mystery allure, gotta get to know you more</p>
-      <p begin="00:48.120" end="00:50.680" ttm:agent="v1">'Cause I, I can feel a real connection</p>
-      <p begin="00:50.680" end="00:53.270" ttm:agent="v1">A supernatural attraction-ah</p>
-      <p begin="00:53.270" end="00:57.040" ttm:agent="v1">I got the feels for you, yeah, yeah, yeah, yeah</p>
-      <p begin="00:57.040" end="01:00.460" ttm:agent="v1">You have stolen my heart, oh, yeah</p>
-      <p begin="01:00.460" end="01:02.350" ttm:agent="v1">Never let it go, oh, oh, no</p>
-      <p begin="01:02.350" end="01:05.140" ttm:agent="v1">Never let it go, oh, oh, oh</p>
-      <p begin="01:05.140" end="01:08.300" ttm:agent="v1">Lightning straight to my heart, oh, yeah</p>
-      <p begin="01:08.300" end="01:10.060" ttm:agent="v1">I got all the feels for sure</p>
-      <p begin="01:10.060" end="01:13.010" ttm:agent="v1">Yeah, I got all the feels for ya, oh</p>
-      <p begin="01:13.010" end="01:14.870" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
-      <p begin="01:14.870" end="01:16.930" ttm:agent="v1">I know I got the feels</p>
-      <p begin="01:16.930" end="01:18.880" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
-      <p begin="01:18.880" end="01:20.720" ttm:agent="v1" itunes:key="role" itunes:value="background">I know you feel it too (uh, uh)</p>
-      <p begin="01:20.720" end="01:22.640" ttm:agent="v1">Sway in the moonlight, dance in the dark</p>
-      <p begin="01:22.640" end="01:24.420" ttm:agent="v1" itunes:key="role" itunes:value="background">I know that I caught your eye (your eye)</p>
-      <p begin="01:24.420" end="01:27.010" ttm:agent="v1" itunes:key="role" itunes:value="background">Are we on the same vibe? (Same vibe)</p>
-      <p begin="01:27.010" end="01:28.560" ttm:agent="v1">I wonder what's on your mind</p>
-      <p begin="01:28.560" end="01:30.960" ttm:agent="v1">'Cause you got me good and I wanna be ya boo</p>
-      <p begin="01:30.960" end="01:33.050" ttm:agent="v1" itunes:key="role" itunes:value="background">If it's dumb, well, I wanna be a fool (fool, fool, fool)</p>
-      <p begin="01:33.050" end="01:34.910" ttm:agent="v1">Underneath the neon lights, baby</p>
-      <p begin="01:34.910" end="01:36.970" ttm:agent="v1">Electricity tonight, baby</p>
-      <p begin="01:36.970" end="01:39.920" ttm:agent="v1">I know love it is such a funny thing</p>
-      <p begin="01:39.920" end="01:43.990" ttm:agent="v1">A mystery allure, gotta get to know you more</p>
-      <p begin="01:43.990" end="01:46.630" ttm:agent="v1">'Cause I, I can feel a real connection</p>
-      <p begin="01:46.630" end="01:49.020" ttm:agent="v1">A supernatural attraction-ah</p>
-      <p begin="01:49.020" end="01:53.170" ttm:agent="v1">I got the feels for you, yeah, yeah, yeah, yeah</p>
-      <p begin="01:53.170" end="01:56.490" ttm:agent="v1" itunes:key="role" itunes:value="background">You have stolen my heart, oh, yeah (oh, yeah)</p>
-      <p begin="01:56.490" end="01:58.200" ttm:agent="v1">Never let it go, oh, oh, no</p>
-      <p begin="01:58.200" end="02:00.910" ttm:agent="v1">Never let it go, oh, oh, oh</p>
-      <p begin="02:00.910" end="02:04.320" ttm:agent="v1">Lightning straight to my heart, oh, yeah</p>
-      <p begin="02:04.320" end="02:05.920" ttm:agent="v1">I got all the feels for sure</p>
-      <p begin="02:05.920" end="02:08.600" ttm:agent="v1">Yeah, I got all the feels for ya, oh</p>
-      <p begin="02:08.600" end="02:10.790" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
-      <p begin="02:10.790" end="02:12.860" ttm:agent="v1">I know I get the feels</p>
-      <p begin="02:12.860" end="02:14.960" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
-      <p begin="02:14.960" end="02:16.640" ttm:agent="v1">I know you feel it too</p>
-      <p begin="02:16.640" end="02:18.620" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
-      <p begin="02:18.620" end="02:20.870" ttm:agent="v1">I know I get the feels</p>
-      <p begin="02:20.870" end="02:22.720" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
-      <p begin="02:22.720" end="02:25.630" ttm:agent="v1" itunes:key="role" itunes:value="background">I know you feel it too (feel it too)</p>
-      <p begin="02:25.630" end="02:30.440" ttm:agent="v1">You got my attention, so what's your intention?</p>
-      <p begin="02:30.440" end="02:32.850" ttm:agent="v1">Yeah, tell me, baby, what's the deal?</p>
-      <p begin="02:32.850" end="02:38.320" ttm:agent="v1">Oh, one look and I know it, baby, my eyes reveal</p>
-      <p begin="02:38.320" end="02:42.750" ttm:agent="v1">That you, you, you give me the feels, oh, yeah</p>
-      <p begin="02:42.750" end="02:46.280" ttm:agent="v1">You have stolen my heart, oh, yeah</p>
-      <p begin="02:46.280" end="02:48.230" ttm:agent="v1" itunes:key="role" itunes:value="background">Never let it go, oh, oh, no (no-no)</p>
-      <p begin="02:48.230" end="02:50.660" ttm:agent="v1" itunes:key="role" itunes:value="background">Never let it go, oh, oh, oh (no-no)</p>
-      <p begin="02:50.660" end="02:54.150" ttm:agent="v1">Lightning straight to my heart, oh, yeah</p>
-      <p begin="02:54.150" end="02:56.190" ttm:agent="v1">I got all the feels for sure</p>
-      <p begin="02:56.190" end="02:58.920" ttm:agent="v1">Yeah, I got all the feels for ya, oh</p>
-      <p begin="02:58.920" end="03:00.760" ttm:agent="v1" itunes:key="role" itunes:value="background">Boy, I, boy, I, boy, I know (the feels)</p>
-      <p begin="03:00.760" end="03:02.970" ttm:agent="v1" itunes:key="role" itunes:value="background">I know I got the feels (boy, I)</p>
-      <p begin="03:02.970" end="03:04.850" ttm:agent="v1" itunes:key="role" itunes:value="background">Boy, I, boy, I, boy, I know (yeah, yeah, yeah)</p>
-      <p begin="03:04.850" end="03:06.860" ttm:agent="v1" itunes:key="role" itunes:value="background">I know you feel it too (yeah, you are)</p>
-      <p begin="03:06.860" end="03:08.400" ttm:agent="v1" itunes:key="role" itunes:value="background">Boy, I, boy, I, boy, I know (boy, I)</p>
-      <p begin="03:08.400" end="03:10.870" ttm:agent="v1" itunes:key="role" itunes:value="background">I know I got the feels (one more)</p>
-      <p begin="03:10.870" end="03:12.830" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
-      <p begin="03:12.830" end="03:14.390" ttm:agent="v1" itunes:key="role" itunes:value="background">I know you feel it too (yeah)</p>
-      <p begin="03:14.390" end="03:18.390" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>The Feels</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">TWICE</ttm:agent>
+
+      <ttm:item type="album">Formula of Love: O+T=&lt;3</ttm:item>
+
+      <ttm:item type="spotify_id">308Ir17KlNdlrbVLHWhlLe</ttm:item>
+
+      <itunes:duration>03:18.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:01.000" end="00:02.730" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
+
+      <p begin="00:02.730" end="00:04.810" ttm:agent="v1">I know you got the feels</p>
+
+      <p begin="00:04.810" end="00:07.020" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
+
+      <p begin="00:07.020" end="00:09.430" ttm:agent="v1">Uh, I'm so curious</p>
+
+      <p begin="00:09.430" end="00:11.340" ttm:agent="v1">'Bout you, boy, wanna keep it cool</p>
+
+      <p begin="00:11.340" end="00:14.340" ttm:agent="v1">But I know every time you move, got me frozen</p>
+
+      <p begin="00:14.340" end="00:17.410" ttm:agent="v1">I get so shy, it's obvious (get ya)</p>
+
+      <p begin="00:17.410" end="00:19.360" ttm:agent="v1">Catching feels like butterflies</p>
+
+      <p begin="00:19.360" end="00:21.580" ttm:agent="v1">If I say what's on my mind</p>
+
+      <p begin="00:21.580" end="00:23.080" ttm:agent="v1">Would I hit bullseye? (Woo)</p>
+
+      <p begin="00:22.660" end="00:26.590" ttm:agent="v1">Shoot, I'm ready, aim and fire (fire)</p>
+
+      <p begin="00:26.590" end="00:31.670" ttm:agent="v1">Baby, I (whoa-oh, ow!) Feel like cupid's alive</p>
+
+      <p begin="00:31.670" end="00:36.250" ttm:agent="v1">Alive tonight ('night), yeah, tonight</p>
+
+      <p begin="00:36.250" end="00:38.480" ttm:agent="v1">If your heart beats the same way, let me know (you let me know)</p>
+
+      <p begin="00:38.480" end="00:41.340" ttm:agent="v1">'Cause I'm boom-boom-boom from head to toe, and I (yeah, head to toe)</p>
+
+      <p begin="00:41.340" end="00:44.220" ttm:agent="v1">I know, love, it is such a funny thing</p>
+
+      <p begin="00:44.220" end="00:48.120" ttm:agent="v1">A mystery allure, gotta get to know you more</p>
+
+      <p begin="00:48.120" end="00:50.680" ttm:agent="v1">'Cause I, I can feel a real connection</p>
+
+      <p begin="00:50.680" end="00:53.270" ttm:agent="v1">A supernatural attraction-ah</p>
+
+      <p begin="00:53.270" end="00:57.040" ttm:agent="v1">I got the feels for you, yeah, yeah, yeah, yeah</p>
+
+      <p begin="00:57.040" end="01:00.460" ttm:agent="v1">You have stolen my heart, oh, yeah</p>
+
+      <p begin="01:00.460" end="01:02.350" ttm:agent="v1">Never let it go, oh, oh, no</p>
+
+      <p begin="01:02.350" end="01:05.140" ttm:agent="v1">Never let it go, oh, oh, oh</p>
+
+      <p begin="01:05.140" end="01:08.300" ttm:agent="v1">Lightning straight to my heart, oh, yeah</p>
+
+      <p begin="01:08.300" end="01:10.060" ttm:agent="v1">I got all the feels for sure</p>
+
+      <p begin="01:10.060" end="01:13.010" ttm:agent="v1">Yeah, I got all the feels for ya, oh</p>
+
+      <p begin="01:13.010" end="01:14.870" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
+
+      <p begin="01:14.870" end="01:16.930" ttm:agent="v1">I know I got the feels</p>
+
+      <p begin="01:16.930" end="01:18.880" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
+
+      <p begin="01:18.880" end="01:20.720" ttm:agent="v1">I know you feel it too (uh, uh)</p>
+
+      <p begin="01:20.720" end="01:22.640" ttm:agent="v1">Sway in the moonlight, dance in the dark</p>
+
+      <p begin="01:22.640" end="01:24.420" ttm:agent="v1">I know that I caught your eye (your eye)</p>
+
+      <p begin="01:24.420" end="01:27.010" ttm:agent="v1">Are we on the same vibe? (Same vibe)</p>
+
+      <p begin="01:27.010" end="01:28.560" ttm:agent="v1">I wonder what's on your mind</p>
+
+      <p begin="01:28.560" end="01:30.960" ttm:agent="v1">'Cause you got me good and I wanna be ya boo</p>
+
+      <p begin="01:30.960" end="01:33.050" ttm:agent="v1">If it's dumb, well, I wanna be a fool (fool, fool, fool)</p>
+
+      <p begin="01:33.050" end="01:34.910" ttm:agent="v1">Underneath the neon lights, baby</p>
+
+      <p begin="01:34.910" end="01:36.970" ttm:agent="v1">Electricity tonight, baby</p>
+
+      <p begin="01:36.970" end="01:39.920" ttm:agent="v1">I know love it is such a funny thing</p>
+
+      <p begin="01:39.920" end="01:43.990" ttm:agent="v1">A mystery allure, gotta get to know you more</p>
+
+      <p begin="01:43.990" end="01:46.630" ttm:agent="v1">'Cause I, I can feel a real connection</p>
+
+      <p begin="01:46.630" end="01:49.020" ttm:agent="v1">A supernatural attraction-ah</p>
+
+      <p begin="01:49.020" end="01:53.170" ttm:agent="v1">I got the feels for you, yeah, yeah, yeah, yeah</p>
+
+      <p begin="01:53.170" end="01:56.490" ttm:agent="v1">You have stolen my heart, oh, yeah (oh, yeah)</p>
+
+      <p begin="01:56.490" end="01:58.200" ttm:agent="v1">Never let it go, oh, oh, no</p>
+
+      <p begin="01:58.200" end="02:00.910" ttm:agent="v1">Never let it go, oh, oh, oh</p>
+
+      <p begin="02:00.910" end="02:04.320" ttm:agent="v1">Lightning straight to my heart, oh, yeah</p>
+
+      <p begin="02:04.320" end="02:05.920" ttm:agent="v1">I got all the feels for sure</p>
+
+      <p begin="02:05.920" end="02:08.600" ttm:agent="v1">Yeah, I got all the feels for ya, oh</p>
+
+      <p begin="02:08.600" end="02:10.790" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
+
+      <p begin="02:10.790" end="02:12.860" ttm:agent="v1">I know I get the feels</p>
+
+      <p begin="02:12.860" end="02:14.960" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
+
+      <p begin="02:14.960" end="02:16.640" ttm:agent="v1">I know you feel it too</p>
+
+      <p begin="02:16.640" end="02:18.620" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
+
+      <p begin="02:18.620" end="02:20.870" ttm:agent="v1">I know I get the feels</p>
+
+      <p begin="02:20.870" end="02:22.720" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
+
+      <p begin="02:22.720" end="02:25.630" ttm:agent="v1">I know you feel it too (feel it too)</p>
+
+      <p begin="02:25.630" end="02:30.440" ttm:agent="v1">You got my attention, so what's your intention?</p>
+
+      <p begin="02:30.440" end="02:32.850" ttm:agent="v1">Yeah, tell me, baby, what's the deal?</p>
+
+      <p begin="02:32.850" end="02:38.320" ttm:agent="v1">Oh, one look and I know it, baby, my eyes reveal</p>
+
+      <p begin="02:38.320" end="02:42.750" ttm:agent="v1">That you, you, you give me the feels, oh, yeah</p>
+
+      <p begin="02:42.750" end="02:46.280" ttm:agent="v1">You have stolen my heart, oh, yeah</p>
+
+      <p begin="02:46.280" end="02:48.230" ttm:agent="v1">Never let it go, oh, oh, no (no-no)</p>
+
+      <p begin="02:48.230" end="02:50.660" ttm:agent="v1">Never let it go, oh, oh, oh (no-no)</p>
+
+      <p begin="02:50.660" end="02:54.150" ttm:agent="v1">Lightning straight to my heart, oh, yeah</p>
+
+      <p begin="02:54.150" end="02:56.190" ttm:agent="v1">I got all the feels for sure</p>
+
+      <p begin="02:56.190" end="02:58.920" ttm:agent="v1">Yeah, I got all the feels for ya, oh</p>
+
+      <p begin="02:58.920" end="03:00.760" ttm:agent="v1">Boy, I, boy, I, boy, I know (the feels)</p>
+
+      <p begin="03:00.760" end="03:02.970" ttm:agent="v1">I know I got the feels (boy, I)</p>
+
+      <p begin="03:02.970" end="03:04.850" ttm:agent="v1">Boy, I, boy, I, boy, I know (yeah, yeah, yeah)</p>
+
+      <p begin="03:04.850" end="03:06.860" ttm:agent="v1">I know you feel it too (yeah, you are)</p>
+
+      <p begin="03:06.860" end="03:08.400" ttm:agent="v1">Boy, I, boy, I, boy, I know (boy, I)</p>
+
+      <p begin="03:08.400" end="03:10.870" ttm:agent="v1">I know I got the feels (one more)</p>
+
+      <p begin="03:10.870" end="03:12.830" ttm:agent="v1">Boy, I, boy, I, boy, I know</p>
+
+      <p begin="03:12.830" end="03:14.390" ttm:agent="v1">I know you feel it too (yeah)</p>
+
+      <p begin="03:14.390" end="03:18.390" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

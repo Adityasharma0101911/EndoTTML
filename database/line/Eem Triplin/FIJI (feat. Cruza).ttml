@@ -1,96 +1,192 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>FIJI (feat. Cruza)</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Eem Triplin</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">Cruza</ttm:agent>
-      <ttm:item type="album">FIJI (feat. Cruza)</ttm:item>
-      <ttm:item type="spotify_id">6HubPIhCjRxkwR2zJa2ZLB</ttm:item>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.442" end="00:08.442" ttm:agent="v1">[Chorus: Eem Triplin]</p>
-      <p begin="00:13.606" end="00:15.975" ttm:agent="v1">She told me, &quot;Boy I don't need you&quot;</p>
-      <p begin="00:15.975" end="00:17.757" ttm:agent="v1">Why would I think that you need me?</p>
-      <p begin="00:17.757" end="00:19.390" ttm:agent="v1">She broke my heart when I seen her</p>
-      <p begin="00:19.390" end="00:21.259" ttm:agent="v1">Acted like she did not see me</p>
-      <p begin="00:21.259" end="00:23.116" ttm:agent="v1">Done ****ing 'round with these thot hoes</p>
-      <p begin="00:23.116" end="00:24.616" ttm:agent="v1">But you would never believe me</p>
-      <p begin="00:24.345" end="00:25.901" ttm:agent="v1">All these b*****s wanna keep me</p>
-      <p begin="00:25.901" end="00:27.846" ttm:agent="v1">But I want you all to me, me</p>
-      <p begin="00:27.846" end="00:29.346" ttm:agent="v1">Now that she out living freely</p>
-      <p begin="00:29.217" end="00:30.747" ttm:agent="v1">Nene out here getting 'neaky</p>
-      <p begin="00:30.747" end="00:32.514" ttm:agent="v1">Ever since she got her heart broke</p>
-      <p begin="00:32.514" end="00:34.042" ttm:agent="v1">GG, never wanna see me</p>
-      <p begin="00:34.042" end="00:37.384" ttm:agent="v1">Outside, taking shots, drinking Hennessey like it's the Fiji</p>
-      <p begin="00:37.384" end="00:39.101" ttm:agent="v1">If you down, take a round, baby</p>
-      <p begin="00:39.101" end="00:40.601" ttm:agent="v1">You can call me when you need me</p>
-      <p begin="00:39.829" end="00:41.329" ttm:agent="v1"/>
-      <p begin="00:40.166" end="00:41.666" ttm:agent="v1">[Verse 1: Cruza]</p>
-      <p begin="00:40.651" end="00:45.578" ttm:agent="v1" itunes:key="role" itunes:value="background">If you held it down for no reason (Yeah, yeah)</p>
-      <p begin="00:45.578" end="00:53.205" ttm:agent="v1">Been gone for too long, girl, you know that I'm feigning</p>
-      <p begin="00:53.205" end="00:55.711" ttm:agent="v1">Can't be without you, can't think without you</p>
-      <p begin="00:55.711" end="00:58.370" ttm:agent="v1">Can't sleep without you, can't drink without you</p>
-      <p begin="00:58.370" end="01:00.596" ttm:agent="v1">Can't eat without you, been on my mind</p>
-      <p begin="01:00.596" end="01:02.909" ttm:agent="v1">Can't be without you, can't think without you</p>
-      <p begin="01:02.909" end="01:05.203" ttm:agent="v1">Can't sleep without you, can't drink without you</p>
-      <p begin="01:05.203" end="01:07.261" ttm:agent="v1">Can't eat without you, been on my mind</p>
-      <p begin="01:07.261" end="01:15.011" ttm:agent="v1">On my mind, been hard to find</p>
-      <p begin="01:15.011" end="01:18.911" ttm:agent="v1">It gets so hard to sleep when you not with me</p>
-      <p begin="01:18.911" end="01:20.411" ttm:agent="v1"/>
-      <p begin="01:19.177" end="01:20.763" ttm:agent="v1">[Chorus: Eem triplin]</p>
-      <p begin="01:20.763" end="01:22.595" ttm:agent="v1">She told me, &quot;Boy I don't need you&quot;</p>
-      <p begin="01:22.595" end="01:24.336" ttm:agent="v1">Why would I think that you need me?</p>
-      <p begin="01:24.336" end="01:25.911" ttm:agent="v1">She broke my heart when I seen her</p>
-      <p begin="01:25.911" end="01:27.642" ttm:agent="v1">Acted like she did not see me</p>
-      <p begin="01:27.642" end="01:29.426" ttm:agent="v1">Done ****ing 'round with these thot hoes</p>
-      <p begin="01:29.426" end="01:30.972" ttm:agent="v1">But you would never believe me</p>
-      <p begin="01:30.972" end="01:32.574" ttm:agent="v1">All these b*****s wanna keep me</p>
-      <p begin="01:32.574" end="01:34.516" ttm:agent="v1">But I want you all to me, me</p>
-      <p begin="01:34.516" end="01:36.131" ttm:agent="v1">Now that she out living freely</p>
-      <p begin="01:36.131" end="01:37.661" ttm:agent="v1">Nene out here getting 'neaky</p>
-      <p begin="01:37.661" end="01:39.161" ttm:agent="v1">Ever since she got her heart broke</p>
-      <p begin="01:39.078" end="01:40.968" ttm:agent="v1">GG, never wanna see me</p>
-      <p begin="01:40.968" end="01:44.165" ttm:agent="v1">Outside, taking shots, drinking Hennessey like it's the Fiji</p>
-      <p begin="01:44.165" end="01:46.116" ttm:agent="v1">If you down, take a round, baby</p>
-      <p begin="01:46.116" end="01:47.667" ttm:agent="v1">You can call me when you need me</p>
-      <p begin="01:47.667" end="01:49.167" ttm:agent="v1"/>
-      <p begin="01:47.852" end="01:49.352" ttm:agent="v1">[Verse 2: Eem Triplin]</p>
-      <p begin="01:48.168" end="01:50.204" ttm:agent="v1" itunes:key="role" itunes:value="background">All these missed calls knowing that I miss ya (I don't like that shit)</p>
-      <p begin="01:50.204" end="01:53.733" ttm:agent="v1">Take you shopping, I'll take you to the thrift store</p>
-      <p begin="01:53.733" end="01:57.048" ttm:agent="v1">You know I got hoes but they ain't got shit on ya</p>
-      <p begin="01:57.048" end="02:00.197" ttm:agent="v1">Love to be yourself, ain't scared to tell me who you are</p>
-      <p begin="02:00.197" end="02:03.567" ttm:agent="v1">Tell me about your day and all the drama at your job, girl</p>
-      <p begin="02:03.567" end="02:06.892" ttm:agent="v1">I ain't being selfish, I ain't playing with your heart ,girl</p>
-      <p begin="02:06.892" end="02:10.138" ttm:agent="v1">Never let these b*****s get between me and my star-girl</p>
-      <p begin="02:10.138" end="02:12.955" ttm:agent="v1">Ain't mean to break your heart, girl, but can I get unblocked, girl?</p>
-      <p begin="02:12.955" end="02:14.455" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ha-ha-ha)</p>
-      <p begin="02:13.423" end="02:14.923" ttm:agent="v1"/>
-      <p begin="02:13.637" end="02:15.137" ttm:agent="v1">[Chorus: Eem triplin]</p>
-      <p begin="02:13.951" end="02:17.217" ttm:agent="v1">She told me, &quot;Boy I don't need you&quot;</p>
-      <p begin="02:17.217" end="02:18.717" ttm:agent="v1">Why would I think that you need me?</p>
-      <p begin="02:17.718" end="02:19.218" ttm:agent="v1">She broke my heart when I seen her</p>
-      <p begin="02:19.192" end="02:20.887" ttm:agent="v1">Acted like she did not see me</p>
-      <p begin="02:20.887" end="02:22.564" ttm:agent="v1">Done ****ing 'round with these thot hoes</p>
-      <p begin="02:22.564" end="02:24.280" ttm:agent="v1">But you would never believe me</p>
-      <p begin="02:24.280" end="02:25.835" ttm:agent="v1">All these b*****s wanna keep me</p>
-      <p begin="02:25.835" end="02:27.493" ttm:agent="v1">But I want you all to me, me</p>
-      <p begin="02:27.493" end="02:29.362" ttm:agent="v1">Now that she out living freely</p>
-      <p begin="02:29.362" end="02:30.995" ttm:agent="v1">Nene out here getting 'neaky</p>
-      <p begin="02:30.995" end="02:32.615" ttm:agent="v1">Ever since she got her heart broke</p>
-      <p begin="02:32.615" end="02:34.491" ttm:agent="v1">GG, never wanna see me</p>
-      <p begin="02:34.491" end="02:37.410" ttm:agent="v1">Outside, taking shots, drinking Hennessey like it's the Fiji</p>
-      <p begin="02:37.410" end="02:40.225" ttm:agent="v1">If you down, take a round, baby</p>
-      <p begin="02:40.225" end="02:44.225" ttm:agent="v1">You can call me when you need me</p>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>FIJI (feat. Cruza)</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Eem Triplin</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v2">Cruza</ttm:agent>
+
+      <ttm:item type="album">FIJI (feat. Cruza)</ttm:item>
+
+      <ttm:item type="spotify_id">6HubPIhCjRxkwR2zJa2ZLB</ttm:item>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.442" end="00:08.442" ttm:agent="v1">[Chorus: Eem Triplin]</p>
+
+      <p begin="00:13.606" end="00:15.975" ttm:agent="v1">She told me, &quot;Boy I don't need you&quot;</p>
+
+      <p begin="00:15.975" end="00:17.757" ttm:agent="v1">Why would I think that you need me?</p>
+
+      <p begin="00:17.757" end="00:19.390" ttm:agent="v1">She broke my heart when I seen her</p>
+
+      <p begin="00:19.390" end="00:21.259" ttm:agent="v1">Acted like she did not see me</p>
+
+      <p begin="00:21.259" end="00:23.116" ttm:agent="v1">Done ****ing 'round with these thot hoes</p>
+
+      <p begin="00:23.116" end="00:24.616" ttm:agent="v1">But you would never believe me</p>
+
+      <p begin="00:24.345" end="00:25.901" ttm:agent="v1">All these b*****s wanna keep me</p>
+
+      <p begin="00:25.901" end="00:27.846" ttm:agent="v1">But I want you all to me, me</p>
+
+      <p begin="00:27.846" end="00:29.346" ttm:agent="v1">Now that she out living freely</p>
+
+      <p begin="00:29.217" end="00:30.747" ttm:agent="v1">Nene out here getting 'neaky</p>
+
+      <p begin="00:30.747" end="00:32.514" ttm:agent="v1">Ever since she got her heart broke</p>
+
+      <p begin="00:32.514" end="00:34.042" ttm:agent="v1">GG, never wanna see me</p>
+
+      <p begin="00:34.042" end="00:37.384" ttm:agent="v1">Outside, taking shots, drinking Hennessey like it's the Fiji</p>
+
+      <p begin="00:37.384" end="00:39.101" ttm:agent="v1">If you down, take a round, baby</p>
+
+      <p begin="00:39.101" end="00:40.601" ttm:agent="v1">You can call me when you need me</p>
+
+      <p begin="00:39.829" end="00:41.329" ttm:agent="v1"/>
+
+      <p begin="00:40.166" end="00:41.666" ttm:agent="v1">[Verse 1: Cruza]</p>
+
+      <p begin="00:40.651" end="00:45.578" ttm:agent="v1">If you held it down for no reason (Yeah, yeah)</p>
+
+      <p begin="00:45.578" end="00:53.205" ttm:agent="v1">Been gone for too long, girl, you know that I'm feigning</p>
+
+      <p begin="00:53.205" end="00:55.711" ttm:agent="v1">Can't be without you, can't think without you</p>
+
+      <p begin="00:55.711" end="00:58.370" ttm:agent="v1">Can't sleep without you, can't drink without you</p>
+
+      <p begin="00:58.370" end="01:00.596" ttm:agent="v1">Can't eat without you, been on my mind</p>
+
+      <p begin="01:00.596" end="01:02.909" ttm:agent="v1">Can't be without you, can't think without you</p>
+
+      <p begin="01:02.909" end="01:05.203" ttm:agent="v1">Can't sleep without you, can't drink without you</p>
+
+      <p begin="01:05.203" end="01:07.261" ttm:agent="v1">Can't eat without you, been on my mind</p>
+
+      <p begin="01:07.261" end="01:15.011" ttm:agent="v1">On my mind, been hard to find</p>
+
+      <p begin="01:15.011" end="01:18.911" ttm:agent="v1">It gets so hard to sleep when you not with me</p>
+
+      <p begin="01:18.911" end="01:20.411" ttm:agent="v1"/>
+
+      <p begin="01:19.177" end="01:20.763" ttm:agent="v1">[Chorus: Eem triplin]</p>
+
+      <p begin="01:20.763" end="01:22.595" ttm:agent="v1">She told me, &quot;Boy I don't need you&quot;</p>
+
+      <p begin="01:22.595" end="01:24.336" ttm:agent="v1">Why would I think that you need me?</p>
+
+      <p begin="01:24.336" end="01:25.911" ttm:agent="v1">She broke my heart when I seen her</p>
+
+      <p begin="01:25.911" end="01:27.642" ttm:agent="v1">Acted like she did not see me</p>
+
+      <p begin="01:27.642" end="01:29.426" ttm:agent="v1">Done ****ing 'round with these thot hoes</p>
+
+      <p begin="01:29.426" end="01:30.972" ttm:agent="v1">But you would never believe me</p>
+
+      <p begin="01:30.972" end="01:32.574" ttm:agent="v1">All these b*****s wanna keep me</p>
+
+      <p begin="01:32.574" end="01:34.516" ttm:agent="v1">But I want you all to me, me</p>
+
+      <p begin="01:34.516" end="01:36.131" ttm:agent="v1">Now that she out living freely</p>
+
+      <p begin="01:36.131" end="01:37.661" ttm:agent="v1">Nene out here getting 'neaky</p>
+
+      <p begin="01:37.661" end="01:39.161" ttm:agent="v1">Ever since she got her heart broke</p>
+
+      <p begin="01:39.078" end="01:40.968" ttm:agent="v1">GG, never wanna see me</p>
+
+      <p begin="01:40.968" end="01:44.165" ttm:agent="v1">Outside, taking shots, drinking Hennessey like it's the Fiji</p>
+
+      <p begin="01:44.165" end="01:46.116" ttm:agent="v1">If you down, take a round, baby</p>
+
+      <p begin="01:46.116" end="01:47.667" ttm:agent="v1">You can call me when you need me</p>
+
+      <p begin="01:47.667" end="01:49.167" ttm:agent="v1"/>
+
+      <p begin="01:47.852" end="01:49.352" ttm:agent="v1">[Verse 2: Eem Triplin]</p>
+
+      <p begin="01:48.168" end="01:50.204" ttm:agent="v1">All these missed calls knowing that I miss ya (I don't like that shit)</p>
+
+      <p begin="01:50.204" end="01:53.733" ttm:agent="v1">Take you shopping, I'll take you to the thrift store</p>
+
+      <p begin="01:53.733" end="01:57.048" ttm:agent="v1">You know I got hoes but they ain't got shit on ya</p>
+
+      <p begin="01:57.048" end="02:00.197" ttm:agent="v1">Love to be yourself, ain't scared to tell me who you are</p>
+
+      <p begin="02:00.197" end="02:03.567" ttm:agent="v1">Tell me about your day and all the drama at your job, girl</p>
+
+      <p begin="02:03.567" end="02:06.892" ttm:agent="v1">I ain't being selfish, I ain't playing with your heart ,girl</p>
+
+      <p begin="02:06.892" end="02:10.138" ttm:agent="v1">Never let these b*****s get between me and my star-girl</p>
+
+      <p begin="02:10.138" end="02:12.955" ttm:agent="v1">Ain't mean to break your heart, girl, but can I get unblocked, girl?</p>
+
+      <p begin="02:12.955" end="02:14.455" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ha-ha-ha)</p>
+
+      <p begin="02:13.423" end="02:14.923" ttm:agent="v1"/>
+
+      <p begin="02:13.637" end="02:15.137" ttm:agent="v1">[Chorus: Eem triplin]</p>
+
+      <p begin="02:13.951" end="02:17.217" ttm:agent="v1">She told me, &quot;Boy I don't need you&quot;</p>
+
+      <p begin="02:17.217" end="02:18.717" ttm:agent="v1">Why would I think that you need me?</p>
+
+      <p begin="02:17.718" end="02:19.218" ttm:agent="v1">She broke my heart when I seen her</p>
+
+      <p begin="02:19.192" end="02:20.887" ttm:agent="v1">Acted like she did not see me</p>
+
+      <p begin="02:20.887" end="02:22.564" ttm:agent="v1">Done ****ing 'round with these thot hoes</p>
+
+      <p begin="02:22.564" end="02:24.280" ttm:agent="v1">But you would never believe me</p>
+
+      <p begin="02:24.280" end="02:25.835" ttm:agent="v1">All these b*****s wanna keep me</p>
+
+      <p begin="02:25.835" end="02:27.493" ttm:agent="v1">But I want you all to me, me</p>
+
+      <p begin="02:27.493" end="02:29.362" ttm:agent="v1">Now that she out living freely</p>
+
+      <p begin="02:29.362" end="02:30.995" ttm:agent="v1">Nene out here getting 'neaky</p>
+
+      <p begin="02:30.995" end="02:32.615" ttm:agent="v1">Ever since she got her heart broke</p>
+
+      <p begin="02:32.615" end="02:34.491" ttm:agent="v1">GG, never wanna see me</p>
+
+      <p begin="02:34.491" end="02:37.410" ttm:agent="v1">Outside, taking shots, drinking Hennessey like it's the Fiji</p>
+
+      <p begin="02:37.410" end="02:40.225" ttm:agent="v1">If you down, take a round, baby</p>
+
+      <p begin="02:40.225" end="02:44.225" ttm:agent="v1">You can call me when you need me</p>
+
+    </div>
+
+  </body>
+
+</tt>
+

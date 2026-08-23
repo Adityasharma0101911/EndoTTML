@@ -1,87 +1,174 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>infinity (888) - feat. Joey Bada$$</ttm:title>
-      <ttm:agent type="person" xml:id="v1">XXXTENTACION</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">Joey Bada$$</ttm:agent>
-      <ttm:item type="album">?</ttm:item>
-      <ttm:item type="spotify_id">7J2gyNghNTzl4EsLhXp01Q</ttm:item>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.280" end="00:02.610" ttm:agent="v1">Niggas will be like 'Yo, these niggas is wildin' right now'</p>
-      <p begin="00:02.610" end="00:05.210" ttm:agent="v1">Like, these niggas is really wildin'</p>
-      <p begin="00:05.210" end="00:06.710" ttm:agent="v1">You know what I'm sayin'?</p>
-      <p begin="00:06.000" end="00:09.120" ttm:agent="v1">Like, we ain't playin' with y'all niggas, man, ya heard?</p>
-      <p begin="00:09.120" end="00:10.620" ttm:agent="v1">Sometimes you just gotta</p>
-      <p begin="00:10.070" end="00:11.920" ttm:agent="v1">Catch chlamydia on these niggas, G-shit</p>
-      <p begin="00:11.920" end="00:13.800" ttm:agent="v1">You know what I'm sayin'? Gonorrhea, all that shit</p>
-      <p begin="00:13.800" end="00:15.300" ttm:agent="v1">All of that shit</p>
-      <p begin="00:14.240" end="00:15.740" ttm:agent="v1">I catch all diseases in the world</p>
-      <p begin="00:15.650" end="00:17.920" ttm:agent="v1">So the world don't have no more diseases, you feel me?</p>
-      <p begin="00:17.920" end="00:19.420" ttm:agent="v1">G-shit</p>
-      <p begin="00:18.870" end="00:21.580" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah yeah (P. Soul on the track)</p>
-      <p begin="00:21.580" end="00:24.060" ttm:agent="v1">I'm as real as they come, they feel it, get numb</p>
-      <p begin="00:24.060" end="00:26.770" ttm:agent="v1">You think you got a little buzz, so now you can't get stung?</p>
-      <p begin="00:26.770" end="00:29.540" ttm:agent="v1">I keep a razor blade tucked on me, under my tongue</p>
-      <p begin="00:29.540" end="00:32.400" ttm:agent="v1">Don't let me have to tell these niggas about the city I'm from</p>
-      <p begin="00:32.400" end="00:35.160" ttm:agent="v1" itunes:key="role" itunes:value="background">It's Brooklyn, be the home of the hardest ever (yeah)</p>
-      <p begin="00:35.160" end="00:37.960" ttm:agent="v1" itunes:key="role" itunes:value="background">Where them niggas don't aim, they just palm Berettas (bang)</p>
-      <p begin="00:37.960" end="00:39.460" ttm:agent="v1">And bomb whatever</p>
-      <p begin="00:39.060" end="00:40.680" ttm:agent="v1" itunes:key="role" itunes:value="background">Say we don't move calmly, never (no)</p>
-      <p begin="00:40.680" end="00:43.440" ttm:agent="v1">This for my niggas trapped in cells like salmonella</p>
-      <p begin="00:43.440" end="00:46.190" ttm:agent="v1">Look, I could do this shit with no effort,</p>
-      <p begin="00:46.190" end="00:49.260" ttm:agent="v1">No pressure, no gimmick shit, no radio records</p>
-      <p begin="00:49.260" end="00:51.850" ttm:agent="v1">Just textbook rhyme style with the raw texture</p>
-      <p begin="00:51.850" end="00:54.550" ttm:agent="v1">Punchlines, right hooks, now that's a trifecta</p>
-      <p begin="00:54.550" end="00:57.430" ttm:agent="v1">No more free lectures, I'm taxing these niggas extra</p>
-      <p begin="00:57.430" end="01:00.460" ttm:agent="v1">This the Pro of all Eras, he's back in your sector</p>
-      <p begin="01:00.460" end="01:02.970" ttm:agent="v1">So, might be best to protect your neck</p>
-      <p begin="01:02.970" end="01:06.160" ttm:agent="v1">Or profess your debt to the god, he might bless ya</p>
-      <p begin="01:06.160" end="01:09.200" ttm:agent="v1">Murder these flows like I murder these hoe ass niggas</p>
-      <p begin="01:09.200" end="01:11.580" ttm:agent="v1">Where the **** is your energy bro?</p>
-      <p begin="01:11.580" end="01:14.090" ttm:agent="v1">Make your bitch suck a Desert Eagle</p>
-      <p begin="01:14.090" end="01:17.140" ttm:agent="v1">If he try me like a hoe, bitch boy that's on my soul</p>
-      <p begin="01:17.140" end="01:19.870" ttm:agent="v1">Make my flow shapeshift, cold expression like a facelift</p>
-      <p begin="01:19.870" end="01:22.580" ttm:agent="v1">At the publix with like eight grips if you talkin' all that ape shit</p>
-      <p begin="01:22.580" end="01:25.540" ttm:agent="v1">I'm not talkin' YMBAPE shit, but I'm bangin' on my chest, bitch</p>
-      <p begin="01:25.540" end="01:28.240" ttm:agent="v1">Ayy, ayy, ayy, ayy</p>
-      <p begin="01:28.240" end="01:29.740" ttm:agent="v1">Travelin' through the infinity, uh</p>
-      <p begin="01:29.600" end="01:31.100" ttm:agent="v1">You not that nigga you pretend to be, uh</p>
-      <p begin="01:30.830" end="01:32.330" ttm:agent="v1">All that bullshit do not get to me, uh</p>
-      <p begin="01:32.310" end="01:33.810" ttm:agent="v1">I am a spirit, an entity, uh</p>
-      <p begin="01:33.680" end="01:35.180" ttm:agent="v1">You just wanna suck up my energy, uh</p>
-      <p begin="01:34.920" end="01:36.420" ttm:agent="v1">I am the realest since Kennedy, uh</p>
-      <p begin="01:36.380" end="01:38.920" ttm:agent="v1">You bitch ass niggas ****ing suck, you sound the same</p>
-      <p begin="01:38.920" end="01:41.580" ttm:agent="v1">I spit the pain, that's why these young niggas feel the same</p>
-      <p begin="01:41.580" end="01:43.080" ttm:agent="v1">They know I bang,</p>
-      <p begin="01:42.410" end="01:49.210" ttm:agent="v1">I'll pull a ****ing pistol out the Range and act insane</p>
-      <p begin="01:49.210" end="01:52.940" ttm:agent="v1">I spent years at the crib, so I don't feel the pain no more</p>
-      <p begin="01:52.940" end="01:54.820" ttm:agent="v1">I don't feel the pain no more</p>
-      <p begin="01:54.820" end="01:58.110" ttm:agent="v1">I gotta get it how I live, I don't feel the pain no more</p>
-      <p begin="01:58.110" end="02:00.300" ttm:agent="v1">I don't feel the pain no more</p>
-      <p begin="02:00.300" end="02:03.650" ttm:agent="v1">I spent years at the crib, so I don't feel the pain no more</p>
-      <p begin="02:03.650" end="02:05.730" ttm:agent="v1">I don't feel the pain no more</p>
-      <p begin="02:05.730" end="02:09.080" ttm:agent="v1">I gotta get it how I live, so I don't feel the pain no more</p>
-      <p begin="02:09.080" end="02:10.970" ttm:agent="v1">I don't feel the pain no</p>
-      <p begin="02:10.970" end="02:14.600" ttm:agent="v1">I spent years at the crib, so I don't feel the pain no more</p>
-      <p begin="02:14.600" end="02:16.800" ttm:agent="v1">So I don't feel the pain no more</p>
-      <p begin="02:16.800" end="02:20.180" ttm:agent="v1">I gotta get it how I live, I don't feel the pain no more</p>
-      <p begin="02:20.180" end="02:22.380" ttm:agent="v1">I don't feel the pain no more</p>
-      <p begin="02:22.380" end="02:25.760" ttm:agent="v1">I spent years at the crib, so I don't feel the pain no more</p>
-      <p begin="02:25.760" end="02:27.840" ttm:agent="v1">I don't feel the pain no more</p>
-      <p begin="02:27.840" end="02:31.800" ttm:agent="v1" itunes:key="role" itunes:value="background">I gotta get it how I live, so I don't feel the pain no more (yeah)</p>
-      <p begin="02:31.800" end="02:35.170" ttm:agent="v1" itunes:key="role" itunes:value="background">I don't feel the pain (ay) no more (ay)</p>
-      <p begin="02:35.170" end="02:39.170" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>infinity (888) - feat. Joey Bada$$</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">XXXTENTACION</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v2">Joey Bada$$</ttm:agent>
+
+      <ttm:item type="album">?</ttm:item>
+
+      <ttm:item type="spotify_id">7J2gyNghNTzl4EsLhXp01Q</ttm:item>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.280" end="00:02.610" ttm:agent="v1">Niggas will be like 'Yo, these niggas is wildin' right now'</p>
+
+      <p begin="00:02.610" end="00:05.210" ttm:agent="v1">Like, these niggas is really wildin'</p>
+
+      <p begin="00:05.210" end="00:06.710" ttm:agent="v1">You know what I'm sayin'?</p>
+
+      <p begin="00:06.000" end="00:09.120" ttm:agent="v1">Like, we ain't playin' with y'all niggas, man, ya heard?</p>
+
+      <p begin="00:09.120" end="00:10.620" ttm:agent="v1">Sometimes you just gotta</p>
+
+      <p begin="00:10.070" end="00:11.920" ttm:agent="v1">Catch chlamydia on these niggas, G-shit</p>
+
+      <p begin="00:11.920" end="00:13.800" ttm:agent="v1">You know what I'm sayin'? Gonorrhea, all that shit</p>
+
+      <p begin="00:13.800" end="00:15.300" ttm:agent="v1">All of that shit</p>
+
+      <p begin="00:14.240" end="00:15.740" ttm:agent="v1">I catch all diseases in the world</p>
+
+      <p begin="00:15.650" end="00:17.920" ttm:agent="v1">So the world don't have no more diseases, you feel me?</p>
+
+      <p begin="00:17.920" end="00:19.420" ttm:agent="v1">G-shit</p>
+
+      <p begin="00:18.870" end="00:21.580" ttm:agent="v1">Yeah yeah (P. Soul on the track)</p>
+
+      <p begin="00:21.580" end="00:24.060" ttm:agent="v1">I'm as real as they come, they feel it, get numb</p>
+
+      <p begin="00:24.060" end="00:26.770" ttm:agent="v1">You think you got a little buzz, so now you can't get stung?</p>
+
+      <p begin="00:26.770" end="00:29.540" ttm:agent="v1">I keep a razor blade tucked on me, under my tongue</p>
+
+      <p begin="00:29.540" end="00:32.400" ttm:agent="v1">Don't let me have to tell these niggas about the city I'm from</p>
+
+      <p begin="00:32.400" end="00:35.160" ttm:agent="v1">It's Brooklyn, be the home of the hardest ever (yeah)</p>
+
+      <p begin="00:35.160" end="00:37.960" ttm:agent="v1">Where them niggas don't aim, they just palm Berettas (bang)</p>
+
+      <p begin="00:37.960" end="00:39.460" ttm:agent="v1">And bomb whatever</p>
+
+      <p begin="00:39.060" end="00:40.680" ttm:agent="v1">Say we don't move calmly, never (no)</p>
+
+      <p begin="00:40.680" end="00:43.440" ttm:agent="v1">This for my niggas trapped in cells like salmonella</p>
+
+      <p begin="00:43.440" end="00:46.190" ttm:agent="v1">Look, I could do this shit with no effort,</p>
+
+      <p begin="00:46.190" end="00:49.260" ttm:agent="v1">No pressure, no gimmick shit, no radio records</p>
+
+      <p begin="00:49.260" end="00:51.850" ttm:agent="v1">Just textbook rhyme style with the raw texture</p>
+
+      <p begin="00:51.850" end="00:54.550" ttm:agent="v1">Punchlines, right hooks, now that's a trifecta</p>
+
+      <p begin="00:54.550" end="00:57.430" ttm:agent="v1">No more free lectures, I'm taxing these niggas extra</p>
+
+      <p begin="00:57.430" end="01:00.460" ttm:agent="v1">This the Pro of all Eras, he's back in your sector</p>
+
+      <p begin="01:00.460" end="01:02.970" ttm:agent="v1">So, might be best to protect your neck</p>
+
+      <p begin="01:02.970" end="01:06.160" ttm:agent="v1">Or profess your debt to the god, he might bless ya</p>
+
+      <p begin="01:06.160" end="01:09.200" ttm:agent="v1">Murder these flows like I murder these hoe ass niggas</p>
+
+      <p begin="01:09.200" end="01:11.580" ttm:agent="v1">Where the **** is your energy bro?</p>
+
+      <p begin="01:11.580" end="01:14.090" ttm:agent="v1">Make your bitch suck a Desert Eagle</p>
+
+      <p begin="01:14.090" end="01:17.140" ttm:agent="v1">If he try me like a hoe, bitch boy that's on my soul</p>
+
+      <p begin="01:17.140" end="01:19.870" ttm:agent="v1">Make my flow shapeshift, cold expression like a facelift</p>
+
+      <p begin="01:19.870" end="01:22.580" ttm:agent="v1">At the publix with like eight grips if you talkin' all that ape shit</p>
+
+      <p begin="01:22.580" end="01:25.540" ttm:agent="v1">I'm not talkin' YMBAPE shit, but I'm bangin' on my chest, bitch</p>
+
+      <p begin="01:25.540" end="01:28.240" ttm:agent="v1">Ayy, ayy, ayy, ayy</p>
+
+      <p begin="01:28.240" end="01:29.740" ttm:agent="v1">Travelin' through the infinity, uh</p>
+
+      <p begin="01:29.600" end="01:31.100" ttm:agent="v1">You not that nigga you pretend to be, uh</p>
+
+      <p begin="01:30.830" end="01:32.330" ttm:agent="v1">All that bullshit do not get to me, uh</p>
+
+      <p begin="01:32.310" end="01:33.810" ttm:agent="v1">I am a spirit, an entity, uh</p>
+
+      <p begin="01:33.680" end="01:35.180" ttm:agent="v1">You just wanna suck up my energy, uh</p>
+
+      <p begin="01:34.920" end="01:36.420" ttm:agent="v1">I am the realest since Kennedy, uh</p>
+
+      <p begin="01:36.380" end="01:38.920" ttm:agent="v1">You bitch ass niggas ****ing suck, you sound the same</p>
+
+      <p begin="01:38.920" end="01:41.580" ttm:agent="v1">I spit the pain, that's why these young niggas feel the same</p>
+
+      <p begin="01:41.580" end="01:43.080" ttm:agent="v1">They know I bang,</p>
+
+      <p begin="01:42.410" end="01:49.210" ttm:agent="v1">I'll pull a ****ing pistol out the Range and act insane</p>
+
+      <p begin="01:49.210" end="01:52.940" ttm:agent="v1">I spent years at the crib, so I don't feel the pain no more</p>
+
+      <p begin="01:52.940" end="01:54.820" ttm:agent="v1">I don't feel the pain no more</p>
+
+      <p begin="01:54.820" end="01:58.110" ttm:agent="v1">I gotta get it how I live, I don't feel the pain no more</p>
+
+      <p begin="01:58.110" end="02:00.300" ttm:agent="v1">I don't feel the pain no more</p>
+
+      <p begin="02:00.300" end="02:03.650" ttm:agent="v1">I spent years at the crib, so I don't feel the pain no more</p>
+
+      <p begin="02:03.650" end="02:05.730" ttm:agent="v1">I don't feel the pain no more</p>
+
+      <p begin="02:05.730" end="02:09.080" ttm:agent="v1">I gotta get it how I live, so I don't feel the pain no more</p>
+
+      <p begin="02:09.080" end="02:10.970" ttm:agent="v1">I don't feel the pain no</p>
+
+      <p begin="02:10.970" end="02:14.600" ttm:agent="v1">I spent years at the crib, so I don't feel the pain no more</p>
+
+      <p begin="02:14.600" end="02:16.800" ttm:agent="v1">So I don't feel the pain no more</p>
+
+      <p begin="02:16.800" end="02:20.180" ttm:agent="v1">I gotta get it how I live, I don't feel the pain no more</p>
+
+      <p begin="02:20.180" end="02:22.380" ttm:agent="v1">I don't feel the pain no more</p>
+
+      <p begin="02:22.380" end="02:25.760" ttm:agent="v1">I spent years at the crib, so I don't feel the pain no more</p>
+
+      <p begin="02:25.760" end="02:27.840" ttm:agent="v1">I don't feel the pain no more</p>
+
+      <p begin="02:27.840" end="02:31.800" ttm:agent="v1">I gotta get it how I live, so I don't feel the pain no more (yeah)</p>
+
+      <p begin="02:31.800" end="02:35.170" ttm:agent="v1">I don't feel the pain (ay) no more (ay)</p>
+
+      <p begin="02:35.170" end="02:39.170" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

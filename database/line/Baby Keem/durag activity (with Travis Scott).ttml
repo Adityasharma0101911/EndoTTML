@@ -1,100 +1,200 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>durag activity (with Travis Scott)</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Baby Keem</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">Travis Scott</ttm:agent>
-      <ttm:item type="album">The Melodic Blue</ttm:item>
-      <ttm:item type="spotify_id">6c5wQFfJApRMooKE7UQnlH</ttm:item>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:03.343" end="00:06.311" ttm:agent="v1">Freak bitch keep starin' at the Draco</p>
-      <p begin="00:06.311" end="00:09.237" ttm:agent="v1">Type to lob up all my summer, make my days long</p>
-      <p begin="00:09.237" end="00:12.152" ttm:agent="v1">**** up a bitch nigga in my bae clothes</p>
-      <p begin="00:12.152" end="00:15.158" ttm:agent="v1">Askin' question, all my friends are fake hoes</p>
-      <p begin="00:15.158" end="00:18.124" ttm:agent="v1">Double up, no triple six, you're typin' less</p>
-      <p begin="00:18.124" end="00:21.117" ttm:agent="v1">Used to do it nine to five, no double shift</p>
-      <p begin="00:21.117" end="00:24.064" ttm:agent="v1">If he don't share the ho, he's not my friend</p>
-      <p begin="00:24.064" end="00:26.880" ttm:agent="v1">He playin' greedy with the bitch, come get your mans</p>
-      <p begin="00:26.880" end="00:28.380" ttm:agent="v1"/>
-      <p begin="00:27.985" end="00:30.973" ttm:agent="v1">Durag activity, huh-huh</p>
-      <p begin="00:30.973" end="00:33.897" ttm:agent="v1">Durag activity, huh-huh</p>
-      <p begin="00:33.897" end="00:36.807" ttm:agent="v1">Durag activity, huh-huh</p>
-      <p begin="00:36.807" end="00:38.481" ttm:agent="v1">Durag activity</p>
-      <p begin="00:38.481" end="00:41.315" ttm:agent="v1">Big stench, yes, yes, you big stench</p>
-      <p begin="00:41.315" end="00:44.349" ttm:agent="v1" itunes:key="role" itunes:value="background">You big stench, yes, yes, you big stench (Yeah)</p>
-      <p begin="00:44.349" end="00:47.240" ttm:agent="v1">You big stench in my life, you big stench</p>
-      <p begin="00:47.240" end="00:50.766" ttm:agent="v1" itunes:key="role" itunes:value="background">You big stench in my life, you big stench (Ooh)</p>
-      <p begin="00:50.766" end="00:52.266" ttm:agent="v1"/>
-      <p begin="00:50.921" end="00:53.985" ttm:agent="v1" itunes:key="role" itunes:value="background">Your energy is triple six and mine is blessed (Ooh)</p>
-      <p begin="00:53.985" end="00:56.887" ttm:agent="v1" itunes:key="role" itunes:value="background">Thank God I put them crosses on before we met, yeah (Ooh)</p>
-      <p begin="00:56.887" end="00:59.898" ttm:agent="v1" itunes:key="role" itunes:value="background">No time we takin' off today, my type of stress (Stress, ooh)</p>
-      <p begin="00:59.898" end="01:02.902" ttm:agent="v1" itunes:key="role" itunes:value="background">I send them boys by surprise, they gon' collect it (Ooh, yeah)</p>
-      <p begin="01:02.902" end="01:05.821" ttm:agent="v1" itunes:key="role" itunes:value="background">Ain't seen your ass in 'bout two weeks, but how you doin'? (Ooh)</p>
-      <p begin="01:05.821" end="01:08.854" ttm:agent="v1" itunes:key="role" itunes:value="background">But this Bugatti cost me three, I ten-to-two it (Ooh, yeah)</p>
-      <p begin="01:08.854" end="01:11.917" ttm:agent="v1" itunes:key="role" itunes:value="background">Ooh, Jacques, you a bitch, yeah (Oh)</p>
-      <p begin="01:11.917" end="01:14.833" ttm:agent="v1" itunes:key="role" itunes:value="background">If it's beef, it's pedigree, my dawgs gon' chew it (Yeah, chew)</p>
-      <p begin="01:14.833" end="01:17.700" ttm:agent="v1" itunes:key="role" itunes:value="background">Takin' blues right after blues is how she blew it (Yeah, ah)</p>
-      <p begin="01:17.700" end="01:20.569" ttm:agent="v1" itunes:key="role" itunes:value="background">Ate the whole bag 'fore it got to me, she runnin' through it (Yeah)</p>
-      <p begin="01:20.569" end="01:23.040" ttm:agent="v1">Keep talkin' wreck when we do crashes, have insurances</p>
-      <p begin="01:23.040" end="01:26.491" ttm:agent="v1">Talkin' money when I'm on the Peloton for the endurance</p>
-      <p begin="01:26.491" end="01:29.758" ttm:agent="v1" itunes:key="role" itunes:value="background">I like IQ and she cute, so she special (Yeah, yeah)</p>
-      <p begin="01:29.758" end="01:32.769" ttm:agent="v1" itunes:key="role" itunes:value="background">And I like the way she bounce it, instrumental (Instru—)</p>
-      <p begin="01:32.769" end="01:35.776" ttm:agent="v1" itunes:key="role" itunes:value="background">I can't fall in love, it's ****ing up my mental (****ing up my mental)</p>
-      <p begin="01:35.776" end="01:38.851" ttm:agent="v1">I can't **** with bitch niggas on the menstrual</p>
-      <p begin="01:38.851" end="01:41.616" ttm:agent="v1" itunes:key="role" itunes:value="background">Too good, 2AM, need the fade (Yeah, yeah)</p>
-      <p begin="01:41.616" end="01:44.589" ttm:agent="v1" itunes:key="role" itunes:value="background">I like you at 4AM when it ain't safe (It ain't safe)</p>
-      <p begin="01:44.589" end="01:47.626" ttm:agent="v1" itunes:key="role" itunes:value="background">And she with it, with the blicky when it's late (Late)</p>
-      <p begin="01:47.626" end="01:50.625" ttm:agent="v1" itunes:key="role" itunes:value="background">She roll me one, I **** her down, she tie my braids up (Yeah)</p>
-      <p begin="01:50.625" end="01:53.428" ttm:agent="v1" itunes:key="role" itunes:value="background">She go out, I go in, it's okay (Ooh, alright)</p>
-      <p begin="01:53.428" end="01:56.532" ttm:agent="v1" itunes:key="role" itunes:value="background">She keep powder on her nose, it's not no makeup (It's lit)</p>
-      <p begin="01:56.532" end="01:59.484" ttm:agent="v1">Bandana silky, on the braces inside her later</p>
-      <p begin="01:59.484" end="02:02.366" ttm:agent="v1">She need a light, she need a taste-taste-ta-ta-taste</p>
-      <p begin="02:02.366" end="02:03.866" ttm:agent="v1"/>
-      <p begin="02:03.233" end="02:06.177" ttm:agent="v1">Durag activity, huh-huh</p>
-      <p begin="02:06.177" end="02:09.235" ttm:agent="v1">Durag activity, huh-huh</p>
-      <p begin="02:09.235" end="02:12.181" ttm:agent="v1">Durag activity, huh-huh</p>
-      <p begin="02:12.181" end="02:13.905" ttm:agent="v1">Durag activity</p>
-      <p begin="02:13.905" end="02:16.696" ttm:agent="v1">Big stench, yes, yes, you big stench</p>
-      <p begin="02:16.696" end="02:19.637" ttm:agent="v1">You big stench, yes, yes, you big stench</p>
-      <p begin="02:19.637" end="02:22.610" ttm:agent="v1">You big stench in my life, you big stench</p>
-      <p begin="02:22.610" end="02:25.431" ttm:agent="v1">You big stench in my life, you big stench</p>
-      <p begin="02:25.431" end="02:26.931" ttm:agent="v1"/>
-      <p begin="02:26.406" end="02:28.302" ttm:agent="v1">Huh, I'm big rich</p>
-      <p begin="02:28.302" end="02:31.572" ttm:agent="v1">Go run that comma, tell your mama, ho-ho</p>
-      <p begin="02:31.572" end="02:34.503" ttm:agent="v1">You know I'm crazy like my mama, ho-ho</p>
-      <p begin="02:34.503" end="02:37.551" ttm:agent="v1">You know I get it from my mama, ho-ho</p>
-      <p begin="02:37.551" end="02:40.940" ttm:agent="v1">Don't talk to your mama crazy, ho-ho, have a baby, ho</p>
-      <p begin="02:40.940" end="02:43.577" ttm:agent="v1">Give me top and braid my hair, not while I'm prayin' tho</p>
-      <p begin="02:43.577" end="02:46.909" ttm:agent="v1">Don't be eyeballin' your sister, ho-ho, smokin' mystical</p>
-      <p begin="02:46.909" end="02:49.917" ttm:agent="v1">Two hoes gettin' physical, huh, more like scissorin'</p>
-      <p begin="02:49.917" end="02:52.882" ttm:agent="v1">Kiss a bitch, no Listerine, pussy flickerin'</p>
-      <p begin="02:52.882" end="02:55.870" ttm:agent="v1">***** taste like tangerine</p>
-      <p begin="02:55.870" end="02:58.814" ttm:agent="v1" itunes:key="role" itunes:value="background">You went back to your ex on me (Huh), just to flex on me</p>
-      <p begin="02:58.814" end="03:01.732" ttm:agent="v1">But that shit don't mean anything, quit textin' me</p>
-      <p begin="03:01.732" end="03:04.994" ttm:agent="v1">You got an innocent face, I stroke it</p>
-      <p begin="03:04.994" end="03:07.981" ttm:agent="v1">You got good taste, when we met, I left you frozen</p>
-      <p begin="03:07.981" end="03:11.010" ttm:agent="v1">I know you wanna be a rich nigga focus</p>
-      <p begin="03:11.010" end="03:13.840" ttm:agent="v1">You love me because I get the check and throw it</p>
-      <p begin="03:13.840" end="03:15.340" ttm:agent="v1"/>
-      <p begin="03:14.876" end="03:17.812" ttm:agent="v1">Durag activity, huh-huh</p>
-      <p begin="03:17.812" end="03:20.747" ttm:agent="v1">Durag activity, huh-huh</p>
-      <p begin="03:20.747" end="03:23.733" ttm:agent="v1">Durag activity, huh-huh</p>
-      <p begin="03:23.733" end="03:25.370" ttm:agent="v1">Durag activity</p>
-      <p begin="03:25.370" end="03:28.217" ttm:agent="v1">Big stench, yes, yes, you big stench</p>
-      <p begin="03:28.217" end="03:31.179" ttm:agent="v1">You big stench, yes, yes, you big stench</p>
-      <p begin="03:31.179" end="03:34.131" ttm:agent="v1">You big stench in my life, you big stench</p>
-      <p begin="03:34.131" end="03:38.131" ttm:agent="v1">You big stench in my life, you big stench</p>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>durag activity (with Travis Scott)</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Baby Keem</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v2">Travis Scott</ttm:agent>
+
+      <ttm:item type="album">The Melodic Blue</ttm:item>
+
+      <ttm:item type="spotify_id">6c5wQFfJApRMooKE7UQnlH</ttm:item>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:03.343" end="00:06.311" ttm:agent="v1">Freak bitch keep starin' at the Draco</p>
+
+      <p begin="00:06.311" end="00:09.237" ttm:agent="v1">Type to lob up all my summer, make my days long</p>
+
+      <p begin="00:09.237" end="00:12.152" ttm:agent="v1">**** up a bitch nigga in my bae clothes</p>
+
+      <p begin="00:12.152" end="00:15.158" ttm:agent="v1">Askin' question, all my friends are fake hoes</p>
+
+      <p begin="00:15.158" end="00:18.124" ttm:agent="v1">Double up, no triple six, you're typin' less</p>
+
+      <p begin="00:18.124" end="00:21.117" ttm:agent="v1">Used to do it nine to five, no double shift</p>
+
+      <p begin="00:21.117" end="00:24.064" ttm:agent="v1">If he don't share the ho, he's not my friend</p>
+
+      <p begin="00:24.064" end="00:26.880" ttm:agent="v1">He playin' greedy with the bitch, come get your mans</p>
+
+      <p begin="00:26.880" end="00:28.380" ttm:agent="v1"/>
+
+      <p begin="00:27.985" end="00:30.973" ttm:agent="v1">Durag activity, huh-huh</p>
+
+      <p begin="00:30.973" end="00:33.897" ttm:agent="v1">Durag activity, huh-huh</p>
+
+      <p begin="00:33.897" end="00:36.807" ttm:agent="v1">Durag activity, huh-huh</p>
+
+      <p begin="00:36.807" end="00:38.481" ttm:agent="v1">Durag activity</p>
+
+      <p begin="00:38.481" end="00:41.315" ttm:agent="v1">Big stench, yes, yes, you big stench</p>
+
+      <p begin="00:41.315" end="00:44.349" ttm:agent="v1">You big stench, yes, yes, you big stench (Yeah)</p>
+
+      <p begin="00:44.349" end="00:47.240" ttm:agent="v1">You big stench in my life, you big stench</p>
+
+      <p begin="00:47.240" end="00:50.766" ttm:agent="v1">You big stench in my life, you big stench (Ooh)</p>
+
+      <p begin="00:50.766" end="00:52.266" ttm:agent="v1"/>
+
+      <p begin="00:50.921" end="00:53.985" ttm:agent="v1">Your energy is triple six and mine is blessed (Ooh)</p>
+
+      <p begin="00:53.985" end="00:56.887" ttm:agent="v1">Thank God I put them crosses on before we met, yeah (Ooh)</p>
+
+      <p begin="00:56.887" end="00:59.898" ttm:agent="v1">No time we takin' off today, my type of stress (Stress, ooh)</p>
+
+      <p begin="00:59.898" end="01:02.902" ttm:agent="v1">I send them boys by surprise, they gon' collect it (Ooh, yeah)</p>
+
+      <p begin="01:02.902" end="01:05.821" ttm:agent="v1">Ain't seen your ass in 'bout two weeks, but how you doin'? (Ooh)</p>
+
+      <p begin="01:05.821" end="01:08.854" ttm:agent="v1">But this Bugatti cost me three, I ten-to-two it (Ooh, yeah)</p>
+
+      <p begin="01:08.854" end="01:11.917" ttm:agent="v1">Ooh, Jacques, you a bitch, yeah (Oh)</p>
+
+      <p begin="01:11.917" end="01:14.833" ttm:agent="v1">If it's beef, it's pedigree, my dawgs gon' chew it (Yeah, chew)</p>
+
+      <p begin="01:14.833" end="01:17.700" ttm:agent="v1">Takin' blues right after blues is how she blew it (Yeah, ah)</p>
+
+      <p begin="01:17.700" end="01:20.569" ttm:agent="v1">Ate the whole bag 'fore it got to me, she runnin' through it (Yeah)</p>
+
+      <p begin="01:20.569" end="01:23.040" ttm:agent="v1">Keep talkin' wreck when we do crashes, have insurances</p>
+
+      <p begin="01:23.040" end="01:26.491" ttm:agent="v1">Talkin' money when I'm on the Peloton for the endurance</p>
+
+      <p begin="01:26.491" end="01:29.758" ttm:agent="v1">I like IQ and she cute, so she special (Yeah, yeah)</p>
+
+      <p begin="01:29.758" end="01:32.769" ttm:agent="v1">And I like the way she bounce it, instrumental (Instru—)</p>
+
+      <p begin="01:32.769" end="01:35.776" ttm:agent="v1">I can't fall in love, it's ****ing up my mental (****ing up my mental)</p>
+
+      <p begin="01:35.776" end="01:38.851" ttm:agent="v1">I can't **** with bitch niggas on the menstrual</p>
+
+      <p begin="01:38.851" end="01:41.616" ttm:agent="v1">Too good, 2AM, need the fade (Yeah, yeah)</p>
+
+      <p begin="01:41.616" end="01:44.589" ttm:agent="v1">I like you at 4AM when it ain't safe (It ain't safe)</p>
+
+      <p begin="01:44.589" end="01:47.626" ttm:agent="v1">And she with it, with the blicky when it's late (Late)</p>
+
+      <p begin="01:47.626" end="01:50.625" ttm:agent="v1">She roll me one, I **** her down, she tie my braids up (Yeah)</p>
+
+      <p begin="01:50.625" end="01:53.428" ttm:agent="v1">She go out, I go in, it's okay (Ooh, alright)</p>
+
+      <p begin="01:53.428" end="01:56.532" ttm:agent="v1">She keep powder on her nose, it's not no makeup (It's lit)</p>
+
+      <p begin="01:56.532" end="01:59.484" ttm:agent="v1">Bandana silky, on the braces inside her later</p>
+
+      <p begin="01:59.484" end="02:02.366" ttm:agent="v1">She need a light, she need a taste-taste-ta-ta-taste</p>
+
+      <p begin="02:02.366" end="02:03.866" ttm:agent="v1"/>
+
+      <p begin="02:03.233" end="02:06.177" ttm:agent="v1">Durag activity, huh-huh</p>
+
+      <p begin="02:06.177" end="02:09.235" ttm:agent="v1">Durag activity, huh-huh</p>
+
+      <p begin="02:09.235" end="02:12.181" ttm:agent="v1">Durag activity, huh-huh</p>
+
+      <p begin="02:12.181" end="02:13.905" ttm:agent="v1">Durag activity</p>
+
+      <p begin="02:13.905" end="02:16.696" ttm:agent="v1">Big stench, yes, yes, you big stench</p>
+
+      <p begin="02:16.696" end="02:19.637" ttm:agent="v1">You big stench, yes, yes, you big stench</p>
+
+      <p begin="02:19.637" end="02:22.610" ttm:agent="v1">You big stench in my life, you big stench</p>
+
+      <p begin="02:22.610" end="02:25.431" ttm:agent="v1">You big stench in my life, you big stench</p>
+
+      <p begin="02:25.431" end="02:26.931" ttm:agent="v1"/>
+
+      <p begin="02:26.406" end="02:28.302" ttm:agent="v1">Huh, I'm big rich</p>
+
+      <p begin="02:28.302" end="02:31.572" ttm:agent="v1">Go run that comma, tell your mama, ho-ho</p>
+
+      <p begin="02:31.572" end="02:34.503" ttm:agent="v1">You know I'm crazy like my mama, ho-ho</p>
+
+      <p begin="02:34.503" end="02:37.551" ttm:agent="v1">You know I get it from my mama, ho-ho</p>
+
+      <p begin="02:37.551" end="02:40.940" ttm:agent="v1">Don't talk to your mama crazy, ho-ho, have a baby, ho</p>
+
+      <p begin="02:40.940" end="02:43.577" ttm:agent="v1">Give me top and braid my hair, not while I'm prayin' tho</p>
+
+      <p begin="02:43.577" end="02:46.909" ttm:agent="v1">Don't be eyeballin' your sister, ho-ho, smokin' mystical</p>
+
+      <p begin="02:46.909" end="02:49.917" ttm:agent="v1">Two hoes gettin' physical, huh, more like scissorin'</p>
+
+      <p begin="02:49.917" end="02:52.882" ttm:agent="v1">Kiss a bitch, no Listerine, pussy flickerin'</p>
+
+      <p begin="02:52.882" end="02:55.870" ttm:agent="v1">***** taste like tangerine</p>
+
+      <p begin="02:55.870" end="02:58.814" ttm:agent="v1">You went back to your ex on me (Huh), just to flex on me</p>
+
+      <p begin="02:58.814" end="03:01.732" ttm:agent="v1">But that shit don't mean anything, quit textin' me</p>
+
+      <p begin="03:01.732" end="03:04.994" ttm:agent="v1">You got an innocent face, I stroke it</p>
+
+      <p begin="03:04.994" end="03:07.981" ttm:agent="v1">You got good taste, when we met, I left you frozen</p>
+
+      <p begin="03:07.981" end="03:11.010" ttm:agent="v1">I know you wanna be a rich nigga focus</p>
+
+      <p begin="03:11.010" end="03:13.840" ttm:agent="v1">You love me because I get the check and throw it</p>
+
+      <p begin="03:13.840" end="03:15.340" ttm:agent="v1"/>
+
+      <p begin="03:14.876" end="03:17.812" ttm:agent="v1">Durag activity, huh-huh</p>
+
+      <p begin="03:17.812" end="03:20.747" ttm:agent="v1">Durag activity, huh-huh</p>
+
+      <p begin="03:20.747" end="03:23.733" ttm:agent="v1">Durag activity, huh-huh</p>
+
+      <p begin="03:23.733" end="03:25.370" ttm:agent="v1">Durag activity</p>
+
+      <p begin="03:25.370" end="03:28.217" ttm:agent="v1">Big stench, yes, yes, you big stench</p>
+
+      <p begin="03:28.217" end="03:31.179" ttm:agent="v1">You big stench, yes, yes, you big stench</p>
+
+      <p begin="03:31.179" end="03:34.131" ttm:agent="v1">You big stench in my life, you big stench</p>
+
+      <p begin="03:34.131" end="03:38.131" ttm:agent="v1">You big stench in my life, you big stench</p>
+
+    </div>
+
+  </body>
+
+</tt>
+

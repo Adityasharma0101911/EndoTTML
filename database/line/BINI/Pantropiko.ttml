@@ -1,104 +1,208 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>Pantropiko</ttm:title>
-      <ttm:agent type="person" xml:id="v1">BINI</ttm:agent>
-      <ttm:item type="album">Pantropiko</ttm:item>
-      <ttm:item type="spotify_id">6Csrqur3IfnVp0EtHskjMw</ttm:item>
-      <itunes:duration>03:45.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:01.960" end="00:09.520" ttm:agent="v1">Ah, ah, oh-oh-oh</p>
-      <p begin="00:09.520" end="00:15.070" ttm:agent="v1">Ikaw ay nasilayan sa 'di inakalang panahon</p>
-      <p begin="00:15.070" end="00:20.030" ttm:agent="v1">Lumapit nang biglaan para bang 'di nagkataon</p>
-      <p begin="00:20.030" end="00:25.260" ttm:agent="v1">Ito nga ba'y tadhana, tangi kong hiling sa mga tala</p>
-      <p begin="00:25.260" end="00:30.200" ttm:agent="v1">Mga pintig ng puso'y nakalaan para sa'yo</p>
-      <p begin="00:30.200" end="00:33.070" ttm:agent="v1">From following your footprints in the sand</p>
-      <p begin="00:33.070" end="00:35.530" ttm:agent="v1">To walking with you on this island</p>
-      <p begin="00:35.530" end="00:37.960" ttm:agent="v1">Guided by the grip of your hand</p>
-      <p begin="00:37.960" end="00:40.260" ttm:agent="v1">I can feel you're holding my world</p>
-      <p begin="00:40.260" end="00:42.110" ttm:agent="v1">Ano ba itong nadarama?</p>
-      <p begin="00:42.110" end="00:43.610" ttm:agent="v1">Oh, shuxs</p>
-      <p begin="00:42.990" end="00:45.330" ttm:agent="v1">Ito ba'y pag-ibig na?</p>
-      <p begin="00:45.330" end="00:47.220" ttm:agent="v1">Totoo ba ang pinadama?</p>
-      <p begin="00:47.220" end="00:50.670" ttm:agent="v1">'Cause boy, it feels so good</p>
-      <p begin="00:50.670" end="00:53.120" ttm:agent="v1">Bawat araw, mas sumasaya</p>
-      <p begin="00:53.120" end="00:55.430" ttm:agent="v1">Magmula nang nakita ka</p>
-      <p begin="00:55.430" end="00:58.140" ttm:agent="v1">Nawawalan ng pangangamba</p>
-      <p begin="00:58.140" end="01:00.630" ttm:agent="v1">'Pag ika'y kapiling na</p>
-      <p begin="01:00.630" end="01:03.390" ttm:agent="v1">Feels like summer when I'm with you</p>
-      <p begin="01:03.390" end="01:05.590" ttm:agent="v1">Parang islang pantropiko</p>
-      <p begin="01:05.590" end="01:08.290" ttm:agent="v1">Can't wait to go back with you</p>
-      <p begin="01:08.290" end="01:10.760" ttm:agent="v1">Sa islang pantropiko</p>
-      <p begin="01:10.760" end="01:13.260" ttm:agent="v1">Pantropiko, pantropiko, oh</p>
-      <p begin="01:13.260" end="01:15.730" ttm:agent="v1">Sa islang pantropiko</p>
-      <p begin="01:15.730" end="01:18.140" ttm:agent="v1">Pantropiko, pantropiko, oh</p>
-      <p begin="01:18.140" end="01:20.640" ttm:agent="v1">Sa islang pantropiko</p>
-      <p begin="01:20.640" end="01:25.820" ttm:agent="v1">Sumapit na ang araw, nang ika'y muling nakausap</p>
-      <p begin="01:25.820" end="01:30.970" ttm:agent="v1" itunes:key="role" itunes:value="background">Hinahanap ka sa tabi (tabi), 'di na mawala sa isip</p>
-      <p begin="01:30.970" end="01:35.880" ttm:agent="v1" itunes:key="role" itunes:value="background">Nakita kang papalapit (oh), puso ko'y bigla nang 'di mapakali</p>
-      <p begin="01:35.880" end="01:40.800" ttm:agent="v1">Ano nga ba'ng sinapit? Kakapit ba hanggang huli?</p>
-      <p begin="01:40.800" end="01:43.640" ttm:agent="v1">From following your footprints in the sand</p>
-      <p begin="01:43.640" end="01:46.100" ttm:agent="v1">To walking with you on this island</p>
-      <p begin="01:46.100" end="01:48.870" ttm:agent="v1">Guided by the grip of your hand</p>
-      <p begin="01:48.870" end="01:50.960" ttm:agent="v1">I can feel you're holding my world</p>
-      <p begin="01:50.960" end="01:52.670" ttm:agent="v1">Ano ba itong nadarama?</p>
-      <p begin="01:52.670" end="01:54.170" ttm:agent="v1">Oh, shuxs</p>
-      <p begin="01:53.470" end="01:56.030" ttm:agent="v1">Ito ba'y pag-ibig na?</p>
-      <p begin="01:56.030" end="01:57.700" ttm:agent="v1">Totoo ba ang pinadama?</p>
-      <p begin="01:57.700" end="02:01.330" ttm:agent="v1">'Cause boy, it feels so good</p>
-      <p begin="02:01.330" end="02:03.700" ttm:agent="v1">Bawat araw, mas sumasaya</p>
-      <p begin="02:03.700" end="02:06.220" ttm:agent="v1">Magmula nang nakita ka</p>
-      <p begin="02:06.220" end="02:08.730" ttm:agent="v1">Nawawalan ng pangangamba</p>
-      <p begin="02:08.730" end="02:11.250" ttm:agent="v1">'Pag ika'y kapiling na</p>
-      <p begin="02:11.250" end="02:14.040" ttm:agent="v1">Feels like summer when I'm with you</p>
-      <p begin="02:14.040" end="02:16.410" ttm:agent="v1">Parang islang pantropiko</p>
-      <p begin="02:16.410" end="02:18.960" ttm:agent="v1">Can't wait to go back with you</p>
-      <p begin="02:18.960" end="02:21.480" ttm:agent="v1">Sa islang pantropiko</p>
-      <p begin="02:21.480" end="02:23.970" ttm:agent="v1">Pantropiko, pantropiko, oh</p>
-      <p begin="02:23.970" end="02:26.790" ttm:agent="v1">Sa islang pantropiko</p>
-      <p begin="02:26.790" end="02:28.970" ttm:agent="v1">Pantropiko, pantropiko, oh</p>
-      <p begin="02:28.970" end="02:31.150" ttm:agent="v1">Sa islang pantropiko</p>
-      <p begin="02:31.150" end="02:33.880" ttm:agent="v1">On this tropical island sitting on the white sand</p>
-      <p begin="02:33.880" end="02:35.380" ttm:agent="v1">Guess I found my love with you</p>
-      <p begin="02:35.240" end="02:37.420" ttm:agent="v1">'Cause with you, boy, I'm going crazy</p>
-      <p begin="02:37.420" end="02:41.520" ttm:agent="v1">You could be my baby, I could be your lady, oh, oh, oh-oh</p>
-      <p begin="02:41.520" end="02:44.080" ttm:agent="v1">'Di na maawatan ang kilig na bigay riyan</p>
-      <p begin="02:44.080" end="02:46.870" ttm:agent="v1">Puso'y parang bang 'di na mapigilan</p>
-      <p begin="02:46.870" end="02:49.340" ttm:agent="v1">Kumakabog o humihinto?</p>
-      <p begin="02:49.340" end="02:51.760" ttm:agent="v1">Gumugulo ang puso ko sa'yo</p>
-      <p begin="02:51.760" end="02:54.250" ttm:agent="v1">From following your footprints in the sand</p>
-      <p begin="02:54.250" end="02:56.840" ttm:agent="v1">To walking with you on this island</p>
-      <p begin="02:56.840" end="02:59.300" ttm:agent="v1">Guided by the grip of your hand</p>
-      <p begin="02:59.300" end="03:01.560" ttm:agent="v1">I can feel you're holding my world</p>
-      <p begin="03:01.560" end="03:03.410" ttm:agent="v1">Ano ba itong nadarama?</p>
-      <p begin="03:03.410" end="03:04.910" ttm:agent="v1">Oh, shuxs</p>
-      <p begin="03:04.270" end="03:06.630" ttm:agent="v1">Ito ba'y pag-ibig na?</p>
-      <p begin="03:06.630" end="03:08.380" ttm:agent="v1">Totoo ba ang pinadama?</p>
-      <p begin="03:08.380" end="03:11.910" ttm:agent="v1">'Cause boy, it feels so good</p>
-      <p begin="03:11.910" end="03:14.340" ttm:agent="v1">Bawat araw, mas sumasaya</p>
-      <p begin="03:14.340" end="03:16.820" ttm:agent="v1">Magmula nang nakita ka</p>
-      <p begin="03:16.820" end="03:19.610" ttm:agent="v1">Nawawalan ng pangangamba</p>
-      <p begin="03:19.610" end="03:21.860" ttm:agent="v1" itunes:key="role" itunes:value="background">'Pag ika'y kapiling na (kapiling na)</p>
-      <p begin="03:21.860" end="03:24.860" ttm:agent="v1">Feels like summer when I'm with you</p>
-      <p begin="03:24.860" end="03:27.050" ttm:agent="v1">Parang islang pantropiko</p>
-      <p begin="03:27.050" end="03:29.710" ttm:agent="v1">Can't wait to go back with you</p>
-      <p begin="03:29.710" end="03:32.370" ttm:agent="v1">Sa islang pantropiko</p>
-      <p begin="03:32.370" end="03:34.720" ttm:agent="v1">Pantropiko, pantropiko, oh</p>
-      <p begin="03:34.720" end="03:37.390" ttm:agent="v1">Sa islang pantropiko</p>
-      <p begin="03:37.390" end="03:39.830" ttm:agent="v1">Pantropiko, pantropiko, oh</p>
-      <p begin="03:39.830" end="03:41.660" ttm:agent="v1">Sa islang pantropiko</p>
-      <p begin="03:41.660" end="03:45.660" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>Pantropiko</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">BINI</ttm:agent>
+
+      <ttm:item type="album">Pantropiko</ttm:item>
+
+      <ttm:item type="spotify_id">6Csrqur3IfnVp0EtHskjMw</ttm:item>
+
+      <itunes:duration>03:45.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:01.960" end="00:09.520" ttm:agent="v1">Ah, ah, oh-oh-oh</p>
+
+      <p begin="00:09.520" end="00:15.070" ttm:agent="v1">Ikaw ay nasilayan sa 'di inakalang panahon</p>
+
+      <p begin="00:15.070" end="00:20.030" ttm:agent="v1">Lumapit nang biglaan para bang 'di nagkataon</p>
+
+      <p begin="00:20.030" end="00:25.260" ttm:agent="v1">Ito nga ba'y tadhana, tangi kong hiling sa mga tala</p>
+
+      <p begin="00:25.260" end="00:30.200" ttm:agent="v1">Mga pintig ng puso'y nakalaan para sa'yo</p>
+
+      <p begin="00:30.200" end="00:33.070" ttm:agent="v1">From following your footprints in the sand</p>
+
+      <p begin="00:33.070" end="00:35.530" ttm:agent="v1">To walking with you on this island</p>
+
+      <p begin="00:35.530" end="00:37.960" ttm:agent="v1">Guided by the grip of your hand</p>
+
+      <p begin="00:37.960" end="00:40.260" ttm:agent="v1">I can feel you're holding my world</p>
+
+      <p begin="00:40.260" end="00:42.110" ttm:agent="v1">Ano ba itong nadarama?</p>
+
+      <p begin="00:42.110" end="00:43.610" ttm:agent="v1">Oh, shuxs</p>
+
+      <p begin="00:42.990" end="00:45.330" ttm:agent="v1">Ito ba'y pag-ibig na?</p>
+
+      <p begin="00:45.330" end="00:47.220" ttm:agent="v1">Totoo ba ang pinadama?</p>
+
+      <p begin="00:47.220" end="00:50.670" ttm:agent="v1">'Cause boy, it feels so good</p>
+
+      <p begin="00:50.670" end="00:53.120" ttm:agent="v1">Bawat araw, mas sumasaya</p>
+
+      <p begin="00:53.120" end="00:55.430" ttm:agent="v1">Magmula nang nakita ka</p>
+
+      <p begin="00:55.430" end="00:58.140" ttm:agent="v1">Nawawalan ng pangangamba</p>
+
+      <p begin="00:58.140" end="01:00.630" ttm:agent="v1">'Pag ika'y kapiling na</p>
+
+      <p begin="01:00.630" end="01:03.390" ttm:agent="v1">Feels like summer when I'm with you</p>
+
+      <p begin="01:03.390" end="01:05.590" ttm:agent="v1">Parang islang pantropiko</p>
+
+      <p begin="01:05.590" end="01:08.290" ttm:agent="v1">Can't wait to go back with you</p>
+
+      <p begin="01:08.290" end="01:10.760" ttm:agent="v1">Sa islang pantropiko</p>
+
+      <p begin="01:10.760" end="01:13.260" ttm:agent="v1">Pantropiko, pantropiko, oh</p>
+
+      <p begin="01:13.260" end="01:15.730" ttm:agent="v1">Sa islang pantropiko</p>
+
+      <p begin="01:15.730" end="01:18.140" ttm:agent="v1">Pantropiko, pantropiko, oh</p>
+
+      <p begin="01:18.140" end="01:20.640" ttm:agent="v1">Sa islang pantropiko</p>
+
+      <p begin="01:20.640" end="01:25.820" ttm:agent="v1">Sumapit na ang araw, nang ika'y muling nakausap</p>
+
+      <p begin="01:25.820" end="01:30.970" ttm:agent="v1">Hinahanap ka sa tabi (tabi), 'di na mawala sa isip</p>
+
+      <p begin="01:30.970" end="01:35.880" ttm:agent="v1">Nakita kang papalapit (oh), puso ko'y bigla nang 'di mapakali</p>
+
+      <p begin="01:35.880" end="01:40.800" ttm:agent="v1">Ano nga ba'ng sinapit? Kakapit ba hanggang huli?</p>
+
+      <p begin="01:40.800" end="01:43.640" ttm:agent="v1">From following your footprints in the sand</p>
+
+      <p begin="01:43.640" end="01:46.100" ttm:agent="v1">To walking with you on this island</p>
+
+      <p begin="01:46.100" end="01:48.870" ttm:agent="v1">Guided by the grip of your hand</p>
+
+      <p begin="01:48.870" end="01:50.960" ttm:agent="v1">I can feel you're holding my world</p>
+
+      <p begin="01:50.960" end="01:52.670" ttm:agent="v1">Ano ba itong nadarama?</p>
+
+      <p begin="01:52.670" end="01:54.170" ttm:agent="v1">Oh, shuxs</p>
+
+      <p begin="01:53.470" end="01:56.030" ttm:agent="v1">Ito ba'y pag-ibig na?</p>
+
+      <p begin="01:56.030" end="01:57.700" ttm:agent="v1">Totoo ba ang pinadama?</p>
+
+      <p begin="01:57.700" end="02:01.330" ttm:agent="v1">'Cause boy, it feels so good</p>
+
+      <p begin="02:01.330" end="02:03.700" ttm:agent="v1">Bawat araw, mas sumasaya</p>
+
+      <p begin="02:03.700" end="02:06.220" ttm:agent="v1">Magmula nang nakita ka</p>
+
+      <p begin="02:06.220" end="02:08.730" ttm:agent="v1">Nawawalan ng pangangamba</p>
+
+      <p begin="02:08.730" end="02:11.250" ttm:agent="v1">'Pag ika'y kapiling na</p>
+
+      <p begin="02:11.250" end="02:14.040" ttm:agent="v1">Feels like summer when I'm with you</p>
+
+      <p begin="02:14.040" end="02:16.410" ttm:agent="v1">Parang islang pantropiko</p>
+
+      <p begin="02:16.410" end="02:18.960" ttm:agent="v1">Can't wait to go back with you</p>
+
+      <p begin="02:18.960" end="02:21.480" ttm:agent="v1">Sa islang pantropiko</p>
+
+      <p begin="02:21.480" end="02:23.970" ttm:agent="v1">Pantropiko, pantropiko, oh</p>
+
+      <p begin="02:23.970" end="02:26.790" ttm:agent="v1">Sa islang pantropiko</p>
+
+      <p begin="02:26.790" end="02:28.970" ttm:agent="v1">Pantropiko, pantropiko, oh</p>
+
+      <p begin="02:28.970" end="02:31.150" ttm:agent="v1">Sa islang pantropiko</p>
+
+      <p begin="02:31.150" end="02:33.880" ttm:agent="v1">On this tropical island sitting on the white sand</p>
+
+      <p begin="02:33.880" end="02:35.380" ttm:agent="v1">Guess I found my love with you</p>
+
+      <p begin="02:35.240" end="02:37.420" ttm:agent="v1">'Cause with you, boy, I'm going crazy</p>
+
+      <p begin="02:37.420" end="02:41.520" ttm:agent="v1">You could be my baby, I could be your lady, oh, oh, oh-oh</p>
+
+      <p begin="02:41.520" end="02:44.080" ttm:agent="v1">'Di na maawatan ang kilig na bigay riyan</p>
+
+      <p begin="02:44.080" end="02:46.870" ttm:agent="v1">Puso'y parang bang 'di na mapigilan</p>
+
+      <p begin="02:46.870" end="02:49.340" ttm:agent="v1">Kumakabog o humihinto?</p>
+
+      <p begin="02:49.340" end="02:51.760" ttm:agent="v1">Gumugulo ang puso ko sa'yo</p>
+
+      <p begin="02:51.760" end="02:54.250" ttm:agent="v1">From following your footprints in the sand</p>
+
+      <p begin="02:54.250" end="02:56.840" ttm:agent="v1">To walking with you on this island</p>
+
+      <p begin="02:56.840" end="02:59.300" ttm:agent="v1">Guided by the grip of your hand</p>
+
+      <p begin="02:59.300" end="03:01.560" ttm:agent="v1">I can feel you're holding my world</p>
+
+      <p begin="03:01.560" end="03:03.410" ttm:agent="v1">Ano ba itong nadarama?</p>
+
+      <p begin="03:03.410" end="03:04.910" ttm:agent="v1">Oh, shuxs</p>
+
+      <p begin="03:04.270" end="03:06.630" ttm:agent="v1">Ito ba'y pag-ibig na?</p>
+
+      <p begin="03:06.630" end="03:08.380" ttm:agent="v1">Totoo ba ang pinadama?</p>
+
+      <p begin="03:08.380" end="03:11.910" ttm:agent="v1">'Cause boy, it feels so good</p>
+
+      <p begin="03:11.910" end="03:14.340" ttm:agent="v1">Bawat araw, mas sumasaya</p>
+
+      <p begin="03:14.340" end="03:16.820" ttm:agent="v1">Magmula nang nakita ka</p>
+
+      <p begin="03:16.820" end="03:19.610" ttm:agent="v1">Nawawalan ng pangangamba</p>
+
+      <p begin="03:19.610" end="03:21.860" ttm:agent="v1">'Pag ika'y kapiling na (kapiling na)</p>
+
+      <p begin="03:21.860" end="03:24.860" ttm:agent="v1">Feels like summer when I'm with you</p>
+
+      <p begin="03:24.860" end="03:27.050" ttm:agent="v1">Parang islang pantropiko</p>
+
+      <p begin="03:27.050" end="03:29.710" ttm:agent="v1">Can't wait to go back with you</p>
+
+      <p begin="03:29.710" end="03:32.370" ttm:agent="v1">Sa islang pantropiko</p>
+
+      <p begin="03:32.370" end="03:34.720" ttm:agent="v1">Pantropiko, pantropiko, oh</p>
+
+      <p begin="03:34.720" end="03:37.390" ttm:agent="v1">Sa islang pantropiko</p>
+
+      <p begin="03:37.390" end="03:39.830" ttm:agent="v1">Pantropiko, pantropiko, oh</p>
+
+      <p begin="03:39.830" end="03:41.660" ttm:agent="v1">Sa islang pantropiko</p>
+
+      <p begin="03:41.660" end="03:45.660" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

@@ -1,111 +1,222 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>Unbelievable</ttm:title>
-      <ttm:agent type="person" xml:id="v1">EMF</ttm:agent>
-      <ttm:item type="album">Schubert Dip</ttm:item>
-      <ttm:item type="spotify_id">5VYTKiOnHw4iTrB9pG3yum</ttm:item>
-      <itunes:duration>03:30.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.030" end="00:01.530" ttm:agent="v1">Oh</p>
-      <p begin="00:01.060" end="00:02.580" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
-      <p begin="00:02.580" end="00:10.580" ttm:agent="v1"/>
-      <p begin="00:11.260" end="00:13.630" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the... was that?)</p>
-      <p begin="00:13.630" end="00:15.800" ttm:agent="v1">You burden me with your questions</p>
-      <p begin="00:15.800" end="00:17.920" ttm:agent="v1">You'd have me tell no lies</p>
-      <p begin="00:17.920" end="00:20.410" ttm:agent="v1">You're always asking what it's all about</p>
-      <p begin="00:20.410" end="00:22.360" ttm:agent="v1">But don't listen to my replies</p>
-      <p begin="00:22.360" end="00:25.130" ttm:agent="v1">You say to me I don't talk enough</p>
-      <p begin="00:25.130" end="00:27.280" ttm:agent="v1">But when I do I'm a fool</p>
-      <p begin="00:27.280" end="00:29.680" ttm:agent="v1">These times I've spent, I've realized</p>
-      <p begin="00:29.680" end="00:31.890" ttm:agent="v1">I'm going to shoot through and leave you</p>
-      <p begin="00:31.890" end="00:34.070" ttm:agent="v1">The things you say</p>
-      <p begin="00:34.070" end="00:36.570" ttm:agent="v1">Your purple prose just give you away</p>
-      <p begin="00:36.570" end="00:38.720" ttm:agent="v1">The things you say</p>
-      <p begin="00:38.720" end="00:42.550" ttm:agent="v1" itunes:key="role" itunes:value="background">You're unbelievable (oh)</p>
-      <p begin="00:42.550" end="00:44.050" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
-      <p begin="00:43.910" end="00:48.130" ttm:agent="v1"/>
-      <p begin="00:48.130" end="00:50.340" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the... was that?)</p>
-      <p begin="00:50.340" end="00:52.720" ttm:agent="v1">You burden me with your problems</p>
-      <p begin="00:52.720" end="00:54.890" ttm:agent="v1">By telling me more than mine</p>
-      <p begin="00:54.890" end="00:57.010" ttm:agent="v1">I'm always so concerned</p>
-      <p begin="00:57.010" end="00:59.610" ttm:agent="v1">With the way you say you always have to stop</p>
-      <p begin="00:59.610" end="01:01.980" ttm:agent="v1">To think of us being one</p>
-      <p begin="01:01.980" end="01:04.110" ttm:agent="v1">Is more than I ever know</p>
-      <p begin="01:04.110" end="01:06.550" ttm:agent="v1">But this time, I realize</p>
-      <p begin="01:06.550" end="01:08.750" ttm:agent="v1">I'm going to shoot through and leave you</p>
-      <p begin="01:08.750" end="01:10.950" ttm:agent="v1">The things you say</p>
-      <p begin="01:10.950" end="01:13.440" ttm:agent="v1">Your purple prose just give you away</p>
-      <p begin="01:13.440" end="01:15.620" ttm:agent="v1">The things you say</p>
-      <p begin="01:15.620" end="01:19.620" ttm:agent="v1" itunes:key="role" itunes:value="background">You're unbelievable (oh)</p>
-      <p begin="01:19.620" end="01:21.120" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
-      <p begin="01:21.020" end="01:22.740" ttm:agent="v1"/>
-      <p begin="01:22.740" end="01:24.240" ttm:agent="v1" itunes:key="role" itunes:value="background">(One)</p>
-      <p begin="01:24.160" end="01:25.660" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
-      <p begin="01:25.520" end="01:27.430" ttm:agent="v1"/>
-      <p begin="01:27.430" end="01:28.930" ttm:agent="v1" itunes:key="role" itunes:value="background">(One)</p>
-      <p begin="01:28.720" end="01:30.220" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the)</p>
-      <p begin="01:30.120" end="01:31.860" ttm:agent="v1"/>
-      <p begin="01:31.860" end="01:33.360" ttm:agent="v1" itunes:key="role" itunes:value="background">(One)</p>
-      <p begin="01:33.150" end="01:36.000" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the... was that?)</p>
-      <p begin="01:36.000" end="01:39.250" ttm:agent="v1">Seemingly lastless, don't mean you can ask us</p>
-      <p begin="01:39.250" end="01:41.400" ttm:agent="v1">Pushing down the relative, bringing out your higher self</p>
-      <p begin="01:41.400" end="01:43.690" ttm:agent="v1">Think of the fine times, pushing down the better few</p>
-      <p begin="01:43.690" end="01:47.100" ttm:agent="v1">Instead of bringing out the clues to what the world and everything you answer to</p>
-      <p begin="01:47.100" end="01:49.070" ttm:agent="v1">Brace yourself with the greatest of ease</p>
-      <p begin="01:49.070" end="01:51.880" ttm:agent="v1">I know this world ain't what it seems</p>
-      <p begin="01:51.880" end="01:54.120" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the... was that?)</p>
-      <p begin="01:54.120" end="01:55.620" ttm:agent="v1" itunes:key="role" itunes:value="background">(It's unbelievable)</p>
-      <p begin="01:54.850" end="01:57.400" ttm:agent="v1">You burden me with your questions</p>
-      <p begin="01:57.400" end="01:59.470" ttm:agent="v1">You'd have me tell no lies</p>
-      <p begin="01:59.470" end="02:01.720" ttm:agent="v1">You're always asking what it's all about</p>
-      <p begin="02:01.720" end="02:04.020" ttm:agent="v1">But don't listen to my replies</p>
-      <p begin="02:04.020" end="02:06.620" ttm:agent="v1">You say to me I don't talk enough</p>
-      <p begin="02:06.620" end="02:08.790" ttm:agent="v1">But when I do I'm a fool</p>
-      <p begin="02:08.790" end="02:11.140" ttm:agent="v1">These times I've spent, I've realized</p>
-      <p begin="02:11.140" end="02:13.260" ttm:agent="v1">I'm going to shoot through and leave you</p>
-      <p begin="02:13.260" end="02:15.540" ttm:agent="v1">The things you say</p>
-      <p begin="02:15.540" end="02:17.980" ttm:agent="v1">Your purple prose just give you away</p>
-      <p begin="02:17.980" end="02:20.060" ttm:agent="v1">The things you say</p>
-      <p begin="02:20.060" end="02:22.490" ttm:agent="v1">In thought I love you more</p>
-      <p begin="02:22.490" end="02:24.750" ttm:agent="v1">The things you say</p>
-      <p begin="02:24.750" end="02:27.270" ttm:agent="v1">Your purple prose just give you away</p>
-      <p begin="02:27.270" end="02:29.510" ttm:agent="v1">The things you say</p>
-      <p begin="02:29.510" end="02:33.230" ttm:agent="v1" itunes:key="role" itunes:value="background">You're unbelievable (oh)</p>
-      <p begin="02:33.230" end="02:35.200" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
-      <p begin="02:35.200" end="02:36.700" ttm:agent="v1"/>
-      <p begin="02:36.640" end="02:38.140" ttm:agent="v1" itunes:key="role" itunes:value="background">(One)</p>
-      <p begin="02:37.830" end="02:39.390" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
-      <p begin="02:39.390" end="02:42.280" ttm:agent="v1" itunes:key="role" itunes:value="background">You're so unbelievable (one)</p>
-      <p begin="02:42.280" end="02:43.880" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
-      <p begin="02:43.880" end="02:45.580" ttm:agent="v1"/>
-      <p begin="02:45.580" end="02:47.150" ttm:agent="v1" itunes:key="role" itunes:value="background">(One)</p>
-      <p begin="02:47.150" end="02:48.650" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
-      <p begin="02:48.630" end="02:51.830" ttm:agent="v1">You're unbelievable</p>
-      <p begin="02:51.830" end="02:59.830" ttm:agent="v1"/>
-      <p begin="03:07.210" end="03:10.260" ttm:agent="v1" itunes:key="role" itunes:value="background">It's unbelievable (oh)</p>
-      <p begin="03:10.260" end="03:11.760" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
-      <p begin="03:11.660" end="03:13.580" ttm:agent="v1"/>
-      <p begin="03:13.580" end="03:15.080" ttm:agent="v1" itunes:key="role" itunes:value="background">(One)</p>
-      <p begin="03:14.680" end="03:16.310" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
-      <p begin="03:16.310" end="03:18.130" ttm:agent="v1"/>
-      <p begin="03:18.130" end="03:19.630" ttm:agent="v1" itunes:key="role" itunes:value="background">(One)</p>
-      <p begin="03:19.220" end="03:21.060" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the)</p>
-      <p begin="03:21.060" end="03:22.560" ttm:agent="v1"/>
-      <p begin="03:22.540" end="03:25.830" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the... was that?)</p>
-      <p begin="03:25.830" end="03:28.350" ttm:agent="v1">You're unbelievable</p>
-      <p begin="03:28.350" end="03:32.350" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>Unbelievable</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">EMF</ttm:agent>
+
+      <ttm:item type="album">Schubert Dip</ttm:item>
+
+      <ttm:item type="spotify_id">5VYTKiOnHw4iTrB9pG3yum</ttm:item>
+
+      <itunes:duration>03:30.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.030" end="00:01.530" ttm:agent="v1">Oh</p>
+
+      <p begin="00:01.060" end="00:02.580" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
+
+      <p begin="00:02.580" end="00:10.580" ttm:agent="v1"/>
+
+      <p begin="00:11.260" end="00:13.630" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the... was that?)</p>
+
+      <p begin="00:13.630" end="00:15.800" ttm:agent="v1">You burden me with your questions</p>
+
+      <p begin="00:15.800" end="00:17.920" ttm:agent="v1">You'd have me tell no lies</p>
+
+      <p begin="00:17.920" end="00:20.410" ttm:agent="v1">You're always asking what it's all about</p>
+
+      <p begin="00:20.410" end="00:22.360" ttm:agent="v1">But don't listen to my replies</p>
+
+      <p begin="00:22.360" end="00:25.130" ttm:agent="v1">You say to me I don't talk enough</p>
+
+      <p begin="00:25.130" end="00:27.280" ttm:agent="v1">But when I do I'm a fool</p>
+
+      <p begin="00:27.280" end="00:29.680" ttm:agent="v1">These times I've spent, I've realized</p>
+
+      <p begin="00:29.680" end="00:31.890" ttm:agent="v1">I'm going to shoot through and leave you</p>
+
+      <p begin="00:31.890" end="00:34.070" ttm:agent="v1">The things you say</p>
+
+      <p begin="00:34.070" end="00:36.570" ttm:agent="v1">Your purple prose just give you away</p>
+
+      <p begin="00:36.570" end="00:38.720" ttm:agent="v1">The things you say</p>
+
+      <p begin="00:38.720" end="00:42.550" ttm:agent="v1">You're unbelievable (oh)</p>
+
+      <p begin="00:42.550" end="00:44.050" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
+
+      <p begin="00:43.910" end="00:48.130" ttm:agent="v1"/>
+
+      <p begin="00:48.130" end="00:50.340" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the... was that?)</p>
+
+      <p begin="00:50.340" end="00:52.720" ttm:agent="v1">You burden me with your problems</p>
+
+      <p begin="00:52.720" end="00:54.890" ttm:agent="v1">By telling me more than mine</p>
+
+      <p begin="00:54.890" end="00:57.010" ttm:agent="v1">I'm always so concerned</p>
+
+      <p begin="00:57.010" end="00:59.610" ttm:agent="v1">With the way you say you always have to stop</p>
+
+      <p begin="00:59.610" end="01:01.980" ttm:agent="v1">To think of us being one</p>
+
+      <p begin="01:01.980" end="01:04.110" ttm:agent="v1">Is more than I ever know</p>
+
+      <p begin="01:04.110" end="01:06.550" ttm:agent="v1">But this time, I realize</p>
+
+      <p begin="01:06.550" end="01:08.750" ttm:agent="v1">I'm going to shoot through and leave you</p>
+
+      <p begin="01:08.750" end="01:10.950" ttm:agent="v1">The things you say</p>
+
+      <p begin="01:10.950" end="01:13.440" ttm:agent="v1">Your purple prose just give you away</p>
+
+      <p begin="01:13.440" end="01:15.620" ttm:agent="v1">The things you say</p>
+
+      <p begin="01:15.620" end="01:19.620" ttm:agent="v1">You're unbelievable (oh)</p>
+
+      <p begin="01:19.620" end="01:21.120" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
+
+      <p begin="01:21.020" end="01:22.740" ttm:agent="v1"/>
+
+      <p begin="01:22.740" end="01:24.240" ttm:agent="v1" itunes:key="role" itunes:value="background">(One)</p>
+
+      <p begin="01:24.160" end="01:25.660" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
+
+      <p begin="01:25.520" end="01:27.430" ttm:agent="v1"/>
+
+      <p begin="01:27.430" end="01:28.930" ttm:agent="v1" itunes:key="role" itunes:value="background">(One)</p>
+
+      <p begin="01:28.720" end="01:30.220" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the)</p>
+
+      <p begin="01:30.120" end="01:31.860" ttm:agent="v1"/>
+
+      <p begin="01:31.860" end="01:33.360" ttm:agent="v1" itunes:key="role" itunes:value="background">(One)</p>
+
+      <p begin="01:33.150" end="01:36.000" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the... was that?)</p>
+
+      <p begin="01:36.000" end="01:39.250" ttm:agent="v1">Seemingly lastless, don't mean you can ask us</p>
+
+      <p begin="01:39.250" end="01:41.400" ttm:agent="v1">Pushing down the relative, bringing out your higher self</p>
+
+      <p begin="01:41.400" end="01:43.690" ttm:agent="v1">Think of the fine times, pushing down the better few</p>
+
+      <p begin="01:43.690" end="01:47.100" ttm:agent="v1">Instead of bringing out the clues to what the world and everything you answer to</p>
+
+      <p begin="01:47.100" end="01:49.070" ttm:agent="v1">Brace yourself with the greatest of ease</p>
+
+      <p begin="01:49.070" end="01:51.880" ttm:agent="v1">I know this world ain't what it seems</p>
+
+      <p begin="01:51.880" end="01:54.120" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the... was that?)</p>
+
+      <p begin="01:54.120" end="01:55.620" ttm:agent="v1" itunes:key="role" itunes:value="background">(It's unbelievable)</p>
+
+      <p begin="01:54.850" end="01:57.400" ttm:agent="v1">You burden me with your questions</p>
+
+      <p begin="01:57.400" end="01:59.470" ttm:agent="v1">You'd have me tell no lies</p>
+
+      <p begin="01:59.470" end="02:01.720" ttm:agent="v1">You're always asking what it's all about</p>
+
+      <p begin="02:01.720" end="02:04.020" ttm:agent="v1">But don't listen to my replies</p>
+
+      <p begin="02:04.020" end="02:06.620" ttm:agent="v1">You say to me I don't talk enough</p>
+
+      <p begin="02:06.620" end="02:08.790" ttm:agent="v1">But when I do I'm a fool</p>
+
+      <p begin="02:08.790" end="02:11.140" ttm:agent="v1">These times I've spent, I've realized</p>
+
+      <p begin="02:11.140" end="02:13.260" ttm:agent="v1">I'm going to shoot through and leave you</p>
+
+      <p begin="02:13.260" end="02:15.540" ttm:agent="v1">The things you say</p>
+
+      <p begin="02:15.540" end="02:17.980" ttm:agent="v1">Your purple prose just give you away</p>
+
+      <p begin="02:17.980" end="02:20.060" ttm:agent="v1">The things you say</p>
+
+      <p begin="02:20.060" end="02:22.490" ttm:agent="v1">In thought I love you more</p>
+
+      <p begin="02:22.490" end="02:24.750" ttm:agent="v1">The things you say</p>
+
+      <p begin="02:24.750" end="02:27.270" ttm:agent="v1">Your purple prose just give you away</p>
+
+      <p begin="02:27.270" end="02:29.510" ttm:agent="v1">The things you say</p>
+
+      <p begin="02:29.510" end="02:33.230" ttm:agent="v1">You're unbelievable (oh)</p>
+
+      <p begin="02:33.230" end="02:35.200" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
+
+      <p begin="02:35.200" end="02:36.700" ttm:agent="v1"/>
+
+      <p begin="02:36.640" end="02:38.140" ttm:agent="v1" itunes:key="role" itunes:value="background">(One)</p>
+
+      <p begin="02:37.830" end="02:39.390" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
+
+      <p begin="02:39.390" end="02:42.280" ttm:agent="v1">You're so unbelievable (one)</p>
+
+      <p begin="02:42.280" end="02:43.880" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
+
+      <p begin="02:43.880" end="02:45.580" ttm:agent="v1"/>
+
+      <p begin="02:45.580" end="02:47.150" ttm:agent="v1" itunes:key="role" itunes:value="background">(One)</p>
+
+      <p begin="02:47.150" end="02:48.650" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
+
+      <p begin="02:48.630" end="02:51.830" ttm:agent="v1">You're unbelievable</p>
+
+      <p begin="02:51.830" end="02:59.830" ttm:agent="v1"/>
+
+      <p begin="03:07.210" end="03:10.260" ttm:agent="v1">It's unbelievable (oh)</p>
+
+      <p begin="03:10.260" end="03:11.760" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
+
+      <p begin="03:11.660" end="03:13.580" ttm:agent="v1"/>
+
+      <p begin="03:13.580" end="03:15.080" ttm:agent="v1" itunes:key="role" itunes:value="background">(One)</p>
+
+      <p begin="03:14.680" end="03:16.310" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the...)</p>
+
+      <p begin="03:16.310" end="03:18.130" ttm:agent="v1"/>
+
+      <p begin="03:18.130" end="03:19.630" ttm:agent="v1" itunes:key="role" itunes:value="background">(One)</p>
+
+      <p begin="03:19.220" end="03:21.060" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the)</p>
+
+      <p begin="03:21.060" end="03:22.560" ttm:agent="v1"/>
+
+      <p begin="03:22.540" end="03:25.830" ttm:agent="v1" itunes:key="role" itunes:value="background">(What the... was that?)</p>
+
+      <p begin="03:25.830" end="03:28.350" ttm:agent="v1">You're unbelievable</p>
+
+      <p begin="03:28.350" end="03:32.350" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

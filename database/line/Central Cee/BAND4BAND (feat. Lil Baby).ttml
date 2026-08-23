@@ -1,61 +1,122 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>BAND4BAND (feat. Lil Baby)</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Central Cee</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">Lil Baby</ttm:agent>
-      <ttm:item type="album">BAND4BAND (feat. Lil Baby)</ttm:item>
-      <ttm:item type="spotify_id">7iabz12vAuVQYyekFIWJxD</ttm:item>
-      <itunes:duration>02:20.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:13.610" end="00:15.900" ttm:agent="v1">I'm not in the mood 'cause my flight delayed</p>
-      <p begin="00:15.900" end="00:19.260" ttm:agent="v1">So I jumped on a private jet and I'm askin' the pilot the ETA</p>
-      <p begin="00:19.260" end="00:22.780" ttm:agent="v1">Lambo' parked on the landin' strip, everyone in my gang and my DJ paid</p>
-      <p begin="00:22.780" end="00:25.990" ttm:agent="v1">Why's my man talkin' 'bout Insha'Allah? These times, he don't even pray</p>
-      <p begin="00:25.990" end="00:29.450" ttm:agent="v1">Why's my man wearin' a Jesus piece? How does she squeeze in 'em jeans?</p>
-      <p begin="00:29.450" end="00:34.450" ttm:agent="v1">Big behind and petitest waist, take time with the GBG, we don't beef nobody like GBK</p>
-      <p begin="00:34.450" end="00:37.950" ttm:agent="v1">Woke up on the wrong side of bed, so he's gonna get slapped if I don't have my P's today</p>
-      <p begin="00:37.950" end="00:41.450" ttm:agent="v1">I love my young boy, I won't lead him 'stray, I'm stuck to lil' bro like PVA</p>
-      <p begin="00:41.450" end="00:43.150" ttm:agent="v1">Paid already, I don't need no hit song</p>
-      <p begin="00:43.150" end="00:46.580" ttm:agent="v1">We don't need ID, lil' bro 17 in the club, he ain't scrollin' TikTok</p>
-      <p begin="00:46.580" end="00:50.240" ttm:agent="v1">F's just saw him a thick one, &quot;Which one? Who do you want, bro? Pick one&quot;</p>
-      <p begin="00:50.240" end="00:55.520" ttm:agent="v1">If I shoot my shot, I'll hit one, matter of time 'til I get them all ticked off, alright</p>
-      <p begin="00:55.520" end="00:58.670" ttm:agent="v1">We can go band for band, fuck that, we can go M for M</p>
-      <p begin="00:58.670" end="01:02.020" ttm:agent="v1">Quarter mil' for the Maybach truck, double R with the factory rims</p>
-      <p begin="01:02.020" end="01:05.230" ttm:agent="v1">I got the 90, the Urus, the Virgil, the Brabus, I'm really a threat</p>
-      <p begin="01:05.230" end="01:08.740" ttm:agent="v1">It's got to the point that I don't even care, I got jewels in the safe that I don't even wear</p>
-      <p begin="01:08.740" end="01:11.970" ttm:agent="v1">Uh, bro'll do it for some shoes and some clothes, you'll see what he'll do for a necklace</p>
-      <p begin="01:11.970" end="01:15.970" ttm:agent="v1" itunes:key="role" itunes:value="background">'Rari truck, it look like a spider, it's crawlin' a dollar on just accessories (damn)</p>
-      <p begin="01:15.970" end="01:19.300" ttm:agent="v1">She made me wanna go harder, I like her whole aura, I think I'm obsessed with her</p>
-      <p begin="01:19.300" end="01:22.780" ttm:agent="v1">They hit him up on his birthday, did him the worst way, he had a death wish</p>
-      <p begin="01:22.780" end="01:26.230" ttm:agent="v1">I get right under they skin, I don't even try, I guess I can't help that shit</p>
-      <p begin="01:26.230" end="01:29.430" ttm:agent="v1">I'ma have love for bro for life if we talk or not, I step with 'em</p>
-      <p begin="01:29.430" end="01:32.690" ttm:agent="v1">Of course you can beat me at talkin', ain't no back and forth, wait 'til we catch up with him</p>
-      <p begin="01:32.690" end="01:36.180" ttm:agent="v1">Knockin' a bag and makin' the opposite mad, I done fell in love with it</p>
-      <p begin="01:36.180" end="01:39.800" ttm:agent="v1" itunes:key="role" itunes:value="background">UK Selfridges with a cute one (ooh), bank account look good, this a new one (yeah)</p>
-      <p begin="01:39.800" end="01:43.210" ttm:agent="v1" itunes:key="role" itunes:value="background">You the type like to type on computers (wow), got a mask, but he ain't no shooter (haha)</p>
-      <p begin="01:43.210" end="01:46.470" ttm:agent="v1">Top ten, but she don't act bougie, me and your friends can go to Aruba</p>
-      <p begin="01:46.470" end="01:50.330" ttm:agent="v1">Hit France, it depend on my mood, this a Maybach Benz, this ain't no Uber</p>
-      <p begin="01:50.330" end="01:53.560" ttm:agent="v1">We can go band for band, fuck that, we can go M for M</p>
-      <p begin="01:53.560" end="01:57.030" ttm:agent="v1">Mama got a body like Kim and 'em, mama been killin' that gym</p>
-      <p begin="01:57.030" end="02:00.250" ttm:agent="v1">We can go watch for watch, from chain to chain, the rings, I'm him</p>
-      <p begin="02:00.250" end="02:03.650" ttm:agent="v1">I done got rich, but I'm still with the shit, land in London and go to the ends</p>
-      <p begin="02:03.650" end="02:07.480" ttm:agent="v1">We can go band for band, fuck that, we can go M for M</p>
-      <p begin="02:07.480" end="02:10.870" ttm:agent="v1">Quarter mil' for the Maybach truck, double R with the factory rims</p>
-      <p begin="02:10.870" end="02:14.060" ttm:agent="v1">I got the 90, the Urus, the Virgil, the Brabus, I'm really a threat</p>
-      <p begin="02:14.060" end="02:17.080" ttm:agent="v1">It's got to the point that I don't even care, I got jewels in the safe that I don't even wear</p>
-      <p begin="02:17.080" end="02:21.080" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>BAND4BAND (feat. Lil Baby)</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Central Cee</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v2">Lil Baby</ttm:agent>
+
+      <ttm:item type="album">BAND4BAND (feat. Lil Baby)</ttm:item>
+
+      <ttm:item type="spotify_id">7iabz12vAuVQYyekFIWJxD</ttm:item>
+
+      <itunes:duration>02:20.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:13.610" end="00:15.900" ttm:agent="v1">I'm not in the mood 'cause my flight delayed</p>
+
+      <p begin="00:15.900" end="00:19.260" ttm:agent="v1">So I jumped on a private jet and I'm askin' the pilot the ETA</p>
+
+      <p begin="00:19.260" end="00:22.780" ttm:agent="v1">Lambo' parked on the landin' strip, everyone in my gang and my DJ paid</p>
+
+      <p begin="00:22.780" end="00:25.990" ttm:agent="v1">Why's my man talkin' 'bout Insha'Allah? These times, he don't even pray</p>
+
+      <p begin="00:25.990" end="00:29.450" ttm:agent="v1">Why's my man wearin' a Jesus piece? How does she squeeze in 'em jeans?</p>
+
+      <p begin="00:29.450" end="00:34.450" ttm:agent="v1">Big behind and petitest waist, take time with the GBG, we don't beef nobody like GBK</p>
+
+      <p begin="00:34.450" end="00:37.950" ttm:agent="v1">Woke up on the wrong side of bed, so he's gonna get slapped if I don't have my P's today</p>
+
+      <p begin="00:37.950" end="00:41.450" ttm:agent="v1">I love my young boy, I won't lead him 'stray, I'm stuck to lil' bro like PVA</p>
+
+      <p begin="00:41.450" end="00:43.150" ttm:agent="v1">Paid already, I don't need no hit song</p>
+
+      <p begin="00:43.150" end="00:46.580" ttm:agent="v1">We don't need ID, lil' bro 17 in the club, he ain't scrollin' TikTok</p>
+
+      <p begin="00:46.580" end="00:50.240" ttm:agent="v1">F's just saw him a thick one, &quot;Which one? Who do you want, bro? Pick one&quot;</p>
+
+      <p begin="00:50.240" end="00:55.520" ttm:agent="v1">If I shoot my shot, I'll hit one, matter of time 'til I get them all ticked off, alright</p>
+
+      <p begin="00:55.520" end="00:58.670" ttm:agent="v1">We can go band for band, fuck that, we can go M for M</p>
+
+      <p begin="00:58.670" end="01:02.020" ttm:agent="v1">Quarter mil' for the Maybach truck, double R with the factory rims</p>
+
+      <p begin="01:02.020" end="01:05.230" ttm:agent="v1">I got the 90, the Urus, the Virgil, the Brabus, I'm really a threat</p>
+
+      <p begin="01:05.230" end="01:08.740" ttm:agent="v1">It's got to the point that I don't even care, I got jewels in the safe that I don't even wear</p>
+
+      <p begin="01:08.740" end="01:11.970" ttm:agent="v1">Uh, bro'll do it for some shoes and some clothes, you'll see what he'll do for a necklace</p>
+
+      <p begin="01:11.970" end="01:15.970" ttm:agent="v1">'Rari truck, it look like a spider, it's crawlin' a dollar on just accessories (damn)</p>
+
+      <p begin="01:15.970" end="01:19.300" ttm:agent="v1">She made me wanna go harder, I like her whole aura, I think I'm obsessed with her</p>
+
+      <p begin="01:19.300" end="01:22.780" ttm:agent="v1">They hit him up on his birthday, did him the worst way, he had a death wish</p>
+
+      <p begin="01:22.780" end="01:26.230" ttm:agent="v1">I get right under they skin, I don't even try, I guess I can't help that shit</p>
+
+      <p begin="01:26.230" end="01:29.430" ttm:agent="v1">I'ma have love for bro for life if we talk or not, I step with 'em</p>
+
+      <p begin="01:29.430" end="01:32.690" ttm:agent="v1">Of course you can beat me at talkin', ain't no back and forth, wait 'til we catch up with him</p>
+
+      <p begin="01:32.690" end="01:36.180" ttm:agent="v1">Knockin' a bag and makin' the opposite mad, I done fell in love with it</p>
+
+      <p begin="01:36.180" end="01:39.800" ttm:agent="v1">UK Selfridges with a cute one (ooh), bank account look good, this a new one (yeah)</p>
+
+      <p begin="01:39.800" end="01:43.210" ttm:agent="v1">You the type like to type on computers (wow), got a mask, but he ain't no shooter (haha)</p>
+
+      <p begin="01:43.210" end="01:46.470" ttm:agent="v1">Top ten, but she don't act bougie, me and your friends can go to Aruba</p>
+
+      <p begin="01:46.470" end="01:50.330" ttm:agent="v1">Hit France, it depend on my mood, this a Maybach Benz, this ain't no Uber</p>
+
+      <p begin="01:50.330" end="01:53.560" ttm:agent="v1">We can go band for band, fuck that, we can go M for M</p>
+
+      <p begin="01:53.560" end="01:57.030" ttm:agent="v1">Mama got a body like Kim and 'em, mama been killin' that gym</p>
+
+      <p begin="01:57.030" end="02:00.250" ttm:agent="v1">We can go watch for watch, from chain to chain, the rings, I'm him</p>
+
+      <p begin="02:00.250" end="02:03.650" ttm:agent="v1">I done got rich, but I'm still with the shit, land in London and go to the ends</p>
+
+      <p begin="02:03.650" end="02:07.480" ttm:agent="v1">We can go band for band, fuck that, we can go M for M</p>
+
+      <p begin="02:07.480" end="02:10.870" ttm:agent="v1">Quarter mil' for the Maybach truck, double R with the factory rims</p>
+
+      <p begin="02:10.870" end="02:14.060" ttm:agent="v1">I got the 90, the Urus, the Virgil, the Brabus, I'm really a threat</p>
+
+      <p begin="02:14.060" end="02:17.080" ttm:agent="v1">It's got to the point that I don't even care, I got jewels in the safe that I don't even wear</p>
+
+      <p begin="02:17.080" end="02:21.080" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

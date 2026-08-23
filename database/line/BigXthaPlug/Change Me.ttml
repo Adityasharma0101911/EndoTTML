@@ -1,77 +1,154 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>Change Me</ttm:title>
-      <ttm:agent type="person" xml:id="v1">BigXthaPlug</ttm:agent>
-      <ttm:item type="album">TAKE CARE</ttm:item>
-      <ttm:item type="spotify_id">1AKXrejQiFURJnr9UKIjDb</ttm:item>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.900" end="00:02.400" ttm:agent="v1">[Intro]</p>
-      <p begin="00:01.901" end="00:05.465" ttm:agent="v1" itunes:key="role" itunes:value="background">(Band)</p>
-      <p begin="00:05.465" end="00:06.965" ttm:agent="v1">[Chorus]</p>
-      <p begin="00:06.265" end="00:10.465" ttm:agent="v1">They tried to frame me</p>
-      <p begin="00:10.465" end="00:14.229" ttm:agent="v1">For the pictures I paint</p>
-      <p begin="00:14.229" end="00:18.748" ttm:agent="v1">Oh, to cry and sing</p>
-      <p begin="00:18.748" end="00:25.777" ttm:agent="v1">But I, I won't let 'em, I won't let 'em change me</p>
-      <p begin="00:25.777" end="00:28.814" ttm:agent="v1">I'll remain</p>
-      <p begin="00:28.814" end="00:31.070" ttm:agent="v1" itunes:key="role" itunes:value="background">Forever (Forever), forever remain</p>
-      <p begin="00:31.070" end="00:32.851" ttm:agent="v1">[Verse 1]</p>
-      <p begin="00:32.851" end="00:34.351" ttm:agent="v1" itunes:key="role" itunes:value="background">Ayy (Let the band play)</p>
-      <p begin="00:33.551" end="00:35.943" ttm:agent="v1">They ain't think I would do it, but I did it</p>
-      <p begin="00:35.943" end="00:37.764" ttm:agent="v1">Really havin' this shit, really winnin'</p>
-      <p begin="00:37.764" end="00:39.520" ttm:agent="v1">Was times that I thought I'd forever be sinnin'</p>
-      <p begin="00:39.520" end="00:41.287" ttm:agent="v1">And spinnin', whatever to stand on the business</p>
-      <p begin="00:41.287" end="00:43.608" ttm:agent="v1">But God bless the gang, did it all for the city</p>
-      <p begin="00:43.608" end="00:45.614" ttm:agent="v1">All the shots they let off, but ain't hit me</p>
-      <p begin="00:45.614" end="00:47.621" ttm:agent="v1">All the shots we let off, they ain't mention was hittin'</p>
-      <p begin="00:47.621" end="00:49.376" ttm:agent="v1">Go ask why he's findin' them limpin'</p>
-      <p begin="00:49.376" end="00:51.142" ttm:agent="v1">Never change, I'm the same, it's just in me</p>
-      <p begin="00:51.142" end="00:52.898" ttm:agent="v1">The only thing change is the paper, my vision</p>
-      <p begin="00:52.898" end="00:54.904" ttm:agent="v1">Can't forget 'bout the diamonds and chains on my pendant</p>
-      <p begin="00:54.904" end="00:56.660" ttm:agent="v1">Was starvin', but now we eat steak for a livin'</p>
-      <p begin="00:56.660" end="00:58.683" ttm:agent="v1">If we ever fell out, you was fake or a bitch</p>
-      <p begin="00:58.683" end="01:00.440" ttm:agent="v1">Niggas quick to switch sides, don't be standin' on shit</p>
-      <p begin="01:00.440" end="01:02.491" ttm:agent="v1">But yet, I'm the biggest, ain't change on my clique</p>
-      <p begin="01:02.491" end="01:04.248" ttm:agent="v1">Rep the 6, disrespect and get put in that ditch</p>
-      <p begin="01:04.248" end="01:06.143" ttm:agent="v1">I came up off of rap and know prices for bricks</p>
-      <p begin="01:06.143" end="01:08.168" ttm:agent="v1">Million dollar convos, out to eat with my stick</p>
-      <p begin="01:08.168" end="01:10.216" ttm:agent="v1">Then got bowls in condos, lettin' loads go for six</p>
-      <p begin="01:10.216" end="01:11.933" ttm:agent="v1">Brand new block with my lil' bro, shit came with a switch</p>
-      <p begin="01:11.933" end="01:14.032" ttm:agent="v1">And a list, how you niggas gon' die for that shit?</p>
-      <p begin="01:14.032" end="01:15.786" ttm:agent="v1">Let 'em make it for months, heard my Prada lil' bitch</p>
-      <p begin="01:15.786" end="01:17.548" ttm:agent="v1">When they ride, make his whole family cry for that shit</p>
-      <p begin="01:17.548" end="01:21.815" ttm:agent="v1">I'm the same, I ain't lettin' shit slide and I meant every word that I said, I put this on the 6</p>
-      <p begin="01:21.815" end="01:23.640" ttm:agent="v1">I'm the same nigga thuggin' from the cells to the bricks</p>
-      <p begin="01:23.640" end="01:29.128" ttm:agent="v1" itunes:key="role" itunes:value="background">Better ask about X, matter fact, come and see how this rap shit'll help, it mean nothin' to me (Ayy)</p>
-      <p begin="01:29.128" end="01:30.628" ttm:agent="v1">[Chorus]</p>
-      <p begin="01:29.900" end="01:34.915" ttm:agent="v1">I, I won't let 'em, I won't let 'em change me</p>
-      <p begin="01:34.915" end="01:37.928" ttm:agent="v1">I'll remain</p>
-      <p begin="01:37.928" end="01:42.814" ttm:agent="v1" itunes:key="role" itunes:value="background">Forever (Forever), forever remain</p>
-      <p begin="01:42.814" end="01:44.314" ttm:agent="v1">Forever</p>
-      <p begin="01:43.315" end="01:44.815" ttm:agent="v1">[Verse 2]</p>
-      <p begin="01:43.611" end="01:45.411" ttm:agent="v1">They say, &quot;X went and changed,&quot; probably 'cause I got rich</p>
-      <p begin="01:45.411" end="01:46.911" ttm:agent="v1">I ain't hurtin' my kids, they ain't wantin' for shit</p>
-      <p begin="01:46.538" end="01:48.612" ttm:agent="v1">They say, &quot;X went and changed,&quot; probably came from a bitch</p>
-      <p begin="01:48.612" end="01:50.366" ttm:agent="v1">Tried to hit, now I'm up and they all on my dick</p>
-      <p begin="01:50.366" end="01:54.126" ttm:agent="v1">They say, &quot;X went and changed,&quot; probably came from a nigga I ****ed with, but couldn't stand on ten with the gang</p>
-      <p begin="01:54.126" end="01:56.153" ttm:agent="v1">How come all of these folks get to say that X changed?</p>
-      <p begin="01:56.153" end="01:58.427" ttm:agent="v1">I'm the same and I'm standin' on ten by my name, ayy</p>
-      <p begin="01:58.427" end="01:59.927" ttm:agent="v1">[Chorus]</p>
-      <p begin="01:58.753" end="02:05.553" ttm:agent="v1">I, I won't let 'em, I won't let 'em change me</p>
-      <p begin="02:05.553" end="02:08.469" ttm:agent="v1">I'll remain</p>
-      <p begin="02:08.469" end="02:12.970" ttm:agent="v1" itunes:key="role" itunes:value="background">Forever (Forever), forever remain</p>
-      <p begin="02:12.970" end="02:16.970" ttm:agent="v1">Forever</p>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>Change Me</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">BigXthaPlug</ttm:agent>
+
+      <ttm:item type="album">TAKE CARE</ttm:item>
+
+      <ttm:item type="spotify_id">1AKXrejQiFURJnr9UKIjDb</ttm:item>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.900" end="00:02.400" ttm:agent="v1">[Intro]</p>
+
+      <p begin="00:01.901" end="00:05.465" ttm:agent="v1" itunes:key="role" itunes:value="background">(Band)</p>
+
+      <p begin="00:05.465" end="00:06.965" ttm:agent="v1">[Chorus]</p>
+
+      <p begin="00:06.265" end="00:10.465" ttm:agent="v1">They tried to frame me</p>
+
+      <p begin="00:10.465" end="00:14.229" ttm:agent="v1">For the pictures I paint</p>
+
+      <p begin="00:14.229" end="00:18.748" ttm:agent="v1">Oh, to cry and sing</p>
+
+      <p begin="00:18.748" end="00:25.777" ttm:agent="v1">But I, I won't let 'em, I won't let 'em change me</p>
+
+      <p begin="00:25.777" end="00:28.814" ttm:agent="v1">I'll remain</p>
+
+      <p begin="00:28.814" end="00:31.070" ttm:agent="v1">Forever (Forever), forever remain</p>
+
+      <p begin="00:31.070" end="00:32.851" ttm:agent="v1">[Verse 1]</p>
+
+      <p begin="00:32.851" end="00:34.351" ttm:agent="v1">Ayy (Let the band play)</p>
+
+      <p begin="00:33.551" end="00:35.943" ttm:agent="v1">They ain't think I would do it, but I did it</p>
+
+      <p begin="00:35.943" end="00:37.764" ttm:agent="v1">Really havin' this shit, really winnin'</p>
+
+      <p begin="00:37.764" end="00:39.520" ttm:agent="v1">Was times that I thought I'd forever be sinnin'</p>
+
+      <p begin="00:39.520" end="00:41.287" ttm:agent="v1">And spinnin', whatever to stand on the business</p>
+
+      <p begin="00:41.287" end="00:43.608" ttm:agent="v1">But God bless the gang, did it all for the city</p>
+
+      <p begin="00:43.608" end="00:45.614" ttm:agent="v1">All the shots they let off, but ain't hit me</p>
+
+      <p begin="00:45.614" end="00:47.621" ttm:agent="v1">All the shots we let off, they ain't mention was hittin'</p>
+
+      <p begin="00:47.621" end="00:49.376" ttm:agent="v1">Go ask why he's findin' them limpin'</p>
+
+      <p begin="00:49.376" end="00:51.142" ttm:agent="v1">Never change, I'm the same, it's just in me</p>
+
+      <p begin="00:51.142" end="00:52.898" ttm:agent="v1">The only thing change is the paper, my vision</p>
+
+      <p begin="00:52.898" end="00:54.904" ttm:agent="v1">Can't forget 'bout the diamonds and chains on my pendant</p>
+
+      <p begin="00:54.904" end="00:56.660" ttm:agent="v1">Was starvin', but now we eat steak for a livin'</p>
+
+      <p begin="00:56.660" end="00:58.683" ttm:agent="v1">If we ever fell out, you was fake or a bitch</p>
+
+      <p begin="00:58.683" end="01:00.440" ttm:agent="v1">Niggas quick to switch sides, don't be standin' on shit</p>
+
+      <p begin="01:00.440" end="01:02.491" ttm:agent="v1">But yet, I'm the biggest, ain't change on my clique</p>
+
+      <p begin="01:02.491" end="01:04.248" ttm:agent="v1">Rep the 6, disrespect and get put in that ditch</p>
+
+      <p begin="01:04.248" end="01:06.143" ttm:agent="v1">I came up off of rap and know prices for bricks</p>
+
+      <p begin="01:06.143" end="01:08.168" ttm:agent="v1">Million dollar convos, out to eat with my stick</p>
+
+      <p begin="01:08.168" end="01:10.216" ttm:agent="v1">Then got bowls in condos, lettin' loads go for six</p>
+
+      <p begin="01:10.216" end="01:11.933" ttm:agent="v1">Brand new block with my lil' bro, shit came with a switch</p>
+
+      <p begin="01:11.933" end="01:14.032" ttm:agent="v1">And a list, how you niggas gon' die for that shit?</p>
+
+      <p begin="01:14.032" end="01:15.786" ttm:agent="v1">Let 'em make it for months, heard my Prada lil' bitch</p>
+
+      <p begin="01:15.786" end="01:17.548" ttm:agent="v1">When they ride, make his whole family cry for that shit</p>
+
+      <p begin="01:17.548" end="01:21.815" ttm:agent="v1">I'm the same, I ain't lettin' shit slide and I meant every word that I said, I put this on the 6</p>
+
+      <p begin="01:21.815" end="01:23.640" ttm:agent="v1">I'm the same nigga thuggin' from the cells to the bricks</p>
+
+      <p begin="01:23.640" end="01:29.128" ttm:agent="v1">Better ask about X, matter fact, come and see how this rap shit'll help, it mean nothin' to me (Ayy)</p>
+
+      <p begin="01:29.128" end="01:30.628" ttm:agent="v1">[Chorus]</p>
+
+      <p begin="01:29.900" end="01:34.915" ttm:agent="v1">I, I won't let 'em, I won't let 'em change me</p>
+
+      <p begin="01:34.915" end="01:37.928" ttm:agent="v1">I'll remain</p>
+
+      <p begin="01:37.928" end="01:42.814" ttm:agent="v1">Forever (Forever), forever remain</p>
+
+      <p begin="01:42.814" end="01:44.314" ttm:agent="v1">Forever</p>
+
+      <p begin="01:43.315" end="01:44.815" ttm:agent="v1">[Verse 2]</p>
+
+      <p begin="01:43.611" end="01:45.411" ttm:agent="v1">They say, &quot;X went and changed,&quot; probably 'cause I got rich</p>
+
+      <p begin="01:45.411" end="01:46.911" ttm:agent="v1">I ain't hurtin' my kids, they ain't wantin' for shit</p>
+
+      <p begin="01:46.538" end="01:48.612" ttm:agent="v1">They say, &quot;X went and changed,&quot; probably came from a bitch</p>
+
+      <p begin="01:48.612" end="01:50.366" ttm:agent="v1">Tried to hit, now I'm up and they all on my dick</p>
+
+      <p begin="01:50.366" end="01:54.126" ttm:agent="v1">They say, &quot;X went and changed,&quot; probably came from a nigga I ****ed with, but couldn't stand on ten with the gang</p>
+
+      <p begin="01:54.126" end="01:56.153" ttm:agent="v1">How come all of these folks get to say that X changed?</p>
+
+      <p begin="01:56.153" end="01:58.427" ttm:agent="v1">I'm the same and I'm standin' on ten by my name, ayy</p>
+
+      <p begin="01:58.427" end="01:59.927" ttm:agent="v1">[Chorus]</p>
+
+      <p begin="01:58.753" end="02:05.553" ttm:agent="v1">I, I won't let 'em, I won't let 'em change me</p>
+
+      <p begin="02:05.553" end="02:08.469" ttm:agent="v1">I'll remain</p>
+
+      <p begin="02:08.469" end="02:12.970" ttm:agent="v1">Forever (Forever), forever remain</p>
+
+      <p begin="02:12.970" end="02:16.970" ttm:agent="v1">Forever</p>
+
+    </div>
+
+  </body>
+
+</tt>
+

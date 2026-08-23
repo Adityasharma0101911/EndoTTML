@@ -1,107 +1,214 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>DANCE!</ttm:title>
-      <ttm:agent type="person" xml:id="v1">1nonly</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">Ciscaux</ttm:agent>
-      <ttm:agent type="person" xml:id="v3">Wassup Rocker</ttm:agent>
-      <ttm:item type="album">DANCE!</ttm:item>
-      <ttm:item type="spotify_id">7sYfWTa2GD1KCaLgGFmFM5</ttm:item>
-      <itunes:duration>02:39.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:05.550" end="00:07.630" ttm:agent="v1">The world is yours</p>
-      <p begin="00:07.630" end="00:09.130" ttm:agent="v1">Let's go</p>
-      <p begin="00:09.030" end="00:11.040" ttm:agent="v1">Bitch, dance, and throw that ass up</p>
-      <p begin="00:11.040" end="00:12.900" ttm:agent="v1">Blunt's so big, I could roll ya ass</p>
-      <p begin="00:12.900" end="00:14.900" ttm:agent="v1">So, drop it, I got my bags</p>
-      <p begin="00:14.900" end="00:17.020" ttm:agent="v1">I got big bands, you need your racks</p>
-      <p begin="00:17.020" end="00:18.520" ttm:agent="v1">So, do it, go stupid</p>
-      <p begin="00:18.420" end="00:20.230" ttm:agent="v1">Ass on fat but her waist on movin'</p>
-      <p begin="00:20.230" end="00:21.890" ttm:agent="v1">Got three racks, just spent on shoes</p>
-      <p begin="00:21.890" end="00:23.980" ttm:agent="v1" itunes:key="role" itunes:value="background">And whatchu want? Bitch, I ain't no cupid (ay, ay)</p>
-      <p begin="00:23.980" end="00:25.480" ttm:agent="v1">Bitch, dance</p>
-      <p begin="00:25.270" end="00:26.850" ttm:agent="v1">Her face is a eight, but her ass ten</p>
-      <p begin="00:26.850" end="00:28.350" ttm:agent="v1">He wants a picture, but he told his girl to ask me</p>
-      <p begin="00:28.300" end="00:30.230" ttm:agent="v1">Leather pants got me feeling like a bad bitch</p>
-      <p begin="00:30.230" end="00:31.940" ttm:agent="v1">I'm still the same, rockin' since back then</p>
-      <p begin="00:31.940" end="00:33.970" ttm:agent="v1">Still on the same drugs but way more</p>
-      <p begin="00:33.970" end="00:36.090" ttm:agent="v1">Beat up Vans, I got taste still</p>
-      <p begin="00:36.090" end="00:38.080" ttm:agent="v1">My new crib is somewhere where it's sunny out</p>
-      <p begin="00:38.080" end="00:39.700" ttm:agent="v1">But I spent 12 bands on this rain coat</p>
-      <p begin="00:39.700" end="00:41.200" ttm:agent="v1">Always off of it, forever lockin' in</p>
-      <p begin="00:41.090" end="00:43.360" ttm:agent="v1">I'm going hard again, your boyfriend clockin' in</p>
-      <p begin="00:43.360" end="00:45.440" ttm:agent="v1">Black and white chick, mix likе Dalmatian</p>
-      <p begin="00:45.440" end="00:47.290" ttm:agent="v1">My momma said I spend way too much on me</p>
-      <p begin="00:47.290" end="00:48.790" ttm:agent="v1">Oh my God</p>
-      <p begin="00:48.190" end="00:49.690" ttm:agent="v1">15 bitches in thе crib</p>
-      <p begin="00:49.330" end="00:50.830" ttm:agent="v1">So I really can't tell nobody</p>
-      <p begin="00:50.800" end="00:52.360" ttm:agent="v1">I've been on the road, I don't smoke</p>
-      <p begin="00:52.360" end="00:53.860" ttm:agent="v1">I don't motherfuckin' broke</p>
-      <p begin="00:53.590" end="00:55.090" ttm:agent="v1">Bring it back down like Bob Marley</p>
-      <p begin="00:55.070" end="00:56.570" ttm:agent="v1">Yeah, I've been doin' shows</p>
-      <p begin="00:56.490" end="00:57.990" ttm:agent="v1">If he keeps on asking for a feature</p>
-      <p begin="00:57.740" end="00:59.240" ttm:agent="v1">I'ma keep on saying, &quot;Mm, prolly&quot;</p>
-      <p begin="00:58.700" end="01:00.410" ttm:agent="v1">Bitch, we on go, we ain't pullin' up to no function</p>
-      <p begin="01:00.410" end="01:02.890" ttm:agent="v1" itunes:key="role" itunes:value="background">But this song got hoes dancin' at the party (party, party)</p>
-      <p begin="01:02.890" end="01:05.220" ttm:agent="v1">Bitch, dance, and throw that ass up</p>
-      <p begin="01:05.220" end="01:06.720" ttm:agent="v1">Blunt's so big, I could roll ya ass</p>
-      <p begin="01:06.620" end="01:08.300" ttm:agent="v1">So, drop it, I got my bags up, up</p>
-      <p begin="01:08.300" end="01:10.630" ttm:agent="v1">I got big bands, you need your racks up</p>
-      <p begin="01:10.630" end="01:12.150" ttm:agent="v1">So, do it, go stupid</p>
-      <p begin="01:12.150" end="01:13.650" ttm:agent="v1">Ass on fat but her waist on movin'</p>
-      <p begin="01:13.300" end="01:15.320" ttm:agent="v1">Got three racks, just spent on shoes</p>
-      <p begin="01:15.320" end="01:17.620" ttm:agent="v1" itunes:key="role" itunes:value="background">And whatchu want? Bitch, I ain't no cupid (ay, ay)</p>
-      <p begin="01:17.620" end="01:19.120" ttm:agent="v1">Bitch, dance</p>
-      <p begin="01:18.850" end="01:20.350" ttm:agent="v1">Blunt filled with OJ</p>
-      <p begin="01:19.620" end="01:21.120" ttm:agent="v1">Coke in the nose ring</p>
-      <p begin="01:20.660" end="01:22.160" ttm:agent="v1">She said she in love, yeah, but I'ma tell her, &quot;No way&quot;</p>
-      <p begin="01:21.700" end="01:23.390" ttm:agent="v1">2016, I was riding with a low fade</p>
-      <p begin="01:23.390" end="01:24.950" ttm:agent="v1">2016, I was rockin' hella no face</p>
-      <p begin="01:24.950" end="01:26.450" ttm:agent="v1">If she don't give me face in the back of the vehicle</p>
-      <p begin="01:26.280" end="01:28.690" ttm:agent="v1">I'ma take the commas, boy, you can keep the decimals</p>
-      <p begin="01:28.690" end="01:30.650" ttm:agent="v1">Naked bitches scream, I be adding up the decibels</p>
-      <p begin="01:30.650" end="01:33.440" ttm:agent="v1" itunes:key="role" itunes:value="background">Let me see you dance, shush it out, Miss Incredible (baby)</p>
-      <p begin="01:33.440" end="01:34.940" ttm:agent="v1">What's your name? I didn't catch it</p>
-      <p begin="01:34.940" end="01:36.640" ttm:agent="v1">Oh, you from Brooklyn? Like the magic?</p>
-      <p begin="01:36.640" end="01:38.540" ttm:agent="v1">Oh, your friends said that I'm active?</p>
-      <p begin="01:38.540" end="01:40.880" ttm:agent="v1">Baby, I don't know Jack like cactus</p>
-      <p begin="01:40.880" end="01:42.540" ttm:agent="v1">Sippin' cacti on the White Claw</p>
-      <p begin="01:42.540" end="01:44.810" ttm:agent="v1">She my angel in that white cloth</p>
-      <p begin="01:44.810" end="01:46.770" ttm:agent="v1">Sniffin' white lines, then I mile off</p>
-      <p begin="01:46.770" end="01:48.820" ttm:agent="v1">Tell 'em white lies, just from my car</p>
-      <p begin="01:48.820" end="01:52.220" ttm:agent="v1">I said I think that I'm on some shit</p>
-      <p begin="01:52.220" end="01:56.340" ttm:agent="v1">Let me see you go left, right, up, down on my dick</p>
-      <p begin="01:56.340" end="01:59.260" ttm:agent="v1">I'm so sorry, but, I'm so high, I must admit</p>
-      <p begin="01:59.260" end="02:03.970" ttm:agent="v1">Tell me your name one more time, I won't forget</p>
-      <p begin="02:03.970" end="02:06.690" ttm:agent="v1">Bitch, dance, and throw that ass up</p>
-      <p begin="02:06.690" end="02:08.380" ttm:agent="v1">Blunt's so big, I could roll ya ass</p>
-      <p begin="02:08.380" end="02:10.320" ttm:agent="v1">So, drop it, I got my bags up</p>
-      <p begin="02:10.320" end="02:12.220" ttm:agent="v1">I got big bands, you need your racks up</p>
-      <p begin="02:12.220" end="02:14.080" ttm:agent="v1">So, do it, go stupid</p>
-      <p begin="02:14.080" end="02:15.790" ttm:agent="v1">Ass on fat but her waist on movin'</p>
-      <p begin="02:15.790" end="02:17.400" ttm:agent="v1">Got three racks, just spent on shoes</p>
-      <p begin="02:17.400" end="02:19.500" ttm:agent="v1" itunes:key="role" itunes:value="background">And whatchu want? Bitch, I ain't no cupid (ay, ay)</p>
-      <p begin="02:19.500" end="02:21.560" ttm:agent="v1">Bitch dance, and throw that ass up</p>
-      <p begin="02:21.560" end="02:23.330" ttm:agent="v1">Blunt's so big, I could roll your ass</p>
-      <p begin="02:23.330" end="02:25.460" ttm:agent="v1">So drop it, I got my bags up</p>
-      <p begin="02:25.460" end="02:27.420" ttm:agent="v1">I got big bands, you need your racks up</p>
-      <p begin="02:27.420" end="02:29.160" ttm:agent="v1">So do it, go stupid</p>
-      <p begin="02:29.160" end="02:30.950" ttm:agent="v1">Ass on fat but her waist on movin'</p>
-      <p begin="02:30.950" end="02:32.690" ttm:agent="v1">Got three racks just spent on shoes</p>
-      <p begin="02:32.690" end="02:34.370" ttm:agent="v1">And whatchu want? Bitch I ain't no cupid</p>
-      <p begin="02:34.370" end="02:36.190" ttm:agent="v1" itunes:key="role" itunes:value="background">Bitch dance (bitch dance)</p>
-      <p begin="02:36.190" end="02:40.190" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>DANCE!</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">1nonly</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v2">Ciscaux</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v3">Wassup Rocker</ttm:agent>
+
+      <ttm:item type="album">DANCE!</ttm:item>
+
+      <ttm:item type="spotify_id">7sYfWTa2GD1KCaLgGFmFM5</ttm:item>
+
+      <itunes:duration>02:39.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:05.550" end="00:07.630" ttm:agent="v1">The world is yours</p>
+
+      <p begin="00:07.630" end="00:09.130" ttm:agent="v1">Let's go</p>
+
+      <p begin="00:09.030" end="00:11.040" ttm:agent="v1">Bitch, dance, and throw that ass up</p>
+
+      <p begin="00:11.040" end="00:12.900" ttm:agent="v1">Blunt's so big, I could roll ya ass</p>
+
+      <p begin="00:12.900" end="00:14.900" ttm:agent="v1">So, drop it, I got my bags</p>
+
+      <p begin="00:14.900" end="00:17.020" ttm:agent="v1">I got big bands, you need your racks</p>
+
+      <p begin="00:17.020" end="00:18.520" ttm:agent="v1">So, do it, go stupid</p>
+
+      <p begin="00:18.420" end="00:20.230" ttm:agent="v1">Ass on fat but her waist on movin'</p>
+
+      <p begin="00:20.230" end="00:21.890" ttm:agent="v1">Got three racks, just spent on shoes</p>
+
+      <p begin="00:21.890" end="00:23.980" ttm:agent="v1">And whatchu want? Bitch, I ain't no cupid (ay, ay)</p>
+
+      <p begin="00:23.980" end="00:25.480" ttm:agent="v1">Bitch, dance</p>
+
+      <p begin="00:25.270" end="00:26.850" ttm:agent="v1">Her face is a eight, but her ass ten</p>
+
+      <p begin="00:26.850" end="00:28.350" ttm:agent="v1">He wants a picture, but he told his girl to ask me</p>
+
+      <p begin="00:28.300" end="00:30.230" ttm:agent="v1">Leather pants got me feeling like a bad bitch</p>
+
+      <p begin="00:30.230" end="00:31.940" ttm:agent="v1">I'm still the same, rockin' since back then</p>
+
+      <p begin="00:31.940" end="00:33.970" ttm:agent="v1">Still on the same drugs but way more</p>
+
+      <p begin="00:33.970" end="00:36.090" ttm:agent="v1">Beat up Vans, I got taste still</p>
+
+      <p begin="00:36.090" end="00:38.080" ttm:agent="v1">My new crib is somewhere where it's sunny out</p>
+
+      <p begin="00:38.080" end="00:39.700" ttm:agent="v1">But I spent 12 bands on this rain coat</p>
+
+      <p begin="00:39.700" end="00:41.200" ttm:agent="v1">Always off of it, forever lockin' in</p>
+
+      <p begin="00:41.090" end="00:43.360" ttm:agent="v1">I'm going hard again, your boyfriend clockin' in</p>
+
+      <p begin="00:43.360" end="00:45.440" ttm:agent="v1">Black and white chick, mix likе Dalmatian</p>
+
+      <p begin="00:45.440" end="00:47.290" ttm:agent="v1">My momma said I spend way too much on me</p>
+
+      <p begin="00:47.290" end="00:48.790" ttm:agent="v1">Oh my God</p>
+
+      <p begin="00:48.190" end="00:49.690" ttm:agent="v1">15 bitches in thе crib</p>
+
+      <p begin="00:49.330" end="00:50.830" ttm:agent="v1">So I really can't tell nobody</p>
+
+      <p begin="00:50.800" end="00:52.360" ttm:agent="v1">I've been on the road, I don't smoke</p>
+
+      <p begin="00:52.360" end="00:53.860" ttm:agent="v1">I don't motherfuckin' broke</p>
+
+      <p begin="00:53.590" end="00:55.090" ttm:agent="v1">Bring it back down like Bob Marley</p>
+
+      <p begin="00:55.070" end="00:56.570" ttm:agent="v1">Yeah, I've been doin' shows</p>
+
+      <p begin="00:56.490" end="00:57.990" ttm:agent="v1">If he keeps on asking for a feature</p>
+
+      <p begin="00:57.740" end="00:59.240" ttm:agent="v1">I'ma keep on saying, &quot;Mm, prolly&quot;</p>
+
+      <p begin="00:58.700" end="01:00.410" ttm:agent="v1">Bitch, we on go, we ain't pullin' up to no function</p>
+
+      <p begin="01:00.410" end="01:02.890" ttm:agent="v1">But this song got hoes dancin' at the party (party, party)</p>
+
+      <p begin="01:02.890" end="01:05.220" ttm:agent="v1">Bitch, dance, and throw that ass up</p>
+
+      <p begin="01:05.220" end="01:06.720" ttm:agent="v1">Blunt's so big, I could roll ya ass</p>
+
+      <p begin="01:06.620" end="01:08.300" ttm:agent="v1">So, drop it, I got my bags up, up</p>
+
+      <p begin="01:08.300" end="01:10.630" ttm:agent="v1">I got big bands, you need your racks up</p>
+
+      <p begin="01:10.630" end="01:12.150" ttm:agent="v1">So, do it, go stupid</p>
+
+      <p begin="01:12.150" end="01:13.650" ttm:agent="v1">Ass on fat but her waist on movin'</p>
+
+      <p begin="01:13.300" end="01:15.320" ttm:agent="v1">Got three racks, just spent on shoes</p>
+
+      <p begin="01:15.320" end="01:17.620" ttm:agent="v1">And whatchu want? Bitch, I ain't no cupid (ay, ay)</p>
+
+      <p begin="01:17.620" end="01:19.120" ttm:agent="v1">Bitch, dance</p>
+
+      <p begin="01:18.850" end="01:20.350" ttm:agent="v1">Blunt filled with OJ</p>
+
+      <p begin="01:19.620" end="01:21.120" ttm:agent="v1">Coke in the nose ring</p>
+
+      <p begin="01:20.660" end="01:22.160" ttm:agent="v1">She said she in love, yeah, but I'ma tell her, &quot;No way&quot;</p>
+
+      <p begin="01:21.700" end="01:23.390" ttm:agent="v1">2016, I was riding with a low fade</p>
+
+      <p begin="01:23.390" end="01:24.950" ttm:agent="v1">2016, I was rockin' hella no face</p>
+
+      <p begin="01:24.950" end="01:26.450" ttm:agent="v1">If she don't give me face in the back of the vehicle</p>
+
+      <p begin="01:26.280" end="01:28.690" ttm:agent="v1">I'ma take the commas, boy, you can keep the decimals</p>
+
+      <p begin="01:28.690" end="01:30.650" ttm:agent="v1">Naked bitches scream, I be adding up the decibels</p>
+
+      <p begin="01:30.650" end="01:33.440" ttm:agent="v1">Let me see you dance, shush it out, Miss Incredible (baby)</p>
+
+      <p begin="01:33.440" end="01:34.940" ttm:agent="v1">What's your name? I didn't catch it</p>
+
+      <p begin="01:34.940" end="01:36.640" ttm:agent="v1">Oh, you from Brooklyn? Like the magic?</p>
+
+      <p begin="01:36.640" end="01:38.540" ttm:agent="v1">Oh, your friends said that I'm active?</p>
+
+      <p begin="01:38.540" end="01:40.880" ttm:agent="v1">Baby, I don't know Jack like cactus</p>
+
+      <p begin="01:40.880" end="01:42.540" ttm:agent="v1">Sippin' cacti on the White Claw</p>
+
+      <p begin="01:42.540" end="01:44.810" ttm:agent="v1">She my angel in that white cloth</p>
+
+      <p begin="01:44.810" end="01:46.770" ttm:agent="v1">Sniffin' white lines, then I mile off</p>
+
+      <p begin="01:46.770" end="01:48.820" ttm:agent="v1">Tell 'em white lies, just from my car</p>
+
+      <p begin="01:48.820" end="01:52.220" ttm:agent="v1">I said I think that I'm on some shit</p>
+
+      <p begin="01:52.220" end="01:56.340" ttm:agent="v1">Let me see you go left, right, up, down on my dick</p>
+
+      <p begin="01:56.340" end="01:59.260" ttm:agent="v1">I'm so sorry, but, I'm so high, I must admit</p>
+
+      <p begin="01:59.260" end="02:03.970" ttm:agent="v1">Tell me your name one more time, I won't forget</p>
+
+      <p begin="02:03.970" end="02:06.690" ttm:agent="v1">Bitch, dance, and throw that ass up</p>
+
+      <p begin="02:06.690" end="02:08.380" ttm:agent="v1">Blunt's so big, I could roll ya ass</p>
+
+      <p begin="02:08.380" end="02:10.320" ttm:agent="v1">So, drop it, I got my bags up</p>
+
+      <p begin="02:10.320" end="02:12.220" ttm:agent="v1">I got big bands, you need your racks up</p>
+
+      <p begin="02:12.220" end="02:14.080" ttm:agent="v1">So, do it, go stupid</p>
+
+      <p begin="02:14.080" end="02:15.790" ttm:agent="v1">Ass on fat but her waist on movin'</p>
+
+      <p begin="02:15.790" end="02:17.400" ttm:agent="v1">Got three racks, just spent on shoes</p>
+
+      <p begin="02:17.400" end="02:19.500" ttm:agent="v1">And whatchu want? Bitch, I ain't no cupid (ay, ay)</p>
+
+      <p begin="02:19.500" end="02:21.560" ttm:agent="v1">Bitch dance, and throw that ass up</p>
+
+      <p begin="02:21.560" end="02:23.330" ttm:agent="v1">Blunt's so big, I could roll your ass</p>
+
+      <p begin="02:23.330" end="02:25.460" ttm:agent="v1">So drop it, I got my bags up</p>
+
+      <p begin="02:25.460" end="02:27.420" ttm:agent="v1">I got big bands, you need your racks up</p>
+
+      <p begin="02:27.420" end="02:29.160" ttm:agent="v1">So do it, go stupid</p>
+
+      <p begin="02:29.160" end="02:30.950" ttm:agent="v1">Ass on fat but her waist on movin'</p>
+
+      <p begin="02:30.950" end="02:32.690" ttm:agent="v1">Got three racks just spent on shoes</p>
+
+      <p begin="02:32.690" end="02:34.370" ttm:agent="v1">And whatchu want? Bitch I ain't no cupid</p>
+
+      <p begin="02:34.370" end="02:36.190" ttm:agent="v1">Bitch dance (bitch dance)</p>
+
+      <p begin="02:36.190" end="02:40.190" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

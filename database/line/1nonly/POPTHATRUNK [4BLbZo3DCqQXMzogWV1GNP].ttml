@@ -1,91 +1,182 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>POPTHATRUNK</ttm:title>
-      <ttm:agent type="person" xml:id="v1">1nonly</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">Freddie Dredd</ttm:agent>
-      <ttm:item type="album">POPTHATRUNK</ttm:item>
-      <ttm:item type="spotify_id">4BLbZo3DCqQXMzogWV1GNP</ttm:item>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.000" end="00:01.500" ttm:agent="v1">[Intro: Gimisum Family]</p>
-      <p begin="00:00.651" end="00:02.317" ttm:agent="v1">—bubble bath, and grip my .44 up off the dresser</p>
-      <p begin="00:02.317" end="00:04.669" ttm:agent="v1" itunes:key="role" itunes:value="background">Now I'm finna go up on a ****in' spree— a ****in' spree (dwilly I'm scared)</p>
-      <p begin="00:04.669" end="00:07.918" ttm:agent="v1">—bubble bath, and grip my .44 up off the dresser</p>
-      <p begin="00:07.918" end="00:10.028" ttm:agent="v1">Now I'm finna go up on a ****in' spree-spree-spree-spree</p>
-      <p begin="00:10.028" end="00:11.528" ttm:agent="v1"/>
-      <p begin="00:10.271" end="00:11.771" ttm:agent="v1">[Chorus: 1nonly]</p>
-      <p begin="00:10.675" end="00:13.182" ttm:agent="v1">Ayy, ayy, I might shoot it, get the .44 and pop tha' trunk</p>
-      <p begin="00:13.182" end="00:15.852" ttm:agent="v1">Like what the ****? These b*****s goofy, do the most, but **** it, but **** it</p>
-      <p begin="00:15.852" end="00:18.358" ttm:agent="v1">Runnin', poppin', 'cause I know he wanna try to do shit</p>
-      <p begin="00:18.358" end="00:20.769" ttm:agent="v1" itunes:key="role" itunes:value="background">Pistol got it, watch it stoppin' bullets, .30 keep it in (Ayy), can't stop</p>
-      <p begin="00:20.769" end="00:22.269" ttm:agent="v1"/>
-      <p begin="00:20.779" end="00:22.279" ttm:agent="v1">[Post-Chorus: Freddie Dredd]</p>
-      <p begin="00:20.789" end="00:23.633" ttm:agent="v1">I cannot leave a trace, but I think I gotta go</p>
-      <p begin="00:23.633" end="00:26.196" ttm:agent="v1">Spillin' blood, it's a race and I'm always needin' more</p>
-      <p begin="00:26.196" end="00:29.000" ttm:agent="v1">Homicide on my mind, why you think you 'bout to die?</p>
-      <p begin="00:29.000" end="00:31.100" ttm:agent="v1">See the Freddie in your room and you're 'bout to meet the doom</p>
-      <p begin="00:31.100" end="00:32.600" ttm:agent="v1"/>
-      <p begin="00:31.475" end="00:32.975" ttm:agent="v1">[Verse 1: 1nonly]</p>
-      <p begin="00:31.847" end="00:33.347" ttm:agent="v1">Pop it, pop it, rock it, suck it</p>
-      <p begin="00:33.198" end="00:34.698" ttm:agent="v1">Walk his thirty bullets knock I've got it</p>
-      <p begin="00:34.499" end="00:36.084" ttm:agent="v1">Pop it, rock it, shuck it, hundred bands up in my wallet</p>
-      <p begin="00:36.084" end="00:39.494" ttm:agent="v1">He be talkin', talkin', talkin', take the money from his pockets</p>
-      <p begin="00:39.494" end="00:42.988" ttm:agent="v1">Pistol got it, watch it, stop it, watch it, watch it where you walkin', little b***h</p>
-      <p begin="00:42.988" end="00:45.599" ttm:agent="v1">I don't wanna ****, I don't wanna **** sticks</p>
-      <p begin="00:45.599" end="00:48.400" ttm:agent="v1">Pop it out tha' truck, pop it out tha' truck kiss</p>
-      <p begin="00:48.400" end="00:50.487" ttm:agent="v1">Own this .44, I bring the magazine</p>
-      <p begin="00:50.487" end="00:53.100" ttm:agent="v1">The paper coming up, the blue and green is what you lackin'</p>
-      <p begin="00:53.100" end="00:54.600" ttm:agent="v1"/>
-      <p begin="00:53.287" end="00:54.787" ttm:agent="v1">[Chorus: 1nonly]</p>
-      <p begin="00:53.381" end="00:55.579" ttm:agent="v1">I-I might shoot it, get the .44 and pop tha' trunk</p>
-      <p begin="00:55.579" end="00:58.421" ttm:agent="v1">Like what the ****? These b*****s goofy, do the most, but **** it, but **** it</p>
-      <p begin="00:58.421" end="01:00.516" ttm:agent="v1">Runnin', poppin', 'cause I know he wanna try to do shit</p>
-      <p begin="01:00.516" end="01:02.888" ttm:agent="v1" itunes:key="role" itunes:value="background">Pistol got it, watch it stoppin' bullets, .30 keep it in (Ayy), can't stop</p>
-      <p begin="01:02.888" end="01:04.388" ttm:agent="v1"/>
-      <p begin="01:03.306" end="01:04.806" ttm:agent="v1">[Post-Chorus: Freddie Dredd]</p>
-      <p begin="01:03.722" end="01:06.143" ttm:agent="v1">I cannot leave a trace, but I think I gotta go</p>
-      <p begin="01:06.143" end="01:08.800" ttm:agent="v1">Spillin' blood, it's a race and I'm always needin' more</p>
-      <p begin="01:08.800" end="01:11.407" ttm:agent="v1">Homicide on my mind, why you think you 'bout to die?</p>
-      <p begin="01:11.407" end="01:14.559" ttm:agent="v1">See the Freddie in your room and you're 'bout to meet the doom</p>
-      <p begin="01:14.559" end="01:16.059" ttm:agent="v1"/>
-      <p begin="01:14.700" end="01:16.200" ttm:agent="v1">[Verse 2: Freddie Dredd]</p>
-      <p begin="01:14.841" end="01:17.135" ttm:agent="v1">R-Rock steady, Glock heavy, I just wanna get it goin'</p>
-      <p begin="01:17.135" end="01:18.635" ttm:agent="v1">Speedin' down, now get a grip</p>
-      <p begin="01:18.532" end="01:20.032" ttm:agent="v1">Where's my gun? It's on my hip</p>
-      <p begin="01:19.886" end="01:22.454" ttm:agent="v1">Off the rip, I just wanna break it down and make it flip</p>
-      <p begin="01:22.454" end="01:25.203" ttm:agent="v1">On your block, I'm about to pop it off and make you flop</p>
-      <p begin="01:25.203" end="01:27.389" ttm:agent="v1">G-Get it off the get-go, I need more money, oh no</p>
-      <p begin="01:27.389" end="01:30.181" ttm:agent="v1">I rob the plug and do the dash and hit the gas and almost crash</p>
-      <p begin="01:30.181" end="01:32.561" ttm:agent="v1">They never see me coming, I just took 'em by surprise</p>
-      <p begin="01:32.561" end="01:34.519" ttm:agent="v1">Little did he even know, he's about to meet demise</p>
-      <p begin="01:34.519" end="01:36.019" ttm:agent="v1"/>
-      <p begin="01:35.123" end="01:36.623" ttm:agent="v1">[Chorus: 1nonly]</p>
-      <p begin="01:35.684" end="01:38.345" ttm:agent="v1">Ayy, I might shoot it, get the .44 and pop tha' trunk</p>
-      <p begin="01:38.345" end="01:41.147" ttm:agent="v1">Like what the ****? These b*****s goofy, do the most, but **** it, but **** it</p>
-      <p begin="01:41.147" end="01:43.803" ttm:agent="v1">Runnin', poppin', 'cause I know he wanna try to do shit</p>
-      <p begin="01:43.803" end="01:46.224" ttm:agent="v1" itunes:key="role" itunes:value="background">Pistol got it, watch it stoppin' bullets, .30 keep it in (Ayy), can't stop</p>
-      <p begin="01:46.224" end="01:47.724" ttm:agent="v1">[Post-Chorus: Freddie Dredd]</p>
-      <p begin="01:46.412" end="01:48.883" ttm:agent="v1">I cannot leave a trace, but I think I gotta go</p>
-      <p begin="01:48.883" end="01:51.539" ttm:agent="v1">Spillin' blood, it's a race and I'm always needin' more</p>
-      <p begin="01:51.539" end="01:54.292" ttm:agent="v1">Homicide on my mind, why you think you 'bout to die?</p>
-      <p begin="01:54.292" end="01:56.709" ttm:agent="v1">See the Freddie in your room and you're 'bout to meet the doom</p>
-      <p begin="01:56.709" end="01:58.209" ttm:agent="v1"/>
-      <p begin="01:56.898" end="01:58.398" ttm:agent="v1">[Outro: Freddie Dredd &amp; Gimisum Family]</p>
-      <p begin="01:57.038" end="02:00.158" ttm:agent="v1">Pop it, pop it, pop it, pop it, pop it, pop it, pop it, now I'm—</p>
-      <p begin="02:00.158" end="02:02.541" ttm:agent="v1">Pop-pop-pop-pop-pop-pop-pop-pop-pop-pop, spree—</p>
-      <p begin="02:02.541" end="02:05.252" ttm:agent="v1">Pop it, pop it, pop it, pop it, pop it, pop it, now I'm—</p>
-      <p begin="02:05.252" end="02:09.252" ttm:agent="v1">Pop-pop-pop-pop-pop-pop-pop-pop-pop-pop, spree-spree—</p>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>POPTHATRUNK</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">1nonly</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v2">Freddie Dredd</ttm:agent>
+
+      <ttm:item type="album">POPTHATRUNK</ttm:item>
+
+      <ttm:item type="spotify_id">4BLbZo3DCqQXMzogWV1GNP</ttm:item>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.000" end="00:01.500" ttm:agent="v1">[Intro: Gimisum Family]</p>
+
+      <p begin="00:00.651" end="00:02.317" ttm:agent="v1">—bubble bath, and grip my .44 up off the dresser</p>
+
+      <p begin="00:02.317" end="00:04.669" ttm:agent="v1">Now I'm finna go up on a ****in' spree— a ****in' spree (dwilly I'm scared)</p>
+
+      <p begin="00:04.669" end="00:07.918" ttm:agent="v1">—bubble bath, and grip my .44 up off the dresser</p>
+
+      <p begin="00:07.918" end="00:10.028" ttm:agent="v1">Now I'm finna go up on a ****in' spree-spree-spree-spree</p>
+
+      <p begin="00:10.028" end="00:11.528" ttm:agent="v1"/>
+
+      <p begin="00:10.271" end="00:11.771" ttm:agent="v1">[Chorus: 1nonly]</p>
+
+      <p begin="00:10.675" end="00:13.182" ttm:agent="v1">Ayy, ayy, I might shoot it, get the .44 and pop tha' trunk</p>
+
+      <p begin="00:13.182" end="00:15.852" ttm:agent="v1">Like what the ****? These b*****s goofy, do the most, but **** it, but **** it</p>
+
+      <p begin="00:15.852" end="00:18.358" ttm:agent="v1">Runnin', poppin', 'cause I know he wanna try to do shit</p>
+
+      <p begin="00:18.358" end="00:20.769" ttm:agent="v1">Pistol got it, watch it stoppin' bullets, .30 keep it in (Ayy), can't stop</p>
+
+      <p begin="00:20.769" end="00:22.269" ttm:agent="v1"/>
+
+      <p begin="00:20.779" end="00:22.279" ttm:agent="v1">[Post-Chorus: Freddie Dredd]</p>
+
+      <p begin="00:20.789" end="00:23.633" ttm:agent="v1">I cannot leave a trace, but I think I gotta go</p>
+
+      <p begin="00:23.633" end="00:26.196" ttm:agent="v1">Spillin' blood, it's a race and I'm always needin' more</p>
+
+      <p begin="00:26.196" end="00:29.000" ttm:agent="v1">Homicide on my mind, why you think you 'bout to die?</p>
+
+      <p begin="00:29.000" end="00:31.100" ttm:agent="v1">See the Freddie in your room and you're 'bout to meet the doom</p>
+
+      <p begin="00:31.100" end="00:32.600" ttm:agent="v1"/>
+
+      <p begin="00:31.475" end="00:32.975" ttm:agent="v1">[Verse 1: 1nonly]</p>
+
+      <p begin="00:31.847" end="00:33.347" ttm:agent="v1">Pop it, pop it, rock it, suck it</p>
+
+      <p begin="00:33.198" end="00:34.698" ttm:agent="v1">Walk his thirty bullets knock I've got it</p>
+
+      <p begin="00:34.499" end="00:36.084" ttm:agent="v1">Pop it, rock it, shuck it, hundred bands up in my wallet</p>
+
+      <p begin="00:36.084" end="00:39.494" ttm:agent="v1">He be talkin', talkin', talkin', take the money from his pockets</p>
+
+      <p begin="00:39.494" end="00:42.988" ttm:agent="v1">Pistol got it, watch it, stop it, watch it, watch it where you walkin', little b***h</p>
+
+      <p begin="00:42.988" end="00:45.599" ttm:agent="v1">I don't wanna ****, I don't wanna **** sticks</p>
+
+      <p begin="00:45.599" end="00:48.400" ttm:agent="v1">Pop it out tha' truck, pop it out tha' truck kiss</p>
+
+      <p begin="00:48.400" end="00:50.487" ttm:agent="v1">Own this .44, I bring the magazine</p>
+
+      <p begin="00:50.487" end="00:53.100" ttm:agent="v1">The paper coming up, the blue and green is what you lackin'</p>
+
+      <p begin="00:53.100" end="00:54.600" ttm:agent="v1"/>
+
+      <p begin="00:53.287" end="00:54.787" ttm:agent="v1">[Chorus: 1nonly]</p>
+
+      <p begin="00:53.381" end="00:55.579" ttm:agent="v1">I-I might shoot it, get the .44 and pop tha' trunk</p>
+
+      <p begin="00:55.579" end="00:58.421" ttm:agent="v1">Like what the ****? These b*****s goofy, do the most, but **** it, but **** it</p>
+
+      <p begin="00:58.421" end="01:00.516" ttm:agent="v1">Runnin', poppin', 'cause I know he wanna try to do shit</p>
+
+      <p begin="01:00.516" end="01:02.888" ttm:agent="v1">Pistol got it, watch it stoppin' bullets, .30 keep it in (Ayy), can't stop</p>
+
+      <p begin="01:02.888" end="01:04.388" ttm:agent="v1"/>
+
+      <p begin="01:03.306" end="01:04.806" ttm:agent="v1">[Post-Chorus: Freddie Dredd]</p>
+
+      <p begin="01:03.722" end="01:06.143" ttm:agent="v1">I cannot leave a trace, but I think I gotta go</p>
+
+      <p begin="01:06.143" end="01:08.800" ttm:agent="v1">Spillin' blood, it's a race and I'm always needin' more</p>
+
+      <p begin="01:08.800" end="01:11.407" ttm:agent="v1">Homicide on my mind, why you think you 'bout to die?</p>
+
+      <p begin="01:11.407" end="01:14.559" ttm:agent="v1">See the Freddie in your room and you're 'bout to meet the doom</p>
+
+      <p begin="01:14.559" end="01:16.059" ttm:agent="v1"/>
+
+      <p begin="01:14.700" end="01:16.200" ttm:agent="v1">[Verse 2: Freddie Dredd]</p>
+
+      <p begin="01:14.841" end="01:17.135" ttm:agent="v1">R-Rock steady, Glock heavy, I just wanna get it goin'</p>
+
+      <p begin="01:17.135" end="01:18.635" ttm:agent="v1">Speedin' down, now get a grip</p>
+
+      <p begin="01:18.532" end="01:20.032" ttm:agent="v1">Where's my gun? It's on my hip</p>
+
+      <p begin="01:19.886" end="01:22.454" ttm:agent="v1">Off the rip, I just wanna break it down and make it flip</p>
+
+      <p begin="01:22.454" end="01:25.203" ttm:agent="v1">On your block, I'm about to pop it off and make you flop</p>
+
+      <p begin="01:25.203" end="01:27.389" ttm:agent="v1">G-Get it off the get-go, I need more money, oh no</p>
+
+      <p begin="01:27.389" end="01:30.181" ttm:agent="v1">I rob the plug and do the dash and hit the gas and almost crash</p>
+
+      <p begin="01:30.181" end="01:32.561" ttm:agent="v1">They never see me coming, I just took 'em by surprise</p>
+
+      <p begin="01:32.561" end="01:34.519" ttm:agent="v1">Little did he even know, he's about to meet demise</p>
+
+      <p begin="01:34.519" end="01:36.019" ttm:agent="v1"/>
+
+      <p begin="01:35.123" end="01:36.623" ttm:agent="v1">[Chorus: 1nonly]</p>
+
+      <p begin="01:35.684" end="01:38.345" ttm:agent="v1">Ayy, I might shoot it, get the .44 and pop tha' trunk</p>
+
+      <p begin="01:38.345" end="01:41.147" ttm:agent="v1">Like what the ****? These b*****s goofy, do the most, but **** it, but **** it</p>
+
+      <p begin="01:41.147" end="01:43.803" ttm:agent="v1">Runnin', poppin', 'cause I know he wanna try to do shit</p>
+
+      <p begin="01:43.803" end="01:46.224" ttm:agent="v1">Pistol got it, watch it stoppin' bullets, .30 keep it in (Ayy), can't stop</p>
+
+      <p begin="01:46.224" end="01:47.724" ttm:agent="v1">[Post-Chorus: Freddie Dredd]</p>
+
+      <p begin="01:46.412" end="01:48.883" ttm:agent="v1">I cannot leave a trace, but I think I gotta go</p>
+
+      <p begin="01:48.883" end="01:51.539" ttm:agent="v1">Spillin' blood, it's a race and I'm always needin' more</p>
+
+      <p begin="01:51.539" end="01:54.292" ttm:agent="v1">Homicide on my mind, why you think you 'bout to die?</p>
+
+      <p begin="01:54.292" end="01:56.709" ttm:agent="v1">See the Freddie in your room and you're 'bout to meet the doom</p>
+
+      <p begin="01:56.709" end="01:58.209" ttm:agent="v1"/>
+
+      <p begin="01:56.898" end="01:58.398" ttm:agent="v1">[Outro: Freddie Dredd &amp; Gimisum Family]</p>
+
+      <p begin="01:57.038" end="02:00.158" ttm:agent="v1">Pop it, pop it, pop it, pop it, pop it, pop it, pop it, now I'm—</p>
+
+      <p begin="02:00.158" end="02:02.541" ttm:agent="v1">Pop-pop-pop-pop-pop-pop-pop-pop-pop-pop, spree—</p>
+
+      <p begin="02:02.541" end="02:05.252" ttm:agent="v1">Pop it, pop it, pop it, pop it, pop it, pop it, now I'm—</p>
+
+      <p begin="02:05.252" end="02:09.252" ttm:agent="v1">Pop-pop-pop-pop-pop-pop-pop-pop-pop-pop, spree-spree—</p>
+
+    </div>
+
+  </body>
+
+</tt>
+

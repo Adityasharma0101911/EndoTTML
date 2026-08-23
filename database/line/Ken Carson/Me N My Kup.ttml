@@ -1,83 +1,166 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>Me N My Kup</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Ken Carson</ttm:agent>
-      <ttm:item type="album">A Great Chaos</ttm:item>
-      <ttm:item type="spotify_id">0hhNTyH6RJJGItHeSMCof3</ttm:item>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.537" end="00:07.737" ttm:agent="v1" itunes:key="role" itunes:value="background">(8-808)</p>
-      <p begin="00:07.737" end="00:10.949" ttm:agent="v1">Yeah, don't play with me, I'm on some other shit, like</p>
-      <p begin="00:10.949" end="00:12.449" ttm:agent="v1">Some whole other shit, like</p>
-      <p begin="00:11.673" end="00:13.173" ttm:agent="v1" itunes:key="role" itunes:value="background">(Star made the beat, I just took it out the oven)</p>
-      <p begin="00:13.045" end="00:15.749" ttm:agent="v1">Huh, huh, huh, huh, huh, huh</p>
-      <p begin="00:15.749" end="00:17.674" ttm:agent="v1">It's just me and my cup in this b***h</p>
-      <p begin="00:17.674" end="00:19.572" ttm:agent="v1">DRKSHDW all on my Rick</p>
-      <p begin="00:19.572" end="00:21.072" ttm:agent="v1">VVS all on my wrist</p>
-      <p begin="00:21.068" end="00:24.389" ttm:agent="v1">I bought an Uzi today, and it's already hot, it ain’t come with a cooling kit</p>
-      <p begin="00:24.389" end="00:27.810" ttm:agent="v1">She ain't **** with me back then, but wanna **** with me now, huh, I'm cool, lil' b***h</p>
-      <p begin="00:27.810" end="00:29.599" ttm:agent="v1">Huh, let's go hit a lick</p>
-      <p begin="00:29.599" end="00:31.577" ttm:agent="v1">Huh, let's go do a drill</p>
-      <p begin="00:31.577" end="00:35.139" ttm:agent="v1" itunes:key="role" itunes:value="background">I heard he got a mill’ in his crib, and he stay up in the hills (8-808)</p>
-      <p begin="00:35.139" end="00:38.092" ttm:agent="v1">We don't give a **** who you is, we don't give a **** how you feel</p>
-      <p begin="00:38.092" end="00:40.871" ttm:agent="v1">We don't give a **** how you feel, we don't give no ****s</p>
-      <p begin="00:40.871" end="00:44.473" ttm:agent="v1">I copped a Mercedes, I ditched that AMG, I'm ridin' the G-Wagon Truck</p>
-      <p begin="00:44.473" end="00:47.919" ttm:agent="v1">I just might go buy the SVJ, ‘cause I like how the doors go up</p>
-      <p begin="00:47.919" end="00:51.328" ttm:agent="v1">My boy, he be catchin' them bodies, he catchin' them bodies, I'm watching the scores go up</p>
-      <p begin="00:51.328" end="00:54.865" ttm:agent="v1">Yo' gang probably caught a few bodies, but I ain't worried about it, 'cause we droppin' more than them</p>
-      <p begin="00:54.865" end="00:59.953" ttm:agent="v1">Step on shit like Timbs, pull up with a FN Five-seveN, that bih' take off limbs</p>
-      <p begin="00:59.953" end="01:03.373" ttm:agent="v1">I just popped a private jet, G6, I'm 'bout to take off, yeah</p>
-      <p begin="01:03.373" end="01:06.732" ttm:agent="v1">They like, &quot;Hold up, hold up, hold up, you boutta take off right here&quot;</p>
-      <p begin="01:06.732" end="01:08.232" ttm:agent="v1">I'm 'boutta take off, yeah</p>
-      <p begin="01:08.066" end="01:11.457" ttm:agent="v1">Niggas ain't ****in' with me when it come to swag, huh, I'm passin' it out</p>
-      <p begin="01:11.457" end="01:14.887" ttm:agent="v1">Shawty got no respect when it come to that ass, huh, she passin' it out</p>
-      <p begin="01:14.887" end="01:18.251" ttm:agent="v1">I be VET-VET-VETEMENTS from head to toe, even the sock</p>
-      <p begin="01:18.251" end="01:21.641" ttm:agent="v1">I got every Balenciaga boots, except for the Crocs</p>
-      <p begin="01:21.641" end="01:25.308" ttm:agent="v1">Rick Owens all over my, Rick Owens all over me</p>
-      <p begin="01:25.308" end="01:28.480" ttm:agent="v1">Maison Francis cologne, got this hoe all over me</p>
-      <p begin="01:28.480" end="01:32.079" ttm:agent="v1">I pulled up to my show, rock out this b***h, then I leave</p>
-      <p begin="01:32.079" end="01:35.434" ttm:agent="v1">I don't **** with these niggas, like they got a disease</p>
-      <p begin="01:35.434" end="01:38.919" ttm:agent="v1">Trapper rapper, huh-huh, I got what you need</p>
-      <p begin="01:38.919" end="01:42.191" ttm:agent="v1">I got that b***h in H&amp;M, then now she rock double C</p>
-      <p begin="01:42.191" end="01:45.605" ttm:agent="v1">I got that b***h named Gabriela and now she rocks double G</p>
-      <p begin="01:45.605" end="01:49.638" ttm:agent="v1">I took my other b***h to Louis Vuitton and bought her everything, yeah-ah</p>
-      <p begin="01:49.638" end="01:53.522" ttm:agent="v1">If it's up then it's stuck, leave it in the air</p>
-      <p begin="01:53.522" end="01:56.565" ttm:agent="v1">Missionary, her legs up, I got them in the air</p>
-      <p begin="01:56.565" end="01:59.920" ttm:agent="v1">This b***h a freak, this b***h let me **** her anywhere</p>
-      <p begin="01:59.920" end="02:04.607" ttm:agent="v1">Shawty whip it out in front of my partner, she don't even care</p>
-      <p begin="02:04.607" end="02:06.739" ttm:agent="v1">I'm elite with these hoes</p>
-      <p begin="02:06.739" end="02:09.780" ttm:agent="v1">I'll put a b***h in her place, I'll tell that b***h where to go</p>
-      <p begin="02:09.780" end="02:13.176" ttm:agent="v1">If I tell that lil' b***h to dance, she gon' tango</p>
-      <p begin="02:13.176" end="02:16.635" ttm:agent="v1">If I tell her to paint me a picture, she gon' Van Gogh</p>
-      <p begin="02:16.635" end="02:20.066" ttm:agent="v1">She insane with that throat, she insane wit' it</p>
-      <p begin="02:20.066" end="02:22.979" ttm:agent="v1">I told her she insane, if she gon' let the gang hit</p>
-      <p begin="02:22.979" end="02:26.470" ttm:agent="v1">I pass her to the gang, yeah, just like James, nigga</p>
-      <p begin="02:26.470" end="02:29.959" ttm:agent="v1">I be killin' that p***y, be killin' that p***y feel like John Wayne, nigga</p>
-      <p begin="02:29.959" end="02:33.332" ttm:agent="v1">He was talkin' that, huh, and all he heard was a bang, nigga</p>
-      <p begin="02:33.332" end="02:40.341" ttm:agent="v1">Give a **** who you **** with, long as you don't **** with my gang, nigga</p>
-      <p begin="02:40.341" end="02:44.469" ttm:agent="v1">Give a **** who you **** with, long as you don't **** with my gang, nigga</p>
-      <p begin="02:44.469" end="02:46.605" ttm:agent="v1">Huh, huh, huh, huh, huh, huh</p>
-      <p begin="02:46.605" end="02:48.382" ttm:agent="v1">It's just me and my cup in this b***h</p>
-      <p begin="02:48.382" end="02:50.135" ttm:agent="v1">DRKSHDW all on my Rick</p>
-      <p begin="02:50.135" end="02:51.947" ttm:agent="v1">VVS all on my wrist</p>
-      <p begin="02:51.947" end="02:55.262" ttm:agent="v1">I bought an Uzi today, and it's already hot, it ain’t come with a cooling kit</p>
-      <p begin="02:55.262" end="02:58.655" ttm:agent="v1">She ain't **** with me back then, but wanna **** with me now, huh, I'm cool, lil' b***h</p>
-      <p begin="02:58.655" end="03:00.638" ttm:agent="v1">Huh, let's go hit a lick</p>
-      <p begin="03:00.638" end="03:02.393" ttm:agent="v1">Huh, let's go do a drill</p>
-      <p begin="03:02.393" end="03:05.826" ttm:agent="v1" itunes:key="role" itunes:value="background">I heard he got a mill’ in his crib, and he stay up in the hills (8-808)</p>
-      <p begin="03:05.826" end="03:09.003" ttm:agent="v1">We don't give a **** who you is, we don't give a **** how you feel</p>
-      <p begin="03:09.003" end="03:13.003" ttm:agent="v1">We don't give a **** how you feel, we don't give no ****s</p>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>Me N My Kup</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Ken Carson</ttm:agent>
+
+      <ttm:item type="album">A Great Chaos</ttm:item>
+
+      <ttm:item type="spotify_id">0hhNTyH6RJJGItHeSMCof3</ttm:item>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.537" end="00:07.737" ttm:agent="v1" itunes:key="role" itunes:value="background">(8-808)</p>
+
+      <p begin="00:07.737" end="00:10.949" ttm:agent="v1">Yeah, don't play with me, I'm on some other shit, like</p>
+
+      <p begin="00:10.949" end="00:12.449" ttm:agent="v1">Some whole other shit, like</p>
+
+      <p begin="00:11.673" end="00:13.173" ttm:agent="v1" itunes:key="role" itunes:value="background">(Star made the beat, I just took it out the oven)</p>
+
+      <p begin="00:13.045" end="00:15.749" ttm:agent="v1">Huh, huh, huh, huh, huh, huh</p>
+
+      <p begin="00:15.749" end="00:17.674" ttm:agent="v1">It's just me and my cup in this b***h</p>
+
+      <p begin="00:17.674" end="00:19.572" ttm:agent="v1">DRKSHDW all on my Rick</p>
+
+      <p begin="00:19.572" end="00:21.072" ttm:agent="v1">VVS all on my wrist</p>
+
+      <p begin="00:21.068" end="00:24.389" ttm:agent="v1">I bought an Uzi today, and it's already hot, it ain’t come with a cooling kit</p>
+
+      <p begin="00:24.389" end="00:27.810" ttm:agent="v1">She ain't **** with me back then, but wanna **** with me now, huh, I'm cool, lil' b***h</p>
+
+      <p begin="00:27.810" end="00:29.599" ttm:agent="v1">Huh, let's go hit a lick</p>
+
+      <p begin="00:29.599" end="00:31.577" ttm:agent="v1">Huh, let's go do a drill</p>
+
+      <p begin="00:31.577" end="00:35.139" ttm:agent="v1">I heard he got a mill’ in his crib, and he stay up in the hills (8-808)</p>
+
+      <p begin="00:35.139" end="00:38.092" ttm:agent="v1">We don't give a **** who you is, we don't give a **** how you feel</p>
+
+      <p begin="00:38.092" end="00:40.871" ttm:agent="v1">We don't give a **** how you feel, we don't give no ****s</p>
+
+      <p begin="00:40.871" end="00:44.473" ttm:agent="v1">I copped a Mercedes, I ditched that AMG, I'm ridin' the G-Wagon Truck</p>
+
+      <p begin="00:44.473" end="00:47.919" ttm:agent="v1">I just might go buy the SVJ, ‘cause I like how the doors go up</p>
+
+      <p begin="00:47.919" end="00:51.328" ttm:agent="v1">My boy, he be catchin' them bodies, he catchin' them bodies, I'm watching the scores go up</p>
+
+      <p begin="00:51.328" end="00:54.865" ttm:agent="v1">Yo' gang probably caught a few bodies, but I ain't worried about it, 'cause we droppin' more than them</p>
+
+      <p begin="00:54.865" end="00:59.953" ttm:agent="v1">Step on shit like Timbs, pull up with a FN Five-seveN, that bih' take off limbs</p>
+
+      <p begin="00:59.953" end="01:03.373" ttm:agent="v1">I just popped a private jet, G6, I'm 'bout to take off, yeah</p>
+
+      <p begin="01:03.373" end="01:06.732" ttm:agent="v1">They like, &quot;Hold up, hold up, hold up, you boutta take off right here&quot;</p>
+
+      <p begin="01:06.732" end="01:08.232" ttm:agent="v1">I'm 'boutta take off, yeah</p>
+
+      <p begin="01:08.066" end="01:11.457" ttm:agent="v1">Niggas ain't ****in' with me when it come to swag, huh, I'm passin' it out</p>
+
+      <p begin="01:11.457" end="01:14.887" ttm:agent="v1">Shawty got no respect when it come to that ass, huh, she passin' it out</p>
+
+      <p begin="01:14.887" end="01:18.251" ttm:agent="v1">I be VET-VET-VETEMENTS from head to toe, even the sock</p>
+
+      <p begin="01:18.251" end="01:21.641" ttm:agent="v1">I got every Balenciaga boots, except for the Crocs</p>
+
+      <p begin="01:21.641" end="01:25.308" ttm:agent="v1">Rick Owens all over my, Rick Owens all over me</p>
+
+      <p begin="01:25.308" end="01:28.480" ttm:agent="v1">Maison Francis cologne, got this hoe all over me</p>
+
+      <p begin="01:28.480" end="01:32.079" ttm:agent="v1">I pulled up to my show, rock out this b***h, then I leave</p>
+
+      <p begin="01:32.079" end="01:35.434" ttm:agent="v1">I don't **** with these niggas, like they got a disease</p>
+
+      <p begin="01:35.434" end="01:38.919" ttm:agent="v1">Trapper rapper, huh-huh, I got what you need</p>
+
+      <p begin="01:38.919" end="01:42.191" ttm:agent="v1">I got that b***h in H&amp;M, then now she rock double C</p>
+
+      <p begin="01:42.191" end="01:45.605" ttm:agent="v1">I got that b***h named Gabriela and now she rocks double G</p>
+
+      <p begin="01:45.605" end="01:49.638" ttm:agent="v1">I took my other b***h to Louis Vuitton and bought her everything, yeah-ah</p>
+
+      <p begin="01:49.638" end="01:53.522" ttm:agent="v1">If it's up then it's stuck, leave it in the air</p>
+
+      <p begin="01:53.522" end="01:56.565" ttm:agent="v1">Missionary, her legs up, I got them in the air</p>
+
+      <p begin="01:56.565" end="01:59.920" ttm:agent="v1">This b***h a freak, this b***h let me **** her anywhere</p>
+
+      <p begin="01:59.920" end="02:04.607" ttm:agent="v1">Shawty whip it out in front of my partner, she don't even care</p>
+
+      <p begin="02:04.607" end="02:06.739" ttm:agent="v1">I'm elite with these hoes</p>
+
+      <p begin="02:06.739" end="02:09.780" ttm:agent="v1">I'll put a b***h in her place, I'll tell that b***h where to go</p>
+
+      <p begin="02:09.780" end="02:13.176" ttm:agent="v1">If I tell that lil' b***h to dance, she gon' tango</p>
+
+      <p begin="02:13.176" end="02:16.635" ttm:agent="v1">If I tell her to paint me a picture, she gon' Van Gogh</p>
+
+      <p begin="02:16.635" end="02:20.066" ttm:agent="v1">She insane with that throat, she insane wit' it</p>
+
+      <p begin="02:20.066" end="02:22.979" ttm:agent="v1">I told her she insane, if she gon' let the gang hit</p>
+
+      <p begin="02:22.979" end="02:26.470" ttm:agent="v1">I pass her to the gang, yeah, just like James, nigga</p>
+
+      <p begin="02:26.470" end="02:29.959" ttm:agent="v1">I be killin' that p***y, be killin' that p***y feel like John Wayne, nigga</p>
+
+      <p begin="02:29.959" end="02:33.332" ttm:agent="v1">He was talkin' that, huh, and all he heard was a bang, nigga</p>
+
+      <p begin="02:33.332" end="02:40.341" ttm:agent="v1">Give a **** who you **** with, long as you don't **** with my gang, nigga</p>
+
+      <p begin="02:40.341" end="02:44.469" ttm:agent="v1">Give a **** who you **** with, long as you don't **** with my gang, nigga</p>
+
+      <p begin="02:44.469" end="02:46.605" ttm:agent="v1">Huh, huh, huh, huh, huh, huh</p>
+
+      <p begin="02:46.605" end="02:48.382" ttm:agent="v1">It's just me and my cup in this b***h</p>
+
+      <p begin="02:48.382" end="02:50.135" ttm:agent="v1">DRKSHDW all on my Rick</p>
+
+      <p begin="02:50.135" end="02:51.947" ttm:agent="v1">VVS all on my wrist</p>
+
+      <p begin="02:51.947" end="02:55.262" ttm:agent="v1">I bought an Uzi today, and it's already hot, it ain’t come with a cooling kit</p>
+
+      <p begin="02:55.262" end="02:58.655" ttm:agent="v1">She ain't **** with me back then, but wanna **** with me now, huh, I'm cool, lil' b***h</p>
+
+      <p begin="02:58.655" end="03:00.638" ttm:agent="v1">Huh, let's go hit a lick</p>
+
+      <p begin="03:00.638" end="03:02.393" ttm:agent="v1">Huh, let's go do a drill</p>
+
+      <p begin="03:02.393" end="03:05.826" ttm:agent="v1">I heard he got a mill’ in his crib, and he stay up in the hills (8-808)</p>
+
+      <p begin="03:05.826" end="03:09.003" ttm:agent="v1">We don't give a **** who you is, we don't give a **** how you feel</p>
+
+      <p begin="03:09.003" end="03:13.003" ttm:agent="v1">We don't give a **** how you feel, we don't give no ****s</p>
+
+    </div>
+
+  </body>
+
+</tt>
+

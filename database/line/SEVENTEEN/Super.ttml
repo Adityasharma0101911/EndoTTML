@@ -1,76 +1,152 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>Super</ttm:title>
-      <ttm:agent type="person" xml:id="v1">SEVENTEEN</ttm:agent>
-      <ttm:item type="album">17 IS RIGHT HERE</ttm:item>
-      <ttm:item type="spotify_id">3ZpfXyQgcqdSA1TGNc7Ret</ttm:item>
-      <itunes:duration>03:20.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:07.400" end="00:13.230" ttm:agent="v1">Ooh-ah-ah, ah-ah, yeah</p>
-      <p begin="00:13.230" end="00:14.730" ttm:agent="v1">SEVENTEEN right here</p>
-      <p begin="00:14.350" end="00:18.010" ttm:agent="v1">땅을 보고 계속 올랐지 정상까지</p>
-      <p begin="00:18.010" end="00:21.320" ttm:agent="v1">많은 시련은 보란 듯이, I always win</p>
-      <p begin="00:21.320" end="00:23.820" ttm:agent="v1" itunes:key="role" itunes:value="background">강한 마음이 중요하지 (중요하지)</p>
-      <p begin="00:23.820" end="00:29.250" ttm:agent="v1">미래는 도망가지 않아 내가 놓기 전까지</p>
-      <p begin="00:29.250" end="00:32.820" ttm:agent="v1" itunes:key="role" itunes:value="background">Da-rum-da-rim-da, 구름을 타고 여기저기로 (hey)</p>
-      <p begin="00:32.820" end="00:36.460" ttm:agent="v1" itunes:key="role" itunes:value="background">Da-rum-da-rim-da, 우리들의 긍지를 높이러 (hey)</p>
-      <p begin="00:36.460" end="00:40.200" ttm:agent="v1">Da-rum-da-rim-da, 또 다른 세계 나아가자, go</p>
-      <p begin="00:40.200" end="00:42.390" ttm:agent="v1">이 rhythm에 맞춰</p>
-      <p begin="00:42.390" end="00:45.450" ttm:agent="v1">Say, say, say, say 영웅본색 like this</p>
-      <p begin="00:45.450" end="00:49.580" ttm:agent="v1">시간과 공간에 구애받지 않는 자세, 자세</p>
-      <p begin="00:49.580" end="00:52.690" ttm:agent="v1">힘을 다하고 쓰러져도</p>
-      <p begin="00:52.690" end="00:54.850" ttm:agent="v1">포기를 모르고 날뛰는 중</p>
-      <p begin="00:54.850" end="00:58.350" ttm:agent="v1">마치 된 것 같아 손오공</p>
-      <p begin="00:58.350" end="01:01.740" ttm:agent="v1"/>
-      <p begin="01:01.740" end="01:03.340" ttm:agent="v1">마치 된 것 같아 손오공</p>
-      <p begin="01:03.340" end="01:06.840" ttm:agent="v1">우리는 쉬지 않아 매일, make it, make it</p>
-      <p begin="01:06.840" end="01:09.940" ttm:agent="v1" itunes:key="role" itunes:value="background">끝까지 가보자 (마치 된 것 같아 손오공)</p>
-      <p begin="01:09.940" end="01:13.280" ttm:agent="v1">I love my team, I love my crew, 여기까지 달리면서</p>
-      <p begin="01:13.280" end="01:16.850" ttm:agent="v1">I love my team, I love my crew, 계속 달릴 수 있어 더</p>
-      <p begin="01:16.850" end="01:20.410" ttm:agent="v1">I love my team, I love my crew, 여기까지 오르면서</p>
-      <p begin="01:20.410" end="01:24.970" ttm:agent="v1" itunes:key="role" itunes:value="background">I love my team, 그 덕분에 우린 (마치 된 것 같아 손오공)</p>
-      <p begin="01:24.970" end="01:28.420" ttm:agent="v1" itunes:key="role" itunes:value="background">알리지 우리는 등장 중 (중), 여전히 세대를 뒤바꿈 (꿈)</p>
-      <p begin="01:28.420" end="01:32.320" ttm:agent="v1" itunes:key="role" itunes:value="background">멈추지 않아 뜀박 중 (중), 발이 꼬여도 뒷박 (brrr) 쿵</p>
-      <p begin="01:32.320" end="01:35.940" ttm:agent="v1">Ooh, ooh, pull up my 근두운</p>
-      <p begin="01:35.940" end="01:39.360" ttm:agent="v1">Ooh, ooh, 성실히 수행 중</p>
-      <p begin="01:39.360" end="01:42.670" ttm:agent="v1" itunes:key="role" itunes:value="background">Da-rum-da-rim-da, 늘어나라 하늘로 여의봉 (hey)</p>
-      <p begin="01:42.670" end="01:46.390" ttm:agent="v1" itunes:key="role" itunes:value="background">Da-rum-da-rim-da, 우리들의 매일은 come and go (hey)</p>
-      <p begin="01:46.390" end="01:50.380" ttm:agent="v1">Da-rum-da-rim-da, 모든 걸 위해 나아가자, go</p>
-      <p begin="01:50.380" end="01:52.520" ttm:agent="v1">이 노래에 맞춰</p>
-      <p begin="01:52.520" end="01:55.420" ttm:agent="v1" itunes:key="role" itunes:value="background">Say, say, say, say (oh, yeah) 영웅본색 like this</p>
-      <p begin="01:55.420" end="01:59.580" ttm:agent="v1">시간과 공간에 구애받지 않는 자세, 자세</p>
-      <p begin="01:59.580" end="02:02.480" ttm:agent="v1">힘을 다하고 쓰러져도</p>
-      <p begin="02:02.480" end="02:04.800" ttm:agent="v1">포기를 모르고 날뛰는 중</p>
-      <p begin="02:04.800" end="02:08.300" ttm:agent="v1">마치 된 것 같아 손오공</p>
-      <p begin="02:08.300" end="02:11.710" ttm:agent="v1"/>
-      <p begin="02:11.710" end="02:13.470" ttm:agent="v1">마치 된 것 같아 손오공</p>
-      <p begin="02:13.470" end="02:16.830" ttm:agent="v1">우리는 쉬지 않아 매일, make it, make it</p>
-      <p begin="02:16.830" end="02:19.860" ttm:agent="v1" itunes:key="role" itunes:value="background">끝까지 가보자 (마치 된 것 같아 손오공)</p>
-      <p begin="02:19.860" end="02:23.630" ttm:agent="v1">I love my team, I love my crew, 여기까지 달리면서</p>
-      <p begin="02:23.630" end="02:26.960" ttm:agent="v1">I love my team, I love my crew, 계속 달릴 수 있어 더</p>
-      <p begin="02:26.960" end="02:30.650" ttm:agent="v1">I love my team, I love my crew, 여기까지 오르면서</p>
-      <p begin="02:30.650" end="02:34.490" ttm:agent="v1" itunes:key="role" itunes:value="background">I love my team, 그 덕분에 우린 (마치 된 것 같아 손오공)</p>
-      <p begin="02:34.490" end="02:38.070" ttm:agent="v1" itunes:key="role" itunes:value="background">진실은 때론 잔혹해 (what's that?)</p>
-      <p begin="02:38.070" end="02:41.560" ttm:agent="v1" itunes:key="role" itunes:value="background">거짓은 때론 달콤해 (what's that?)</p>
-      <p begin="02:41.560" end="02:44.970" ttm:agent="v1" itunes:key="role" itunes:value="background">다정함은 때론 거짓말로 (what's that?)</p>
-      <p begin="02:44.970" end="02:48.660" ttm:agent="v1" itunes:key="role" itunes:value="background">나쁜 것 싹 다 모아둬 (ping하고 불 나와)</p>
-      <p begin="02:48.660" end="02:52.220" ttm:agent="v1">Ener-energy, 기 모아 아주 다 나와</p>
-      <p begin="02:52.220" end="02:55.510" ttm:agent="v1">Ener-energy, 한방에 아주 발사 파</p>
-      <p begin="02:55.510" end="02:59.250" ttm:agent="v1">지금부터 다 하늘 위로 함성 발사</p>
-      <p begin="02:59.250" end="03:02.540" ttm:agent="v1">이 노래는 이 만화의 엔딩송이다</p>
-      <p begin="03:02.540" end="03:06.540" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>Super</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">SEVENTEEN</ttm:agent>
+
+      <ttm:item type="album">17 IS RIGHT HERE</ttm:item>
+
+      <ttm:item type="spotify_id">3ZpfXyQgcqdSA1TGNc7Ret</ttm:item>
+
+      <itunes:duration>03:20.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:07.400" end="00:13.230" ttm:agent="v1">Ooh-ah-ah, ah-ah, yeah</p>
+
+      <p begin="00:13.230" end="00:14.730" ttm:agent="v1">SEVENTEEN right here</p>
+
+      <p begin="00:14.350" end="00:18.010" ttm:agent="v1">땅을 보고 계속 올랐지 정상까지</p>
+
+      <p begin="00:18.010" end="00:21.320" ttm:agent="v1">많은 시련은 보란 듯이, I always win</p>
+
+      <p begin="00:21.320" end="00:23.820" ttm:agent="v1">강한 마음이 중요하지 (중요하지)</p>
+
+      <p begin="00:23.820" end="00:29.250" ttm:agent="v1">미래는 도망가지 않아 내가 놓기 전까지</p>
+
+      <p begin="00:29.250" end="00:32.820" ttm:agent="v1">Da-rum-da-rim-da, 구름을 타고 여기저기로 (hey)</p>
+
+      <p begin="00:32.820" end="00:36.460" ttm:agent="v1">Da-rum-da-rim-da, 우리들의 긍지를 높이러 (hey)</p>
+
+      <p begin="00:36.460" end="00:40.200" ttm:agent="v1">Da-rum-da-rim-da, 또 다른 세계 나아가자, go</p>
+
+      <p begin="00:40.200" end="00:42.390" ttm:agent="v1">이 rhythm에 맞춰</p>
+
+      <p begin="00:42.390" end="00:45.450" ttm:agent="v1">Say, say, say, say 영웅본색 like this</p>
+
+      <p begin="00:45.450" end="00:49.580" ttm:agent="v1">시간과 공간에 구애받지 않는 자세, 자세</p>
+
+      <p begin="00:49.580" end="00:52.690" ttm:agent="v1">힘을 다하고 쓰러져도</p>
+
+      <p begin="00:52.690" end="00:54.850" ttm:agent="v1">포기를 모르고 날뛰는 중</p>
+
+      <p begin="00:54.850" end="00:58.350" ttm:agent="v1">마치 된 것 같아 손오공</p>
+
+      <p begin="00:58.350" end="01:01.740" ttm:agent="v1"/>
+
+      <p begin="01:01.740" end="01:03.340" ttm:agent="v1">마치 된 것 같아 손오공</p>
+
+      <p begin="01:03.340" end="01:06.840" ttm:agent="v1">우리는 쉬지 않아 매일, make it, make it</p>
+
+      <p begin="01:06.840" end="01:09.940" ttm:agent="v1">끝까지 가보자 (마치 된 것 같아 손오공)</p>
+
+      <p begin="01:09.940" end="01:13.280" ttm:agent="v1">I love my team, I love my crew, 여기까지 달리면서</p>
+
+      <p begin="01:13.280" end="01:16.850" ttm:agent="v1">I love my team, I love my crew, 계속 달릴 수 있어 더</p>
+
+      <p begin="01:16.850" end="01:20.410" ttm:agent="v1">I love my team, I love my crew, 여기까지 오르면서</p>
+
+      <p begin="01:20.410" end="01:24.970" ttm:agent="v1">I love my team, 그 덕분에 우린 (마치 된 것 같아 손오공)</p>
+
+      <p begin="01:24.970" end="01:28.420" ttm:agent="v1">알리지 우리는 등장 중 (중), 여전히 세대를 뒤바꿈 (꿈)</p>
+
+      <p begin="01:28.420" end="01:32.320" ttm:agent="v1">멈추지 않아 뜀박 중 (중), 발이 꼬여도 뒷박 (brrr) 쿵</p>
+
+      <p begin="01:32.320" end="01:35.940" ttm:agent="v1">Ooh, ooh, pull up my 근두운</p>
+
+      <p begin="01:35.940" end="01:39.360" ttm:agent="v1">Ooh, ooh, 성실히 수행 중</p>
+
+      <p begin="01:39.360" end="01:42.670" ttm:agent="v1">Da-rum-da-rim-da, 늘어나라 하늘로 여의봉 (hey)</p>
+
+      <p begin="01:42.670" end="01:46.390" ttm:agent="v1">Da-rum-da-rim-da, 우리들의 매일은 come and go (hey)</p>
+
+      <p begin="01:46.390" end="01:50.380" ttm:agent="v1">Da-rum-da-rim-da, 모든 걸 위해 나아가자, go</p>
+
+      <p begin="01:50.380" end="01:52.520" ttm:agent="v1">이 노래에 맞춰</p>
+
+      <p begin="01:52.520" end="01:55.420" ttm:agent="v1">Say, say, say, say (oh, yeah) 영웅본색 like this</p>
+
+      <p begin="01:55.420" end="01:59.580" ttm:agent="v1">시간과 공간에 구애받지 않는 자세, 자세</p>
+
+      <p begin="01:59.580" end="02:02.480" ttm:agent="v1">힘을 다하고 쓰러져도</p>
+
+      <p begin="02:02.480" end="02:04.800" ttm:agent="v1">포기를 모르고 날뛰는 중</p>
+
+      <p begin="02:04.800" end="02:08.300" ttm:agent="v1">마치 된 것 같아 손오공</p>
+
+      <p begin="02:08.300" end="02:11.710" ttm:agent="v1"/>
+
+      <p begin="02:11.710" end="02:13.470" ttm:agent="v1">마치 된 것 같아 손오공</p>
+
+      <p begin="02:13.470" end="02:16.830" ttm:agent="v1">우리는 쉬지 않아 매일, make it, make it</p>
+
+      <p begin="02:16.830" end="02:19.860" ttm:agent="v1">끝까지 가보자 (마치 된 것 같아 손오공)</p>
+
+      <p begin="02:19.860" end="02:23.630" ttm:agent="v1">I love my team, I love my crew, 여기까지 달리면서</p>
+
+      <p begin="02:23.630" end="02:26.960" ttm:agent="v1">I love my team, I love my crew, 계속 달릴 수 있어 더</p>
+
+      <p begin="02:26.960" end="02:30.650" ttm:agent="v1">I love my team, I love my crew, 여기까지 오르면서</p>
+
+      <p begin="02:30.650" end="02:34.490" ttm:agent="v1">I love my team, 그 덕분에 우린 (마치 된 것 같아 손오공)</p>
+
+      <p begin="02:34.490" end="02:38.070" ttm:agent="v1">진실은 때론 잔혹해 (what's that?)</p>
+
+      <p begin="02:38.070" end="02:41.560" ttm:agent="v1">거짓은 때론 달콤해 (what's that?)</p>
+
+      <p begin="02:41.560" end="02:44.970" ttm:agent="v1">다정함은 때론 거짓말로 (what's that?)</p>
+
+      <p begin="02:44.970" end="02:48.660" ttm:agent="v1">나쁜 것 싹 다 모아둬 (ping하고 불 나와)</p>
+
+      <p begin="02:48.660" end="02:52.220" ttm:agent="v1">Ener-energy, 기 모아 아주 다 나와</p>
+
+      <p begin="02:52.220" end="02:55.510" ttm:agent="v1">Ener-energy, 한방에 아주 발사 파</p>
+
+      <p begin="02:55.510" end="02:59.250" ttm:agent="v1">지금부터 다 하늘 위로 함성 발사</p>
+
+      <p begin="02:59.250" end="03:02.540" ttm:agent="v1">이 노래는 이 만화의 엔딩송이다</p>
+
+      <p begin="03:02.540" end="03:06.540" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

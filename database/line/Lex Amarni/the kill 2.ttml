@@ -1,65 +1,130 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>the kill 2</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Lex Amarni</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">2muchmotion</ttm:agent>
-      <ttm:item type="album">the kill 2</ttm:item>
-      <ttm:item type="spotify_id">7MZyREIMPkgc7v5vzCGw87</ttm:item>
-      <itunes:duration>01:59.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:09.100" end="00:11.530" ttm:agent="v1" itunes:key="role" itunes:value="background">Don't trip and fall in your LB heels (got, got)</p>
-      <p begin="00:11.530" end="00:13.540" ttm:agent="v1">Bullets make it rain like a windowsill</p>
-      <p begin="00:13.540" end="00:15.960" ttm:agent="v1" itunes:key="role" itunes:value="background">Bullet-bullets to your face, she go in for the kill (uh, uh)</p>
-      <p begin="00:15.960" end="00:18.290" ttm:agent="v1">Bite the bullet, she like the taste, she go in for the kill</p>
-      <p begin="00:18.290" end="00:20.680" ttm:agent="v1">Yeah, in for the kill, she go in for the kill</p>
-      <p begin="00:20.680" end="00:23.000" ttm:agent="v1" itunes:key="role" itunes:value="background">Bite the bullet, she like the taste, she go in for the kill (yeah, yeah)</p>
-      <p begin="00:23.000" end="00:25.290" ttm:agent="v1" itunes:key="role" itunes:value="background">In for the kill, she go in for the kill (ah, ah)</p>
-      <p begin="00:25.290" end="00:27.660" ttm:agent="v1" itunes:key="role" itunes:value="background">Bite the bullet, she like the taste, she go in for the kill (y-y-yeah)</p>
-      <p begin="00:27.660" end="00:29.940" ttm:agent="v1">If you walkin' around with the Yves Saint Laurent</p>
-      <p begin="00:29.940" end="00:32.290" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, you so damn mad 'cause I got what I want (hey, yeah)</p>
-      <p begin="00:32.290" end="00:34.690" ttm:agent="v1">And she told me that she got what I need, what I want</p>
-      <p begin="00:34.690" end="00:36.630" ttm:agent="v1">What I like, huh? Don't wanna hear it</p>
-      <p begin="00:36.630" end="00:39.100" ttm:agent="v1">Pass me the lighter, I'm tryna get higher</p>
-      <p begin="00:39.100" end="00:42.060" ttm:agent="v1" itunes:key="role" itunes:value="background">Blowin' on this gas, drive straight to the sky, uh (sky, sky)</p>
-      <p begin="00:42.060" end="00:44.790" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, straight to the sky, uh (sky, sky), ay</p>
-      <p begin="00:44.790" end="00:46.870" ttm:agent="v1" itunes:key="role" itunes:value="background">Straight to the sky, uh (straight to the sky)</p>
-      <p begin="00:46.870" end="00:48.790" ttm:agent="v1">Yo, but she grew up barkin'</p>
-      <p begin="00:48.790" end="00:51.040" ttm:agent="v1">Walkin' around with a Dolce &amp; Gabbana</p>
-      <p begin="00:51.040" end="00:53.600" ttm:agent="v1">Dolce &amp; Gabbana, in a Dolce &amp; Gabbana</p>
-      <p begin="00:53.600" end="00:56.210" ttm:agent="v1" itunes:key="role" itunes:value="background">She ain't into no drama (she ain't into no -)</p>
-      <p begin="00:56.210" end="00:58.290" ttm:agent="v1">Yo, but she grew up barkin'</p>
-      <p begin="00:58.290" end="01:00.410" ttm:agent="v1">Walkin' around with a Dolce &amp; Gabbana</p>
-      <p begin="01:00.410" end="01:02.720" ttm:agent="v1">Dolce &amp; Gabbana, in a Dolce &amp; Gabbana</p>
-      <p begin="01:02.720" end="01:05.400" ttm:agent="v1" itunes:key="role" itunes:value="background">She ain't into no drama (she ain't into no-)</p>
-      <p begin="01:05.400" end="01:07.530" ttm:agent="v1" itunes:key="role" itunes:value="background">Don't trip and fall in your LB heels (got, got)</p>
-      <p begin="01:07.530" end="01:09.650" ttm:agent="v1">Bullets make it rain like a windowsill</p>
-      <p begin="01:09.650" end="01:11.900" ttm:agent="v1" itunes:key="role" itunes:value="background">Bullet-bullets to your face, she go in for the kill (uh, uh)</p>
-      <p begin="01:11.900" end="01:14.220" ttm:agent="v1">Bite the bullet, she like the taste, she go in for the kill</p>
-      <p begin="01:14.220" end="01:16.520" ttm:agent="v1">Yeah, in for the kill, she go in for the kill</p>
-      <p begin="01:16.520" end="01:19.350" ttm:agent="v1" itunes:key="role" itunes:value="background">Bite the bullet, she like the taste, she go in for the kill (yeah, yeah)</p>
-      <p begin="01:19.350" end="01:21.320" ttm:agent="v1" itunes:key="role" itunes:value="background">In for the kill, she go in for the kill (ah, ah)</p>
-      <p begin="01:21.320" end="01:23.660" ttm:agent="v1" itunes:key="role" itunes:value="background">Bite the bullet, she like the taste, she go in for the kill (y-y-yeah)</p>
-      <p begin="01:23.660" end="01:25.900" ttm:agent="v1">If you walkin' around with the Yves Saint Laurent</p>
-      <p begin="01:25.900" end="01:28.190" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, you so damn mad 'cause I got what I want (hey, yeah)</p>
-      <p begin="01:28.190" end="01:30.550" ttm:agent="v1">And she tell me that she got what I need, what I want</p>
-      <p begin="01:30.550" end="01:32.780" ttm:agent="v1">What I like? Don't know, wanna hear it</p>
-      <p begin="01:32.780" end="01:34.990" ttm:agent="v1">Pass me the lighter, I'm tryna get higher</p>
-      <p begin="01:34.990" end="01:38.250" ttm:agent="v1" itunes:key="role" itunes:value="background">Blowin' on this gas, drive straight to the sky, uh (sky, sky)</p>
-      <p begin="01:38.250" end="01:40.740" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, straight to the sky, uh (sky, ay, sky)</p>
-      <p begin="01:40.740" end="01:42.840" ttm:agent="v1" itunes:key="role" itunes:value="background">Straight to the sky, uh (straight to the-)</p>
-      <p begin="01:42.840" end="01:46.840" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>the kill 2</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Lex Amarni</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v2">2muchmotion</ttm:agent>
+
+      <ttm:item type="album">the kill 2</ttm:item>
+
+      <ttm:item type="spotify_id">7MZyREIMPkgc7v5vzCGw87</ttm:item>
+
+      <itunes:duration>01:59.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:09.100" end="00:11.530" ttm:agent="v1">Don't trip and fall in your LB heels (got, got)</p>
+
+      <p begin="00:11.530" end="00:13.540" ttm:agent="v1">Bullets make it rain like a windowsill</p>
+
+      <p begin="00:13.540" end="00:15.960" ttm:agent="v1">Bullet-bullets to your face, she go in for the kill (uh, uh)</p>
+
+      <p begin="00:15.960" end="00:18.290" ttm:agent="v1">Bite the bullet, she like the taste, she go in for the kill</p>
+
+      <p begin="00:18.290" end="00:20.680" ttm:agent="v1">Yeah, in for the kill, she go in for the kill</p>
+
+      <p begin="00:20.680" end="00:23.000" ttm:agent="v1">Bite the bullet, she like the taste, she go in for the kill (yeah, yeah)</p>
+
+      <p begin="00:23.000" end="00:25.290" ttm:agent="v1">In for the kill, she go in for the kill (ah, ah)</p>
+
+      <p begin="00:25.290" end="00:27.660" ttm:agent="v1">Bite the bullet, she like the taste, she go in for the kill (y-y-yeah)</p>
+
+      <p begin="00:27.660" end="00:29.940" ttm:agent="v1">If you walkin' around with the Yves Saint Laurent</p>
+
+      <p begin="00:29.940" end="00:32.290" ttm:agent="v1">Yeah, you so damn mad 'cause I got what I want (hey, yeah)</p>
+
+      <p begin="00:32.290" end="00:34.690" ttm:agent="v1">And she told me that she got what I need, what I want</p>
+
+      <p begin="00:34.690" end="00:36.630" ttm:agent="v1">What I like, huh? Don't wanna hear it</p>
+
+      <p begin="00:36.630" end="00:39.100" ttm:agent="v1">Pass me the lighter, I'm tryna get higher</p>
+
+      <p begin="00:39.100" end="00:42.060" ttm:agent="v1">Blowin' on this gas, drive straight to the sky, uh (sky, sky)</p>
+
+      <p begin="00:42.060" end="00:44.790" ttm:agent="v1">Yeah, straight to the sky, uh (sky, sky), ay</p>
+
+      <p begin="00:44.790" end="00:46.870" ttm:agent="v1">Straight to the sky, uh (straight to the sky)</p>
+
+      <p begin="00:46.870" end="00:48.790" ttm:agent="v1">Yo, but she grew up barkin'</p>
+
+      <p begin="00:48.790" end="00:51.040" ttm:agent="v1">Walkin' around with a Dolce &amp; Gabbana</p>
+
+      <p begin="00:51.040" end="00:53.600" ttm:agent="v1">Dolce &amp; Gabbana, in a Dolce &amp; Gabbana</p>
+
+      <p begin="00:53.600" end="00:56.210" ttm:agent="v1">She ain't into no drama (she ain't into no -)</p>
+
+      <p begin="00:56.210" end="00:58.290" ttm:agent="v1">Yo, but she grew up barkin'</p>
+
+      <p begin="00:58.290" end="01:00.410" ttm:agent="v1">Walkin' around with a Dolce &amp; Gabbana</p>
+
+      <p begin="01:00.410" end="01:02.720" ttm:agent="v1">Dolce &amp; Gabbana, in a Dolce &amp; Gabbana</p>
+
+      <p begin="01:02.720" end="01:05.400" ttm:agent="v1">She ain't into no drama (she ain't into no-)</p>
+
+      <p begin="01:05.400" end="01:07.530" ttm:agent="v1">Don't trip and fall in your LB heels (got, got)</p>
+
+      <p begin="01:07.530" end="01:09.650" ttm:agent="v1">Bullets make it rain like a windowsill</p>
+
+      <p begin="01:09.650" end="01:11.900" ttm:agent="v1">Bullet-bullets to your face, she go in for the kill (uh, uh)</p>
+
+      <p begin="01:11.900" end="01:14.220" ttm:agent="v1">Bite the bullet, she like the taste, she go in for the kill</p>
+
+      <p begin="01:14.220" end="01:16.520" ttm:agent="v1">Yeah, in for the kill, she go in for the kill</p>
+
+      <p begin="01:16.520" end="01:19.350" ttm:agent="v1">Bite the bullet, she like the taste, she go in for the kill (yeah, yeah)</p>
+
+      <p begin="01:19.350" end="01:21.320" ttm:agent="v1">In for the kill, she go in for the kill (ah, ah)</p>
+
+      <p begin="01:21.320" end="01:23.660" ttm:agent="v1">Bite the bullet, she like the taste, she go in for the kill (y-y-yeah)</p>
+
+      <p begin="01:23.660" end="01:25.900" ttm:agent="v1">If you walkin' around with the Yves Saint Laurent</p>
+
+      <p begin="01:25.900" end="01:28.190" ttm:agent="v1">Yeah, you so damn mad 'cause I got what I want (hey, yeah)</p>
+
+      <p begin="01:28.190" end="01:30.550" ttm:agent="v1">And she tell me that she got what I need, what I want</p>
+
+      <p begin="01:30.550" end="01:32.780" ttm:agent="v1">What I like? Don't know, wanna hear it</p>
+
+      <p begin="01:32.780" end="01:34.990" ttm:agent="v1">Pass me the lighter, I'm tryna get higher</p>
+
+      <p begin="01:34.990" end="01:38.250" ttm:agent="v1">Blowin' on this gas, drive straight to the sky, uh (sky, sky)</p>
+
+      <p begin="01:38.250" end="01:40.740" ttm:agent="v1">Yeah, straight to the sky, uh (sky, ay, sky)</p>
+
+      <p begin="01:40.740" end="01:42.840" ttm:agent="v1">Straight to the sky, uh (straight to the-)</p>
+
+      <p begin="01:42.840" end="01:46.840" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

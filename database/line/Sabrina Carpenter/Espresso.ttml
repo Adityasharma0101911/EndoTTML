@@ -1,80 +1,160 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>Espresso</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Sabrina Carpenter</ttm:agent>
-      <ttm:item type="album">Espresso</ttm:item>
-      <ttm:item type="spotify_id">2qSkIjg1o9h3YT9RAgYN75</ttm:item>
-      <itunes:duration>02:55.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:08.820" end="00:12.320" ttm:agent="v1">Now he's thinkin' 'bout me every night, oh</p>
-      <p begin="00:12.320" end="00:14.530" ttm:agent="v1">Is it that sweet? I guess so</p>
-      <p begin="00:14.530" end="00:16.880" ttm:agent="v1">Say you can't sleep, baby, I know</p>
-      <p begin="00:16.880" end="00:19.140" ttm:agent="v1">That's that me espresso</p>
-      <p begin="00:19.140" end="00:21.500" ttm:agent="v1">Move it up, down, left, right, oh</p>
-      <p begin="00:21.500" end="00:23.820" ttm:agent="v1">Switch it up like Nintendo</p>
-      <p begin="00:23.820" end="00:26.130" ttm:agent="v1">Say you can't sleep, baby, I know</p>
-      <p begin="00:26.130" end="00:28.780" ttm:agent="v1">That's that me espresso</p>
-      <p begin="00:28.780" end="00:33.370" ttm:agent="v1">I can't relate to desperation</p>
-      <p begin="00:33.370" end="00:38.050" ttm:agent="v1">My give-a-fucks are on vacation</p>
-      <p begin="00:38.050" end="00:42.690" ttm:agent="v1">And I got this one boy, and he won't stop callin'</p>
-      <p begin="00:42.690" end="00:46.730" ttm:agent="v1">When they act this way, I know I got 'em</p>
-      <p begin="00:46.730" end="00:49.070" ttm:agent="v1">Too bad your ex don't do it for ya</p>
-      <p begin="00:49.070" end="00:51.360" ttm:agent="v1">Walked in and dream-came-trued it for ya</p>
-      <p begin="00:51.360" end="00:55.650" ttm:agent="v1">Soft skin and I perfumed it for ya</p>
-      <p begin="00:55.650" end="00:57.930" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yes) I know, I Mountain Dew it for ya</p>
-      <p begin="00:57.930" end="01:00.250" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yes) that morning coffee, brewed it for ya</p>
-      <p begin="01:00.250" end="01:04.240" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yes) one touch and I brand-newed it for ya (oh)</p>
-      <p begin="01:04.240" end="01:07.700" ttm:agent="v1">Now he's thinkin' 'bout me every night, oh</p>
-      <p begin="01:07.700" end="01:09.960" ttm:agent="v1">Is it that sweet? I guess so</p>
-      <p begin="01:09.960" end="01:12.370" ttm:agent="v1">Say you can't sleep, baby, I know</p>
-      <p begin="01:12.370" end="01:14.510" ttm:agent="v1">That's that me espresso</p>
-      <p begin="01:14.510" end="01:16.880" ttm:agent="v1">Move it up, down, left, right, oh</p>
-      <p begin="01:16.880" end="01:19.050" ttm:agent="v1">Switch it up like Nintendo</p>
-      <p begin="01:19.050" end="01:21.510" ttm:agent="v1">Say you can't sleep, baby, I know</p>
-      <p begin="01:21.510" end="01:24.130" ttm:agent="v1">That's that me espresso</p>
-      <p begin="01:24.130" end="01:26.210" ttm:agent="v1">Holy shit</p>
-      <p begin="01:26.210" end="01:28.870" ttm:agent="v1">Is it that sweet? I guess so</p>
-      <p begin="01:28.870" end="01:33.390" ttm:agent="v1">I'm working late, 'cause I'm a singer</p>
-      <p begin="01:33.390" end="01:37.990" ttm:agent="v1">Oh, he looks so cute wrapped 'round my finger</p>
-      <p begin="01:37.990" end="01:42.690" ttm:agent="v1">My twisted humor makes him laugh so often</p>
-      <p begin="01:42.690" end="01:46.620" ttm:agent="v1">My honey bee, come and get this pollen</p>
-      <p begin="01:46.620" end="01:48.930" ttm:agent="v1">Too bad your ex don't do it for ya</p>
-      <p begin="01:48.930" end="01:51.280" ttm:agent="v1">Walked in and dream-came-trued it for ya</p>
-      <p begin="01:51.280" end="01:55.650" ttm:agent="v1">Soft skin and I perfumed it for ya</p>
-      <p begin="01:55.650" end="01:57.940" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yes) I know, I Mountain Dew it for ya</p>
-      <p begin="01:57.940" end="02:00.100" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yes) that morning coffee, brewed it for ya</p>
-      <p begin="02:00.100" end="02:04.290" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yes) one touch and I brand-newed it for ya (stupid)</p>
-      <p begin="02:04.290" end="02:07.620" ttm:agent="v1">Now he's thinkin' 'bout me every night, oh</p>
-      <p begin="02:07.620" end="02:09.980" ttm:agent="v1">Is it that sweet? I guess so</p>
-      <p begin="02:09.980" end="02:12.360" ttm:agent="v1">Say you can't sleep, baby, I know</p>
-      <p begin="02:12.360" end="02:14.620" ttm:agent="v1">That's that me espresso</p>
-      <p begin="02:14.620" end="02:17.010" ttm:agent="v1">Move it up, down, left, right, oh</p>
-      <p begin="02:17.010" end="02:19.120" ttm:agent="v1">Switch it up like Nintendo</p>
-      <p begin="02:19.120" end="02:21.590" ttm:agent="v1">Say you can't sleep, baby, I know</p>
-      <p begin="02:21.590" end="02:23.870" ttm:agent="v1">That's that me espresso</p>
-      <p begin="02:23.870" end="02:26.150" ttm:agent="v1">Thinkin' 'bout me every night, oh</p>
-      <p begin="02:26.150" end="02:28.440" ttm:agent="v1" itunes:key="role" itunes:value="background">Is it that sweet? I guess so (yes)</p>
-      <p begin="02:28.440" end="02:30.810" ttm:agent="v1">Say you can't sleep, baby, I know</p>
-      <p begin="02:30.810" end="02:33.050" ttm:agent="v1" itunes:key="role" itunes:value="background">That's that me espresso (yes)</p>
-      <p begin="02:33.050" end="02:35.300" ttm:agent="v1">Move it up, down, left, right, oh</p>
-      <p begin="02:35.300" end="02:37.690" ttm:agent="v1" itunes:key="role" itunes:value="background">Switch it up like Nintendo (yes)</p>
-      <p begin="02:37.690" end="02:40.060" ttm:agent="v1">Say you can't sleep, baby, I know</p>
-      <p begin="02:40.060" end="02:44.680" ttm:agent="v1">That's that me espresso</p>
-      <p begin="02:44.680" end="02:49.140" ttm:agent="v1">Is it that sweet? I guess so, uh</p>
-      <p begin="02:49.140" end="02:50.640" ttm:agent="v1">That's that me espresso</p>
-      <p begin="02:50.290" end="02:54.290" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>Espresso</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Sabrina Carpenter</ttm:agent>
+
+      <ttm:item type="album">Espresso</ttm:item>
+
+      <ttm:item type="spotify_id">2qSkIjg1o9h3YT9RAgYN75</ttm:item>
+
+      <itunes:duration>02:55.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:08.820" end="00:12.320" ttm:agent="v1">Now he's thinkin' 'bout me every night, oh</p>
+
+      <p begin="00:12.320" end="00:14.530" ttm:agent="v1">Is it that sweet? I guess so</p>
+
+      <p begin="00:14.530" end="00:16.880" ttm:agent="v1">Say you can't sleep, baby, I know</p>
+
+      <p begin="00:16.880" end="00:19.140" ttm:agent="v1">That's that me espresso</p>
+
+      <p begin="00:19.140" end="00:21.500" ttm:agent="v1">Move it up, down, left, right, oh</p>
+
+      <p begin="00:21.500" end="00:23.820" ttm:agent="v1">Switch it up like Nintendo</p>
+
+      <p begin="00:23.820" end="00:26.130" ttm:agent="v1">Say you can't sleep, baby, I know</p>
+
+      <p begin="00:26.130" end="00:28.780" ttm:agent="v1">That's that me espresso</p>
+
+      <p begin="00:28.780" end="00:33.370" ttm:agent="v1">I can't relate to desperation</p>
+
+      <p begin="00:33.370" end="00:38.050" ttm:agent="v1">My give-a-fucks are on vacation</p>
+
+      <p begin="00:38.050" end="00:42.690" ttm:agent="v1">And I got this one boy, and he won't stop callin'</p>
+
+      <p begin="00:42.690" end="00:46.730" ttm:agent="v1">When they act this way, I know I got 'em</p>
+
+      <p begin="00:46.730" end="00:49.070" ttm:agent="v1">Too bad your ex don't do it for ya</p>
+
+      <p begin="00:49.070" end="00:51.360" ttm:agent="v1">Walked in and dream-came-trued it for ya</p>
+
+      <p begin="00:51.360" end="00:55.650" ttm:agent="v1">Soft skin and I perfumed it for ya</p>
+
+      <p begin="00:55.650" end="00:57.930" ttm:agent="v1">(Yes) I know, I Mountain Dew it for ya</p>
+
+      <p begin="00:57.930" end="01:00.250" ttm:agent="v1">(Yes) that morning coffee, brewed it for ya</p>
+
+      <p begin="01:00.250" end="01:04.240" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yes) one touch and I brand-newed it for ya (oh)</p>
+
+      <p begin="01:04.240" end="01:07.700" ttm:agent="v1">Now he's thinkin' 'bout me every night, oh</p>
+
+      <p begin="01:07.700" end="01:09.960" ttm:agent="v1">Is it that sweet? I guess so</p>
+
+      <p begin="01:09.960" end="01:12.370" ttm:agent="v1">Say you can't sleep, baby, I know</p>
+
+      <p begin="01:12.370" end="01:14.510" ttm:agent="v1">That's that me espresso</p>
+
+      <p begin="01:14.510" end="01:16.880" ttm:agent="v1">Move it up, down, left, right, oh</p>
+
+      <p begin="01:16.880" end="01:19.050" ttm:agent="v1">Switch it up like Nintendo</p>
+
+      <p begin="01:19.050" end="01:21.510" ttm:agent="v1">Say you can't sleep, baby, I know</p>
+
+      <p begin="01:21.510" end="01:24.130" ttm:agent="v1">That's that me espresso</p>
+
+      <p begin="01:24.130" end="01:26.210" ttm:agent="v1">Holy shit</p>
+
+      <p begin="01:26.210" end="01:28.870" ttm:agent="v1">Is it that sweet? I guess so</p>
+
+      <p begin="01:28.870" end="01:33.390" ttm:agent="v1">I'm working late, 'cause I'm a singer</p>
+
+      <p begin="01:33.390" end="01:37.990" ttm:agent="v1">Oh, he looks so cute wrapped 'round my finger</p>
+
+      <p begin="01:37.990" end="01:42.690" ttm:agent="v1">My twisted humor makes him laugh so often</p>
+
+      <p begin="01:42.690" end="01:46.620" ttm:agent="v1">My honey bee, come and get this pollen</p>
+
+      <p begin="01:46.620" end="01:48.930" ttm:agent="v1">Too bad your ex don't do it for ya</p>
+
+      <p begin="01:48.930" end="01:51.280" ttm:agent="v1">Walked in and dream-came-trued it for ya</p>
+
+      <p begin="01:51.280" end="01:55.650" ttm:agent="v1">Soft skin and I perfumed it for ya</p>
+
+      <p begin="01:55.650" end="01:57.940" ttm:agent="v1">(Yes) I know, I Mountain Dew it for ya</p>
+
+      <p begin="01:57.940" end="02:00.100" ttm:agent="v1">(Yes) that morning coffee, brewed it for ya</p>
+
+      <p begin="02:00.100" end="02:04.290" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yes) one touch and I brand-newed it for ya (stupid)</p>
+
+      <p begin="02:04.290" end="02:07.620" ttm:agent="v1">Now he's thinkin' 'bout me every night, oh</p>
+
+      <p begin="02:07.620" end="02:09.980" ttm:agent="v1">Is it that sweet? I guess so</p>
+
+      <p begin="02:09.980" end="02:12.360" ttm:agent="v1">Say you can't sleep, baby, I know</p>
+
+      <p begin="02:12.360" end="02:14.620" ttm:agent="v1">That's that me espresso</p>
+
+      <p begin="02:14.620" end="02:17.010" ttm:agent="v1">Move it up, down, left, right, oh</p>
+
+      <p begin="02:17.010" end="02:19.120" ttm:agent="v1">Switch it up like Nintendo</p>
+
+      <p begin="02:19.120" end="02:21.590" ttm:agent="v1">Say you can't sleep, baby, I know</p>
+
+      <p begin="02:21.590" end="02:23.870" ttm:agent="v1">That's that me espresso</p>
+
+      <p begin="02:23.870" end="02:26.150" ttm:agent="v1">Thinkin' 'bout me every night, oh</p>
+
+      <p begin="02:26.150" end="02:28.440" ttm:agent="v1">Is it that sweet? I guess so (yes)</p>
+
+      <p begin="02:28.440" end="02:30.810" ttm:agent="v1">Say you can't sleep, baby, I know</p>
+
+      <p begin="02:30.810" end="02:33.050" ttm:agent="v1">That's that me espresso (yes)</p>
+
+      <p begin="02:33.050" end="02:35.300" ttm:agent="v1">Move it up, down, left, right, oh</p>
+
+      <p begin="02:35.300" end="02:37.690" ttm:agent="v1">Switch it up like Nintendo (yes)</p>
+
+      <p begin="02:37.690" end="02:40.060" ttm:agent="v1">Say you can't sleep, baby, I know</p>
+
+      <p begin="02:40.060" end="02:44.680" ttm:agent="v1">That's that me espresso</p>
+
+      <p begin="02:44.680" end="02:49.140" ttm:agent="v1">Is it that sweet? I guess so, uh</p>
+
+      <p begin="02:49.140" end="02:50.640" ttm:agent="v1">That's that me espresso</p>
+
+      <p begin="02:50.290" end="02:54.290" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

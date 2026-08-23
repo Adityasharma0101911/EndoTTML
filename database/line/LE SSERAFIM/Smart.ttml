@@ -1,95 +1,190 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>Smart</ttm:title>
-      <ttm:agent type="person" xml:id="v1">LE SSERAFIM</ttm:agent>
-      <ttm:item type="album">Smart (Remixes)</ttm:item>
-      <ttm:item type="spotify_id">3lwK3WyKAI5bUuGY1OgGbZ</ttm:item>
-      <itunes:duration>02:46.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.120" end="00:04.290" ttm:agent="v1" itunes:key="role" itunes:value="background">(ah-ah-ah)</p>
-      <p begin="00:04.290" end="00:07.310" ttm:agent="v1" itunes:key="role" itunes:value="background">(ah-ah-ah)</p>
-      <p begin="00:07.310" end="00:09.640" ttm:agent="v1">I'm a smarter baby, smarter</p>
-      <p begin="00:09.640" end="00:11.670" ttm:agent="v1">Smarter baby, smarter</p>
-      <p begin="00:11.670" end="00:14.050" ttm:agent="v1">Hanal bomyeon yeolkkaji</p>
-      <p begin="00:14.050" end="00:16.020" ttm:agent="v1">Ganpahaeseo dolpahaji</p>
-      <p begin="00:16.020" end="00:18.030" ttm:agent="v1">Wanna be a winner</p>
-      <p begin="00:18.030" end="00:20.180" ttm:agent="v1">Wanna be a winner</p>
-      <p begin="00:20.180" end="00:22.200" ttm:agent="v1">Gyehoegdaelo dwaegaji</p>
-      <p begin="00:22.200" end="00:24.800" ttm:agent="v1">Nan nabiga doel aesongi</p>
-      <p begin="00:24.800" end="00:28.630" ttm:agent="v1">Wonhaneun geon seunglilan nom</p>
-      <p begin="00:28.630" end="00:32.860" ttm:agent="v1" itunes:key="role" itunes:value="background">I call it &quot;sugar&quot; (my sugar, sugar)</p>
-      <p begin="00:32.860" end="00:36.960" ttm:agent="v1">Plandaelolamyeon nohchil liga eobsji</p>
-      <p begin="00:36.960" end="00:41.890" ttm:agent="v1" itunes:key="role" itunes:value="background">Nae sugar, sugar (my sugar)</p>
-      <p begin="00:41.890" end="00:44.120" ttm:agent="v1">Nugun malhae, naega mean-mean-mean-mean-mean</p>
-      <p begin="00:44.120" end="00:46.280" ttm:agent="v1">Singyeong an sseo swis swis swis swis swis</p>
-      <p begin="00:46.280" end="00:48.280" ttm:agent="v1">Nae paebae wie pil aleumdaum daesin</p>
-      <p begin="00:48.280" end="00:50.360" ttm:agent="v1">Deo ganghan ileum &quot;villain&quot;eul taeghaessji</p>
-      <p begin="00:50.360" end="00:52.640" ttm:agent="v1">So geuge balo me-me-me-me-me</p>
-      <p begin="00:52.640" end="00:54.940" ttm:agent="v1">Naegen boyeo, see-see-see-see-see</p>
-      <p begin="00:54.940" end="00:58.350" ttm:agent="v1">LE SERRAFIM nal ikkeuleo to victory</p>
-      <p begin="00:58.350" end="01:00.480" ttm:agent="v1">I'm a smarter baby, smarter</p>
-      <p begin="01:00.480" end="01:02.860" ttm:agent="v1">Smarter baby, smarter</p>
-      <p begin="01:02.860" end="01:04.800" ttm:agent="v1">Hanal bomyeon yeolkkaji</p>
-      <p begin="01:04.800" end="01:07.090" ttm:agent="v1">Ganpahaeseo dolpahaji</p>
-      <p begin="01:07.090" end="01:09.130" ttm:agent="v1">Wanna be a winner</p>
-      <p begin="01:09.130" end="01:11.260" ttm:agent="v1">Wanna be a winner</p>
-      <p begin="01:11.260" end="01:13.210" ttm:agent="v1">Gyehoegdaelo dwaegaji</p>
-      <p begin="01:13.210" end="01:15.270" ttm:agent="v1">Nan nabiga doel aesongi</p>
-      <p begin="01:15.270" end="01:16.770" ttm:agent="v1">I'm a smarter baby</p>
-      <p begin="01:16.590" end="01:18.410" ttm:agent="v1">Work hard in secret</p>
-      <p begin="01:18.410" end="01:20.470" ttm:agent="v1">Agwiga chagchag majge</p>
-      <p begin="01:20.470" end="01:24.000" ttm:agent="v1">I planned that, don't be mad</p>
-      <p begin="01:24.000" end="01:27.950" ttm:agent="v1">Plandaelolamyeon nan doel suga eobsji</p>
-      <p begin="01:27.950" end="01:32.740" ttm:agent="v1" itunes:key="role" itunes:value="background">Geu loser, loser (that loser)</p>
-      <p begin="01:32.740" end="01:35.150" ttm:agent="v1">Nugun malhae, naega mean-mean-mean-mean-mean</p>
-      <p begin="01:35.150" end="01:37.180" ttm:agent="v1">Singyeong an sseo swis swis swis swis swis</p>
-      <p begin="01:37.180" end="01:39.380" ttm:agent="v1">Nae paebae wie pil aleumdaum daesin</p>
-      <p begin="01:39.380" end="01:41.440" ttm:agent="v1">Deo ganghan ileum &quot;villain&quot;eul taeghaessji</p>
-      <p begin="01:41.440" end="01:43.680" ttm:agent="v1">So i just wanna be me-me-me-me</p>
-      <p begin="01:43.680" end="01:45.880" ttm:agent="v1">Naegen boyeo, see-see-see-see-see</p>
-      <p begin="01:45.880" end="01:49.380" ttm:agent="v1">LE SSERAFIM nal ikkeuleo to victory</p>
-      <p begin="01:49.380" end="01:51.540" ttm:agent="v1">I'm a smarter baby, smarter</p>
-      <p begin="01:51.540" end="01:53.830" ttm:agent="v1">Smarter baby, smarter</p>
-      <p begin="01:53.830" end="01:55.980" ttm:agent="v1">Hanal bomyeon yeolkkaji</p>
-      <p begin="01:55.980" end="01:57.970" ttm:agent="v1">Ganpahaeseo dolpahaji</p>
-      <p begin="01:57.970" end="02:00.220" ttm:agent="v1">Wanna be a winner</p>
-      <p begin="02:00.220" end="02:02.370" ttm:agent="v1">Wanna be a winner</p>
-      <p begin="02:02.370" end="02:04.220" ttm:agent="v1">Gyehoegdaelo dwaegaji</p>
-      <p begin="02:04.220" end="02:06.270" ttm:agent="v1">Nan nabiga doel aesongi</p>
-      <p begin="02:06.270" end="02:07.900" ttm:agent="v1">I'm a smarter baby</p>
-      <p begin="02:07.900" end="02:09.400" ttm:agent="v1">Nae sigyeneun tick-tock</p>
-      <p begin="02:09.180" end="02:10.680" ttm:agent="v1">Pilyohaessdeon shortcut</p>
-      <p begin="02:10.130" end="02:12.070" ttm:agent="v1">Chajanaego nan jabassji, huh</p>
-      <p begin="02:12.070" end="02:13.570" ttm:agent="v1">Nuguneun malhae, &quot;that's all luck&quot;</p>
-      <p begin="02:13.370" end="02:14.870" ttm:agent="v1">Nan malhae, &quot;no, it's not luck&quot;</p>
-      <p begin="02:14.420" end="02:15.920" ttm:agent="v1">Nae ttameun not lying, lying</p>
-      <p begin="02:15.900" end="02:18.140" ttm:agent="v1">Don't slow down, i salmeun superfast</p>
-      <p begin="02:18.140" end="02:20.430" ttm:agent="v1">Best scheme, nae meolissoge</p>
-      <p begin="02:20.430" end="02:22.380" ttm:agent="v1">Gassaeng, nan junbileul kkeutnaesseo</p>
-      <p begin="02:22.380" end="02:23.880" ttm:agent="v1">Dinner of the winner</p>
-      <p begin="02:23.330" end="02:24.830" ttm:agent="v1">That is what i want to get</p>
-      <p begin="02:23.530" end="02:25.640" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm a smarter baby, smarter (alright)</p>
-      <p begin="02:25.640" end="02:27.730" ttm:agent="v1">Smarter baby, smarter</p>
-      <p begin="02:27.730" end="02:29.800" ttm:agent="v1">Hanal bomyeon yeolkkaji</p>
-      <p begin="02:29.800" end="02:31.990" ttm:agent="v1">Ganpahaeseo dolpahaji</p>
-      <p begin="02:31.990" end="02:33.990" ttm:agent="v1">Wanna be a winner</p>
-      <p begin="02:33.990" end="02:36.360" ttm:agent="v1">Wanna be a winner</p>
-      <p begin="02:36.360" end="02:38.160" ttm:agent="v1">Gyehoegdaelo dwaegaji</p>
-      <p begin="02:38.160" end="02:40.330" ttm:agent="v1">Nan nabiga doel aesongi</p>
-      <p begin="02:40.330" end="02:41.950" ttm:agent="v1">I'm a smarter baby</p>
-      <p begin="02:41.950" end="02:45.950" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>Smart</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">LE SSERAFIM</ttm:agent>
+
+      <ttm:item type="album">Smart (Remixes)</ttm:item>
+
+      <ttm:item type="spotify_id">3lwK3WyKAI5bUuGY1OgGbZ</ttm:item>
+
+      <itunes:duration>02:46.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.120" end="00:04.290" ttm:agent="v1" itunes:key="role" itunes:value="background">(ah-ah-ah)</p>
+
+      <p begin="00:04.290" end="00:07.310" ttm:agent="v1" itunes:key="role" itunes:value="background">(ah-ah-ah)</p>
+
+      <p begin="00:07.310" end="00:09.640" ttm:agent="v1">I'm a smarter baby, smarter</p>
+
+      <p begin="00:09.640" end="00:11.670" ttm:agent="v1">Smarter baby, smarter</p>
+
+      <p begin="00:11.670" end="00:14.050" ttm:agent="v1">Hanal bomyeon yeolkkaji</p>
+
+      <p begin="00:14.050" end="00:16.020" ttm:agent="v1">Ganpahaeseo dolpahaji</p>
+
+      <p begin="00:16.020" end="00:18.030" ttm:agent="v1">Wanna be a winner</p>
+
+      <p begin="00:18.030" end="00:20.180" ttm:agent="v1">Wanna be a winner</p>
+
+      <p begin="00:20.180" end="00:22.200" ttm:agent="v1">Gyehoegdaelo dwaegaji</p>
+
+      <p begin="00:22.200" end="00:24.800" ttm:agent="v1">Nan nabiga doel aesongi</p>
+
+      <p begin="00:24.800" end="00:28.630" ttm:agent="v1">Wonhaneun geon seunglilan nom</p>
+
+      <p begin="00:28.630" end="00:32.860" ttm:agent="v1">I call it &quot;sugar&quot; (my sugar, sugar)</p>
+
+      <p begin="00:32.860" end="00:36.960" ttm:agent="v1">Plandaelolamyeon nohchil liga eobsji</p>
+
+      <p begin="00:36.960" end="00:41.890" ttm:agent="v1">Nae sugar, sugar (my sugar)</p>
+
+      <p begin="00:41.890" end="00:44.120" ttm:agent="v1">Nugun malhae, naega mean-mean-mean-mean-mean</p>
+
+      <p begin="00:44.120" end="00:46.280" ttm:agent="v1">Singyeong an sseo swis swis swis swis swis</p>
+
+      <p begin="00:46.280" end="00:48.280" ttm:agent="v1">Nae paebae wie pil aleumdaum daesin</p>
+
+      <p begin="00:48.280" end="00:50.360" ttm:agent="v1">Deo ganghan ileum &quot;villain&quot;eul taeghaessji</p>
+
+      <p begin="00:50.360" end="00:52.640" ttm:agent="v1">So geuge balo me-me-me-me-me</p>
+
+      <p begin="00:52.640" end="00:54.940" ttm:agent="v1">Naegen boyeo, see-see-see-see-see</p>
+
+      <p begin="00:54.940" end="00:58.350" ttm:agent="v1">LE SERRAFIM nal ikkeuleo to victory</p>
+
+      <p begin="00:58.350" end="01:00.480" ttm:agent="v1">I'm a smarter baby, smarter</p>
+
+      <p begin="01:00.480" end="01:02.860" ttm:agent="v1">Smarter baby, smarter</p>
+
+      <p begin="01:02.860" end="01:04.800" ttm:agent="v1">Hanal bomyeon yeolkkaji</p>
+
+      <p begin="01:04.800" end="01:07.090" ttm:agent="v1">Ganpahaeseo dolpahaji</p>
+
+      <p begin="01:07.090" end="01:09.130" ttm:agent="v1">Wanna be a winner</p>
+
+      <p begin="01:09.130" end="01:11.260" ttm:agent="v1">Wanna be a winner</p>
+
+      <p begin="01:11.260" end="01:13.210" ttm:agent="v1">Gyehoegdaelo dwaegaji</p>
+
+      <p begin="01:13.210" end="01:15.270" ttm:agent="v1">Nan nabiga doel aesongi</p>
+
+      <p begin="01:15.270" end="01:16.770" ttm:agent="v1">I'm a smarter baby</p>
+
+      <p begin="01:16.590" end="01:18.410" ttm:agent="v1">Work hard in secret</p>
+
+      <p begin="01:18.410" end="01:20.470" ttm:agent="v1">Agwiga chagchag majge</p>
+
+      <p begin="01:20.470" end="01:24.000" ttm:agent="v1">I planned that, don't be mad</p>
+
+      <p begin="01:24.000" end="01:27.950" ttm:agent="v1">Plandaelolamyeon nan doel suga eobsji</p>
+
+      <p begin="01:27.950" end="01:32.740" ttm:agent="v1">Geu loser, loser (that loser)</p>
+
+      <p begin="01:32.740" end="01:35.150" ttm:agent="v1">Nugun malhae, naega mean-mean-mean-mean-mean</p>
+
+      <p begin="01:35.150" end="01:37.180" ttm:agent="v1">Singyeong an sseo swis swis swis swis swis</p>
+
+      <p begin="01:37.180" end="01:39.380" ttm:agent="v1">Nae paebae wie pil aleumdaum daesin</p>
+
+      <p begin="01:39.380" end="01:41.440" ttm:agent="v1">Deo ganghan ileum &quot;villain&quot;eul taeghaessji</p>
+
+      <p begin="01:41.440" end="01:43.680" ttm:agent="v1">So i just wanna be me-me-me-me</p>
+
+      <p begin="01:43.680" end="01:45.880" ttm:agent="v1">Naegen boyeo, see-see-see-see-see</p>
+
+      <p begin="01:45.880" end="01:49.380" ttm:agent="v1">LE SSERAFIM nal ikkeuleo to victory</p>
+
+      <p begin="01:49.380" end="01:51.540" ttm:agent="v1">I'm a smarter baby, smarter</p>
+
+      <p begin="01:51.540" end="01:53.830" ttm:agent="v1">Smarter baby, smarter</p>
+
+      <p begin="01:53.830" end="01:55.980" ttm:agent="v1">Hanal bomyeon yeolkkaji</p>
+
+      <p begin="01:55.980" end="01:57.970" ttm:agent="v1">Ganpahaeseo dolpahaji</p>
+
+      <p begin="01:57.970" end="02:00.220" ttm:agent="v1">Wanna be a winner</p>
+
+      <p begin="02:00.220" end="02:02.370" ttm:agent="v1">Wanna be a winner</p>
+
+      <p begin="02:02.370" end="02:04.220" ttm:agent="v1">Gyehoegdaelo dwaegaji</p>
+
+      <p begin="02:04.220" end="02:06.270" ttm:agent="v1">Nan nabiga doel aesongi</p>
+
+      <p begin="02:06.270" end="02:07.900" ttm:agent="v1">I'm a smarter baby</p>
+
+      <p begin="02:07.900" end="02:09.400" ttm:agent="v1">Nae sigyeneun tick-tock</p>
+
+      <p begin="02:09.180" end="02:10.680" ttm:agent="v1">Pilyohaessdeon shortcut</p>
+
+      <p begin="02:10.130" end="02:12.070" ttm:agent="v1">Chajanaego nan jabassji, huh</p>
+
+      <p begin="02:12.070" end="02:13.570" ttm:agent="v1">Nuguneun malhae, &quot;that's all luck&quot;</p>
+
+      <p begin="02:13.370" end="02:14.870" ttm:agent="v1">Nan malhae, &quot;no, it's not luck&quot;</p>
+
+      <p begin="02:14.420" end="02:15.920" ttm:agent="v1">Nae ttameun not lying, lying</p>
+
+      <p begin="02:15.900" end="02:18.140" ttm:agent="v1">Don't slow down, i salmeun superfast</p>
+
+      <p begin="02:18.140" end="02:20.430" ttm:agent="v1">Best scheme, nae meolissoge</p>
+
+      <p begin="02:20.430" end="02:22.380" ttm:agent="v1">Gassaeng, nan junbileul kkeutnaesseo</p>
+
+      <p begin="02:22.380" end="02:23.880" ttm:agent="v1">Dinner of the winner</p>
+
+      <p begin="02:23.330" end="02:24.830" ttm:agent="v1">That is what i want to get</p>
+
+      <p begin="02:23.530" end="02:25.640" ttm:agent="v1">I'm a smarter baby, smarter (alright)</p>
+
+      <p begin="02:25.640" end="02:27.730" ttm:agent="v1">Smarter baby, smarter</p>
+
+      <p begin="02:27.730" end="02:29.800" ttm:agent="v1">Hanal bomyeon yeolkkaji</p>
+
+      <p begin="02:29.800" end="02:31.990" ttm:agent="v1">Ganpahaeseo dolpahaji</p>
+
+      <p begin="02:31.990" end="02:33.990" ttm:agent="v1">Wanna be a winner</p>
+
+      <p begin="02:33.990" end="02:36.360" ttm:agent="v1">Wanna be a winner</p>
+
+      <p begin="02:36.360" end="02:38.160" ttm:agent="v1">Gyehoegdaelo dwaegaji</p>
+
+      <p begin="02:38.160" end="02:40.330" ttm:agent="v1">Nan nabiga doel aesongi</p>
+
+      <p begin="02:40.330" end="02:41.950" ttm:agent="v1">I'm a smarter baby</p>
+
+      <p begin="02:41.950" end="02:45.950" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

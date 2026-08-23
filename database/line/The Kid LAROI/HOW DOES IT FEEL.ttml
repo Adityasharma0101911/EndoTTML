@@ -1,66 +1,132 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>HOW DOES IT FEEL?</ttm:title>
-      <ttm:agent type="person" xml:id="v1">The Kid LAROI</ttm:agent>
-      <ttm:item type="album">HOW DOES IT FEEL?</ttm:item>
-      <ttm:item type="spotify_id">4SNPg0KDZ859vauVTaNg7i</ttm:item>
-      <itunes:duration>02:17.690</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:01.900" end="00:05.230" ttm:agent="v1">Ah</p>
-      <p begin="00:05.230" end="00:07.740" ttm:agent="v1">You say you don't go out</p>
-      <p begin="00:07.740" end="00:09.860" ttm:agent="v1">But somehow I always see you</p>
-      <p begin="00:09.860" end="00:12.390" ttm:agent="v1">It's just to get dressed up</p>
-      <p begin="00:12.390" end="00:14.280" ttm:agent="v1">A hundred pictures, you keep two</p>
-      <p begin="00:14.280" end="00:16.600" ttm:agent="v1">It's different tonight, you looked in my eyes</p>
-      <p begin="00:16.600" end="00:18.700" ttm:agent="v1">And now, girl, you're all that I see</p>
-      <p begin="00:18.700" end="00:21.260" ttm:agent="v1">You closin' the space, a smile on your face</p>
-      <p begin="00:21.260" end="00:24.240" ttm:agent="v1">I know that you're locked in with me</p>
-      <p begin="00:24.240" end="00:29.090" ttm:agent="v1">How does it feel that it's me and you?</p>
-      <p begin="00:29.090" end="00:33.790" ttm:agent="v1">How does it feel that it's me and you?</p>
-      <p begin="00:33.790" end="00:38.230" ttm:agent="v1">How does it feel that it's me and you</p>
-      <p begin="00:38.230" end="00:41.000" ttm:agent="v1">Just us two?</p>
-      <p begin="00:41.000" end="00:43.860" ttm:agent="v1">'Cause if you came here to party</p>
-      <p begin="00:43.860" end="00:47.190" ttm:agent="v1">Then why you lookin' down at your phone?</p>
-      <p begin="00:47.190" end="00:50.370" ttm:agent="v1" itunes:key="role" itunes:value="background">(Why you lookin' down?) Oh-oh, no (oh-oh, no)</p>
-      <p begin="00:50.370" end="00:53.390" ttm:agent="v1">'Cause if you came here to party</p>
-      <p begin="00:53.390" end="00:56.650" ttm:agent="v1">Then why you actin' like you're alone?</p>
-      <p begin="00:56.650" end="01:00.300" ttm:agent="v1" itunes:key="role" itunes:value="background">Okay (alone)</p>
-      <p begin="01:00.300" end="01:02.410" ttm:agent="v1">It's loud in here</p>
-      <p begin="01:02.410" end="01:07.290" ttm:agent="v1" itunes:key="role" itunes:value="background">I didn't even catch your name, but I don't care (no)</p>
-      <p begin="01:07.290" end="01:10.110" ttm:agent="v1">'Cause I'll never forget that face, girl</p>
-      <p begin="01:10.110" end="01:12.530" ttm:agent="v1">Yeah, I read your mind, I know that you're mine</p>
-      <p begin="01:12.530" end="01:14.800" ttm:agent="v1">It's obvious, our chemistry</p>
-      <p begin="01:14.800" end="01:17.230" ttm:agent="v1">You closin' the space, the smile on your face</p>
-      <p begin="01:17.230" end="01:20.350" ttm:agent="v1">I already know what you need</p>
-      <p begin="01:20.350" end="01:24.900" ttm:agent="v1">How does it feel that it's me and you?</p>
-      <p begin="01:24.900" end="01:29.520" ttm:agent="v1">How does it feel that it's me and you?</p>
-      <p begin="01:29.520" end="01:34.120" ttm:agent="v1">How does it feel that it's me and you</p>
-      <p begin="01:34.120" end="01:36.950" ttm:agent="v1">Just us two?</p>
-      <p begin="01:36.950" end="01:39.720" ttm:agent="v1">'Cause if you came here to party</p>
-      <p begin="01:39.720" end="01:43.260" ttm:agent="v1">Then why you lookin' down at your phone?</p>
-      <p begin="01:43.260" end="01:46.200" ttm:agent="v1" itunes:key="role" itunes:value="background">(Why you lookin' down?) Oh-oh, no (oh-oh, no)</p>
-      <p begin="01:46.200" end="01:49.290" ttm:agent="v1">'Cause if you came here to party</p>
-      <p begin="01:49.290" end="01:52.650" ttm:agent="v1">Then why you actin' like you're alone?</p>
-      <p begin="01:52.650" end="01:55.580" ttm:agent="v1" itunes:key="role" itunes:value="background">Why you actin' like that? Oh (alone), I said, &quot;Why you actin' like that?&quot;</p>
-      <p begin="01:55.580" end="01:58.590" ttm:agent="v1" itunes:key="role" itunes:value="background">Girl, if you came here to party (if you came here, girl)</p>
-      <p begin="01:58.590" end="02:01.850" ttm:agent="v1">Then why you lookin' down at your phone?</p>
-      <p begin="02:01.850" end="02:04.940" ttm:agent="v1" itunes:key="role" itunes:value="background">(Why you lookin' down? I said, I said, I said) oh-oh, no (why you lookin' down? Oh-oh, no)</p>
-      <p begin="02:04.940" end="02:07.940" ttm:agent="v1" itunes:key="role" itunes:value="background">'Cause if you came here to party (if you came here, yeah)</p>
-      <p begin="02:07.940" end="02:11.040" ttm:agent="v1">Then why you actin' like you're alone?</p>
-      <p begin="02:11.040" end="02:14.840" ttm:agent="v1" itunes:key="role" itunes:value="background">Why you actin' like that? Oh (alone), I said, &quot;Why you actin' like that?&quot;</p>
-      <p begin="02:14.840" end="02:18.840" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>HOW DOES IT FEEL?</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">The Kid LAROI</ttm:agent>
+
+      <ttm:item type="album">HOW DOES IT FEEL?</ttm:item>
+
+      <ttm:item type="spotify_id">4SNPg0KDZ859vauVTaNg7i</ttm:item>
+
+      <itunes:duration>02:17.690</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:01.900" end="00:05.230" ttm:agent="v1">Ah</p>
+
+      <p begin="00:05.230" end="00:07.740" ttm:agent="v1">You say you don't go out</p>
+
+      <p begin="00:07.740" end="00:09.860" ttm:agent="v1">But somehow I always see you</p>
+
+      <p begin="00:09.860" end="00:12.390" ttm:agent="v1">It's just to get dressed up</p>
+
+      <p begin="00:12.390" end="00:14.280" ttm:agent="v1">A hundred pictures, you keep two</p>
+
+      <p begin="00:14.280" end="00:16.600" ttm:agent="v1">It's different tonight, you looked in my eyes</p>
+
+      <p begin="00:16.600" end="00:18.700" ttm:agent="v1">And now, girl, you're all that I see</p>
+
+      <p begin="00:18.700" end="00:21.260" ttm:agent="v1">You closin' the space, a smile on your face</p>
+
+      <p begin="00:21.260" end="00:24.240" ttm:agent="v1">I know that you're locked in with me</p>
+
+      <p begin="00:24.240" end="00:29.090" ttm:agent="v1">How does it feel that it's me and you?</p>
+
+      <p begin="00:29.090" end="00:33.790" ttm:agent="v1">How does it feel that it's me and you?</p>
+
+      <p begin="00:33.790" end="00:38.230" ttm:agent="v1">How does it feel that it's me and you</p>
+
+      <p begin="00:38.230" end="00:41.000" ttm:agent="v1">Just us two?</p>
+
+      <p begin="00:41.000" end="00:43.860" ttm:agent="v1">'Cause if you came here to party</p>
+
+      <p begin="00:43.860" end="00:47.190" ttm:agent="v1">Then why you lookin' down at your phone?</p>
+
+      <p begin="00:47.190" end="00:50.370" ttm:agent="v1" itunes:key="role" itunes:value="background">(Why you lookin' down?) Oh-oh, no (oh-oh, no)</p>
+
+      <p begin="00:50.370" end="00:53.390" ttm:agent="v1">'Cause if you came here to party</p>
+
+      <p begin="00:53.390" end="00:56.650" ttm:agent="v1">Then why you actin' like you're alone?</p>
+
+      <p begin="00:56.650" end="01:00.300" ttm:agent="v1">Okay (alone)</p>
+
+      <p begin="01:00.300" end="01:02.410" ttm:agent="v1">It's loud in here</p>
+
+      <p begin="01:02.410" end="01:07.290" ttm:agent="v1">I didn't even catch your name, but I don't care (no)</p>
+
+      <p begin="01:07.290" end="01:10.110" ttm:agent="v1">'Cause I'll never forget that face, girl</p>
+
+      <p begin="01:10.110" end="01:12.530" ttm:agent="v1">Yeah, I read your mind, I know that you're mine</p>
+
+      <p begin="01:12.530" end="01:14.800" ttm:agent="v1">It's obvious, our chemistry</p>
+
+      <p begin="01:14.800" end="01:17.230" ttm:agent="v1">You closin' the space, the smile on your face</p>
+
+      <p begin="01:17.230" end="01:20.350" ttm:agent="v1">I already know what you need</p>
+
+      <p begin="01:20.350" end="01:24.900" ttm:agent="v1">How does it feel that it's me and you?</p>
+
+      <p begin="01:24.900" end="01:29.520" ttm:agent="v1">How does it feel that it's me and you?</p>
+
+      <p begin="01:29.520" end="01:34.120" ttm:agent="v1">How does it feel that it's me and you</p>
+
+      <p begin="01:34.120" end="01:36.950" ttm:agent="v1">Just us two?</p>
+
+      <p begin="01:36.950" end="01:39.720" ttm:agent="v1">'Cause if you came here to party</p>
+
+      <p begin="01:39.720" end="01:43.260" ttm:agent="v1">Then why you lookin' down at your phone?</p>
+
+      <p begin="01:43.260" end="01:46.200" ttm:agent="v1" itunes:key="role" itunes:value="background">(Why you lookin' down?) Oh-oh, no (oh-oh, no)</p>
+
+      <p begin="01:46.200" end="01:49.290" ttm:agent="v1">'Cause if you came here to party</p>
+
+      <p begin="01:49.290" end="01:52.650" ttm:agent="v1">Then why you actin' like you're alone?</p>
+
+      <p begin="01:52.650" end="01:55.580" ttm:agent="v1">Why you actin' like that? Oh (alone), I said, &quot;Why you actin' like that?&quot;</p>
+
+      <p begin="01:55.580" end="01:58.590" ttm:agent="v1">Girl, if you came here to party (if you came here, girl)</p>
+
+      <p begin="01:58.590" end="02:01.850" ttm:agent="v1">Then why you lookin' down at your phone?</p>
+
+      <p begin="02:01.850" end="02:04.940" ttm:agent="v1" itunes:key="role" itunes:value="background">(Why you lookin' down? I said, I said, I said) oh-oh, no (why you lookin' down? Oh-oh, no)</p>
+
+      <p begin="02:04.940" end="02:07.940" ttm:agent="v1">'Cause if you came here to party (if you came here, yeah)</p>
+
+      <p begin="02:07.940" end="02:11.040" ttm:agent="v1">Then why you actin' like you're alone?</p>
+
+      <p begin="02:11.040" end="02:14.840" ttm:agent="v1">Why you actin' like that? Oh (alone), I said, &quot;Why you actin' like that?&quot;</p>
+
+      <p begin="02:14.840" end="02:18.840" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

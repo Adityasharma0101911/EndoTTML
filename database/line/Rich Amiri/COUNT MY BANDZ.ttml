@@ -1,62 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>COUNT MY BANDZ</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Rich Amiri</ttm:agent>
-      <ttm:item type="album">COUNT MY BANDZ</ttm:item>
-      <ttm:item type="spotify_id">2JSu5cKatilbxzLLwWcwrE</ttm:item>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.983" end="00:02.483" ttm:agent="v1">[Chorus]</p>
-      <p begin="00:01.973" end="00:09.973" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yeah, yeah)</p>
-      <p begin="00:14.754" end="00:18.052" ttm:agent="v1">Face down, I hit that hoe with my left stroke</p>
-      <p begin="00:18.052" end="00:21.360" ttm:agent="v1">Play around, I'll have them youngins at yo' neck</p>
-      <p begin="00:21.360" end="00:24.839" ttm:agent="v1">Usain, I'm on my mark</p>
-      <p begin="00:24.839" end="00:26.339" ttm:agent="v1">Ready, Set, Go</p>
-      <p begin="00:25.183" end="00:26.954" ttm:agent="v1">Fell asleep, woke up, check the clock</p>
-      <p begin="00:26.954" end="00:30.746" ttm:agent="v1" itunes:key="role" itunes:value="background">I think it’s time to count my bands up, swervin' in that Land Rover (Skrr)</p>
-      <p begin="00:30.746" end="00:34.448" ttm:agent="v1" itunes:key="role" itunes:value="background">Rule number one, if you get rich you put your mans on (Okay)</p>
-      <p begin="00:34.448" end="00:37.613" ttm:agent="v1">Rule number two, don't call my niggas with yo' hands up</p>
-      <p begin="00:37.613" end="00:40.589" ttm:agent="v1">Just run it up and that's gon' show 'em you ain't playin' 'round</p>
-      <p begin="00:40.589" end="00:42.089" ttm:agent="v1"/>
-      <p begin="00:40.926" end="00:42.426" ttm:agent="v1">[Verse]</p>
-      <p begin="00:41.226" end="00:43.941" ttm:agent="v1">Oh you ain't see nobody turn nothin' to somethin'?</p>
-      <p begin="00:43.941" end="00:45.441" ttm:agent="v1">Just watch me do it</p>
-      <p begin="00:44.670" end="00:48.228" ttm:agent="v1" itunes:key="role" itunes:value="background">You know you ain't my main, act right girl don't you act stupid (Yeah)</p>
-      <p begin="00:48.228" end="00:51.372" ttm:agent="v1" itunes:key="role" itunes:value="background">When cameras flash cover your face, I can't get caught with you (Yeah)</p>
-      <p begin="00:51.372" end="00:55.089" ttm:agent="v1">Could get you wacked all I gotta do is go and call the troops</p>
-      <p begin="00:55.089" end="00:58.478" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, he want some bread? I'ma put that on his head (Yeah)</p>
-      <p begin="00:58.478" end="01:01.777" ttm:agent="v1" itunes:key="role" itunes:value="background">Walk inside of Saks, walk outside with shoppin' bags (Yeah)</p>
-      <p begin="01:01.777" end="01:05.313" ttm:agent="v1" itunes:key="role" itunes:value="background">She in love, but she flawless so I want her back (Okay)</p>
-      <p begin="01:05.313" end="01:08.058" ttm:agent="v1" itunes:key="role" itunes:value="background">A 6 figure nigga but I bet that I won't stop at that (Yeah)</p>
-      <p begin="01:08.058" end="01:09.558" ttm:agent="v1"/>
-      <p begin="01:08.432" end="01:09.932" ttm:agent="v1">[Bridge]</p>
-      <p begin="01:08.899" end="01:11.972" ttm:agent="v1" itunes:key="role" itunes:value="background">Go make a move, boy don't worry I don't owe you nothin' (Yeah)</p>
-      <p begin="01:11.972" end="01:15.531" ttm:agent="v1" itunes:key="role" itunes:value="background">She so different, how she hate me and I love it? (Yeah)</p>
-      <p begin="01:15.531" end="01:18.892" ttm:agent="v1" itunes:key="role" itunes:value="background">It ain't cash talk then you ain't talkin' 'bout nothin' (Yeah)</p>
-      <p begin="01:18.892" end="01:21.606" ttm:agent="v1" itunes:key="role" itunes:value="background">Couple million dollars that's the end of discussion (Yeah)</p>
-      <p begin="01:21.606" end="01:23.106" ttm:agent="v1"/>
-      <p begin="01:21.832" end="01:23.332" ttm:agent="v1">[Chorus]</p>
-      <p begin="01:22.064" end="01:23.564" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yeah, yeah)</p>
-      <p begin="01:22.604" end="01:26.541" ttm:agent="v1">Face down, I hit that hoe with my left stroke</p>
-      <p begin="01:26.541" end="01:29.703" ttm:agent="v1">Play around, I'll have them youngins at yo' neck</p>
-      <p begin="01:29.703" end="01:32.244" ttm:agent="v1">Usain, I'm on my mark</p>
-      <p begin="01:32.244" end="01:33.744" ttm:agent="v1">Ready, Set, Go</p>
-      <p begin="01:33.399" end="01:36.523" ttm:agent="v1">Fell asleep, woke up, check the clock</p>
-      <p begin="01:36.523" end="01:39.351" ttm:agent="v1" itunes:key="role" itunes:value="background">I think its time to count my bands up, swervin' in that Land Rover (Skrr)</p>
-      <p begin="01:39.351" end="01:42.936" ttm:agent="v1" itunes:key="role" itunes:value="background">Rule number one, if you get rich you put your mans on (Okay)</p>
-      <p begin="01:42.936" end="01:46.106" ttm:agent="v1">Rule number two, don't call my niggas with yo' hands up</p>
-      <p begin="01:46.106" end="01:50.106" ttm:agent="v1" itunes:key="role" itunes:value="background">Just run it up and that's gon' show 'em you ain't playin' 'round (Okay)</p>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>COUNT MY BANDZ</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Rich Amiri</ttm:agent>
+
+      <ttm:item type="album">COUNT MY BANDZ</ttm:item>
+
+      <ttm:item type="spotify_id">2JSu5cKatilbxzLLwWcwrE</ttm:item>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.983" end="00:02.483" ttm:agent="v1">[Chorus]</p>
+
+      <p begin="00:01.973" end="00:09.973" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yeah, yeah)</p>
+
+      <p begin="00:14.754" end="00:18.052" ttm:agent="v1">Face down, I hit that hoe with my left stroke</p>
+
+      <p begin="00:18.052" end="00:21.360" ttm:agent="v1">Play around, I'll have them youngins at yo' neck</p>
+
+      <p begin="00:21.360" end="00:24.839" ttm:agent="v1">Usain, I'm on my mark</p>
+
+      <p begin="00:24.839" end="00:26.339" ttm:agent="v1">Ready, Set, Go</p>
+
+      <p begin="00:25.183" end="00:26.954" ttm:agent="v1">Fell asleep, woke up, check the clock</p>
+
+      <p begin="00:26.954" end="00:30.746" ttm:agent="v1">I think it’s time to count my bands up, swervin' in that Land Rover (Skrr)</p>
+
+      <p begin="00:30.746" end="00:34.448" ttm:agent="v1">Rule number one, if you get rich you put your mans on (Okay)</p>
+
+      <p begin="00:34.448" end="00:37.613" ttm:agent="v1">Rule number two, don't call my niggas with yo' hands up</p>
+
+      <p begin="00:37.613" end="00:40.589" ttm:agent="v1">Just run it up and that's gon' show 'em you ain't playin' 'round</p>
+
+      <p begin="00:40.589" end="00:42.089" ttm:agent="v1"/>
+
+      <p begin="00:40.926" end="00:42.426" ttm:agent="v1">[Verse]</p>
+
+      <p begin="00:41.226" end="00:43.941" ttm:agent="v1">Oh you ain't see nobody turn nothin' to somethin'?</p>
+
+      <p begin="00:43.941" end="00:45.441" ttm:agent="v1">Just watch me do it</p>
+
+      <p begin="00:44.670" end="00:48.228" ttm:agent="v1">You know you ain't my main, act right girl don't you act stupid (Yeah)</p>
+
+      <p begin="00:48.228" end="00:51.372" ttm:agent="v1">When cameras flash cover your face, I can't get caught with you (Yeah)</p>
+
+      <p begin="00:51.372" end="00:55.089" ttm:agent="v1">Could get you wacked all I gotta do is go and call the troops</p>
+
+      <p begin="00:55.089" end="00:58.478" ttm:agent="v1">Oh, he want some bread? I'ma put that on his head (Yeah)</p>
+
+      <p begin="00:58.478" end="01:01.777" ttm:agent="v1">Walk inside of Saks, walk outside with shoppin' bags (Yeah)</p>
+
+      <p begin="01:01.777" end="01:05.313" ttm:agent="v1">She in love, but she flawless so I want her back (Okay)</p>
+
+      <p begin="01:05.313" end="01:08.058" ttm:agent="v1">A 6 figure nigga but I bet that I won't stop at that (Yeah)</p>
+
+      <p begin="01:08.058" end="01:09.558" ttm:agent="v1"/>
+
+      <p begin="01:08.432" end="01:09.932" ttm:agent="v1">[Bridge]</p>
+
+      <p begin="01:08.899" end="01:11.972" ttm:agent="v1">Go make a move, boy don't worry I don't owe you nothin' (Yeah)</p>
+
+      <p begin="01:11.972" end="01:15.531" ttm:agent="v1">She so different, how she hate me and I love it? (Yeah)</p>
+
+      <p begin="01:15.531" end="01:18.892" ttm:agent="v1">It ain't cash talk then you ain't talkin' 'bout nothin' (Yeah)</p>
+
+      <p begin="01:18.892" end="01:21.606" ttm:agent="v1">Couple million dollars that's the end of discussion (Yeah)</p>
+
+      <p begin="01:21.606" end="01:23.106" ttm:agent="v1"/>
+
+      <p begin="01:21.832" end="01:23.332" ttm:agent="v1">[Chorus]</p>
+
+      <p begin="01:22.064" end="01:23.564" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yeah, yeah)</p>
+
+      <p begin="01:22.604" end="01:26.541" ttm:agent="v1">Face down, I hit that hoe with my left stroke</p>
+
+      <p begin="01:26.541" end="01:29.703" ttm:agent="v1">Play around, I'll have them youngins at yo' neck</p>
+
+      <p begin="01:29.703" end="01:32.244" ttm:agent="v1">Usain, I'm on my mark</p>
+
+      <p begin="01:32.244" end="01:33.744" ttm:agent="v1">Ready, Set, Go</p>
+
+      <p begin="01:33.399" end="01:36.523" ttm:agent="v1">Fell asleep, woke up, check the clock</p>
+
+      <p begin="01:36.523" end="01:39.351" ttm:agent="v1">I think its time to count my bands up, swervin' in that Land Rover (Skrr)</p>
+
+      <p begin="01:39.351" end="01:42.936" ttm:agent="v1">Rule number one, if you get rich you put your mans on (Okay)</p>
+
+      <p begin="01:42.936" end="01:46.106" ttm:agent="v1">Rule number two, don't call my niggas with yo' hands up</p>
+
+      <p begin="01:46.106" end="01:50.106" ttm:agent="v1">Just run it up and that's gon' show 'em you ain't playin' 'round (Okay)</p>
+
+    </div>
+
+  </body>
+
+</tt>
+

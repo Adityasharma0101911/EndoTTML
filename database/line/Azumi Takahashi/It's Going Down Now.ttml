@@ -1,101 +1,202 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>It's Going Down Now</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Azumi Takahashi</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">Lotus Juice</ttm:agent>
-      <ttm:agent type="person" xml:id="v3">ATLUS Sound Team</ttm:agent>
-      <ttm:agent type="person" xml:id="v4">ATLUS GAME MUSIC</ttm:agent>
-      <ttm:item type="album">Persona 3 Reload Original Soundtrack</ttm:item>
-      <ttm:item type="spotify_id">3znIACSXPLn3HFCf7moZ28</ttm:item>
-      <itunes:duration>03:06.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:01.230" end="00:05.120" ttm:agent="v1" itunes:key="role" itunes:value="background">(Baby, baby, baby, baby, baby)</p>
-      <p begin="00:05.120" end="00:07.730" ttm:agent="v1" itunes:key="role" itunes:value="background">(Baby, baby, baby, baby, baby)</p>
-      <p begin="00:07.730" end="00:10.020" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ba-ba-baby, baby, baby, baby)</p>
-      <p begin="00:10.020" end="00:11.840" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ba-ba-baby, baby, baby, baby)</p>
-      <p begin="00:11.840" end="00:13.580" ttm:agent="v1">It's those unintelligent monsters, ain't it?</p>
-      <p begin="00:13.580" end="00:15.080" ttm:agent="v1">What are they thinking? Please, explain it</p>
-      <p begin="00:15.000" end="00:16.500" ttm:agent="v1">Don't really need this crap, can't waste time</p>
-      <p begin="00:16.480" end="00:18.580" ttm:agent="v1">What I possess can't copy and paste down</p>
-      <p begin="00:18.580" end="00:20.750" ttm:agent="v1">I'm doing it better, never settling for another regular</p>
-      <p begin="00:20.750" end="00:22.250" ttm:agent="v1">Letter to my enemies, hey, I'm telling ya</p>
-      <p begin="00:22.140" end="00:24.290" ttm:agent="v1">I'm breaking you down to the level of molecular</p>
-      <p begin="00:24.290" end="00:26.540" ttm:agent="v1">Better be wise when you're choosing battles, it's mostly babbles</p>
-      <p begin="00:26.540" end="00:29.010" ttm:agent="v1">You know one of those big-time shady foe-foes ain't worth fighting for</p>
-      <p begin="00:29.010" end="00:30.790" ttm:agent="v1">I drop these bars in my sleep</p>
-      <p begin="00:30.790" end="00:32.290" ttm:agent="v1">Few more tricks up my sleeve</p>
-      <p begin="00:32.250" end="00:33.750" ttm:agent="v1" itunes:key="role" itunes:value="background">It's way too late for you to leave now (get ready)</p>
-      <p begin="00:33.520" end="00:36.820" ttm:agent="v1">Disturbing the peace</p>
-      <p begin="00:36.820" end="00:39.850" ttm:agent="v1">Look into my eyes</p>
-      <p begin="00:39.850" end="00:41.350" ttm:agent="v1">Now tell me the things</p>
-      <p begin="00:40.980" end="00:45.540" ttm:agent="v1">You know, laughing about behind my back</p>
-      <p begin="00:45.540" end="00:49.080" ttm:agent="v1">The tenacity I hold</p>
-      <p begin="00:49.080" end="00:52.740" ttm:agent="v1">I hope it's hard to break down</p>
-      <p begin="00:52.740" end="00:55.740" ttm:agent="v1">It's too late for apologies</p>
-      <p begin="00:55.740" end="01:02.390" ttm:agent="v1">It's going down now</p>
-      <p begin="01:02.390" end="01:03.890" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-do-down now)</p>
-      <p begin="01:03.190" end="01:04.850" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-down, do-do-down)</p>
-      <p begin="01:04.850" end="01:07.640" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-do-down now)</p>
-      <p begin="01:07.640" end="01:09.510" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-down, do-do-down)</p>
-      <p begin="01:09.510" end="01:11.010" ttm:agent="v1">You're thirsty for some blood</p>
-      <p begin="01:10.330" end="01:11.870" ttm:agent="v1">Actually craving for love</p>
-      <p begin="01:11.870" end="01:13.370" ttm:agent="v1">What you only want is dub</p>
-      <p begin="01:13.250" end="01:14.750" ttm:agent="v1">Greed makes you go numb</p>
-      <p begin="01:14.750" end="01:16.250" ttm:agent="v1">Purposefully, blocking good thoughts</p>
-      <p begin="01:16.100" end="01:17.600" ttm:agent="v1">Hey, please, doctor, doctor</p>
-      <p begin="01:17.070" end="01:18.570" ttm:agent="v1">He's about to be that patient</p>
-      <p begin="01:18.200" end="01:19.700" ttm:agent="v1">'Cause I'm about to knock him out cold</p>
-      <p begin="01:19.590" end="01:21.090" ttm:agent="v1" itunes:key="role" itunes:value="background">(Bring him back, please)</p>
-      <p begin="01:20.770" end="01:23.480" ttm:agent="v1">Whole lotta moves I make on you like dance floor</p>
-      <p begin="01:23.480" end="01:24.980" ttm:agent="v1">And during this beat down</p>
-      <p begin="01:24.570" end="01:26.820" ttm:agent="v1" itunes:key="role" itunes:value="background">You prolly wish that you can fast-forward (oh)</p>
-      <p begin="01:26.820" end="01:28.320" ttm:agent="v1">Don't you worry about it</p>
-      <p begin="01:27.820" end="01:29.370" ttm:agent="v1">I'll save some room for your last words</p>
-      <p begin="01:29.370" end="01:31.060" ttm:agent="v1">After I do this, do that, and the third</p>
-      <p begin="01:31.060" end="01:33.940" ttm:agent="v1">Disturbing the peace</p>
-      <p begin="01:33.940" end="01:36.960" ttm:agent="v1">Look into my eyes</p>
-      <p begin="01:36.960" end="01:38.460" ttm:agent="v1">Now tell me the things</p>
-      <p begin="01:38.110" end="01:42.760" ttm:agent="v1">You're blabbing about behind my back</p>
-      <p begin="01:42.760" end="01:46.180" ttm:agent="v1">The tenacity I hold</p>
-      <p begin="01:46.180" end="01:49.860" ttm:agent="v1">It's hard to break down</p>
-      <p begin="01:49.860" end="01:52.950" ttm:agent="v1">It's too late for apologies</p>
-      <p begin="01:52.950" end="01:54.630" ttm:agent="v1">It's going-</p>
-      <p begin="01:54.630" end="01:57.740" ttm:agent="v1">Some things may break me</p>
-      <p begin="01:57.740" end="02:00.400" ttm:agent="v1">But always get back up</p>
-      <p begin="02:00.400" end="02:02.780" ttm:agent="v1">New perspective gained</p>
-      <p begin="02:02.780" end="02:06.040" ttm:agent="v1">From all the pain and stress</p>
-      <p begin="02:06.040" end="02:08.690" ttm:agent="v1">And when I do come back</p>
-      <p begin="02:08.690" end="02:13.530" ttm:agent="v1">I'm stronger than ever before</p>
-      <p begin="02:13.530" end="02:16.880" ttm:agent="v1">So, kneel down</p>
-      <p begin="02:16.880" end="02:19.610" ttm:agent="v1">Disturbing the peace</p>
-      <p begin="02:19.610" end="02:22.760" ttm:agent="v1">Look into my eyes</p>
-      <p begin="02:22.760" end="02:24.260" ttm:agent="v1">Now tell me the things</p>
-      <p begin="02:23.850" end="02:28.470" ttm:agent="v1">You're blabbing about behind my back</p>
-      <p begin="02:28.470" end="02:31.820" ttm:agent="v1">The tenacity I hold</p>
-      <p begin="02:31.820" end="02:35.650" ttm:agent="v1">It's hard to break down</p>
-      <p begin="02:35.650" end="02:38.630" ttm:agent="v1">It's too late for apologies</p>
-      <p begin="02:38.630" end="02:45.120" ttm:agent="v1">It's going down</p>
-      <p begin="02:45.120" end="02:47.640" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-do-down now)</p>
-      <p begin="02:47.640" end="02:50.500" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-down, do-do-down)</p>
-      <p begin="02:50.500" end="02:52.000" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-do-down now)</p>
-      <p begin="02:51.400" end="02:52.900" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-down, do-do-down)</p>
-      <p begin="02:52.410" end="02:53.910" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-do-down now)</p>
-      <p begin="02:53.320" end="02:55.330" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-down, do-do-down)</p>
-      <p begin="02:55.330" end="02:57.890" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-do-down now)</p>
-      <p begin="02:57.890" end="02:59.390" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down)</p>
-      <p begin="02:57.890" end="03:01.890" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>It's Going Down Now</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Azumi Takahashi</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v2">Lotus Juice</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v3">ATLUS Sound Team</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v4">ATLUS GAME MUSIC</ttm:agent>
+
+      <ttm:item type="album">Persona 3 Reload Original Soundtrack</ttm:item>
+
+      <ttm:item type="spotify_id">3znIACSXPLn3HFCf7moZ28</ttm:item>
+
+      <itunes:duration>03:06.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:01.230" end="00:05.120" ttm:agent="v1" itunes:key="role" itunes:value="background">(Baby, baby, baby, baby, baby)</p>
+
+      <p begin="00:05.120" end="00:07.730" ttm:agent="v1" itunes:key="role" itunes:value="background">(Baby, baby, baby, baby, baby)</p>
+
+      <p begin="00:07.730" end="00:10.020" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ba-ba-baby, baby, baby, baby)</p>
+
+      <p begin="00:10.020" end="00:11.840" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ba-ba-baby, baby, baby, baby)</p>
+
+      <p begin="00:11.840" end="00:13.580" ttm:agent="v1">It's those unintelligent monsters, ain't it?</p>
+
+      <p begin="00:13.580" end="00:15.080" ttm:agent="v1">What are they thinking? Please, explain it</p>
+
+      <p begin="00:15.000" end="00:16.500" ttm:agent="v1">Don't really need this crap, can't waste time</p>
+
+      <p begin="00:16.480" end="00:18.580" ttm:agent="v1">What I possess can't copy and paste down</p>
+
+      <p begin="00:18.580" end="00:20.750" ttm:agent="v1">I'm doing it better, never settling for another regular</p>
+
+      <p begin="00:20.750" end="00:22.250" ttm:agent="v1">Letter to my enemies, hey, I'm telling ya</p>
+
+      <p begin="00:22.140" end="00:24.290" ttm:agent="v1">I'm breaking you down to the level of molecular</p>
+
+      <p begin="00:24.290" end="00:26.540" ttm:agent="v1">Better be wise when you're choosing battles, it's mostly babbles</p>
+
+      <p begin="00:26.540" end="00:29.010" ttm:agent="v1">You know one of those big-time shady foe-foes ain't worth fighting for</p>
+
+      <p begin="00:29.010" end="00:30.790" ttm:agent="v1">I drop these bars in my sleep</p>
+
+      <p begin="00:30.790" end="00:32.290" ttm:agent="v1">Few more tricks up my sleeve</p>
+
+      <p begin="00:32.250" end="00:33.750" ttm:agent="v1">It's way too late for you to leave now (get ready)</p>
+
+      <p begin="00:33.520" end="00:36.820" ttm:agent="v1">Disturbing the peace</p>
+
+      <p begin="00:36.820" end="00:39.850" ttm:agent="v1">Look into my eyes</p>
+
+      <p begin="00:39.850" end="00:41.350" ttm:agent="v1">Now tell me the things</p>
+
+      <p begin="00:40.980" end="00:45.540" ttm:agent="v1">You know, laughing about behind my back</p>
+
+      <p begin="00:45.540" end="00:49.080" ttm:agent="v1">The tenacity I hold</p>
+
+      <p begin="00:49.080" end="00:52.740" ttm:agent="v1">I hope it's hard to break down</p>
+
+      <p begin="00:52.740" end="00:55.740" ttm:agent="v1">It's too late for apologies</p>
+
+      <p begin="00:55.740" end="01:02.390" ttm:agent="v1">It's going down now</p>
+
+      <p begin="01:02.390" end="01:03.890" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-do-down now)</p>
+
+      <p begin="01:03.190" end="01:04.850" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-down, do-do-down)</p>
+
+      <p begin="01:04.850" end="01:07.640" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-do-down now)</p>
+
+      <p begin="01:07.640" end="01:09.510" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-down, do-do-down)</p>
+
+      <p begin="01:09.510" end="01:11.010" ttm:agent="v1">You're thirsty for some blood</p>
+
+      <p begin="01:10.330" end="01:11.870" ttm:agent="v1">Actually craving for love</p>
+
+      <p begin="01:11.870" end="01:13.370" ttm:agent="v1">What you only want is dub</p>
+
+      <p begin="01:13.250" end="01:14.750" ttm:agent="v1">Greed makes you go numb</p>
+
+      <p begin="01:14.750" end="01:16.250" ttm:agent="v1">Purposefully, blocking good thoughts</p>
+
+      <p begin="01:16.100" end="01:17.600" ttm:agent="v1">Hey, please, doctor, doctor</p>
+
+      <p begin="01:17.070" end="01:18.570" ttm:agent="v1">He's about to be that patient</p>
+
+      <p begin="01:18.200" end="01:19.700" ttm:agent="v1">'Cause I'm about to knock him out cold</p>
+
+      <p begin="01:19.590" end="01:21.090" ttm:agent="v1" itunes:key="role" itunes:value="background">(Bring him back, please)</p>
+
+      <p begin="01:20.770" end="01:23.480" ttm:agent="v1">Whole lotta moves I make on you like dance floor</p>
+
+      <p begin="01:23.480" end="01:24.980" ttm:agent="v1">And during this beat down</p>
+
+      <p begin="01:24.570" end="01:26.820" ttm:agent="v1">You prolly wish that you can fast-forward (oh)</p>
+
+      <p begin="01:26.820" end="01:28.320" ttm:agent="v1">Don't you worry about it</p>
+
+      <p begin="01:27.820" end="01:29.370" ttm:agent="v1">I'll save some room for your last words</p>
+
+      <p begin="01:29.370" end="01:31.060" ttm:agent="v1">After I do this, do that, and the third</p>
+
+      <p begin="01:31.060" end="01:33.940" ttm:agent="v1">Disturbing the peace</p>
+
+      <p begin="01:33.940" end="01:36.960" ttm:agent="v1">Look into my eyes</p>
+
+      <p begin="01:36.960" end="01:38.460" ttm:agent="v1">Now tell me the things</p>
+
+      <p begin="01:38.110" end="01:42.760" ttm:agent="v1">You're blabbing about behind my back</p>
+
+      <p begin="01:42.760" end="01:46.180" ttm:agent="v1">The tenacity I hold</p>
+
+      <p begin="01:46.180" end="01:49.860" ttm:agent="v1">It's hard to break down</p>
+
+      <p begin="01:49.860" end="01:52.950" ttm:agent="v1">It's too late for apologies</p>
+
+      <p begin="01:52.950" end="01:54.630" ttm:agent="v1">It's going-</p>
+
+      <p begin="01:54.630" end="01:57.740" ttm:agent="v1">Some things may break me</p>
+
+      <p begin="01:57.740" end="02:00.400" ttm:agent="v1">But always get back up</p>
+
+      <p begin="02:00.400" end="02:02.780" ttm:agent="v1">New perspective gained</p>
+
+      <p begin="02:02.780" end="02:06.040" ttm:agent="v1">From all the pain and stress</p>
+
+      <p begin="02:06.040" end="02:08.690" ttm:agent="v1">And when I do come back</p>
+
+      <p begin="02:08.690" end="02:13.530" ttm:agent="v1">I'm stronger than ever before</p>
+
+      <p begin="02:13.530" end="02:16.880" ttm:agent="v1">So, kneel down</p>
+
+      <p begin="02:16.880" end="02:19.610" ttm:agent="v1">Disturbing the peace</p>
+
+      <p begin="02:19.610" end="02:22.760" ttm:agent="v1">Look into my eyes</p>
+
+      <p begin="02:22.760" end="02:24.260" ttm:agent="v1">Now tell me the things</p>
+
+      <p begin="02:23.850" end="02:28.470" ttm:agent="v1">You're blabbing about behind my back</p>
+
+      <p begin="02:28.470" end="02:31.820" ttm:agent="v1">The tenacity I hold</p>
+
+      <p begin="02:31.820" end="02:35.650" ttm:agent="v1">It's hard to break down</p>
+
+      <p begin="02:35.650" end="02:38.630" ttm:agent="v1">It's too late for apologies</p>
+
+      <p begin="02:38.630" end="02:45.120" ttm:agent="v1">It's going down</p>
+
+      <p begin="02:45.120" end="02:47.640" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-do-down now)</p>
+
+      <p begin="02:47.640" end="02:50.500" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-down, do-do-down)</p>
+
+      <p begin="02:50.500" end="02:52.000" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-do-down now)</p>
+
+      <p begin="02:51.400" end="02:52.900" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-down, do-do-down)</p>
+
+      <p begin="02:52.410" end="02:53.910" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-do-down now)</p>
+
+      <p begin="02:53.320" end="02:55.330" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-down, do-do-down)</p>
+
+      <p begin="02:55.330" end="02:57.890" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down, do-do-do-down now)</p>
+
+      <p begin="02:57.890" end="02:59.390" ttm:agent="v1" itunes:key="role" itunes:value="background">(Do-down)</p>
+
+      <p begin="02:57.890" end="03:01.890" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

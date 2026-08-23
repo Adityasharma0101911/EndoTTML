@@ -1,59 +1,118 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>2021 Vibes</ttm:title>
-      <ttm:agent type="person" xml:id="v1">LUCKI</ttm:agent>
-      <ttm:item type="album">s*x m*ney dr*gs</ttm:item>
-      <ttm:item type="spotify_id">6TJaoJX8VhptZ0DkcsjWaR</ttm:item>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.336" end="00:02.206" ttm:agent="v1">[Chorus]</p>
-      <p begin="00:02.206" end="00:03.796" ttm:agent="v1">Ayy, ayy, ayy</p>
-      <p begin="00:03.796" end="00:05.919" ttm:agent="v1" itunes:key="role" itunes:value="background">Ayy, ayy (And this beat from Cash, not from YouTube)</p>
-      <p begin="00:05.919" end="00:08.335" ttm:agent="v1">G locks for the team, but we ain't sharin’ lean</p>
-      <p begin="00:08.335" end="00:11.269" ttm:agent="v1">Run through fifty K, I ain't say it 'cause it was easy</p>
-      <p begin="00:11.269" end="00:14.739" ttm:agent="v1">Pretty girl, where you stayin’? Might as well be with me</p>
-      <p begin="00:14.739" end="00:17.659" ttm:agent="v1">AMG the S, ******* cowboy in the flesh</p>
-      <p begin="00:17.659" end="00:21.106" ttm:agent="v1">Caught up like the rest, but they look up to me</p>
-      <p begin="00:21.106" end="00:24.299" ttm:agent="v1">Sincere but it go left, tryna burn the bridge that's left, huh</p>
-      <p begin="00:24.299" end="00:29.333" ttm:agent="v1">Treat her like the one, tryna turn me to a two</p>
-      <p begin="00:29.333" end="00:31.451" ttm:agent="v1">I don't keep receipts, say that shit, she knows it's true</p>
-      <p begin="00:31.451" end="00:32.951" ttm:agent="v1"/>
-      <p begin="00:31.986" end="00:33.486" ttm:agent="v1">[Verse]</p>
-      <p begin="00:32.250" end="00:34.906" ttm:agent="v1">Call me while I'm sleep, cry baby girl, I'm stuck on you</p>
-      <p begin="00:34.906" end="00:38.090" ttm:agent="v1">Lil Slimey boy, had you up on me, ignore my calls while you in the stu'</p>
-      <p begin="00:38.090" end="00:41.285" ttm:agent="v1">Act funny when you ain't into me, hangin’ in my circle too</p>
-      <p begin="00:41.285" end="00:44.223" ttm:agent="v1">Miss that ho, I’m raising Hell, break a ho like Memphis Inn</p>
-      <p begin="00:44.223" end="00:47.706" ttm:agent="v1">Bentley's talkin’ to myself, Ghazi said it's sendin' help</p>
-      <p begin="00:47.706" end="00:50.620" ttm:agent="v1">Niggas tryna bring me down, really wanna send a belt</p>
-      <p begin="00:50.620" end="00:54.368" ttm:agent="v1">I paid three hundred for a line, 'cause they look like they needed help</p>
-      <p begin="00:54.368" end="00:57.050" ttm:agent="v1">How you think I’m talkin' down when I'm the one that needed help?</p>
-      <p begin="00:57.050" end="01:00.533" ttm:agent="v1">HEMI boy but I got a driver, he know his backseat meltin'</p>
-      <p begin="01:00.533" end="01:02.126" ttm:agent="v1">Live too fast, need a deep breath</p>
-      <p begin="01:02.126" end="01:03.626" ttm:agent="v1">Live too fast, can't even help</p>
-      <p begin="01:03.447" end="01:04.947" ttm:agent="v1"/>
-      <p begin="01:03.727" end="01:05.227" ttm:agent="v1">[Chorus]</p>
-      <p begin="01:03.983" end="01:06.677" ttm:agent="v1">Ayy, ayy</p>
-      <p begin="01:06.677" end="01:09.890" ttm:agent="v1">Ayy, ayy</p>
-      <p begin="01:09.890" end="01:12.016" ttm:agent="v1">G locks for the team, but we ain't sharin' lean</p>
-      <p begin="01:12.016" end="01:15.474" ttm:agent="v1">Run through fifty K, I ain't say it 'cause it was easy</p>
-      <p begin="01:15.474" end="01:18.657" ttm:agent="v1">Pretty girl, where you stayin'? Might as well be with me</p>
-      <p begin="01:18.657" end="01:21.840" ttm:agent="v1">AMG the S, ******* cowboy in the flesh</p>
-      <p begin="01:21.840" end="01:25.043" ttm:agent="v1">Caught up like the rest, but they look up to me</p>
-      <p begin="01:25.043" end="01:28.513" ttm:agent="v1">Sincere but it go left, tryna burn the bridge that's left, ayy</p>
-      <p begin="01:28.513" end="01:35.980" ttm:agent="v1">Treat her like the one, tryna turn me to a two</p>
-      <p begin="01:35.980" end="01:39.196" ttm:agent="v1">I don't keep receipts, say that shit, she knows it's true</p>
-      <p begin="01:39.196" end="01:43.196" ttm:agent="v1">I don't keep receipts, say that shit, she know it's true</p>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>2021 Vibes</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">LUCKI</ttm:agent>
+
+      <ttm:item type="album">s*x m*ney dr*gs</ttm:item>
+
+      <ttm:item type="spotify_id">6TJaoJX8VhptZ0DkcsjWaR</ttm:item>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.336" end="00:02.206" ttm:agent="v1">[Chorus]</p>
+
+      <p begin="00:02.206" end="00:03.796" ttm:agent="v1">Ayy, ayy, ayy</p>
+
+      <p begin="00:03.796" end="00:05.919" ttm:agent="v1">Ayy, ayy (And this beat from Cash, not from YouTube)</p>
+
+      <p begin="00:05.919" end="00:08.335" ttm:agent="v1">G locks for the team, but we ain't sharin’ lean</p>
+
+      <p begin="00:08.335" end="00:11.269" ttm:agent="v1">Run through fifty K, I ain't say it 'cause it was easy</p>
+
+      <p begin="00:11.269" end="00:14.739" ttm:agent="v1">Pretty girl, where you stayin’? Might as well be with me</p>
+
+      <p begin="00:14.739" end="00:17.659" ttm:agent="v1">AMG the S, ******* cowboy in the flesh</p>
+
+      <p begin="00:17.659" end="00:21.106" ttm:agent="v1">Caught up like the rest, but they look up to me</p>
+
+      <p begin="00:21.106" end="00:24.299" ttm:agent="v1">Sincere but it go left, tryna burn the bridge that's left, huh</p>
+
+      <p begin="00:24.299" end="00:29.333" ttm:agent="v1">Treat her like the one, tryna turn me to a two</p>
+
+      <p begin="00:29.333" end="00:31.451" ttm:agent="v1">I don't keep receipts, say that shit, she knows it's true</p>
+
+      <p begin="00:31.451" end="00:32.951" ttm:agent="v1"/>
+
+      <p begin="00:31.986" end="00:33.486" ttm:agent="v1">[Verse]</p>
+
+      <p begin="00:32.250" end="00:34.906" ttm:agent="v1">Call me while I'm sleep, cry baby girl, I'm stuck on you</p>
+
+      <p begin="00:34.906" end="00:38.090" ttm:agent="v1">Lil Slimey boy, had you up on me, ignore my calls while you in the stu'</p>
+
+      <p begin="00:38.090" end="00:41.285" ttm:agent="v1">Act funny when you ain't into me, hangin’ in my circle too</p>
+
+      <p begin="00:41.285" end="00:44.223" ttm:agent="v1">Miss that ho, I’m raising Hell, break a ho like Memphis Inn</p>
+
+      <p begin="00:44.223" end="00:47.706" ttm:agent="v1">Bentley's talkin’ to myself, Ghazi said it's sendin' help</p>
+
+      <p begin="00:47.706" end="00:50.620" ttm:agent="v1">Niggas tryna bring me down, really wanna send a belt</p>
+
+      <p begin="00:50.620" end="00:54.368" ttm:agent="v1">I paid three hundred for a line, 'cause they look like they needed help</p>
+
+      <p begin="00:54.368" end="00:57.050" ttm:agent="v1">How you think I’m talkin' down when I'm the one that needed help?</p>
+
+      <p begin="00:57.050" end="01:00.533" ttm:agent="v1">HEMI boy but I got a driver, he know his backseat meltin'</p>
+
+      <p begin="01:00.533" end="01:02.126" ttm:agent="v1">Live too fast, need a deep breath</p>
+
+      <p begin="01:02.126" end="01:03.626" ttm:agent="v1">Live too fast, can't even help</p>
+
+      <p begin="01:03.447" end="01:04.947" ttm:agent="v1"/>
+
+      <p begin="01:03.727" end="01:05.227" ttm:agent="v1">[Chorus]</p>
+
+      <p begin="01:03.983" end="01:06.677" ttm:agent="v1">Ayy, ayy</p>
+
+      <p begin="01:06.677" end="01:09.890" ttm:agent="v1">Ayy, ayy</p>
+
+      <p begin="01:09.890" end="01:12.016" ttm:agent="v1">G locks for the team, but we ain't sharin' lean</p>
+
+      <p begin="01:12.016" end="01:15.474" ttm:agent="v1">Run through fifty K, I ain't say it 'cause it was easy</p>
+
+      <p begin="01:15.474" end="01:18.657" ttm:agent="v1">Pretty girl, where you stayin'? Might as well be with me</p>
+
+      <p begin="01:18.657" end="01:21.840" ttm:agent="v1">AMG the S, ******* cowboy in the flesh</p>
+
+      <p begin="01:21.840" end="01:25.043" ttm:agent="v1">Caught up like the rest, but they look up to me</p>
+
+      <p begin="01:25.043" end="01:28.513" ttm:agent="v1">Sincere but it go left, tryna burn the bridge that's left, ayy</p>
+
+      <p begin="01:28.513" end="01:35.980" ttm:agent="v1">Treat her like the one, tryna turn me to a two</p>
+
+      <p begin="01:35.980" end="01:39.196" ttm:agent="v1">I don't keep receipts, say that shit, she knows it's true</p>
+
+      <p begin="01:39.196" end="01:43.196" ttm:agent="v1">I don't keep receipts, say that shit, she know it's true</p>
+
+    </div>
+
+  </body>
+
+</tt>
+

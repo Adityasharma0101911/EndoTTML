@@ -1,97 +1,194 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>SHAKE IT TO THE MAX (FLY) - REMIX</ttm:title>
-      <ttm:agent type="person" xml:id="v1">MOLIY</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">Shenseea</ttm:agent>
-      <ttm:agent type="person" xml:id="v3">Skillibeng</ttm:agent>
-      <ttm:agent type="person" xml:id="v4">Silent Addy</ttm:agent>
-      <ttm:item type="album">SHAKE IT TO THE MAX (FLY) (REMIX)</ttm:item>
-      <ttm:item type="spotify_id">0QCIpQV3twfqo9kh0t8Zza</ttm:item>
-      <itunes:duration>02:59.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.170" end="00:03.150" ttm:agent="v1">You dealin' with the baddie of course</p>
-      <p begin="00:03.150" end="00:06.760" ttm:agent="v1">Oh, you dealin' with the boss</p>
-      <p begin="00:06.760" end="00:09.760" ttm:agent="v1" itunes:key="role" itunes:value="background">(You seh)</p>
-      <p begin="00:09.760" end="00:11.850" ttm:agent="v1">And if you hear this song then go on bend your back</p>
-      <p begin="00:11.850" end="00:14.360" ttm:agent="v1">Go on bend your knees, baby, shake it to the max</p>
-      <p begin="00:14.360" end="00:16.820" ttm:agent="v1">Will the DJ please turn up the bass to the max</p>
-      <p begin="00:16.820" end="00:20.690" ttm:agent="v1">Please just rewind, let me shake it to the max</p>
-      <p begin="00:20.690" end="00:22.930" ttm:agent="v1" itunes:key="role" itunes:value="background">Shake it to the max (yeah)</p>
-      <p begin="00:22.930" end="00:25.550" ttm:agent="v1" itunes:key="role" itunes:value="background">Shake it to the max (badman she love)</p>
-      <p begin="00:25.550" end="00:27.050" ttm:agent="v1" itunes:key="role" itunes:value="background">Sha-shake it to the max (badman she love)</p>
-      <p begin="00:26.840" end="00:29.980" ttm:agent="v1" itunes:key="role" itunes:value="background">Please just rewind, let me shake it to the max (she love badman)</p>
-      <p begin="00:29.980" end="00:32.130" ttm:agent="v1" itunes:key="role" itunes:value="background">Badman she love, badman she love (yeah)</p>
-      <p begin="00:32.130" end="00:34.520" ttm:agent="v1">Badman she love, badman she love</p>
-      <p begin="00:34.520" end="00:37.040" ttm:agent="v1" itunes:key="role" itunes:value="background">Badman she love (yeah), badman she love</p>
-      <p begin="00:37.040" end="00:39.300" ttm:agent="v1" itunes:key="role" itunes:value="background">Badman she love, yeah (badman she love)</p>
-      <p begin="00:39.300" end="00:42.180" ttm:agent="v1">Yuh pussy fat inna ya shorts</p>
-      <p begin="00:42.180" end="00:44.070" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, you dealing with the boss (yeah)</p>
-      <p begin="00:44.070" end="00:46.420" ttm:agent="v1" itunes:key="role" itunes:value="background">Make you cum first coulda never take a loss (yeah)</p>
-      <p begin="00:46.420" end="00:49.630" ttm:agent="v1">Like a ball, pump up yo' pussy fast</p>
-      <p begin="00:49.630" end="00:52.020" ttm:agent="v1">Skin out the pussy fi me fuck it</p>
-      <p begin="00:52.020" end="00:53.710" ttm:agent="v1">Gyal you make e cocky broad</p>
-      <p begin="00:53.710" end="00:56.490" ttm:agent="v1" itunes:key="role" itunes:value="background">Original gyal, some of dem a dinner cuff (dinner cuff)</p>
-      <p begin="00:56.490" end="00:58.410" ttm:agent="v1">And if you hear this song then go on bend your back</p>
-      <p begin="00:58.410" end="01:00.830" ttm:agent="v1">Go on bend your knees, baby, shake it to the max</p>
-      <p begin="01:00.830" end="01:03.370" ttm:agent="v1">Will the DJ please turn up the bass to the max</p>
-      <p begin="01:03.370" end="01:06.950" ttm:agent="v1">Please just rewind let me shake it to the max</p>
-      <p begin="01:06.950" end="01:09.320" ttm:agent="v1">Shake it to the max</p>
-      <p begin="01:09.320" end="01:11.920" ttm:agent="v1">Shake it to the max</p>
-      <p begin="01:11.920" end="01:13.420" ttm:agent="v1">Sha-shake it to the max</p>
-      <p begin="01:13.180" end="01:15.590" ttm:agent="v1" itunes:key="role" itunes:value="background">Please just rewind, let me shake it to the max (Shenyeng)</p>
-      <p begin="01:15.590" end="01:18.100" ttm:agent="v1">Carribean gyal, mi naffi tick mi no fi talk</p>
-      <p begin="01:18.100" end="01:20.630" ttm:agent="v1">Man a watch my body like Sidem ah watch a match</p>
-      <p begin="01:20.630" end="01:22.960" ttm:agent="v1">Anyting him said dem girl ah do it like it's tax</p>
-      <p begin="01:22.960" end="01:25.660" ttm:agent="v1">Mi make mi own money like the girls in booby trap</p>
-      <p begin="01:25.660" end="01:28.790" ttm:agent="v1">Classy, real bad girl, mi get nasty</p>
-      <p begin="01:28.790" end="01:31.220" ttm:agent="v1">I do whatever mi want, trust, becah I'm a boss, see</p>
-      <p begin="01:31.220" end="01:32.780" ttm:agent="v1">Yes, I'm the one in charge</p>
-      <p begin="01:32.780" end="01:35.180" ttm:agent="v1">Never get my pums and him still fall inna love</p>
-      <p begin="01:35.180" end="01:38.760" ttm:agent="v1">Yeah, ah nah any anybody can touch this</p>
-      <p begin="01:38.760" end="01:40.260" ttm:agent="v1">Baby, I am not a hoe</p>
-      <p begin="01:40.040" end="01:42.530" ttm:agent="v1">Rice and peas, body hotter than Jollof</p>
-      <p begin="01:42.530" end="01:45.040" ttm:agent="v1">Affi beg a taste anywhere yah see mi pass</p>
-      <p begin="01:45.040" end="01:47.170" ttm:agent="v1">And if you hear this song then go on bend your back</p>
-      <p begin="01:47.170" end="01:49.850" ttm:agent="v1">Go on bend your knees, baby, shake it to the max</p>
-      <p begin="01:49.850" end="01:52.290" ttm:agent="v1">Will the DJ please turn up the bass to the max</p>
-      <p begin="01:52.290" end="01:56.080" ttm:agent="v1">Please just rewind let me shake it to the max</p>
-      <p begin="01:56.080" end="01:58.530" ttm:agent="v1">Shake it to the max</p>
-      <p begin="01:58.530" end="02:00.760" ttm:agent="v1">Shake it to the max</p>
-      <p begin="02:00.760" end="02:02.260" ttm:agent="v1">Sha-shake it to the max</p>
-      <p begin="02:01.900" end="02:04.570" ttm:agent="v1">Please just rewind, let me shake it to the max</p>
-      <p begin="02:04.570" end="02:07.080" ttm:agent="v1">Don't got to fear, number one in command</p>
-      <p begin="02:07.080" end="02:09.510" ttm:agent="v1">I came just to kill, me I'm too militant</p>
-      <p begin="02:09.510" end="02:11.680" ttm:agent="v1">They want figure eight but I don't need a man</p>
-      <p begin="02:11.680" end="02:14.800" ttm:agent="v1">Steady love how mi whine in mi True Religion</p>
-      <p begin="02:14.800" end="02:17.650" ttm:agent="v1">You dealing with a baddie of course</p>
-      <p begin="02:17.650" end="02:19.240" ttm:agent="v1">Oh, you dealing with a boss</p>
-      <p begin="02:19.240" end="02:21.950" ttm:agent="v1">If we break up, yeah, you know that it's your loss</p>
-      <p begin="02:21.950" end="02:25.170" ttm:agent="v1">Upgraded every dude I ever tossed</p>
-      <p begin="02:25.170" end="02:27.370" ttm:agent="v1">Said he want me back, he can't touch this</p>
-      <p begin="02:27.370" end="02:29.040" ttm:agent="v1">Baby, I already levelled up</p>
-      <p begin="02:29.040" end="02:32.480" ttm:agent="v1">You're looking for love and I'm looking for Jollof</p>
-      <p begin="02:32.480" end="02:34.170" ttm:agent="v1">Baby, you can't handle all the sauce</p>
-      <p begin="02:34.170" end="02:36.580" ttm:agent="v1">And if you hear this song then go on bend your back</p>
-      <p begin="02:36.580" end="02:38.830" ttm:agent="v1">Go on bend your knees, baby, shake it to the max</p>
-      <p begin="02:38.830" end="02:41.230" ttm:agent="v1">Will the DJ please turn up the bass to the max</p>
-      <p begin="02:41.230" end="02:45.280" ttm:agent="v1">Please just rewind let me shake it to the max</p>
-      <p begin="02:45.280" end="02:47.460" ttm:agent="v1">Shake it to the max</p>
-      <p begin="02:47.460" end="02:49.620" ttm:agent="v1">Shake it to the max</p>
-      <p begin="02:49.620" end="02:51.120" ttm:agent="v1">Sha-shake it to the max</p>
-      <p begin="02:50.970" end="02:55.520" ttm:agent="v1" itunes:key="role" itunes:value="background">Please just rewind, let me shake it to the max (Shenyeng)</p>
-      <p begin="02:55.520" end="02:59.520" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>SHAKE IT TO THE MAX (FLY) - REMIX</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">MOLIY</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v2">Shenseea</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v3">Skillibeng</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v4">Silent Addy</ttm:agent>
+
+      <ttm:item type="album">SHAKE IT TO THE MAX (FLY) (REMIX)</ttm:item>
+
+      <ttm:item type="spotify_id">0QCIpQV3twfqo9kh0t8Zza</ttm:item>
+
+      <itunes:duration>02:59.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.170" end="00:03.150" ttm:agent="v1">You dealin' with the baddie of course</p>
+
+      <p begin="00:03.150" end="00:06.760" ttm:agent="v1">Oh, you dealin' with the boss</p>
+
+      <p begin="00:06.760" end="00:09.760" ttm:agent="v1" itunes:key="role" itunes:value="background">(You seh)</p>
+
+      <p begin="00:09.760" end="00:11.850" ttm:agent="v1">And if you hear this song then go on bend your back</p>
+
+      <p begin="00:11.850" end="00:14.360" ttm:agent="v1">Go on bend your knees, baby, shake it to the max</p>
+
+      <p begin="00:14.360" end="00:16.820" ttm:agent="v1">Will the DJ please turn up the bass to the max</p>
+
+      <p begin="00:16.820" end="00:20.690" ttm:agent="v1">Please just rewind, let me shake it to the max</p>
+
+      <p begin="00:20.690" end="00:22.930" ttm:agent="v1">Shake it to the max (yeah)</p>
+
+      <p begin="00:22.930" end="00:25.550" ttm:agent="v1">Shake it to the max (badman she love)</p>
+
+      <p begin="00:25.550" end="00:27.050" ttm:agent="v1">Sha-shake it to the max (badman she love)</p>
+
+      <p begin="00:26.840" end="00:29.980" ttm:agent="v1">Please just rewind, let me shake it to the max (she love badman)</p>
+
+      <p begin="00:29.980" end="00:32.130" ttm:agent="v1">Badman she love, badman she love (yeah)</p>
+
+      <p begin="00:32.130" end="00:34.520" ttm:agent="v1">Badman she love, badman she love</p>
+
+      <p begin="00:34.520" end="00:37.040" ttm:agent="v1">Badman she love (yeah), badman she love</p>
+
+      <p begin="00:37.040" end="00:39.300" ttm:agent="v1">Badman she love, yeah (badman she love)</p>
+
+      <p begin="00:39.300" end="00:42.180" ttm:agent="v1">Yuh pussy fat inna ya shorts</p>
+
+      <p begin="00:42.180" end="00:44.070" ttm:agent="v1">Oh, you dealing with the boss (yeah)</p>
+
+      <p begin="00:44.070" end="00:46.420" ttm:agent="v1">Make you cum first coulda never take a loss (yeah)</p>
+
+      <p begin="00:46.420" end="00:49.630" ttm:agent="v1">Like a ball, pump up yo' pussy fast</p>
+
+      <p begin="00:49.630" end="00:52.020" ttm:agent="v1">Skin out the pussy fi me fuck it</p>
+
+      <p begin="00:52.020" end="00:53.710" ttm:agent="v1">Gyal you make e cocky broad</p>
+
+      <p begin="00:53.710" end="00:56.490" ttm:agent="v1">Original gyal, some of dem a dinner cuff (dinner cuff)</p>
+
+      <p begin="00:56.490" end="00:58.410" ttm:agent="v1">And if you hear this song then go on bend your back</p>
+
+      <p begin="00:58.410" end="01:00.830" ttm:agent="v1">Go on bend your knees, baby, shake it to the max</p>
+
+      <p begin="01:00.830" end="01:03.370" ttm:agent="v1">Will the DJ please turn up the bass to the max</p>
+
+      <p begin="01:03.370" end="01:06.950" ttm:agent="v1">Please just rewind let me shake it to the max</p>
+
+      <p begin="01:06.950" end="01:09.320" ttm:agent="v1">Shake it to the max</p>
+
+      <p begin="01:09.320" end="01:11.920" ttm:agent="v1">Shake it to the max</p>
+
+      <p begin="01:11.920" end="01:13.420" ttm:agent="v1">Sha-shake it to the max</p>
+
+      <p begin="01:13.180" end="01:15.590" ttm:agent="v1">Please just rewind, let me shake it to the max (Shenyeng)</p>
+
+      <p begin="01:15.590" end="01:18.100" ttm:agent="v1">Carribean gyal, mi naffi tick mi no fi talk</p>
+
+      <p begin="01:18.100" end="01:20.630" ttm:agent="v1">Man a watch my body like Sidem ah watch a match</p>
+
+      <p begin="01:20.630" end="01:22.960" ttm:agent="v1">Anyting him said dem girl ah do it like it's tax</p>
+
+      <p begin="01:22.960" end="01:25.660" ttm:agent="v1">Mi make mi own money like the girls in booby trap</p>
+
+      <p begin="01:25.660" end="01:28.790" ttm:agent="v1">Classy, real bad girl, mi get nasty</p>
+
+      <p begin="01:28.790" end="01:31.220" ttm:agent="v1">I do whatever mi want, trust, becah I'm a boss, see</p>
+
+      <p begin="01:31.220" end="01:32.780" ttm:agent="v1">Yes, I'm the one in charge</p>
+
+      <p begin="01:32.780" end="01:35.180" ttm:agent="v1">Never get my pums and him still fall inna love</p>
+
+      <p begin="01:35.180" end="01:38.760" ttm:agent="v1">Yeah, ah nah any anybody can touch this</p>
+
+      <p begin="01:38.760" end="01:40.260" ttm:agent="v1">Baby, I am not a hoe</p>
+
+      <p begin="01:40.040" end="01:42.530" ttm:agent="v1">Rice and peas, body hotter than Jollof</p>
+
+      <p begin="01:42.530" end="01:45.040" ttm:agent="v1">Affi beg a taste anywhere yah see mi pass</p>
+
+      <p begin="01:45.040" end="01:47.170" ttm:agent="v1">And if you hear this song then go on bend your back</p>
+
+      <p begin="01:47.170" end="01:49.850" ttm:agent="v1">Go on bend your knees, baby, shake it to the max</p>
+
+      <p begin="01:49.850" end="01:52.290" ttm:agent="v1">Will the DJ please turn up the bass to the max</p>
+
+      <p begin="01:52.290" end="01:56.080" ttm:agent="v1">Please just rewind let me shake it to the max</p>
+
+      <p begin="01:56.080" end="01:58.530" ttm:agent="v1">Shake it to the max</p>
+
+      <p begin="01:58.530" end="02:00.760" ttm:agent="v1">Shake it to the max</p>
+
+      <p begin="02:00.760" end="02:02.260" ttm:agent="v1">Sha-shake it to the max</p>
+
+      <p begin="02:01.900" end="02:04.570" ttm:agent="v1">Please just rewind, let me shake it to the max</p>
+
+      <p begin="02:04.570" end="02:07.080" ttm:agent="v1">Don't got to fear, number one in command</p>
+
+      <p begin="02:07.080" end="02:09.510" ttm:agent="v1">I came just to kill, me I'm too militant</p>
+
+      <p begin="02:09.510" end="02:11.680" ttm:agent="v1">They want figure eight but I don't need a man</p>
+
+      <p begin="02:11.680" end="02:14.800" ttm:agent="v1">Steady love how mi whine in mi True Religion</p>
+
+      <p begin="02:14.800" end="02:17.650" ttm:agent="v1">You dealing with a baddie of course</p>
+
+      <p begin="02:17.650" end="02:19.240" ttm:agent="v1">Oh, you dealing with a boss</p>
+
+      <p begin="02:19.240" end="02:21.950" ttm:agent="v1">If we break up, yeah, you know that it's your loss</p>
+
+      <p begin="02:21.950" end="02:25.170" ttm:agent="v1">Upgraded every dude I ever tossed</p>
+
+      <p begin="02:25.170" end="02:27.370" ttm:agent="v1">Said he want me back, he can't touch this</p>
+
+      <p begin="02:27.370" end="02:29.040" ttm:agent="v1">Baby, I already levelled up</p>
+
+      <p begin="02:29.040" end="02:32.480" ttm:agent="v1">You're looking for love and I'm looking for Jollof</p>
+
+      <p begin="02:32.480" end="02:34.170" ttm:agent="v1">Baby, you can't handle all the sauce</p>
+
+      <p begin="02:34.170" end="02:36.580" ttm:agent="v1">And if you hear this song then go on bend your back</p>
+
+      <p begin="02:36.580" end="02:38.830" ttm:agent="v1">Go on bend your knees, baby, shake it to the max</p>
+
+      <p begin="02:38.830" end="02:41.230" ttm:agent="v1">Will the DJ please turn up the bass to the max</p>
+
+      <p begin="02:41.230" end="02:45.280" ttm:agent="v1">Please just rewind let me shake it to the max</p>
+
+      <p begin="02:45.280" end="02:47.460" ttm:agent="v1">Shake it to the max</p>
+
+      <p begin="02:47.460" end="02:49.620" ttm:agent="v1">Shake it to the max</p>
+
+      <p begin="02:49.620" end="02:51.120" ttm:agent="v1">Sha-shake it to the max</p>
+
+      <p begin="02:50.970" end="02:55.520" ttm:agent="v1">Please just rewind, let me shake it to the max (Shenyeng)</p>
+
+      <p begin="02:55.520" end="02:59.520" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

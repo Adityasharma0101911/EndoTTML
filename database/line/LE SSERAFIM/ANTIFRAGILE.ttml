@@ -1,85 +1,170 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>ANTIFRAGILE</ttm:title>
-      <ttm:agent type="person" xml:id="v1">LE SSERAFIM</ttm:agent>
-      <ttm:item type="album">UNFORGIVEN</ttm:item>
-      <ttm:item type="spotify_id">0bMoNdAnxNR0OuQbGDovrr</ttm:item>
-      <itunes:duration>03:04.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.000" end="00:02.570" ttm:agent="v1">Anti-ti-ti-ti-fragile, fragile</p>
-      <p begin="00:02.570" end="00:04.780" ttm:agent="v1">Anti-ti-ti-ti-fragile</p>
-      <p begin="00:04.780" end="00:07.040" ttm:agent="v1">Anti-ti-ti-ti-fragile, fragile</p>
-      <p begin="00:07.040" end="00:09.310" ttm:agent="v1" itunes:key="role" itunes:value="background">Anti(fragile), anti(fragile)</p>
-      <p begin="00:09.310" end="00:13.980" ttm:agent="v1" itunes:key="role" itunes:value="background">Gasibatgil wiro riding, you made me boost up (ah-ah-ah-ah)</p>
-      <p begin="00:13.980" end="00:17.790" ttm:agent="v1">Geojiseuro gadeuk chan party, garyeopjido anha</p>
-      <p begin="00:17.790" end="00:22.320" ttm:agent="v1">Nae dwie maldeuri mana, nado cheom deutneun nae rival</p>
-      <p begin="00:22.320" end="00:26.730" ttm:agent="v1">Modu gidohae nae falling, geu son wiro I'ma jump in</p>
-      <p begin="00:26.730" end="00:28.230" ttm:agent="v1">Yes, gimme that</p>
-      <p begin="00:27.790" end="00:32.330" ttm:agent="v1" itunes:key="role" itunes:value="background">Georeobwa wieom like a lion, nunbichen geodaehan desire (na-na-na-ayy)</p>
-      <p begin="00:32.330" end="00:37.520" ttm:agent="v1" itunes:key="role" itunes:value="background">Deo bueo, gasoline on fire, bulgil soge dasi nara rising (na-na-na, ayy-oh)</p>
-      <p begin="00:37.520" end="00:42.110" ttm:agent="v1">Itji ma naega dugo on toe shoes, museun mari deo piryohae</p>
-      <p begin="00:42.110" end="00:44.190" ttm:agent="v1">Mushi ma naega georeoon keorieo</p>
-      <p begin="00:44.190" end="00:46.470" ttm:agent="v1">I go to ride 'til I die, die</p>
-      <p begin="00:46.470" end="00:51.220" ttm:agent="v1" itunes:key="role" itunes:value="background">Deo nopi gajulge, naega baratdeon segye jel wie (ah-ah)</p>
-      <p begin="00:51.220" end="00:55.750" ttm:agent="v1" itunes:key="role" itunes:value="background">Tteoreojyeodo dwae, I'm anti(fragile), anti(fragile) ah-ah</p>
-      <p begin="00:55.750" end="01:00.380" ttm:agent="v1" itunes:key="role" itunes:value="background">Nan jigeum on my way, gattabeoryeo jwo neoye fairy tale (ah-ah)</p>
-      <p begin="01:00.380" end="01:01.880" ttm:agent="v1">Now you know my name</p>
-      <p begin="01:01.690" end="01:04.250" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm anti(fragile), anti(fragile)</p>
-      <p begin="01:04.250" end="01:06.590" ttm:agent="v1">Anti-ti-ti-ti-fragile, fragile</p>
-      <p begin="01:06.590" end="01:08.830" ttm:agent="v1">Anti-ti-ti-ti-fragile</p>
-      <p begin="01:08.830" end="01:11.120" ttm:agent="v1">Anti-ti-ti-ti-fragile, fragile</p>
-      <p begin="01:11.120" end="01:13.910" ttm:agent="v1" itunes:key="role" itunes:value="background">Anti(fragile), anti(fragile)</p>
-      <p begin="01:13.910" end="01:16.260" ttm:agent="v1">&quot;Lovey-lovey-lovey, dovey-dovey-dovey&quot;</p>
-      <p begin="01:16.260" end="01:18.510" ttm:agent="v1">Meotdaero jeonghane naran ae-e daehae</p>
-      <p begin="01:18.510" end="01:21.860" ttm:agent="v1">I don't know what to say, I can't feel it</p>
-      <p begin="01:21.860" end="01:26.380" ttm:agent="v1">Tteugeoun gwansimeun hwanyeong, gwiyeoun jiltuneun go ahead</p>
-      <p begin="01:26.380" end="01:30.760" ttm:agent="v1">Jul dallin inyeongeun, no thanks, nae mirael sseul naui norae</p>
-      <p begin="01:30.760" end="01:32.260" ttm:agent="v1">Yeah, gimme that</p>
-      <p begin="01:31.820" end="01:36.330" ttm:agent="v1" itunes:key="role" itunes:value="background">Georeobwa wieom like a lion, nunbichen geodaehan desire (na-na-na-ayy)</p>
-      <p begin="01:36.330" end="01:41.530" ttm:agent="v1" itunes:key="role" itunes:value="background">Deo bueo, gasoline on fire, bulgil soge dasi nara rising (na-na-na, ayy-oh)</p>
-      <p begin="01:41.530" end="01:46.070" ttm:agent="v1">Itji ma naega dugo on toe shoes, museun mari deo piryohae</p>
-      <p begin="01:46.070" end="01:48.210" ttm:agent="v1">Mushi ma naega georeoon keorieo</p>
-      <p begin="01:48.210" end="01:50.530" ttm:agent="v1">I go to ride 'til I die, die</p>
-      <p begin="01:50.530" end="01:55.310" ttm:agent="v1" itunes:key="role" itunes:value="background">Deo nopi gajulge naega baratdeon segye jel wie (ah-ah)</p>
-      <p begin="01:55.310" end="01:59.710" ttm:agent="v1" itunes:key="role" itunes:value="background">Tteoreojyeodo dwae, I'm anti(fragile), anti(fragile) ah-ah</p>
-      <p begin="01:59.710" end="02:04.400" ttm:agent="v1" itunes:key="role" itunes:value="background">Nan jigeum on my way, gattabeoryeo jwo neoye fairy tale (ah-ah)</p>
-      <p begin="02:04.400" end="02:05.900" ttm:agent="v1">Now you know my name</p>
-      <p begin="02:05.690" end="02:08.260" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm anti(fragile), anti(fragile)</p>
-      <p begin="02:08.260" end="02:10.560" ttm:agent="v1">Anti-ti-ti-ti-fragile, fragile</p>
-      <p begin="02:10.560" end="02:12.850" ttm:agent="v1">Anti-ti-ti-ti-fragile</p>
-      <p begin="02:12.850" end="02:15.120" ttm:agent="v1">Anti-ti-ti-ti-fragile, fragile</p>
-      <p begin="02:15.120" end="02:17.380" ttm:agent="v1" itunes:key="role" itunes:value="background">Anti(fragile), anti(fragile)</p>
-      <p begin="02:17.380" end="02:19.080" ttm:agent="v1">We can break it, baby</p>
-      <p begin="02:19.080" end="02:21.370" ttm:agent="v1">Rock it, twist it, lock it, baby</p>
-      <p begin="02:21.370" end="02:23.720" ttm:agent="v1">All I know is you can't chain me</p>
-      <p begin="02:23.720" end="02:26.600" ttm:agent="v1">'Cause I'm gonna break out, gonna, gonna break out, out</p>
-      <p begin="02:26.600" end="02:28.240" ttm:agent="v1">We can break it, baby</p>
-      <p begin="02:28.240" end="02:30.540" ttm:agent="v1">Rock it, twist it, lock it, baby</p>
-      <p begin="02:30.540" end="02:32.820" ttm:agent="v1">All I know is you can't chain me</p>
-      <p begin="02:32.820" end="02:34.320" ttm:agent="v1" itunes:key="role" itunes:value="background">'Cause I'm gonna (whoa-oh, oh-oh-oh, oh-oh!)</p>
-      <p begin="02:33.780" end="02:36.210" ttm:agent="v1">Break out, gonna, gonna, break out, out</p>
-      <p begin="02:36.210" end="02:40.950" ttm:agent="v1" itunes:key="role" itunes:value="background">Deo nopi gajulge, naega baratdeon segye jel wie (ah-ah)</p>
-      <p begin="02:40.950" end="02:45.370" ttm:agent="v1" itunes:key="role" itunes:value="background">Tteoreojyeodo dwae, I'm anti(fragile), anti(fragile) ah-ah</p>
-      <p begin="02:45.370" end="02:50.210" ttm:agent="v1" itunes:key="role" itunes:value="background">Nan jigeum on my way, gattabeoryeo jwo neoye fairy tale (ah-ah)</p>
-      <p begin="02:50.210" end="02:51.710" ttm:agent="v1">Now you know my name</p>
-      <p begin="02:51.710" end="02:53.990" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm anti(fragile), anti(fragile)</p>
-      <p begin="02:53.990" end="02:56.250" ttm:agent="v1">Anti-ti-ti-ti-fragile, fragile</p>
-      <p begin="02:56.250" end="02:58.550" ttm:agent="v1">Anti-ti-ti-ti-fragile</p>
-      <p begin="02:58.550" end="03:00.790" ttm:agent="v1">Anti-ti-ti-ti-fragile, fragile</p>
-      <p begin="03:00.790" end="03:03.180" ttm:agent="v1" itunes:key="role" itunes:value="background">Anti(fragile), anti(fragile)</p>
-      <p begin="03:03.180" end="03:07.180" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>ANTIFRAGILE</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">LE SSERAFIM</ttm:agent>
+
+      <ttm:item type="album">UNFORGIVEN</ttm:item>
+
+      <ttm:item type="spotify_id">0bMoNdAnxNR0OuQbGDovrr</ttm:item>
+
+      <itunes:duration>03:04.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.000" end="00:02.570" ttm:agent="v1">Anti-ti-ti-ti-fragile, fragile</p>
+
+      <p begin="00:02.570" end="00:04.780" ttm:agent="v1">Anti-ti-ti-ti-fragile</p>
+
+      <p begin="00:04.780" end="00:07.040" ttm:agent="v1">Anti-ti-ti-ti-fragile, fragile</p>
+
+      <p begin="00:07.040" end="00:09.310" ttm:agent="v1">Anti(fragile), anti(fragile)</p>
+
+      <p begin="00:09.310" end="00:13.980" ttm:agent="v1">Gasibatgil wiro riding, you made me boost up (ah-ah-ah-ah)</p>
+
+      <p begin="00:13.980" end="00:17.790" ttm:agent="v1">Geojiseuro gadeuk chan party, garyeopjido anha</p>
+
+      <p begin="00:17.790" end="00:22.320" ttm:agent="v1">Nae dwie maldeuri mana, nado cheom deutneun nae rival</p>
+
+      <p begin="00:22.320" end="00:26.730" ttm:agent="v1">Modu gidohae nae falling, geu son wiro I'ma jump in</p>
+
+      <p begin="00:26.730" end="00:28.230" ttm:agent="v1">Yes, gimme that</p>
+
+      <p begin="00:27.790" end="00:32.330" ttm:agent="v1">Georeobwa wieom like a lion, nunbichen geodaehan desire (na-na-na-ayy)</p>
+
+      <p begin="00:32.330" end="00:37.520" ttm:agent="v1">Deo bueo, gasoline on fire, bulgil soge dasi nara rising (na-na-na, ayy-oh)</p>
+
+      <p begin="00:37.520" end="00:42.110" ttm:agent="v1">Itji ma naega dugo on toe shoes, museun mari deo piryohae</p>
+
+      <p begin="00:42.110" end="00:44.190" ttm:agent="v1">Mushi ma naega georeoon keorieo</p>
+
+      <p begin="00:44.190" end="00:46.470" ttm:agent="v1">I go to ride 'til I die, die</p>
+
+      <p begin="00:46.470" end="00:51.220" ttm:agent="v1">Deo nopi gajulge, naega baratdeon segye jel wie (ah-ah)</p>
+
+      <p begin="00:51.220" end="00:55.750" ttm:agent="v1">Tteoreojyeodo dwae, I'm anti(fragile), anti(fragile) ah-ah</p>
+
+      <p begin="00:55.750" end="01:00.380" ttm:agent="v1">Nan jigeum on my way, gattabeoryeo jwo neoye fairy tale (ah-ah)</p>
+
+      <p begin="01:00.380" end="01:01.880" ttm:agent="v1">Now you know my name</p>
+
+      <p begin="01:01.690" end="01:04.250" ttm:agent="v1">I'm anti(fragile), anti(fragile)</p>
+
+      <p begin="01:04.250" end="01:06.590" ttm:agent="v1">Anti-ti-ti-ti-fragile, fragile</p>
+
+      <p begin="01:06.590" end="01:08.830" ttm:agent="v1">Anti-ti-ti-ti-fragile</p>
+
+      <p begin="01:08.830" end="01:11.120" ttm:agent="v1">Anti-ti-ti-ti-fragile, fragile</p>
+
+      <p begin="01:11.120" end="01:13.910" ttm:agent="v1">Anti(fragile), anti(fragile)</p>
+
+      <p begin="01:13.910" end="01:16.260" ttm:agent="v1">&quot;Lovey-lovey-lovey, dovey-dovey-dovey&quot;</p>
+
+      <p begin="01:16.260" end="01:18.510" ttm:agent="v1">Meotdaero jeonghane naran ae-e daehae</p>
+
+      <p begin="01:18.510" end="01:21.860" ttm:agent="v1">I don't know what to say, I can't feel it</p>
+
+      <p begin="01:21.860" end="01:26.380" ttm:agent="v1">Tteugeoun gwansimeun hwanyeong, gwiyeoun jiltuneun go ahead</p>
+
+      <p begin="01:26.380" end="01:30.760" ttm:agent="v1">Jul dallin inyeongeun, no thanks, nae mirael sseul naui norae</p>
+
+      <p begin="01:30.760" end="01:32.260" ttm:agent="v1">Yeah, gimme that</p>
+
+      <p begin="01:31.820" end="01:36.330" ttm:agent="v1">Georeobwa wieom like a lion, nunbichen geodaehan desire (na-na-na-ayy)</p>
+
+      <p begin="01:36.330" end="01:41.530" ttm:agent="v1">Deo bueo, gasoline on fire, bulgil soge dasi nara rising (na-na-na, ayy-oh)</p>
+
+      <p begin="01:41.530" end="01:46.070" ttm:agent="v1">Itji ma naega dugo on toe shoes, museun mari deo piryohae</p>
+
+      <p begin="01:46.070" end="01:48.210" ttm:agent="v1">Mushi ma naega georeoon keorieo</p>
+
+      <p begin="01:48.210" end="01:50.530" ttm:agent="v1">I go to ride 'til I die, die</p>
+
+      <p begin="01:50.530" end="01:55.310" ttm:agent="v1">Deo nopi gajulge naega baratdeon segye jel wie (ah-ah)</p>
+
+      <p begin="01:55.310" end="01:59.710" ttm:agent="v1">Tteoreojyeodo dwae, I'm anti(fragile), anti(fragile) ah-ah</p>
+
+      <p begin="01:59.710" end="02:04.400" ttm:agent="v1">Nan jigeum on my way, gattabeoryeo jwo neoye fairy tale (ah-ah)</p>
+
+      <p begin="02:04.400" end="02:05.900" ttm:agent="v1">Now you know my name</p>
+
+      <p begin="02:05.690" end="02:08.260" ttm:agent="v1">I'm anti(fragile), anti(fragile)</p>
+
+      <p begin="02:08.260" end="02:10.560" ttm:agent="v1">Anti-ti-ti-ti-fragile, fragile</p>
+
+      <p begin="02:10.560" end="02:12.850" ttm:agent="v1">Anti-ti-ti-ti-fragile</p>
+
+      <p begin="02:12.850" end="02:15.120" ttm:agent="v1">Anti-ti-ti-ti-fragile, fragile</p>
+
+      <p begin="02:15.120" end="02:17.380" ttm:agent="v1">Anti(fragile), anti(fragile)</p>
+
+      <p begin="02:17.380" end="02:19.080" ttm:agent="v1">We can break it, baby</p>
+
+      <p begin="02:19.080" end="02:21.370" ttm:agent="v1">Rock it, twist it, lock it, baby</p>
+
+      <p begin="02:21.370" end="02:23.720" ttm:agent="v1">All I know is you can't chain me</p>
+
+      <p begin="02:23.720" end="02:26.600" ttm:agent="v1">'Cause I'm gonna break out, gonna, gonna break out, out</p>
+
+      <p begin="02:26.600" end="02:28.240" ttm:agent="v1">We can break it, baby</p>
+
+      <p begin="02:28.240" end="02:30.540" ttm:agent="v1">Rock it, twist it, lock it, baby</p>
+
+      <p begin="02:30.540" end="02:32.820" ttm:agent="v1">All I know is you can't chain me</p>
+
+      <p begin="02:32.820" end="02:34.320" ttm:agent="v1">'Cause I'm gonna (whoa-oh, oh-oh-oh, oh-oh!)</p>
+
+      <p begin="02:33.780" end="02:36.210" ttm:agent="v1">Break out, gonna, gonna, break out, out</p>
+
+      <p begin="02:36.210" end="02:40.950" ttm:agent="v1">Deo nopi gajulge, naega baratdeon segye jel wie (ah-ah)</p>
+
+      <p begin="02:40.950" end="02:45.370" ttm:agent="v1">Tteoreojyeodo dwae, I'm anti(fragile), anti(fragile) ah-ah</p>
+
+      <p begin="02:45.370" end="02:50.210" ttm:agent="v1">Nan jigeum on my way, gattabeoryeo jwo neoye fairy tale (ah-ah)</p>
+
+      <p begin="02:50.210" end="02:51.710" ttm:agent="v1">Now you know my name</p>
+
+      <p begin="02:51.710" end="02:53.990" ttm:agent="v1">I'm anti(fragile), anti(fragile)</p>
+
+      <p begin="02:53.990" end="02:56.250" ttm:agent="v1">Anti-ti-ti-ti-fragile, fragile</p>
+
+      <p begin="02:56.250" end="02:58.550" ttm:agent="v1">Anti-ti-ti-ti-fragile</p>
+
+      <p begin="02:58.550" end="03:00.790" ttm:agent="v1">Anti-ti-ti-ti-fragile, fragile</p>
+
+      <p begin="03:00.790" end="03:03.180" ttm:agent="v1">Anti(fragile), anti(fragile)</p>
+
+      <p begin="03:03.180" end="03:07.180" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

@@ -1,59 +1,118 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>never meet your idols</ttm:title>
-      <ttm:agent type="person" xml:id="v1">jaydes</ttm:agent>
-      <ttm:item type="album">heartpacing</ttm:item>
-      <ttm:item type="spotify_id">1c0tOVzdNI4GWAphxton27</ttm:item>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.000" end="00:02.609" ttm:agent="v1">[Intro]</p>
-      <p begin="00:02.609" end="00:04.109" ttm:agent="v1" itunes:key="role" itunes:value="background">(Kkei)</p>
-      <p begin="00:03.361" end="00:05.365" ttm:agent="v1">Huh, yeah, yeah</p>
-      <p begin="00:05.365" end="00:07.122" ttm:agent="v1">Yeah, yeah, ooh-ooh</p>
-      <p begin="00:07.122" end="00:10.881" ttm:agent="v1" itunes:key="role" itunes:value="background">(You have no heart)</p>
-      <p begin="00:10.881" end="00:12.932" ttm:agent="v1">Okay, pssh</p>
-      <p begin="00:12.932" end="00:14.432" ttm:agent="v1">[Chorus]</p>
-      <p begin="00:13.183" end="00:17.268" ttm:agent="v1" itunes:key="role" itunes:value="background">Lookin' up to me could cause an issue (Cause an issue)</p>
-      <p begin="00:17.268" end="00:20.775" ttm:agent="v1" itunes:key="role" itunes:value="background">I got cash and hella gas, like what's the issue? Ayy (What's the issue?)</p>
-      <p begin="00:20.775" end="00:24.035" ttm:agent="v1">Way too many hoes, I don't know if I miss you, ayy</p>
-      <p begin="00:24.035" end="00:27.545" ttm:agent="v1">Can't let pretty ho get makeup on my fit, ooh, ayy</p>
-      <p begin="00:27.545" end="00:30.356" ttm:agent="v1" itunes:key="role" itunes:value="background">And I put my ho in Raf Simons jeans (Raf Simons jeans)</p>
-      <p begin="00:30.356" end="00:34.116" ttm:agent="v1" itunes:key="role" itunes:value="background">I just took his ho 'cause he was bag fumbling (Bag fumbling)</p>
-      <p begin="00:34.116" end="00:36.876" ttm:agent="v1" itunes:key="role" itunes:value="background">I've been on my ass for some green (Ass for some green)</p>
-      <p begin="00:36.876" end="00:39.137" ttm:agent="v1">All these niggas rats for some cheese</p>
-      <p begin="00:39.137" end="00:40.893" ttm:agent="v1">On my knees, I pray to God</p>
-      <p begin="00:40.893" end="00:42.393" ttm:agent="v1">[Verse]</p>
-      <p begin="00:41.422" end="00:44.238" ttm:agent="v1">You think you can trust me? I can only trust myself</p>
-      <p begin="00:44.238" end="00:47.497" ttm:agent="v1">I remember you was mad at me when I needed your hеlp</p>
-      <p begin="00:47.497" end="00:51.077" ttm:agent="v1">Someone said your name, I said, &quot;It doеsn't ring a bell&quot;</p>
-      <p begin="00:51.077" end="00:54.840" ttm:agent="v1">I got rich off toxic bitches in the bank, like, hell yeah</p>
-      <p begin="00:54.840" end="00:58.103" ttm:agent="v1">OG kush and track runners, she think she a pack runner</p>
-      <p begin="00:58.103" end="01:01.616" ttm:agent="v1">Either real or you fake, no in-between, that's blasphemous</p>
-      <p begin="01:01.616" end="01:04.876" ttm:agent="v1">Finally went up and now I know that there's a catch to it</p>
-      <p begin="01:04.876" end="01:08.140" ttm:agent="v1">I just copped a brick and flipped that shit, I got my cash stupid</p>
-      <p begin="01:08.140" end="01:09.640" ttm:agent="v1">[Chorus]</p>
-      <p begin="01:08.385" end="01:11.250" ttm:agent="v1" itunes:key="role" itunes:value="background">Lookin' up to me could cause an issue (Cause an issue)</p>
-      <p begin="01:11.250" end="01:14.308" ttm:agent="v1" itunes:key="role" itunes:value="background">I got cash and hella gas, like what's the issue? Ayy (What's the issue?)</p>
-      <p begin="01:14.308" end="01:17.569" ttm:agent="v1">Way too many hoes, I don't know if I miss you, ayy</p>
-      <p begin="01:17.569" end="01:21.893" ttm:agent="v1">Can't let pretty ho get makeup on my fit, ooh, ayy</p>
-      <p begin="01:21.893" end="01:24.399" ttm:agent="v1" itunes:key="role" itunes:value="background">And I put my ho in Raf Simons jeans (Raf Simons jeans)</p>
-      <p begin="01:24.399" end="01:27.408" ttm:agent="v1" itunes:key="role" itunes:value="background">I just took his ho 'cause he was bag fumbling (Bag fumbling)</p>
-      <p begin="01:27.408" end="01:28.908" ttm:agent="v1">Bag fum—</p>
-      <p begin="01:28.455" end="01:31.139" ttm:agent="v1" itunes:key="role" itunes:value="background">I've been on my ass for some green (Ass for some green)</p>
-      <p begin="01:31.139" end="01:32.970" ttm:agent="v1">All these—</p>
-      <p begin="01:32.970" end="01:34.470" ttm:agent="v1">All these rats for some cheese</p>
-      <p begin="01:33.493" end="01:37.493" ttm:agent="v1">On my knees, I pray to God</p>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>never meet your idols</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">jaydes</ttm:agent>
+
+      <ttm:item type="album">heartpacing</ttm:item>
+
+      <ttm:item type="spotify_id">1c0tOVzdNI4GWAphxton27</ttm:item>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.000" end="00:02.609" ttm:agent="v1">[Intro]</p>
+
+      <p begin="00:02.609" end="00:04.109" ttm:agent="v1" itunes:key="role" itunes:value="background">(Kkei)</p>
+
+      <p begin="00:03.361" end="00:05.365" ttm:agent="v1">Huh, yeah, yeah</p>
+
+      <p begin="00:05.365" end="00:07.122" ttm:agent="v1">Yeah, yeah, ooh-ooh</p>
+
+      <p begin="00:07.122" end="00:10.881" ttm:agent="v1" itunes:key="role" itunes:value="background">(You have no heart)</p>
+
+      <p begin="00:10.881" end="00:12.932" ttm:agent="v1">Okay, pssh</p>
+
+      <p begin="00:12.932" end="00:14.432" ttm:agent="v1">[Chorus]</p>
+
+      <p begin="00:13.183" end="00:17.268" ttm:agent="v1">Lookin' up to me could cause an issue (Cause an issue)</p>
+
+      <p begin="00:17.268" end="00:20.775" ttm:agent="v1">I got cash and hella gas, like what's the issue? Ayy (What's the issue?)</p>
+
+      <p begin="00:20.775" end="00:24.035" ttm:agent="v1">Way too many hoes, I don't know if I miss you, ayy</p>
+
+      <p begin="00:24.035" end="00:27.545" ttm:agent="v1">Can't let pretty ho get makeup on my fit, ooh, ayy</p>
+
+      <p begin="00:27.545" end="00:30.356" ttm:agent="v1">And I put my ho in Raf Simons jeans (Raf Simons jeans)</p>
+
+      <p begin="00:30.356" end="00:34.116" ttm:agent="v1">I just took his ho 'cause he was bag fumbling (Bag fumbling)</p>
+
+      <p begin="00:34.116" end="00:36.876" ttm:agent="v1">I've been on my ass for some green (Ass for some green)</p>
+
+      <p begin="00:36.876" end="00:39.137" ttm:agent="v1">All these niggas rats for some cheese</p>
+
+      <p begin="00:39.137" end="00:40.893" ttm:agent="v1">On my knees, I pray to God</p>
+
+      <p begin="00:40.893" end="00:42.393" ttm:agent="v1">[Verse]</p>
+
+      <p begin="00:41.422" end="00:44.238" ttm:agent="v1">You think you can trust me? I can only trust myself</p>
+
+      <p begin="00:44.238" end="00:47.497" ttm:agent="v1">I remember you was mad at me when I needed your hеlp</p>
+
+      <p begin="00:47.497" end="00:51.077" ttm:agent="v1">Someone said your name, I said, &quot;It doеsn't ring a bell&quot;</p>
+
+      <p begin="00:51.077" end="00:54.840" ttm:agent="v1">I got rich off toxic bitches in the bank, like, hell yeah</p>
+
+      <p begin="00:54.840" end="00:58.103" ttm:agent="v1">OG kush and track runners, she think she a pack runner</p>
+
+      <p begin="00:58.103" end="01:01.616" ttm:agent="v1">Either real or you fake, no in-between, that's blasphemous</p>
+
+      <p begin="01:01.616" end="01:04.876" ttm:agent="v1">Finally went up and now I know that there's a catch to it</p>
+
+      <p begin="01:04.876" end="01:08.140" ttm:agent="v1">I just copped a brick and flipped that shit, I got my cash stupid</p>
+
+      <p begin="01:08.140" end="01:09.640" ttm:agent="v1">[Chorus]</p>
+
+      <p begin="01:08.385" end="01:11.250" ttm:agent="v1">Lookin' up to me could cause an issue (Cause an issue)</p>
+
+      <p begin="01:11.250" end="01:14.308" ttm:agent="v1">I got cash and hella gas, like what's the issue? Ayy (What's the issue?)</p>
+
+      <p begin="01:14.308" end="01:17.569" ttm:agent="v1">Way too many hoes, I don't know if I miss you, ayy</p>
+
+      <p begin="01:17.569" end="01:21.893" ttm:agent="v1">Can't let pretty ho get makeup on my fit, ooh, ayy</p>
+
+      <p begin="01:21.893" end="01:24.399" ttm:agent="v1">And I put my ho in Raf Simons jeans (Raf Simons jeans)</p>
+
+      <p begin="01:24.399" end="01:27.408" ttm:agent="v1">I just took his ho 'cause he was bag fumbling (Bag fumbling)</p>
+
+      <p begin="01:27.408" end="01:28.908" ttm:agent="v1">Bag fum—</p>
+
+      <p begin="01:28.455" end="01:31.139" ttm:agent="v1">I've been on my ass for some green (Ass for some green)</p>
+
+      <p begin="01:31.139" end="01:32.970" ttm:agent="v1">All these—</p>
+
+      <p begin="01:32.970" end="01:34.470" ttm:agent="v1">All these rats for some cheese</p>
+
+      <p begin="01:33.493" end="01:37.493" ttm:agent="v1">On my knees, I pray to God</p>
+
+    </div>
+
+  </body>
+
+</tt>
+

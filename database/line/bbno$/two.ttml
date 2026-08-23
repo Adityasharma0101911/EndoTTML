@@ -1,83 +1,166 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>two</ttm:title>
-      <ttm:agent type="person" xml:id="v1">bbno$</ttm:agent>
-      <ttm:item type="album">two</ttm:item>
-      <ttm:item type="spotify_id">6DRZmJa38MaMNthwG3fCBD</ttm:item>
-      <itunes:duration>02:15.212</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.160" end="00:03.970" ttm:agent="v1">Two, four, six, eight, who do we appreciate?</p>
-      <p begin="00:03.970" end="00:07.950" ttm:agent="v1">That's bbno$, he's always up to somethin'</p>
-      <p begin="00:07.950" end="00:09.660" ttm:agent="v1">Bbno$, got money, I'm a paradox</p>
-      <p begin="00:09.660" end="00:11.500" ttm:agent="v1">Three scoop creatine, steam room, Equinox</p>
-      <p begin="00:11.500" end="00:13.370" ttm:agent="v1">Three bad thots givin' me triceratops</p>
-      <p begin="00:13.370" end="00:15.130" ttm:agent="v1">Three short kings in the squad like Aragorn</p>
-      <p begin="00:15.130" end="00:16.810" ttm:agent="v1">I'ma take your chick like a thief in the night</p>
-      <p begin="00:16.810" end="00:18.770" ttm:agent="v1">You off, I'm on, this the circle of life</p>
-      <p begin="00:18.770" end="00:20.750" ttm:agent="v1">I'm on top of my shit, yeah, I'm crossin' the line</p>
-      <p begin="00:20.750" end="00:22.620" ttm:agent="v1">Yeah, I'm B-B-N-O-one of a kind</p>
-      <p begin="00:22.620" end="00:24.700" ttm:agent="v1">Missed a zero, bro made a typo</p>
-      <p begin="00:24.700" end="00:26.550" ttm:agent="v1">My girl got a girl, she a nympho</p>
-      <p begin="00:26.550" end="00:28.510" ttm:agent="v1">Ate too good, I think I need lypo'</p>
-      <p begin="00:28.510" end="00:30.770" ttm:agent="v1" itunes:key="role" itunes:value="background">Pop, one, two, three, four, I'm a psycho (that's two)</p>
-      <p begin="00:30.770" end="00:32.510" ttm:agent="v1" itunes:key="role" itunes:value="background">Commas in a million bucks (that's two)</p>
-      <p begin="00:32.510" end="00:34.360" ttm:agent="v1" itunes:key="role" itunes:value="background">More that I'm givin' in fucks (that's two)</p>
-      <p begin="00:34.360" end="00:36.180" ttm:agent="v1" itunes:key="role" itunes:value="background">Shawties with 'em big ol' butts (that's two)</p>
-      <p begin="00:36.180" end="00:37.790" ttm:agent="v1">Forgiato sets on a truck</p>
-      <p begin="00:37.790" end="00:39.670" ttm:agent="v1">One to the kidney, two to the dome</p>
-      <p begin="00:39.670" end="00:41.300" ttm:agent="v1">That's left, right, left, right, left, right, go</p>
-      <p begin="00:41.300" end="00:43.330" ttm:agent="v1">Got a Rollie for the brunch and a Patek for the show</p>
-      <p begin="00:43.330" end="00:45.110" ttm:agent="v1">That's left, right, left, right, left, right, go</p>
-      <p begin="00:45.110" end="00:47.110" ttm:agent="v1">Got a big new body and I whip it like a pro</p>
-      <p begin="00:47.110" end="00:48.880" ttm:agent="v1">That's left, right, left, right, left, right, go</p>
-      <p begin="00:48.880" end="00:50.800" ttm:agent="v1">Got a great main chick and a real bad ho</p>
-      <p begin="00:50.800" end="00:52.650" ttm:agent="v1">That's left, right, left, right, left, right, go</p>
-      <p begin="00:52.650" end="00:56.450" ttm:agent="v1">Two, four, six, eight, who do we appreciate?</p>
-      <p begin="00:56.450" end="01:00.250" ttm:agent="v1">That's bbno$, he's always up to somethin'</p>
-      <p begin="01:00.250" end="01:03.950" ttm:agent="v1">Two, four, six, eight, who's that guy who really ate?</p>
-      <p begin="01:03.950" end="01:07.980" ttm:agent="v1">That's bbno$, he never leave 'em hungry</p>
-      <p begin="01:07.980" end="01:09.480" ttm:agent="v1">Ou-ou-outs, ou-ou-outs, ou-ou-outs, ou-ou-outs</p>
-      <p begin="01:09.420" end="01:11.320" ttm:agent="v1">Outside stuntin' when the shine is sunnin'</p>
-      <p begin="01:11.320" end="01:13.240" ttm:agent="v1">With a sweet new honey, like, &quot;Ooh-la-la&quot;</p>
-      <p begin="01:13.240" end="01:15.090" ttm:agent="v1">Don't walk, I'm struttin', doin' pingaz at Bunnings</p>
-      <p begin="01:15.090" end="01:17.130" ttm:agent="v1">Your man ain't sellin' 'cause I'm really that guy</p>
-      <p begin="01:17.130" end="01:19.010" ttm:agent="v1">Only on fats, love cheese when keto</p>
-      <p begin="01:19.010" end="01:20.820" ttm:agent="v1">Pet my fur like a pussycat peacoat</p>
-      <p begin="01:20.820" end="01:22.830" ttm:agent="v1">Funko Pop, that pussy like calico</p>
-      <p begin="01:22.830" end="01:24.680" ttm:agent="v1">Dust on the table, ain't talkin' no Cheeto</p>
-      <p begin="01:24.680" end="01:27.070" ttm:agent="v1">B-b-bands on bands on bands on bands</p>
-      <p begin="01:27.070" end="01:28.950" ttm:agent="v1">Yeah, I pay millions on my tax</p>
-      <p begin="01:28.950" end="01:30.890" ttm:agent="v1">Bands on bands on bands on bands</p>
-      <p begin="01:30.890" end="01:32.630" ttm:agent="v1">Bet on me, that's a one-step plan</p>
-      <p begin="01:32.630" end="01:34.570" ttm:agent="v1">Doin' that, doin' that, doin' that dance</p>
-      <p begin="01:34.570" end="01:36.360" ttm:agent="v1">Shakin' that jelly, yeah, shakin' that jam</p>
-      <p begin="01:36.360" end="01:38.250" ttm:agent="v1">Takin' ad-, takin' ad-, takin' advance</p>
-      <p begin="01:38.250" end="01:41.230" ttm:agent="v1">So much cash, it'll put you in a trance</p>
-      <p begin="01:41.230" end="01:45.250" ttm:agent="v1">Two, four, six, eight, who do we appreciate?</p>
-      <p begin="01:45.250" end="01:49.040" ttm:agent="v1">That's bbno$, he's always up to somethin'</p>
-      <p begin="01:49.040" end="01:52.700" ttm:agent="v1">Two, four, six, eight, who's that guy who really ate?</p>
-      <p begin="01:52.700" end="01:56.360" ttm:agent="v1">That's bbno$, he never leave 'em hungry</p>
-      <p begin="01:56.360" end="01:58.570" ttm:agent="v1">Two, four, six, eight</p>
-      <p begin="01:58.570" end="02:00.110" ttm:agent="v1">That's left, right, left, right, left, right, go</p>
-      <p begin="02:00.110" end="02:01.980" ttm:agent="v1">Two, four, six, eight</p>
-      <p begin="02:01.980" end="02:03.850" ttm:agent="v1">That's left, right, left, right, left, right, go</p>
-      <p begin="02:03.850" end="02:05.610" ttm:agent="v1">Two, four, six, eight</p>
-      <p begin="02:05.610" end="02:07.430" ttm:agent="v1">That's left, right, left, right, left, right, go</p>
-      <p begin="02:07.430" end="02:09.410" ttm:agent="v1">Two, four, six, eight</p>
-      <p begin="02:09.410" end="02:11.010" ttm:agent="v1">That's left, right, left, right, left, right, go</p>
-      <p begin="02:11.010" end="02:15.010" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>two</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">bbno$</ttm:agent>
+
+      <ttm:item type="album">two</ttm:item>
+
+      <ttm:item type="spotify_id">6DRZmJa38MaMNthwG3fCBD</ttm:item>
+
+      <itunes:duration>02:15.212</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.160" end="00:03.970" ttm:agent="v1">Two, four, six, eight, who do we appreciate?</p>
+
+      <p begin="00:03.970" end="00:07.950" ttm:agent="v1">That's bbno$, he's always up to somethin'</p>
+
+      <p begin="00:07.950" end="00:09.660" ttm:agent="v1">Bbno$, got money, I'm a paradox</p>
+
+      <p begin="00:09.660" end="00:11.500" ttm:agent="v1">Three scoop creatine, steam room, Equinox</p>
+
+      <p begin="00:11.500" end="00:13.370" ttm:agent="v1">Three bad thots givin' me triceratops</p>
+
+      <p begin="00:13.370" end="00:15.130" ttm:agent="v1">Three short kings in the squad like Aragorn</p>
+
+      <p begin="00:15.130" end="00:16.810" ttm:agent="v1">I'ma take your chick like a thief in the night</p>
+
+      <p begin="00:16.810" end="00:18.770" ttm:agent="v1">You off, I'm on, this the circle of life</p>
+
+      <p begin="00:18.770" end="00:20.750" ttm:agent="v1">I'm on top of my shit, yeah, I'm crossin' the line</p>
+
+      <p begin="00:20.750" end="00:22.620" ttm:agent="v1">Yeah, I'm B-B-N-O-one of a kind</p>
+
+      <p begin="00:22.620" end="00:24.700" ttm:agent="v1">Missed a zero, bro made a typo</p>
+
+      <p begin="00:24.700" end="00:26.550" ttm:agent="v1">My girl got a girl, she a nympho</p>
+
+      <p begin="00:26.550" end="00:28.510" ttm:agent="v1">Ate too good, I think I need lypo'</p>
+
+      <p begin="00:28.510" end="00:30.770" ttm:agent="v1">Pop, one, two, three, four, I'm a psycho (that's two)</p>
+
+      <p begin="00:30.770" end="00:32.510" ttm:agent="v1">Commas in a million bucks (that's two)</p>
+
+      <p begin="00:32.510" end="00:34.360" ttm:agent="v1">More that I'm givin' in fucks (that's two)</p>
+
+      <p begin="00:34.360" end="00:36.180" ttm:agent="v1">Shawties with 'em big ol' butts (that's two)</p>
+
+      <p begin="00:36.180" end="00:37.790" ttm:agent="v1">Forgiato sets on a truck</p>
+
+      <p begin="00:37.790" end="00:39.670" ttm:agent="v1">One to the kidney, two to the dome</p>
+
+      <p begin="00:39.670" end="00:41.300" ttm:agent="v1">That's left, right, left, right, left, right, go</p>
+
+      <p begin="00:41.300" end="00:43.330" ttm:agent="v1">Got a Rollie for the brunch and a Patek for the show</p>
+
+      <p begin="00:43.330" end="00:45.110" ttm:agent="v1">That's left, right, left, right, left, right, go</p>
+
+      <p begin="00:45.110" end="00:47.110" ttm:agent="v1">Got a big new body and I whip it like a pro</p>
+
+      <p begin="00:47.110" end="00:48.880" ttm:agent="v1">That's left, right, left, right, left, right, go</p>
+
+      <p begin="00:48.880" end="00:50.800" ttm:agent="v1">Got a great main chick and a real bad ho</p>
+
+      <p begin="00:50.800" end="00:52.650" ttm:agent="v1">That's left, right, left, right, left, right, go</p>
+
+      <p begin="00:52.650" end="00:56.450" ttm:agent="v1">Two, four, six, eight, who do we appreciate?</p>
+
+      <p begin="00:56.450" end="01:00.250" ttm:agent="v1">That's bbno$, he's always up to somethin'</p>
+
+      <p begin="01:00.250" end="01:03.950" ttm:agent="v1">Two, four, six, eight, who's that guy who really ate?</p>
+
+      <p begin="01:03.950" end="01:07.980" ttm:agent="v1">That's bbno$, he never leave 'em hungry</p>
+
+      <p begin="01:07.980" end="01:09.480" ttm:agent="v1">Ou-ou-outs, ou-ou-outs, ou-ou-outs, ou-ou-outs</p>
+
+      <p begin="01:09.420" end="01:11.320" ttm:agent="v1">Outside stuntin' when the shine is sunnin'</p>
+
+      <p begin="01:11.320" end="01:13.240" ttm:agent="v1">With a sweet new honey, like, &quot;Ooh-la-la&quot;</p>
+
+      <p begin="01:13.240" end="01:15.090" ttm:agent="v1">Don't walk, I'm struttin', doin' pingaz at Bunnings</p>
+
+      <p begin="01:15.090" end="01:17.130" ttm:agent="v1">Your man ain't sellin' 'cause I'm really that guy</p>
+
+      <p begin="01:17.130" end="01:19.010" ttm:agent="v1">Only on fats, love cheese when keto</p>
+
+      <p begin="01:19.010" end="01:20.820" ttm:agent="v1">Pet my fur like a pussycat peacoat</p>
+
+      <p begin="01:20.820" end="01:22.830" ttm:agent="v1">Funko Pop, that pussy like calico</p>
+
+      <p begin="01:22.830" end="01:24.680" ttm:agent="v1">Dust on the table, ain't talkin' no Cheeto</p>
+
+      <p begin="01:24.680" end="01:27.070" ttm:agent="v1">B-b-bands on bands on bands on bands</p>
+
+      <p begin="01:27.070" end="01:28.950" ttm:agent="v1">Yeah, I pay millions on my tax</p>
+
+      <p begin="01:28.950" end="01:30.890" ttm:agent="v1">Bands on bands on bands on bands</p>
+
+      <p begin="01:30.890" end="01:32.630" ttm:agent="v1">Bet on me, that's a one-step plan</p>
+
+      <p begin="01:32.630" end="01:34.570" ttm:agent="v1">Doin' that, doin' that, doin' that dance</p>
+
+      <p begin="01:34.570" end="01:36.360" ttm:agent="v1">Shakin' that jelly, yeah, shakin' that jam</p>
+
+      <p begin="01:36.360" end="01:38.250" ttm:agent="v1">Takin' ad-, takin' ad-, takin' advance</p>
+
+      <p begin="01:38.250" end="01:41.230" ttm:agent="v1">So much cash, it'll put you in a trance</p>
+
+      <p begin="01:41.230" end="01:45.250" ttm:agent="v1">Two, four, six, eight, who do we appreciate?</p>
+
+      <p begin="01:45.250" end="01:49.040" ttm:agent="v1">That's bbno$, he's always up to somethin'</p>
+
+      <p begin="01:49.040" end="01:52.700" ttm:agent="v1">Two, four, six, eight, who's that guy who really ate?</p>
+
+      <p begin="01:52.700" end="01:56.360" ttm:agent="v1">That's bbno$, he never leave 'em hungry</p>
+
+      <p begin="01:56.360" end="01:58.570" ttm:agent="v1">Two, four, six, eight</p>
+
+      <p begin="01:58.570" end="02:00.110" ttm:agent="v1">That's left, right, left, right, left, right, go</p>
+
+      <p begin="02:00.110" end="02:01.980" ttm:agent="v1">Two, four, six, eight</p>
+
+      <p begin="02:01.980" end="02:03.850" ttm:agent="v1">That's left, right, left, right, left, right, go</p>
+
+      <p begin="02:03.850" end="02:05.610" ttm:agent="v1">Two, four, six, eight</p>
+
+      <p begin="02:05.610" end="02:07.430" ttm:agent="v1">That's left, right, left, right, left, right, go</p>
+
+      <p begin="02:07.430" end="02:09.410" ttm:agent="v1">Two, four, six, eight</p>
+
+      <p begin="02:09.410" end="02:11.010" ttm:agent="v1">That's left, right, left, right, left, right, go</p>
+
+      <p begin="02:11.010" end="02:15.010" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

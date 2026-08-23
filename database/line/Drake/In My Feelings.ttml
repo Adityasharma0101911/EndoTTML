@@ -1,108 +1,216 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>In My Feelings</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Drake</ttm:agent>
-      <ttm:item type="album">Scorpion</ttm:item>
-      <ttm:item type="spotify_id">2G7V7zsVDxg1yRsu7Ew9RJ</ttm:item>
-      <itunes:duration>03:38.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:02.290" end="00:04.440" ttm:agent="v1">Trap, TrapMoneyBenny</p>
-      <p begin="00:04.440" end="00:07.150" ttm:agent="v1">This shit got me in my feelings</p>
-      <p begin="00:07.150" end="00:10.390" ttm:agent="v1">Gotta be real with it, yup</p>
-      <p begin="00:10.390" end="00:15.400" ttm:agent="v1">Kiki, do you love me? Are you riding?</p>
-      <p begin="00:15.400" end="00:18.050" ttm:agent="v1">Say you'll never ever leave from beside me</p>
-      <p begin="00:18.050" end="00:20.940" ttm:agent="v1">'Cause I want ya, and I need ya</p>
-      <p begin="00:20.940" end="00:23.110" ttm:agent="v1">And I'm down for you always</p>
-      <p begin="00:23.110" end="00:26.030" ttm:agent="v1">KB, do you love me? Are you riding?</p>
-      <p begin="00:26.030" end="00:28.760" ttm:agent="v1">Say you'll never ever leave from beside me</p>
-      <p begin="00:28.760" end="00:31.150" ttm:agent="v1">'Cause I want ya, and I need ya</p>
-      <p begin="00:31.150" end="00:33.560" ttm:agent="v1">And I'm down for you always</p>
-      <p begin="00:33.560" end="00:36.200" ttm:agent="v1">Look, the new me is really still the real me</p>
-      <p begin="00:36.200" end="00:39.170" ttm:agent="v1">I swear you gotta feel me before they try and kill me</p>
-      <p begin="00:39.170" end="00:41.600" ttm:agent="v1">They gotta make some choices, they runnin' out of options</p>
-      <p begin="00:41.600" end="00:44.590" ttm:agent="v1">'Cause I've been going off and they don't know when it's stopping</p>
-      <p begin="00:44.590" end="00:46.160" ttm:agent="v1">And when you get to topping</p>
-      <p begin="00:46.160" end="00:47.790" ttm:agent="v1">I see that you've been learning</p>
-      <p begin="00:47.790" end="00:49.290" ttm:agent="v1">And when I take you shopping</p>
-      <p begin="00:48.870" end="00:50.370" ttm:agent="v1">You spend it like you earned it</p>
-      <p begin="00:49.930" end="00:52.320" ttm:agent="v1">And when you popped off on your ex, he deserved it</p>
-      <p begin="00:52.320" end="00:55.080" ttm:agent="v1">I thought you were the one from the jump that confirmed it</p>
-      <p begin="00:55.080" end="00:56.970" ttm:agent="v1">TrapMoneyBenny</p>
-      <p begin="00:56.970" end="00:59.550" ttm:agent="v1">I buy you Champagne but you love some Henny</p>
-      <p begin="00:59.550" end="01:02.260" ttm:agent="v1">From the block, like you Jenny</p>
-      <p begin="01:02.260" end="01:04.920" ttm:agent="v1">I know you special, girl, 'cause I know too many</p>
-      <p begin="01:04.920" end="01:08.170" ttm:agent="v1">'Resha, do you love me? Are you riding?</p>
-      <p begin="01:08.170" end="01:11.190" ttm:agent="v1">Say you'll never ever leave from beside me</p>
-      <p begin="01:11.190" end="01:13.770" ttm:agent="v1">'Cause I want ya, and I need ya</p>
-      <p begin="01:13.770" end="01:15.660" ttm:agent="v1">And I'm down for you always</p>
-      <p begin="01:15.660" end="01:18.830" ttm:agent="v1">J.T., do you love me? Are you riding?</p>
-      <p begin="01:18.830" end="01:21.240" ttm:agent="v1">Say you'll never ever leave from beside me</p>
-      <p begin="01:21.240" end="01:24.400" ttm:agent="v1">'Cause I want ya, and I need ya</p>
-      <p begin="01:24.400" end="01:26.180" ttm:agent="v1">And I'm down for you always</p>
-      <p begin="01:26.180" end="01:28.550" ttm:agent="v1">Two bad bitches and we kissin' in the Wraith</p>
-      <p begin="01:28.550" end="01:31.300" ttm:agent="v1">Kissin'-kissin' in the Wraith, kiss-kissin' in the Wraith</p>
-      <p begin="01:31.300" end="01:33.830" ttm:agent="v1">I need that black card and the code to the safe</p>
-      <p begin="01:33.830" end="01:36.590" ttm:agent="v1">Code to the safe, code-code to the safe-safe</p>
-      <p begin="01:36.590" end="01:38.620" ttm:agent="v1">I show him how that neck work</p>
-      <p begin="01:38.620" end="01:40.170" ttm:agent="v1">Fuck that Netflix and chill</p>
-      <p begin="01:40.170" end="01:41.670" ttm:agent="v1">What's your net-net-net worth?</p>
-      <p begin="01:41.460" end="01:44.960" ttm:agent="v1">'Cause I want ya, and I need ya</p>
-      <p begin="01:44.960" end="01:46.820" ttm:agent="v1">And I'm down for you always</p>
-      <p begin="01:46.820" end="01:48.750" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yea, yea, yea, yea, he bad)</p>
-      <p begin="01:48.750" end="01:50.250" ttm:agent="v1">And I'm down for you always</p>
-      <p begin="01:49.730" end="01:51.230" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yea, yea, yea, guess who's back)</p>
-      <p begin="01:51.120" end="01:52.620" ttm:agent="v1">And I'm down for you always</p>
-      <p begin="01:52.440" end="01:53.940" ttm:agent="v1">D-down for you al-</p>
-      <p begin="01:53.710" end="01:55.210" ttm:agent="v1" itunes:key="role" itunes:value="background">(Black biggy biggy black biggy black blake)</p>
-      <p begin="01:54.200" end="01:55.700" ttm:agent="v1">D-d-down for you always</p>
-      <p begin="01:54.820" end="01:57.420" ttm:agent="v1" itunes:key="role" itunes:value="background">(I got a new boy, and that nigga trade!)</p>
-      <p begin="01:57.420" end="02:00.940" ttm:agent="v1">Kiki, do you love me? Are you riding?</p>
-      <p begin="02:00.940" end="02:03.700" ttm:agent="v1">Say you'll never ever leave from beside me</p>
-      <p begin="02:03.700" end="02:06.290" ttm:agent="v1">'Cause I want you, and I need ya</p>
-      <p begin="02:06.290" end="02:08.170" ttm:agent="v1">And I'm down for you always</p>
-      <p begin="02:08.170" end="02:11.450" ttm:agent="v1">KB, do you love me? Are you riding?</p>
-      <p begin="02:11.450" end="02:14.010" ttm:agent="v1">Say you'll never ever leave from beside me</p>
-      <p begin="02:14.010" end="02:16.140" ttm:agent="v1">'Cause I want ya, and I</p>
-      <p begin="02:16.140" end="02:17.640" ttm:agent="v1">Skate and smoke and ride</p>
-      <p begin="02:17.550" end="02:20.260" ttm:agent="v1">Now let me see you</p>
-      <p begin="02:20.260" end="02:21.760" ttm:agent="v1">Bring that ass, bring that ass, bring that ass back</p>
-      <p begin="02:21.400" end="02:22.990" ttm:agent="v1">Bring that ass, bring that ass, bring that ass back</p>
-      <p begin="02:22.990" end="02:24.490" ttm:agent="v1">Now let me see you</p>
-      <p begin="02:24.210" end="02:26.190" ttm:agent="v1">Shawty say the nigga that she with can't hit</p>
-      <p begin="02:26.190" end="02:28.560" ttm:agent="v1">But shawty, I'ma hit it, hit it like I can't miss</p>
-      <p begin="02:28.560" end="02:30.750" ttm:agent="v1">Now let me see you</p>
-      <p begin="02:30.750" end="02:32.600" ttm:agent="v1">Walk that ass, you're the only one I love</p>
-      <p begin="02:32.600" end="02:34.100" ttm:agent="v1" itunes:key="role" itunes:value="background">(Walk that ass, walk-walk that ass)</p>
-      <p begin="02:33.690" end="02:35.190" ttm:agent="v1">Now let me see you</p>
-      <p begin="02:34.940" end="02:36.440" ttm:agent="v1" itunes:key="role" itunes:value="background">(Bring that ass back)</p>
-      <p begin="02:36.000" end="02:37.500" ttm:agent="v1">Now let me see you</p>
-      <p begin="02:36.870" end="02:38.790" ttm:agent="v1" itunes:key="role" itunes:value="background">(W-w-walk that ass, you're the only one I love)</p>
-      <p begin="02:38.790" end="02:40.290" ttm:agent="v1">Now let me see you, now let me see you</p>
-      <p begin="02:39.870" end="02:41.370" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let's go, let's go, let's go)</p>
-      <p begin="02:40.400" end="02:41.900" ttm:agent="v1">Now let me see you</p>
-      <p begin="02:40.940" end="02:42.440" ttm:agent="v1" itunes:key="role" itunes:value="background">(Bring that ass back)</p>
-      <p begin="02:41.900" end="02:43.820" ttm:agent="v1">Trap, TrapMoneyBenny</p>
-      <p begin="02:43.820" end="02:45.790" ttm:agent="v1">This shit got me in my feelings</p>
-      <p begin="02:45.790" end="02:49.410" ttm:agent="v1" itunes:key="role" itunes:value="background">Gotta be real with it, yup (Now let me see you)</p>
-      <p begin="02:49.410" end="02:52.320" ttm:agent="v1">BlaqNmilD, you a genius, you diggin' me?</p>
-      <p begin="02:52.320" end="02:55.600" ttm:agent="v1">What are y'all talking about?</p>
-      <p begin="02:55.600" end="03:00.130" ttm:agent="v1">You don't know that? I don't even care</p>
-      <p begin="03:00.130" end="03:05.950" ttm:agent="v1">I need a photo with Drake</p>
-      <p begin="03:05.950" end="03:10.200" ttm:agent="v1">Because my Instagram's weak as fuck</p>
-      <p begin="03:10.200" end="03:15.820" ttm:agent="v1">I'm just being real, my shit look</p>
-      <p begin="03:15.820" end="03:19.820" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>In My Feelings</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Drake</ttm:agent>
+
+      <ttm:item type="album">Scorpion</ttm:item>
+
+      <ttm:item type="spotify_id">2G7V7zsVDxg1yRsu7Ew9RJ</ttm:item>
+
+      <itunes:duration>03:38.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:02.290" end="00:04.440" ttm:agent="v1">Trap, TrapMoneyBenny</p>
+
+      <p begin="00:04.440" end="00:07.150" ttm:agent="v1">This shit got me in my feelings</p>
+
+      <p begin="00:07.150" end="00:10.390" ttm:agent="v1">Gotta be real with it, yup</p>
+
+      <p begin="00:10.390" end="00:15.400" ttm:agent="v1">Kiki, do you love me? Are you riding?</p>
+
+      <p begin="00:15.400" end="00:18.050" ttm:agent="v1">Say you'll never ever leave from beside me</p>
+
+      <p begin="00:18.050" end="00:20.940" ttm:agent="v1">'Cause I want ya, and I need ya</p>
+
+      <p begin="00:20.940" end="00:23.110" ttm:agent="v1">And I'm down for you always</p>
+
+      <p begin="00:23.110" end="00:26.030" ttm:agent="v1">KB, do you love me? Are you riding?</p>
+
+      <p begin="00:26.030" end="00:28.760" ttm:agent="v1">Say you'll never ever leave from beside me</p>
+
+      <p begin="00:28.760" end="00:31.150" ttm:agent="v1">'Cause I want ya, and I need ya</p>
+
+      <p begin="00:31.150" end="00:33.560" ttm:agent="v1">And I'm down for you always</p>
+
+      <p begin="00:33.560" end="00:36.200" ttm:agent="v1">Look, the new me is really still the real me</p>
+
+      <p begin="00:36.200" end="00:39.170" ttm:agent="v1">I swear you gotta feel me before they try and kill me</p>
+
+      <p begin="00:39.170" end="00:41.600" ttm:agent="v1">They gotta make some choices, they runnin' out of options</p>
+
+      <p begin="00:41.600" end="00:44.590" ttm:agent="v1">'Cause I've been going off and they don't know when it's stopping</p>
+
+      <p begin="00:44.590" end="00:46.160" ttm:agent="v1">And when you get to topping</p>
+
+      <p begin="00:46.160" end="00:47.790" ttm:agent="v1">I see that you've been learning</p>
+
+      <p begin="00:47.790" end="00:49.290" ttm:agent="v1">And when I take you shopping</p>
+
+      <p begin="00:48.870" end="00:50.370" ttm:agent="v1">You spend it like you earned it</p>
+
+      <p begin="00:49.930" end="00:52.320" ttm:agent="v1">And when you popped off on your ex, he deserved it</p>
+
+      <p begin="00:52.320" end="00:55.080" ttm:agent="v1">I thought you were the one from the jump that confirmed it</p>
+
+      <p begin="00:55.080" end="00:56.970" ttm:agent="v1">TrapMoneyBenny</p>
+
+      <p begin="00:56.970" end="00:59.550" ttm:agent="v1">I buy you Champagne but you love some Henny</p>
+
+      <p begin="00:59.550" end="01:02.260" ttm:agent="v1">From the block, like you Jenny</p>
+
+      <p begin="01:02.260" end="01:04.920" ttm:agent="v1">I know you special, girl, 'cause I know too many</p>
+
+      <p begin="01:04.920" end="01:08.170" ttm:agent="v1">'Resha, do you love me? Are you riding?</p>
+
+      <p begin="01:08.170" end="01:11.190" ttm:agent="v1">Say you'll never ever leave from beside me</p>
+
+      <p begin="01:11.190" end="01:13.770" ttm:agent="v1">'Cause I want ya, and I need ya</p>
+
+      <p begin="01:13.770" end="01:15.660" ttm:agent="v1">And I'm down for you always</p>
+
+      <p begin="01:15.660" end="01:18.830" ttm:agent="v1">J.T., do you love me? Are you riding?</p>
+
+      <p begin="01:18.830" end="01:21.240" ttm:agent="v1">Say you'll never ever leave from beside me</p>
+
+      <p begin="01:21.240" end="01:24.400" ttm:agent="v1">'Cause I want ya, and I need ya</p>
+
+      <p begin="01:24.400" end="01:26.180" ttm:agent="v1">And I'm down for you always</p>
+
+      <p begin="01:26.180" end="01:28.550" ttm:agent="v1">Two bad bitches and we kissin' in the Wraith</p>
+
+      <p begin="01:28.550" end="01:31.300" ttm:agent="v1">Kissin'-kissin' in the Wraith, kiss-kissin' in the Wraith</p>
+
+      <p begin="01:31.300" end="01:33.830" ttm:agent="v1">I need that black card and the code to the safe</p>
+
+      <p begin="01:33.830" end="01:36.590" ttm:agent="v1">Code to the safe, code-code to the safe-safe</p>
+
+      <p begin="01:36.590" end="01:38.620" ttm:agent="v1">I show him how that neck work</p>
+
+      <p begin="01:38.620" end="01:40.170" ttm:agent="v1">Fuck that Netflix and chill</p>
+
+      <p begin="01:40.170" end="01:41.670" ttm:agent="v1">What's your net-net-net worth?</p>
+
+      <p begin="01:41.460" end="01:44.960" ttm:agent="v1">'Cause I want ya, and I need ya</p>
+
+      <p begin="01:44.960" end="01:46.820" ttm:agent="v1">And I'm down for you always</p>
+
+      <p begin="01:46.820" end="01:48.750" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yea, yea, yea, yea, he bad)</p>
+
+      <p begin="01:48.750" end="01:50.250" ttm:agent="v1">And I'm down for you always</p>
+
+      <p begin="01:49.730" end="01:51.230" ttm:agent="v1" itunes:key="role" itunes:value="background">(Yea, yea, yea, guess who's back)</p>
+
+      <p begin="01:51.120" end="01:52.620" ttm:agent="v1">And I'm down for you always</p>
+
+      <p begin="01:52.440" end="01:53.940" ttm:agent="v1">D-down for you al-</p>
+
+      <p begin="01:53.710" end="01:55.210" ttm:agent="v1" itunes:key="role" itunes:value="background">(Black biggy biggy black biggy black blake)</p>
+
+      <p begin="01:54.200" end="01:55.700" ttm:agent="v1">D-d-down for you always</p>
+
+      <p begin="01:54.820" end="01:57.420" ttm:agent="v1" itunes:key="role" itunes:value="background">(I got a new boy, and that nigga trade!)</p>
+
+      <p begin="01:57.420" end="02:00.940" ttm:agent="v1">Kiki, do you love me? Are you riding?</p>
+
+      <p begin="02:00.940" end="02:03.700" ttm:agent="v1">Say you'll never ever leave from beside me</p>
+
+      <p begin="02:03.700" end="02:06.290" ttm:agent="v1">'Cause I want you, and I need ya</p>
+
+      <p begin="02:06.290" end="02:08.170" ttm:agent="v1">And I'm down for you always</p>
+
+      <p begin="02:08.170" end="02:11.450" ttm:agent="v1">KB, do you love me? Are you riding?</p>
+
+      <p begin="02:11.450" end="02:14.010" ttm:agent="v1">Say you'll never ever leave from beside me</p>
+
+      <p begin="02:14.010" end="02:16.140" ttm:agent="v1">'Cause I want ya, and I</p>
+
+      <p begin="02:16.140" end="02:17.640" ttm:agent="v1">Skate and smoke and ride</p>
+
+      <p begin="02:17.550" end="02:20.260" ttm:agent="v1">Now let me see you</p>
+
+      <p begin="02:20.260" end="02:21.760" ttm:agent="v1">Bring that ass, bring that ass, bring that ass back</p>
+
+      <p begin="02:21.400" end="02:22.990" ttm:agent="v1">Bring that ass, bring that ass, bring that ass back</p>
+
+      <p begin="02:22.990" end="02:24.490" ttm:agent="v1">Now let me see you</p>
+
+      <p begin="02:24.210" end="02:26.190" ttm:agent="v1">Shawty say the nigga that she with can't hit</p>
+
+      <p begin="02:26.190" end="02:28.560" ttm:agent="v1">But shawty, I'ma hit it, hit it like I can't miss</p>
+
+      <p begin="02:28.560" end="02:30.750" ttm:agent="v1">Now let me see you</p>
+
+      <p begin="02:30.750" end="02:32.600" ttm:agent="v1">Walk that ass, you're the only one I love</p>
+
+      <p begin="02:32.600" end="02:34.100" ttm:agent="v1" itunes:key="role" itunes:value="background">(Walk that ass, walk-walk that ass)</p>
+
+      <p begin="02:33.690" end="02:35.190" ttm:agent="v1">Now let me see you</p>
+
+      <p begin="02:34.940" end="02:36.440" ttm:agent="v1" itunes:key="role" itunes:value="background">(Bring that ass back)</p>
+
+      <p begin="02:36.000" end="02:37.500" ttm:agent="v1">Now let me see you</p>
+
+      <p begin="02:36.870" end="02:38.790" ttm:agent="v1" itunes:key="role" itunes:value="background">(W-w-walk that ass, you're the only one I love)</p>
+
+      <p begin="02:38.790" end="02:40.290" ttm:agent="v1">Now let me see you, now let me see you</p>
+
+      <p begin="02:39.870" end="02:41.370" ttm:agent="v1" itunes:key="role" itunes:value="background">(Let's go, let's go, let's go)</p>
+
+      <p begin="02:40.400" end="02:41.900" ttm:agent="v1">Now let me see you</p>
+
+      <p begin="02:40.940" end="02:42.440" ttm:agent="v1" itunes:key="role" itunes:value="background">(Bring that ass back)</p>
+
+      <p begin="02:41.900" end="02:43.820" ttm:agent="v1">Trap, TrapMoneyBenny</p>
+
+      <p begin="02:43.820" end="02:45.790" ttm:agent="v1">This shit got me in my feelings</p>
+
+      <p begin="02:45.790" end="02:49.410" ttm:agent="v1">Gotta be real with it, yup (Now let me see you)</p>
+
+      <p begin="02:49.410" end="02:52.320" ttm:agent="v1">BlaqNmilD, you a genius, you diggin' me?</p>
+
+      <p begin="02:52.320" end="02:55.600" ttm:agent="v1">What are y'all talking about?</p>
+
+      <p begin="02:55.600" end="03:00.130" ttm:agent="v1">You don't know that? I don't even care</p>
+
+      <p begin="03:00.130" end="03:05.950" ttm:agent="v1">I need a photo with Drake</p>
+
+      <p begin="03:05.950" end="03:10.200" ttm:agent="v1">Because my Instagram's weak as fuck</p>
+
+      <p begin="03:10.200" end="03:15.820" ttm:agent="v1">I'm just being real, my shit look</p>
+
+      <p begin="03:15.820" end="03:19.820" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

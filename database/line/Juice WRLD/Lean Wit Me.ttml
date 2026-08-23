@@ -1,79 +1,158 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>Lean Wit Me</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Juice WRLD</ttm:agent>
-      <ttm:item type="album">Goodbye &amp; Good Riddance</ttm:item>
-      <ttm:item type="spotify_id">3oDkdAySo1VQQG0ptV7uwa</ttm:item>
-      <itunes:duration>02:56.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:11.430" end="00:14.480" ttm:agent="v1">Drugs got me sweatin', but the room gettin' colder</p>
-      <p begin="00:14.480" end="00:17.550" ttm:agent="v1">Lookin' at the devil and the angel on my shoulder</p>
-      <p begin="00:17.550" end="00:20.320" ttm:agent="v1">Will I die tonight? I don't know, is it over?</p>
-      <p begin="00:20.320" end="00:23.210" ttm:agent="v1">Lookin' for my next high, I'm lookin' for closure</p>
-      <p begin="00:23.210" end="00:26.020" ttm:agent="v1">Lean with me, pop with me</p>
-      <p begin="00:26.020" end="00:29.090" ttm:agent="v1">Get high with me if you rock with me</p>
-      <p begin="00:29.090" end="00:31.980" ttm:agent="v1">Smoke with me, drink with me</p>
-      <p begin="00:31.980" end="00:34.850" ttm:agent="v1">Fucked up liver with some bad kidneys</p>
-      <p begin="00:34.850" end="00:37.840" ttm:agent="v1">Lean with me, pop with me</p>
-      <p begin="00:37.840" end="00:40.720" ttm:agent="v1">Get high with me if you rock with me</p>
-      <p begin="00:40.720" end="00:43.660" ttm:agent="v1">Smoke with me, drink with me</p>
-      <p begin="00:43.660" end="00:46.610" ttm:agent="v1">Fucked up liver with some bad kidneys</p>
-      <p begin="00:46.610" end="00:49.690" ttm:agent="v1">Told her if I die, yeah, I'ma die young</p>
-      <p begin="00:49.690" end="00:52.370" ttm:agent="v1">Every day I've been getting fucked up</p>
-      <p begin="00:52.370" end="00:55.380" ttm:agent="v1">Finally know the difference between love and drugs</p>
-      <p begin="00:55.380" end="00:58.340" ttm:agent="v1">Shawty tell me I should really sober up</p>
-      <p begin="00:58.340" end="01:01.390" ttm:agent="v1">This shit ain't fiction, it's too real, too real</p>
-      <p begin="01:01.390" end="01:04.130" ttm:agent="v1">Fuck one dose, I need two pills, two pills</p>
-      <p begin="01:04.130" end="01:07.060" ttm:agent="v1">I'm looking for trouble so I know I'm gonna find it</p>
-      <p begin="01:07.060" end="01:10.070" ttm:agent="v1">Ring, ring, plug hit my phone, perfect timing</p>
-      <p begin="01:10.070" end="01:12.110" ttm:agent="v1">I know I'm not right</p>
-      <p begin="01:12.110" end="01:15.360" ttm:agent="v1">But I'm not wrong, no, I'm not wrong</p>
-      <p begin="01:15.360" end="01:17.850" ttm:agent="v1">Girl, you hate it when I'm too high</p>
-      <p begin="01:17.850" end="01:21.840" ttm:agent="v1">But that's where I belong, where I belong</p>
-      <p begin="01:21.840" end="01:24.690" ttm:agent="v1">Lean with me, pop with me</p>
-      <p begin="01:24.690" end="01:27.640" ttm:agent="v1">Get high with me if you rock with me</p>
-      <p begin="01:27.640" end="01:30.690" ttm:agent="v1">Smoke with me, drink with me</p>
-      <p begin="01:30.690" end="01:33.420" ttm:agent="v1">Fucked up liver with some bad kidneys</p>
-      <p begin="01:33.420" end="01:36.240" ttm:agent="v1">Lean with me, pop with me</p>
-      <p begin="01:36.240" end="01:39.280" ttm:agent="v1">Get high with me if you rock with me</p>
-      <p begin="01:39.280" end="01:42.250" ttm:agent="v1">Smoke with me, drink with me</p>
-      <p begin="01:42.250" end="01:45.030" ttm:agent="v1">Fucked up liver with some bad kidneys</p>
-      <p begin="01:45.030" end="01:47.730" ttm:agent="v1">Eyes red, no Visine</p>
-      <p begin="01:47.730" end="01:50.690" ttm:agent="v1">Crashed the Mustang, no Saleen</p>
-      <p begin="01:50.690" end="01:53.650" ttm:agent="v1">Yeah, I love beans, yeah, I love lean</p>
-      <p begin="01:53.650" end="01:56.460" ttm:agent="v1">I laugh when they ask if my piss clean</p>
-      <p begin="01:56.460" end="01:59.780" ttm:agent="v1">Huh, smoke with me, huh, pop with me, huh</p>
-      <p begin="01:59.780" end="02:02.420" ttm:agent="v1">Ayy, Gucci store, come and shop with me</p>
-      <p begin="02:02.420" end="02:05.210" ttm:agent="v1">If I overdose, bae, are you gon' drop with me?</p>
-      <p begin="02:05.210" end="02:07.810" ttm:agent="v1">I'on even wanna think about that right now</p>
-      <p begin="02:07.810" end="02:11.040" ttm:agent="v1">Let's get too high, reach a new height</p>
-      <p begin="02:11.040" end="02:14.170" ttm:agent="v1">Take the shrooms and the pills at the same time</p>
-      <p begin="02:14.170" end="02:16.920" ttm:agent="v1">Went to Hollywood thrills from the street life</p>
-      <p begin="02:16.920" end="02:20.330" ttm:agent="v1">Took too many drugs, now I don't feel right</p>
-      <p begin="02:20.330" end="02:23.030" ttm:agent="v1">Lean with me, pop with me</p>
-      <p begin="02:23.030" end="02:26.110" ttm:agent="v1">Get high with me if you rock with me</p>
-      <p begin="02:26.110" end="02:29.080" ttm:agent="v1">Smoke with me, drink with me</p>
-      <p begin="02:29.080" end="02:32.020" ttm:agent="v1">Fucked up liver with some bad kidneys</p>
-      <p begin="02:32.020" end="02:34.830" ttm:agent="v1">Lean with me, pop with me</p>
-      <p begin="02:34.830" end="02:37.830" ttm:agent="v1">Get high with me if you rock with me</p>
-      <p begin="02:37.830" end="02:40.780" ttm:agent="v1">Smoke with me, drink with me</p>
-      <p begin="02:40.780" end="02:46.350" ttm:agent="v1" itunes:key="role" itunes:value="background">Fucked up liver with some bad kidneys (bad kidneys)</p>
-      <p begin="02:46.350" end="02:49.600" ttm:agent="v1">Oh-oh</p>
-      <p begin="02:49.600" end="02:52.550" ttm:agent="v1">Oh-oh-oh</p>
-      <p begin="02:52.550" end="02:54.050" ttm:agent="v1">Oh-oh-oh</p>
-      <p begin="02:53.980" end="02:57.980" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>Lean Wit Me</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Juice WRLD</ttm:agent>
+
+      <ttm:item type="album">Goodbye &amp; Good Riddance</ttm:item>
+
+      <ttm:item type="spotify_id">3oDkdAySo1VQQG0ptV7uwa</ttm:item>
+
+      <itunes:duration>02:56.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:11.430" end="00:14.480" ttm:agent="v1">Drugs got me sweatin', but the room gettin' colder</p>
+
+      <p begin="00:14.480" end="00:17.550" ttm:agent="v1">Lookin' at the devil and the angel on my shoulder</p>
+
+      <p begin="00:17.550" end="00:20.320" ttm:agent="v1">Will I die tonight? I don't know, is it over?</p>
+
+      <p begin="00:20.320" end="00:23.210" ttm:agent="v1">Lookin' for my next high, I'm lookin' for closure</p>
+
+      <p begin="00:23.210" end="00:26.020" ttm:agent="v1">Lean with me, pop with me</p>
+
+      <p begin="00:26.020" end="00:29.090" ttm:agent="v1">Get high with me if you rock with me</p>
+
+      <p begin="00:29.090" end="00:31.980" ttm:agent="v1">Smoke with me, drink with me</p>
+
+      <p begin="00:31.980" end="00:34.850" ttm:agent="v1">Fucked up liver with some bad kidneys</p>
+
+      <p begin="00:34.850" end="00:37.840" ttm:agent="v1">Lean with me, pop with me</p>
+
+      <p begin="00:37.840" end="00:40.720" ttm:agent="v1">Get high with me if you rock with me</p>
+
+      <p begin="00:40.720" end="00:43.660" ttm:agent="v1">Smoke with me, drink with me</p>
+
+      <p begin="00:43.660" end="00:46.610" ttm:agent="v1">Fucked up liver with some bad kidneys</p>
+
+      <p begin="00:46.610" end="00:49.690" ttm:agent="v1">Told her if I die, yeah, I'ma die young</p>
+
+      <p begin="00:49.690" end="00:52.370" ttm:agent="v1">Every day I've been getting fucked up</p>
+
+      <p begin="00:52.370" end="00:55.380" ttm:agent="v1">Finally know the difference between love and drugs</p>
+
+      <p begin="00:55.380" end="00:58.340" ttm:agent="v1">Shawty tell me I should really sober up</p>
+
+      <p begin="00:58.340" end="01:01.390" ttm:agent="v1">This shit ain't fiction, it's too real, too real</p>
+
+      <p begin="01:01.390" end="01:04.130" ttm:agent="v1">Fuck one dose, I need two pills, two pills</p>
+
+      <p begin="01:04.130" end="01:07.060" ttm:agent="v1">I'm looking for trouble so I know I'm gonna find it</p>
+
+      <p begin="01:07.060" end="01:10.070" ttm:agent="v1">Ring, ring, plug hit my phone, perfect timing</p>
+
+      <p begin="01:10.070" end="01:12.110" ttm:agent="v1">I know I'm not right</p>
+
+      <p begin="01:12.110" end="01:15.360" ttm:agent="v1">But I'm not wrong, no, I'm not wrong</p>
+
+      <p begin="01:15.360" end="01:17.850" ttm:agent="v1">Girl, you hate it when I'm too high</p>
+
+      <p begin="01:17.850" end="01:21.840" ttm:agent="v1">But that's where I belong, where I belong</p>
+
+      <p begin="01:21.840" end="01:24.690" ttm:agent="v1">Lean with me, pop with me</p>
+
+      <p begin="01:24.690" end="01:27.640" ttm:agent="v1">Get high with me if you rock with me</p>
+
+      <p begin="01:27.640" end="01:30.690" ttm:agent="v1">Smoke with me, drink with me</p>
+
+      <p begin="01:30.690" end="01:33.420" ttm:agent="v1">Fucked up liver with some bad kidneys</p>
+
+      <p begin="01:33.420" end="01:36.240" ttm:agent="v1">Lean with me, pop with me</p>
+
+      <p begin="01:36.240" end="01:39.280" ttm:agent="v1">Get high with me if you rock with me</p>
+
+      <p begin="01:39.280" end="01:42.250" ttm:agent="v1">Smoke with me, drink with me</p>
+
+      <p begin="01:42.250" end="01:45.030" ttm:agent="v1">Fucked up liver with some bad kidneys</p>
+
+      <p begin="01:45.030" end="01:47.730" ttm:agent="v1">Eyes red, no Visine</p>
+
+      <p begin="01:47.730" end="01:50.690" ttm:agent="v1">Crashed the Mustang, no Saleen</p>
+
+      <p begin="01:50.690" end="01:53.650" ttm:agent="v1">Yeah, I love beans, yeah, I love lean</p>
+
+      <p begin="01:53.650" end="01:56.460" ttm:agent="v1">I laugh when they ask if my piss clean</p>
+
+      <p begin="01:56.460" end="01:59.780" ttm:agent="v1">Huh, smoke with me, huh, pop with me, huh</p>
+
+      <p begin="01:59.780" end="02:02.420" ttm:agent="v1">Ayy, Gucci store, come and shop with me</p>
+
+      <p begin="02:02.420" end="02:05.210" ttm:agent="v1">If I overdose, bae, are you gon' drop with me?</p>
+
+      <p begin="02:05.210" end="02:07.810" ttm:agent="v1">I'on even wanna think about that right now</p>
+
+      <p begin="02:07.810" end="02:11.040" ttm:agent="v1">Let's get too high, reach a new height</p>
+
+      <p begin="02:11.040" end="02:14.170" ttm:agent="v1">Take the shrooms and the pills at the same time</p>
+
+      <p begin="02:14.170" end="02:16.920" ttm:agent="v1">Went to Hollywood thrills from the street life</p>
+
+      <p begin="02:16.920" end="02:20.330" ttm:agent="v1">Took too many drugs, now I don't feel right</p>
+
+      <p begin="02:20.330" end="02:23.030" ttm:agent="v1">Lean with me, pop with me</p>
+
+      <p begin="02:23.030" end="02:26.110" ttm:agent="v1">Get high with me if you rock with me</p>
+
+      <p begin="02:26.110" end="02:29.080" ttm:agent="v1">Smoke with me, drink with me</p>
+
+      <p begin="02:29.080" end="02:32.020" ttm:agent="v1">Fucked up liver with some bad kidneys</p>
+
+      <p begin="02:32.020" end="02:34.830" ttm:agent="v1">Lean with me, pop with me</p>
+
+      <p begin="02:34.830" end="02:37.830" ttm:agent="v1">Get high with me if you rock with me</p>
+
+      <p begin="02:37.830" end="02:40.780" ttm:agent="v1">Smoke with me, drink with me</p>
+
+      <p begin="02:40.780" end="02:46.350" ttm:agent="v1">Fucked up liver with some bad kidneys (bad kidneys)</p>
+
+      <p begin="02:46.350" end="02:49.600" ttm:agent="v1">Oh-oh</p>
+
+      <p begin="02:49.600" end="02:52.550" ttm:agent="v1">Oh-oh-oh</p>
+
+      <p begin="02:52.550" end="02:54.050" ttm:agent="v1">Oh-oh-oh</p>
+
+      <p begin="02:53.980" end="02:57.980" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

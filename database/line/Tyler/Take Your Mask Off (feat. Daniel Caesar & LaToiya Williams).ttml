@@ -1,112 +1,224 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>Take Your Mask Off (feat. Daniel Caesar &amp; LaToiya Williams)</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Tyler</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">The Creator</ttm:agent>
-      <ttm:agent type="person" xml:id="v3">Daniel Caesar</ttm:agent>
-      <ttm:agent type="person" xml:id="v4">LaToiya Williams</ttm:agent>
-      <ttm:item type="album">CHROMAKOPIA</ttm:item>
-      <ttm:item type="spotify_id">4BSR9I4ExlCJdXJo2GpBD5</ttm:item>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:11.185" end="00:13.469" ttm:agent="v1">Big guns, big guns, what you got, huh?</p>
-      <p begin="00:13.469" end="00:15.880" ttm:agent="v1">Slatt, slatt and pop back at the opps, uh</p>
-      <p begin="00:15.880" end="00:18.231" ttm:agent="v1">Gang this and you gang that</p>
-      <p begin="00:18.231" end="00:20.376" ttm:agent="v1">Don't let 'em know that you regret how you became that</p>
-      <p begin="00:20.376" end="00:23.079" ttm:agent="v1">A good kid, fine home, mom and dad in the pic'</p>
-      <p begin="00:23.079" end="00:25.800" ttm:agent="v1">A little middle class money, every Christmas legit</p>
-      <p begin="00:25.800" end="00:28.393" ttm:agent="v1">Family trips, slightly bound, and one day, hit the switch</p>
-      <p begin="00:28.393" end="00:30.914" ttm:agent="v1">You ain't wanna be seen as a bitch, cuz'</p>
-      <p begin="00:30.914" end="00:33.797" ttm:agent="v1">And none them face tats gon' hide the fact that you sad, bruh</p>
-      <p begin="00:33.797" end="00:36.018" ttm:agent="v1">You ain't a thug, you was in drama club, you's a actor</p>
-      <p begin="00:36.018" end="00:39.370" ttm:agent="v1" itunes:key="role" itunes:value="background">But now cuz' gettin' validation from the dumb and confused (Ayy, Blood)</p>
-      <p begin="00:39.370" end="00:42.590" ttm:agent="v1">Now you facin' five to ten 'cause you got somethin' to prove, let's talk about it</p>
-      <p begin="00:42.590" end="00:44.090" ttm:agent="v1"/>
-      <p begin="00:42.792" end="00:44.875" ttm:agent="v1" itunes:key="role" itunes:value="background">And I hope you find yourself (Uh)</p>
-      <p begin="00:44.875" end="00:47.612" ttm:agent="v1" itunes:key="role" itunes:value="background">And I hope you find yourself (Yeah)</p>
-      <p begin="00:47.612" end="00:52.275" ttm:agent="v1" itunes:key="role" itunes:value="background">And I hope you take your mask off (Sad story, a-ha-ha, yeah)</p>
-      <p begin="00:52.275" end="00:53.775" ttm:agent="v1"/>
-      <p begin="00:52.495" end="00:54.701" ttm:agent="v1">Preacher man, preacher man, preach</p>
-      <p begin="00:54.701" end="00:58.103" ttm:agent="v1">You make these folks think you got somethin' to teach, like you ain't lyin'</p>
-      <p begin="00:58.103" end="01:00.449" ttm:agent="v1">Big back from those collections, well, what you buyin'?</p>
-      <p begin="01:00.449" end="01:03.218" ttm:agent="v1">Ain't too fond of them gays, you don't deny it, wait</p>
-      <p begin="01:03.218" end="01:05.769" ttm:agent="v1">Since a kid, you knew somethin' was up</p>
-      <p begin="01:05.769" end="01:08.237" ttm:agent="v1">Had you thinkin' God would hate you so you covered it up</p>
-      <p begin="01:08.237" end="01:10.804" ttm:agent="v1">Gotta hide how you live, what you really enjoy</p>
-      <p begin="01:10.804" end="01:13.445" ttm:agent="v1">So got a wife, got a kid, but you be ****in' them boys</p>
-      <p begin="01:13.445" end="01:16.135" ttm:agent="v1">Sick of all the shame, sick of all the pain that's within</p>
-      <p begin="01:16.135" end="01:18.792" ttm:agent="v1">Scared of bein' seen, tired of rebukin' in sin</p>
-      <p begin="01:18.792" end="01:21.435" ttm:agent="v1">Trade it all to be free and shine bright the like the Sun</p>
-      <p begin="01:21.435" end="01:25.359" ttm:agent="v1">But you back act on that religious shit as soon as you come, let's talk about it</p>
-      <p begin="01:25.359" end="01:26.859" ttm:agent="v1"/>
-      <p begin="01:25.603" end="01:27.703" ttm:agent="v1" itunes:key="role" itunes:value="background">And I hope you find yourself (Hope you find yourself)</p>
-      <p begin="01:27.703" end="01:29.870" ttm:agent="v1">And I hope you find yourself</p>
-      <p begin="01:29.870" end="01:34.178" ttm:agent="v1" itunes:key="role" itunes:value="background">And I hope you take your mask off (Take your mask off)</p>
-      <p begin="01:34.178" end="01:35.678" ttm:agent="v1"/>
-      <p begin="01:34.436" end="01:35.936" ttm:agent="v1" itunes:key="role" itunes:value="background">Big-ass house that's on the Hills (Hill)</p>
-      <p begin="01:35.634" end="01:37.724" ttm:agent="v1" itunes:key="role" itunes:value="background">Big-ass wheels in the garage ('Rage)</p>
-      <p begin="01:37.724" end="01:39.763" ttm:agent="v1">Three cute kids that's in your arms</p>
-      <p begin="01:39.763" end="01:41.519" ttm:agent="v1">Your husband just made another mill'</p>
-      <p begin="01:41.519" end="01:43.488" ttm:agent="v1">You want your life back, give him a [?]</p>
-      <p begin="01:43.488" end="01:46.162" ttm:agent="v1">Tired of bein' at home, personality gone</p>
-      <p begin="01:46.162" end="01:50.290" ttm:agent="v1">Body ain't been the same, postpartum is long, your identity gone</p>
-      <p begin="01:50.290" end="01:52.953" ttm:agent="v1">Momma your first name, the last one got changed</p>
-      <p begin="01:52.953" end="01:56.275" ttm:agent="v1">They dream about your nest but your crane flyin' along, mane</p>
-      <p begin="01:56.275" end="01:58.615" ttm:agent="v1">You would start all over if we keepin' it real</p>
-      <p begin="01:58.615" end="02:01.205" ttm:agent="v1">Current life is full but you ain't feelin' fulfilled</p>
-      <p begin="02:01.205" end="02:03.835" ttm:agent="v1">Fantasize about the dream you left on the shelf</p>
-      <p begin="02:03.835" end="02:06.501" ttm:agent="v1">Can't even get a long time to think of killin' yourself</p>
-      <p begin="02:06.501" end="02:08.489" ttm:agent="v1">Ah, let's talk about it</p>
-      <p begin="02:08.489" end="02:09.989" ttm:agent="v1"/>
-      <p begin="02:08.715" end="02:11.685" ttm:agent="v1" itunes:key="role" itunes:value="background">And I hope you find yourself (Eyes feelin' narrow, hope you find yourself)</p>
-      <p begin="02:11.685" end="02:13.783" ttm:agent="v1" itunes:key="role" itunes:value="background">And I hope you find yourself (Self)</p>
-      <p begin="02:13.783" end="02:21.783" ttm:agent="v1" itunes:key="role" itunes:value="background">And I hope you take your mask off (Oh)</p>
-      <p begin="02:25.103" end="02:30.656" ttm:agent="v1">Keep that shit one hundred with you, with yourself</p>
-      <p begin="02:30.656" end="02:34.067" ttm:agent="v1">You don't have to put on no costume</p>
-      <p begin="02:34.067" end="02:36.776" ttm:agent="v1">You don't ever have to lie to kick it</p>
-      <p begin="02:36.776" end="02:38.276" ttm:agent="v1"/>
-      <p begin="02:37.011" end="02:38.511" ttm:agent="v1">[Verse 4: Tyler, The Creator]</p>
-      <p begin="02:37.245" end="02:40.652" ttm:agent="v1">Yeah, tool won't stay hard, pain in your chest</p>
-      <p begin="02:40.652" end="02:43.177" ttm:agent="v1">Hand fallin' out, won't blame it on the stress</p>
-      <p begin="02:43.177" end="02:45.805" ttm:agent="v1">Claim it's new partners, blame it on your ex</p>
-      <p begin="02:45.805" end="02:48.431" ttm:agent="v1">Just claim a sweet flex, try to blame it on the cook</p>
-      <p begin="02:48.431" end="02:51.532" ttm:agent="v1">Look, boy, keep runnin', you'll be crampin' in your foot</p>
-      <p begin="02:51.532" end="02:53.754" ttm:agent="v1">Nervous and you notice ain't servicin' the hook</p>
-      <p begin="02:53.754" end="02:56.295" ttm:agent="v1">Paranoid since 19, nervous system shook</p>
-      <p begin="02:56.295" end="02:59.040" ttm:agent="v1">Better sit the **** down or that skull gettin' took</p>
-      <p begin="02:59.040" end="03:02.333" ttm:agent="v1">That's ten million dollars invested, no justifyin' that</p>
-      <p begin="03:02.333" end="03:05.212" ttm:agent="v1">Tryna sell them weird-ass clothes, nobody buyin' that</p>
-      <p begin="03:05.212" end="03:07.809" ttm:agent="v1">Sentiment is right, but your audience isn't racked enough</p>
-      <p begin="03:07.809" end="03:10.455" ttm:agent="v1">That shit is a failure, my nigga, go 'head and pack it up</p>
-      <p begin="03:10.455" end="03:14.542" ttm:agent="v1" itunes:key="role" itunes:value="background">And put it in the trunk, you talk a lot of shit to not even be number one (No)</p>
-      <p begin="03:14.542" end="03:17.488" ttm:agent="v1">You beats ain't placin', them songs ain't slappin', your raps ain't rankin'</p>
-      <p begin="03:17.488" end="03:22.050" ttm:agent="v1">Your stage presence don't even be in they conversation, go home</p>
-      <p begin="03:22.050" end="03:23.730" ttm:agent="v1">You ain't gotta hide from the truth</p>
-      <p begin="03:23.730" end="03:25.470" ttm:agent="v1">Tell your family why you such a recluse</p>
-      <p begin="03:25.470" end="03:28.079" ttm:agent="v1">Tell your spirit why you feelin' it's a wrap in the booth</p>
-      <p begin="03:28.079" end="03:30.127" ttm:agent="v1">Dawg, I dare you try to ruin her marriage</p>
-      <p begin="03:30.127" end="03:33.628" ttm:agent="v1">'Claim you never wore a mask and how you don't get embarrassed?</p>
-      <p begin="03:33.628" end="03:36.001" ttm:agent="v1">Boy, you selfish as ****, that's why you really scared of bein' a parent</p>
-      <p begin="03:36.001" end="03:39.360" ttm:agent="v1">Boy, that therapy needed, I dare you to seek it, but I'll lose a bet</p>
-      <p begin="03:39.360" end="03:42.271" ttm:agent="v1">Your respect won't get given 'til we postin' your death</p>
-      <p begin="03:42.271" end="03:44.400" ttm:agent="v1">It's clear you wish you got your flowers sent</p>
-      <p begin="03:44.400" end="03:47.384" ttm:agent="v1">You eat and fertilize in aboundin' shit</p>
-      <p begin="03:47.384" end="03:50.494" ttm:agent="v1">Now go and stand in the Sun, and use some fake tears to water your boots</p>
-      <p begin="03:50.494" end="03:53.663" ttm:agent="v1">Take that mask off and tell 'em the truth, let's talk about it, nigga</p>
-      <p begin="03:53.663" end="03:55.449" ttm:agent="v1">And I hope you find yourself</p>
-      <p begin="03:55.449" end="03:58.033" ttm:agent="v1">And I hope you find yourself</p>
-      <p begin="03:58.033" end="04:02.033" ttm:agent="v1">And I hope you take your mask off</p>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>Take Your Mask Off (feat. Daniel Caesar &amp; LaToiya Williams)</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Tyler</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v2">The Creator</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v3">Daniel Caesar</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v4">LaToiya Williams</ttm:agent>
+
+      <ttm:item type="album">CHROMAKOPIA</ttm:item>
+
+      <ttm:item type="spotify_id">4BSR9I4ExlCJdXJo2GpBD5</ttm:item>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:11.185" end="00:13.469" ttm:agent="v1">Big guns, big guns, what you got, huh?</p>
+
+      <p begin="00:13.469" end="00:15.880" ttm:agent="v1">Slatt, slatt and pop back at the opps, uh</p>
+
+      <p begin="00:15.880" end="00:18.231" ttm:agent="v1">Gang this and you gang that</p>
+
+      <p begin="00:18.231" end="00:20.376" ttm:agent="v1">Don't let 'em know that you regret how you became that</p>
+
+      <p begin="00:20.376" end="00:23.079" ttm:agent="v1">A good kid, fine home, mom and dad in the pic'</p>
+
+      <p begin="00:23.079" end="00:25.800" ttm:agent="v1">A little middle class money, every Christmas legit</p>
+
+      <p begin="00:25.800" end="00:28.393" ttm:agent="v1">Family trips, slightly bound, and one day, hit the switch</p>
+
+      <p begin="00:28.393" end="00:30.914" ttm:agent="v1">You ain't wanna be seen as a bitch, cuz'</p>
+
+      <p begin="00:30.914" end="00:33.797" ttm:agent="v1">And none them face tats gon' hide the fact that you sad, bruh</p>
+
+      <p begin="00:33.797" end="00:36.018" ttm:agent="v1">You ain't a thug, you was in drama club, you's a actor</p>
+
+      <p begin="00:36.018" end="00:39.370" ttm:agent="v1">But now cuz' gettin' validation from the dumb and confused (Ayy, Blood)</p>
+
+      <p begin="00:39.370" end="00:42.590" ttm:agent="v1">Now you facin' five to ten 'cause you got somethin' to prove, let's talk about it</p>
+
+      <p begin="00:42.590" end="00:44.090" ttm:agent="v1"/>
+
+      <p begin="00:42.792" end="00:44.875" ttm:agent="v1">And I hope you find yourself (Uh)</p>
+
+      <p begin="00:44.875" end="00:47.612" ttm:agent="v1">And I hope you find yourself (Yeah)</p>
+
+      <p begin="00:47.612" end="00:52.275" ttm:agent="v1">And I hope you take your mask off (Sad story, a-ha-ha, yeah)</p>
+
+      <p begin="00:52.275" end="00:53.775" ttm:agent="v1"/>
+
+      <p begin="00:52.495" end="00:54.701" ttm:agent="v1">Preacher man, preacher man, preach</p>
+
+      <p begin="00:54.701" end="00:58.103" ttm:agent="v1">You make these folks think you got somethin' to teach, like you ain't lyin'</p>
+
+      <p begin="00:58.103" end="01:00.449" ttm:agent="v1">Big back from those collections, well, what you buyin'?</p>
+
+      <p begin="01:00.449" end="01:03.218" ttm:agent="v1">Ain't too fond of them gays, you don't deny it, wait</p>
+
+      <p begin="01:03.218" end="01:05.769" ttm:agent="v1">Since a kid, you knew somethin' was up</p>
+
+      <p begin="01:05.769" end="01:08.237" ttm:agent="v1">Had you thinkin' God would hate you so you covered it up</p>
+
+      <p begin="01:08.237" end="01:10.804" ttm:agent="v1">Gotta hide how you live, what you really enjoy</p>
+
+      <p begin="01:10.804" end="01:13.445" ttm:agent="v1">So got a wife, got a kid, but you be ****in' them boys</p>
+
+      <p begin="01:13.445" end="01:16.135" ttm:agent="v1">Sick of all the shame, sick of all the pain that's within</p>
+
+      <p begin="01:16.135" end="01:18.792" ttm:agent="v1">Scared of bein' seen, tired of rebukin' in sin</p>
+
+      <p begin="01:18.792" end="01:21.435" ttm:agent="v1">Trade it all to be free and shine bright the like the Sun</p>
+
+      <p begin="01:21.435" end="01:25.359" ttm:agent="v1">But you back act on that religious shit as soon as you come, let's talk about it</p>
+
+      <p begin="01:25.359" end="01:26.859" ttm:agent="v1"/>
+
+      <p begin="01:25.603" end="01:27.703" ttm:agent="v1">And I hope you find yourself (Hope you find yourself)</p>
+
+      <p begin="01:27.703" end="01:29.870" ttm:agent="v1">And I hope you find yourself</p>
+
+      <p begin="01:29.870" end="01:34.178" ttm:agent="v1">And I hope you take your mask off (Take your mask off)</p>
+
+      <p begin="01:34.178" end="01:35.678" ttm:agent="v1"/>
+
+      <p begin="01:34.436" end="01:35.936" ttm:agent="v1">Big-ass house that's on the Hills (Hill)</p>
+
+      <p begin="01:35.634" end="01:37.724" ttm:agent="v1">Big-ass wheels in the garage ('Rage)</p>
+
+      <p begin="01:37.724" end="01:39.763" ttm:agent="v1">Three cute kids that's in your arms</p>
+
+      <p begin="01:39.763" end="01:41.519" ttm:agent="v1">Your husband just made another mill'</p>
+
+      <p begin="01:41.519" end="01:43.488" ttm:agent="v1">You want your life back, give him a [?]</p>
+
+      <p begin="01:43.488" end="01:46.162" ttm:agent="v1">Tired of bein' at home, personality gone</p>
+
+      <p begin="01:46.162" end="01:50.290" ttm:agent="v1">Body ain't been the same, postpartum is long, your identity gone</p>
+
+      <p begin="01:50.290" end="01:52.953" ttm:agent="v1">Momma your first name, the last one got changed</p>
+
+      <p begin="01:52.953" end="01:56.275" ttm:agent="v1">They dream about your nest but your crane flyin' along, mane</p>
+
+      <p begin="01:56.275" end="01:58.615" ttm:agent="v1">You would start all over if we keepin' it real</p>
+
+      <p begin="01:58.615" end="02:01.205" ttm:agent="v1">Current life is full but you ain't feelin' fulfilled</p>
+
+      <p begin="02:01.205" end="02:03.835" ttm:agent="v1">Fantasize about the dream you left on the shelf</p>
+
+      <p begin="02:03.835" end="02:06.501" ttm:agent="v1">Can't even get a long time to think of killin' yourself</p>
+
+      <p begin="02:06.501" end="02:08.489" ttm:agent="v1">Ah, let's talk about it</p>
+
+      <p begin="02:08.489" end="02:09.989" ttm:agent="v1"/>
+
+      <p begin="02:08.715" end="02:11.685" ttm:agent="v1">And I hope you find yourself (Eyes feelin' narrow, hope you find yourself)</p>
+
+      <p begin="02:11.685" end="02:13.783" ttm:agent="v1">And I hope you find yourself (Self)</p>
+
+      <p begin="02:13.783" end="02:21.783" ttm:agent="v1">And I hope you take your mask off (Oh)</p>
+
+      <p begin="02:25.103" end="02:30.656" ttm:agent="v1">Keep that shit one hundred with you, with yourself</p>
+
+      <p begin="02:30.656" end="02:34.067" ttm:agent="v1">You don't have to put on no costume</p>
+
+      <p begin="02:34.067" end="02:36.776" ttm:agent="v1">You don't ever have to lie to kick it</p>
+
+      <p begin="02:36.776" end="02:38.276" ttm:agent="v1"/>
+
+      <p begin="02:37.011" end="02:38.511" ttm:agent="v1">[Verse 4: Tyler, The Creator]</p>
+
+      <p begin="02:37.245" end="02:40.652" ttm:agent="v1">Yeah, tool won't stay hard, pain in your chest</p>
+
+      <p begin="02:40.652" end="02:43.177" ttm:agent="v1">Hand fallin' out, won't blame it on the stress</p>
+
+      <p begin="02:43.177" end="02:45.805" ttm:agent="v1">Claim it's new partners, blame it on your ex</p>
+
+      <p begin="02:45.805" end="02:48.431" ttm:agent="v1">Just claim a sweet flex, try to blame it on the cook</p>
+
+      <p begin="02:48.431" end="02:51.532" ttm:agent="v1">Look, boy, keep runnin', you'll be crampin' in your foot</p>
+
+      <p begin="02:51.532" end="02:53.754" ttm:agent="v1">Nervous and you notice ain't servicin' the hook</p>
+
+      <p begin="02:53.754" end="02:56.295" ttm:agent="v1">Paranoid since 19, nervous system shook</p>
+
+      <p begin="02:56.295" end="02:59.040" ttm:agent="v1">Better sit the **** down or that skull gettin' took</p>
+
+      <p begin="02:59.040" end="03:02.333" ttm:agent="v1">That's ten million dollars invested, no justifyin' that</p>
+
+      <p begin="03:02.333" end="03:05.212" ttm:agent="v1">Tryna sell them weird-ass clothes, nobody buyin' that</p>
+
+      <p begin="03:05.212" end="03:07.809" ttm:agent="v1">Sentiment is right, but your audience isn't racked enough</p>
+
+      <p begin="03:07.809" end="03:10.455" ttm:agent="v1">That shit is a failure, my nigga, go 'head and pack it up</p>
+
+      <p begin="03:10.455" end="03:14.542" ttm:agent="v1">And put it in the trunk, you talk a lot of shit to not even be number one (No)</p>
+
+      <p begin="03:14.542" end="03:17.488" ttm:agent="v1">You beats ain't placin', them songs ain't slappin', your raps ain't rankin'</p>
+
+      <p begin="03:17.488" end="03:22.050" ttm:agent="v1">Your stage presence don't even be in they conversation, go home</p>
+
+      <p begin="03:22.050" end="03:23.730" ttm:agent="v1">You ain't gotta hide from the truth</p>
+
+      <p begin="03:23.730" end="03:25.470" ttm:agent="v1">Tell your family why you such a recluse</p>
+
+      <p begin="03:25.470" end="03:28.079" ttm:agent="v1">Tell your spirit why you feelin' it's a wrap in the booth</p>
+
+      <p begin="03:28.079" end="03:30.127" ttm:agent="v1">Dawg, I dare you try to ruin her marriage</p>
+
+      <p begin="03:30.127" end="03:33.628" ttm:agent="v1">'Claim you never wore a mask and how you don't get embarrassed?</p>
+
+      <p begin="03:33.628" end="03:36.001" ttm:agent="v1">Boy, you selfish as ****, that's why you really scared of bein' a parent</p>
+
+      <p begin="03:36.001" end="03:39.360" ttm:agent="v1">Boy, that therapy needed, I dare you to seek it, but I'll lose a bet</p>
+
+      <p begin="03:39.360" end="03:42.271" ttm:agent="v1">Your respect won't get given 'til we postin' your death</p>
+
+      <p begin="03:42.271" end="03:44.400" ttm:agent="v1">It's clear you wish you got your flowers sent</p>
+
+      <p begin="03:44.400" end="03:47.384" ttm:agent="v1">You eat and fertilize in aboundin' shit</p>
+
+      <p begin="03:47.384" end="03:50.494" ttm:agent="v1">Now go and stand in the Sun, and use some fake tears to water your boots</p>
+
+      <p begin="03:50.494" end="03:53.663" ttm:agent="v1">Take that mask off and tell 'em the truth, let's talk about it, nigga</p>
+
+      <p begin="03:53.663" end="03:55.449" ttm:agent="v1">And I hope you find yourself</p>
+
+      <p begin="03:55.449" end="03:58.033" ttm:agent="v1">And I hope you find yourself</p>
+
+      <p begin="03:58.033" end="04:02.033" ttm:agent="v1">And I hope you take your mask off</p>
+
+    </div>
+
+  </body>
+
+</tt>
+

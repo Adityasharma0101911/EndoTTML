@@ -1,70 +1,140 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>AT LEAST I’M HYDRATED</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Brita</ttm:agent>
-      <ttm:item type="album">AT LEAST I’M HYDRATED</ttm:item>
-      <ttm:item type="spotify_id">37C8xA61ZBsZVvadWztrpf</ttm:item>
-      <itunes:duration>02:14.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.030" end="00:03.740" ttm:agent="v1">I called my mom just to silently cry</p>
-      <p begin="00:03.740" end="00:06.500" ttm:agent="v1">My ex started seeing nine other guys</p>
-      <p begin="00:06.500" end="00:10.290" ttm:agent="v1" itunes:key="role" itunes:value="background">But I'm hydrated (Yeah)</p>
-      <p begin="00:10.290" end="00:14.750" ttm:agent="v1" itunes:key="role" itunes:value="background">At least I'm hydrated (I drink the Brita water)</p>
-      <p begin="00:14.750" end="00:18.390" ttm:agent="v1">I failed my road test a seventh time</p>
-      <p begin="00:18.390" end="00:21.230" ttm:agent="v1">My car was towed anyway and it's fine</p>
-      <p begin="00:21.230" end="00:24.280" ttm:agent="v1" itunes:key="role" itunes:value="background">'Cause I'm hydrated (Look at his skin)</p>
-      <p begin="00:24.280" end="00:29.520" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh yeah, I'm hydrated (Even when he lose, he still win)</p>
-      <p begin="00:29.520" end="00:32.660" ttm:agent="v1">I peed my pants in the grocery store</p>
-      <p begin="00:32.660" end="00:35.950" ttm:agent="v1">But it's a great thing to look down at the floor</p>
-      <p begin="00:35.950" end="00:39.760" ttm:agent="v1" itunes:key="role" itunes:value="background">And know you're hydrated (That's a you problem)</p>
-      <p begin="00:39.760" end="00:44.330" ttm:agent="v1" itunes:key="role" itunes:value="background">Look how hydrated I am (I think we're losing the plot)</p>
-      <p begin="00:44.330" end="00:47.260" ttm:agent="v1" itunes:key="role" itunes:value="background">Sometimes I feel like the night is too dark (Oh no)</p>
-      <p begin="00:47.260" end="00:50.740" ttm:agent="v1">I feel like I'm drowning, not because I am a shark</p>
-      <p begin="00:50.740" end="00:54.320" ttm:agent="v1" itunes:key="role" itunes:value="background">'Cause I'm hated (That's so sad)</p>
-      <p begin="00:54.320" end="00:59.050" ttm:agent="v1" itunes:key="role" itunes:value="background">But I'm hydrated (Drink the Brita, yummy water wins, yeah)</p>
-      <p begin="00:59.050" end="01:02.200" ttm:agent="v1">Matched with a girl who feel asleep on our date</p>
-      <p begin="01:02.200" end="01:05.400" ttm:agent="v1">I dropped one of my headphones down the sewer gate</p>
-      <p begin="01:05.400" end="01:10.120" ttm:agent="v1" itunes:key="role" itunes:value="background">But I'm hydrated (Drink from the Brita, my guy)</p>
-      <p begin="01:10.120" end="01:13.220" ttm:agent="v1" itunes:key="role" itunes:value="background">At least I'm hydrated (Don't let it get to you, your skin lookin' fly)</p>
-      <p begin="01:13.220" end="01:16.840" ttm:agent="v1">Recently I had fallen out with a friend</p>
-      <p begin="01:16.840" end="01:20.090" ttm:agent="v1">I didn't have the people skills I'd need to amend</p>
-      <p begin="01:20.090" end="01:23.280" ttm:agent="v1" itunes:key="role" itunes:value="background">At least I'm hydrated (Because you're a shark)</p>
-      <p begin="01:23.280" end="01:24.780" ttm:agent="v1">Oh yeah, I'm hydrated</p>
-      <p begin="01:24.680" end="01:27.650" ttm:agent="v1" itunes:key="role" itunes:value="background">(You can't relate to them, your thoughts are too dark)</p>
-      <p begin="01:27.650" end="01:31.310" ttm:agent="v1">I used hand soap on my armpits in the bathroom at work</p>
-      <p begin="01:31.310" end="01:32.810" ttm:agent="v1" itunes:key="role" itunes:value="background">(What?)</p>
-      <p begin="01:31.740" end="01:35.140" ttm:agent="v1">But even though it's noon and I sweat through my shirt</p>
-      <p begin="01:35.140" end="01:38.860" ttm:agent="v1" itunes:key="role" itunes:value="background">I know I'm hydrated (That's an overshare)</p>
-      <p begin="01:38.860" end="01:40.360" ttm:agent="v1">At least I'm hydrated</p>
-      <p begin="01:39.900" end="01:41.980" ttm:agent="v1" itunes:key="role" itunes:value="background">(You need more water if you sweat that much)</p>
-      <p begin="01:41.980" end="01:43.710" ttm:agent="v1">Mmm, water break</p>
-      <p begin="01:43.710" end="01:47.100" ttm:agent="v1">Oh yeah, uh-uh</p>
-      <p begin="01:47.100" end="01:49.160" ttm:agent="v1">Glug, glug, mmm</p>
-      <p begin="01:49.160" end="01:50.660" ttm:agent="v1">De glug, de glug</p>
-      <p begin="01:50.140" end="01:52.290" ttm:agent="v1">Drink the water</p>
-      <p begin="01:52.290" end="01:54.390" ttm:agent="v1">Drink, drink the Brita water</p>
-      <p begin="01:54.390" end="01:55.890" ttm:agent="v1">Drink the water</p>
-      <p begin="01:55.640" end="01:57.200" ttm:agent="v1" itunes:key="role" itunes:value="background">Drink, drink the— (Woah)</p>
-      <p begin="01:57.200" end="01:58.700" ttm:agent="v1">Let's pick it up</p>
-      <p begin="01:58.060" end="02:01.190" ttm:agent="v1">DJ screamed at me for requesting a song</p>
-      <p begin="02:01.190" end="02:04.670" ttm:agent="v1" itunes:key="role" itunes:value="background">Some nights I don't smile all night long (Oh)</p>
-      <p begin="02:04.670" end="02:06.500" ttm:agent="v1">The vibes are desecrated</p>
-      <p begin="02:06.500" end="02:08.450" ttm:agent="v1" itunes:key="role" itunes:value="background">(You do worry me at some times)</p>
-      <p begin="02:08.450" end="02:09.950" ttm:agent="v1">But I'm hydrated</p>
-      <p begin="02:09.700" end="02:11.200" ttm:agent="v1" itunes:key="role" itunes:value="background">(Nevermind, yay)</p>
-      <p begin="02:11.010" end="02:15.010" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>AT LEAST I’M HYDRATED</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Brita</ttm:agent>
+
+      <ttm:item type="album">AT LEAST I’M HYDRATED</ttm:item>
+
+      <ttm:item type="spotify_id">37C8xA61ZBsZVvadWztrpf</ttm:item>
+
+      <itunes:duration>02:14.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.030" end="00:03.740" ttm:agent="v1">I called my mom just to silently cry</p>
+
+      <p begin="00:03.740" end="00:06.500" ttm:agent="v1">My ex started seeing nine other guys</p>
+
+      <p begin="00:06.500" end="00:10.290" ttm:agent="v1">But I'm hydrated (Yeah)</p>
+
+      <p begin="00:10.290" end="00:14.750" ttm:agent="v1">At least I'm hydrated (I drink the Brita water)</p>
+
+      <p begin="00:14.750" end="00:18.390" ttm:agent="v1">I failed my road test a seventh time</p>
+
+      <p begin="00:18.390" end="00:21.230" ttm:agent="v1">My car was towed anyway and it's fine</p>
+
+      <p begin="00:21.230" end="00:24.280" ttm:agent="v1">'Cause I'm hydrated (Look at his skin)</p>
+
+      <p begin="00:24.280" end="00:29.520" ttm:agent="v1">Oh yeah, I'm hydrated (Even when he lose, he still win)</p>
+
+      <p begin="00:29.520" end="00:32.660" ttm:agent="v1">I peed my pants in the grocery store</p>
+
+      <p begin="00:32.660" end="00:35.950" ttm:agent="v1">But it's a great thing to look down at the floor</p>
+
+      <p begin="00:35.950" end="00:39.760" ttm:agent="v1">And know you're hydrated (That's a you problem)</p>
+
+      <p begin="00:39.760" end="00:44.330" ttm:agent="v1">Look how hydrated I am (I think we're losing the plot)</p>
+
+      <p begin="00:44.330" end="00:47.260" ttm:agent="v1">Sometimes I feel like the night is too dark (Oh no)</p>
+
+      <p begin="00:47.260" end="00:50.740" ttm:agent="v1">I feel like I'm drowning, not because I am a shark</p>
+
+      <p begin="00:50.740" end="00:54.320" ttm:agent="v1">'Cause I'm hated (That's so sad)</p>
+
+      <p begin="00:54.320" end="00:59.050" ttm:agent="v1">But I'm hydrated (Drink the Brita, yummy water wins, yeah)</p>
+
+      <p begin="00:59.050" end="01:02.200" ttm:agent="v1">Matched with a girl who feel asleep on our date</p>
+
+      <p begin="01:02.200" end="01:05.400" ttm:agent="v1">I dropped one of my headphones down the sewer gate</p>
+
+      <p begin="01:05.400" end="01:10.120" ttm:agent="v1">But I'm hydrated (Drink from the Brita, my guy)</p>
+
+      <p begin="01:10.120" end="01:13.220" ttm:agent="v1">At least I'm hydrated (Don't let it get to you, your skin lookin' fly)</p>
+
+      <p begin="01:13.220" end="01:16.840" ttm:agent="v1">Recently I had fallen out with a friend</p>
+
+      <p begin="01:16.840" end="01:20.090" ttm:agent="v1">I didn't have the people skills I'd need to amend</p>
+
+      <p begin="01:20.090" end="01:23.280" ttm:agent="v1">At least I'm hydrated (Because you're a shark)</p>
+
+      <p begin="01:23.280" end="01:24.780" ttm:agent="v1">Oh yeah, I'm hydrated</p>
+
+      <p begin="01:24.680" end="01:27.650" ttm:agent="v1" itunes:key="role" itunes:value="background">(You can't relate to them, your thoughts are too dark)</p>
+
+      <p begin="01:27.650" end="01:31.310" ttm:agent="v1">I used hand soap on my armpits in the bathroom at work</p>
+
+      <p begin="01:31.310" end="01:32.810" ttm:agent="v1" itunes:key="role" itunes:value="background">(What?)</p>
+
+      <p begin="01:31.740" end="01:35.140" ttm:agent="v1">But even though it's noon and I sweat through my shirt</p>
+
+      <p begin="01:35.140" end="01:38.860" ttm:agent="v1">I know I'm hydrated (That's an overshare)</p>
+
+      <p begin="01:38.860" end="01:40.360" ttm:agent="v1">At least I'm hydrated</p>
+
+      <p begin="01:39.900" end="01:41.980" ttm:agent="v1" itunes:key="role" itunes:value="background">(You need more water if you sweat that much)</p>
+
+      <p begin="01:41.980" end="01:43.710" ttm:agent="v1">Mmm, water break</p>
+
+      <p begin="01:43.710" end="01:47.100" ttm:agent="v1">Oh yeah, uh-uh</p>
+
+      <p begin="01:47.100" end="01:49.160" ttm:agent="v1">Glug, glug, mmm</p>
+
+      <p begin="01:49.160" end="01:50.660" ttm:agent="v1">De glug, de glug</p>
+
+      <p begin="01:50.140" end="01:52.290" ttm:agent="v1">Drink the water</p>
+
+      <p begin="01:52.290" end="01:54.390" ttm:agent="v1">Drink, drink the Brita water</p>
+
+      <p begin="01:54.390" end="01:55.890" ttm:agent="v1">Drink the water</p>
+
+      <p begin="01:55.640" end="01:57.200" ttm:agent="v1">Drink, drink the— (Woah)</p>
+
+      <p begin="01:57.200" end="01:58.700" ttm:agent="v1">Let's pick it up</p>
+
+      <p begin="01:58.060" end="02:01.190" ttm:agent="v1">DJ screamed at me for requesting a song</p>
+
+      <p begin="02:01.190" end="02:04.670" ttm:agent="v1">Some nights I don't smile all night long (Oh)</p>
+
+      <p begin="02:04.670" end="02:06.500" ttm:agent="v1">The vibes are desecrated</p>
+
+      <p begin="02:06.500" end="02:08.450" ttm:agent="v1" itunes:key="role" itunes:value="background">(You do worry me at some times)</p>
+
+      <p begin="02:08.450" end="02:09.950" ttm:agent="v1">But I'm hydrated</p>
+
+      <p begin="02:09.700" end="02:11.200" ttm:agent="v1" itunes:key="role" itunes:value="background">(Nevermind, yay)</p>
+
+      <p begin="02:11.010" end="02:15.010" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

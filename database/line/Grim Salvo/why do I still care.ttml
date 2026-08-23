@@ -1,109 +1,218 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>why do I still care?</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Grim Salvo</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">Savage Ga$p</ttm:agent>
-      <ttm:item type="album">why do I still care?</ttm:item>
-      <ttm:item type="spotify_id">3jAEm7PjDuSBqYzVOZHpWz</ttm:item>
-      <itunes:duration>03:41.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:16.920" end="00:18.590" ttm:agent="v1">I can take no more</p>
-      <p begin="00:18.590" end="00:20.090" ttm:agent="v1">All these patterns</p>
-      <p begin="00:19.860" end="00:23.030" ttm:agent="v1">They just keep on repeating</p>
-      <p begin="00:23.030" end="00:26.530" ttm:agent="v1">Watching strength just fade away into weakness</p>
-      <p begin="00:26.530" end="00:28.030" ttm:agent="v1">What's in store?</p>
-      <p begin="00:27.550" end="00:29.380" ttm:agent="v1">Modern symptomatic</p>
-      <p begin="00:29.380" end="00:31.840" ttm:agent="v1">So self-defeating</p>
-      <p begin="00:31.840" end="00:35.590" ttm:agent="v1">And it's a triumph just to focus on breathing</p>
-      <p begin="00:35.590" end="00:40.540" ttm:agent="v1">But I still care</p>
-      <p begin="00:40.540" end="00:44.540" ttm:agent="v1">Yeah</p>
-      <p begin="00:44.540" end="00:49.590" ttm:agent="v1">But I still care</p>
-      <p begin="00:49.590" end="00:52.990" ttm:agent="v1">Yeah</p>
-      <p begin="00:52.990" end="00:54.560" ttm:agent="v1">Uh, look</p>
-      <p begin="00:54.560" end="00:56.440" ttm:agent="v1">Like, do you still care for me?</p>
-      <p begin="00:56.440" end="00:58.720" ttm:agent="v1">I long for the times you were there for me</p>
-      <p begin="00:58.720" end="01:01.040" ttm:agent="v1">I hate that I still love about everything about you</p>
-      <p begin="01:01.040" end="01:02.870" ttm:agent="v1">Without you, I'm missing the rest of me</p>
-      <p begin="01:02.870" end="01:05.660" ttm:agent="v1">Okay, retrospectively, perspective changes</p>
-      <p begin="01:05.660" end="01:07.850" ttm:agent="v1">Destiny is better left to strangers</p>
-      <p begin="01:07.850" end="01:10.000" ttm:agent="v1">You can't spell &quot;Fuck it&quot; without U and I, baby</p>
-      <p begin="01:10.000" end="01:12.270" ttm:agent="v1">I'm tryna run it back like a suicide, baby</p>
-      <p begin="01:12.270" end="01:14.510" ttm:agent="v1">'Cause you'll be on my mind 'til I D-I-E</p>
-      <p begin="01:14.510" end="01:16.800" ttm:agent="v1">I'm tryna redefine what I see in we</p>
-      <p begin="01:16.800" end="01:19.160" ttm:agent="v1">But if you plus me equal death and destruction</p>
-      <p begin="01:19.160" end="01:22.090" ttm:agent="v1" itunes:key="role" itunes:value="background">I guess it's a part of L-O-V-E, so let's (I can't take no more)</p>
-      <p begin="01:22.090" end="01:23.590" ttm:agent="v1">All these patterns</p>
-      <p begin="01:23.180" end="01:26.320" ttm:agent="v1">They just keep on repeating</p>
-      <p begin="01:26.320" end="01:29.830" ttm:agent="v1">Watching strength just fade away into weakness</p>
-      <p begin="01:29.830" end="01:31.330" ttm:agent="v1">What's in store?</p>
-      <p begin="01:31.170" end="01:32.670" ttm:agent="v1">Modern symptomatic</p>
-      <p begin="01:32.670" end="01:35.340" ttm:agent="v1">So self-defeating</p>
-      <p begin="01:35.340" end="01:38.870" ttm:agent="v1">And it's a triumph just to focus on breathing</p>
-      <p begin="01:38.870" end="01:43.820" ttm:agent="v1">But I still care</p>
-      <p begin="01:43.820" end="01:47.870" ttm:agent="v1">Yeah</p>
-      <p begin="01:47.870" end="01:52.980" ttm:agent="v1">But I still care</p>
-      <p begin="01:52.980" end="01:57.960" ttm:agent="v1">Yeah</p>
-      <p begin="01:57.960" end="01:59.650" ttm:agent="v1">Got lost through a crack in the floor</p>
-      <p begin="01:59.650" end="02:01.150" ttm:agent="v1">Cold soul blown away</p>
-      <p begin="02:00.730" end="02:02.840" ttm:agent="v1">Now I can't get it back no more</p>
-      <p begin="02:02.840" end="02:04.700" ttm:agent="v1">Picking off the meat from the bones of Lenore</p>
-      <p begin="02:04.700" end="02:06.200" ttm:agent="v1">Blood dripping down my beak</p>
-      <p begin="02:05.990" end="02:07.490" ttm:agent="v1">I will speak nevermore</p>
-      <p begin="02:07.040" end="02:08.990" ttm:agent="v1">Light floating through the crack in the door</p>
-      <p begin="02:08.990" end="02:10.490" ttm:agent="v1">Soul blown away</p>
-      <p begin="02:09.840" end="02:11.590" ttm:agent="v1">Now I can't get it back no more</p>
-      <p begin="02:11.590" end="02:13.220" ttm:agent="v1">First murder, seed for the gore</p>
-      <p begin="02:13.220" end="02:14.720" ttm:agent="v1">Now I don't feel a thing</p>
-      <p begin="02:14.460" end="02:15.960" ttm:agent="v1">No, I don't feel a thing no more</p>
-      <p begin="02:15.760" end="02:17.260" ttm:agent="v1">Shame on you?</p>
-      <p begin="02:16.660" end="02:18.160" ttm:agent="v1">No, shame on me</p>
-      <p begin="02:17.730" end="02:19.950" ttm:agent="v1">Let myself believe that we had all these dreams</p>
-      <p begin="02:19.950" end="02:22.030" ttm:agent="v1">Now I'm stuck just living the nightmare</p>
-      <p begin="02:22.030" end="02:23.930" ttm:agent="v1">No fight, sleeping dog died overnight</p>
-      <p begin="02:23.930" end="02:25.430" ttm:agent="v1">I was right there</p>
-      <p begin="02:25.050" end="02:27.100" ttm:agent="v1">Hide n' seek, so terrified I can't breathe</p>
-      <p begin="02:27.100" end="02:29.100" ttm:agent="v1">I thought I heard it scratching at the trapdoor</p>
-      <p begin="02:29.100" end="02:31.010" ttm:agent="v1">Underneath the same rug where we sweep</p>
-      <p begin="02:31.010" end="02:32.520" ttm:agent="v1">Lying to each other through our teeth</p>
-      <p begin="02:32.520" end="02:34.020" ttm:agent="v1">Last thing I heard you say was</p>
-      <p begin="02:33.630" end="02:35.130" ttm:agent="v1">&quot;Go to sleep&quot;</p>
-      <p begin="02:34.400" end="02:42.400" ttm:agent="v1"/>
-      <p begin="02:43.300" end="02:44.880" ttm:agent="v1">Got lost through a crack in the floor</p>
-      <p begin="02:44.880" end="02:46.380" ttm:agent="v1">Cold soul blown away</p>
-      <p begin="02:46.070" end="02:48.060" ttm:agent="v1">Now I can't get it back no more</p>
-      <p begin="02:48.060" end="02:50.000" ttm:agent="v1">Picking off the meat from the bones of Lenore</p>
-      <p begin="02:50.000" end="02:51.500" ttm:agent="v1">Blood dripping down my beak</p>
-      <p begin="02:51.240" end="02:52.740" ttm:agent="v1">I will speak nevermore</p>
-      <p begin="02:52.340" end="02:54.270" ttm:agent="v1">Light floating through the crack in the door</p>
-      <p begin="02:54.270" end="02:55.770" ttm:agent="v1">Soul blown away</p>
-      <p begin="02:55.090" end="02:56.790" ttm:agent="v1">Now I can't get it back no more</p>
-      <p begin="02:56.790" end="02:58.510" ttm:agent="v1">First murder, seed for the gore</p>
-      <p begin="02:58.510" end="03:00.010" ttm:agent="v1">Now I don't feel a thing</p>
-      <p begin="02:59.790" end="03:01.570" ttm:agent="v1" itunes:key="role" itunes:value="background">No, I don't feel a thing no more (I can take no more)</p>
-      <p begin="03:01.570" end="03:03.070" ttm:agent="v1">All these patterns</p>
-      <p begin="03:02.850" end="03:06.090" ttm:agent="v1">They just keep on repeating</p>
-      <p begin="03:06.090" end="03:09.590" ttm:agent="v1">Watching strength just fade away into weakness</p>
-      <p begin="03:09.590" end="03:11.090" ttm:agent="v1">What's in store?</p>
-      <p begin="03:10.630" end="03:12.310" ttm:agent="v1">Modern symptomatic</p>
-      <p begin="03:12.310" end="03:14.960" ttm:agent="v1">So self-defeating</p>
-      <p begin="03:14.960" end="03:18.600" ttm:agent="v1">And it's a triumph just to focus on breathing</p>
-      <p begin="03:18.600" end="03:23.570" ttm:agent="v1">But I still care</p>
-      <p begin="03:23.570" end="03:27.590" ttm:agent="v1">Yeah</p>
-      <p begin="03:27.590" end="03:32.640" ttm:agent="v1">But I still care</p>
-      <p begin="03:32.640" end="03:37.500" ttm:agent="v1">Yeah</p>
-      <p begin="03:37.500" end="03:41.500" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>why do I still care?</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Grim Salvo</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v2">Savage Ga$p</ttm:agent>
+
+      <ttm:item type="album">why do I still care?</ttm:item>
+
+      <ttm:item type="spotify_id">3jAEm7PjDuSBqYzVOZHpWz</ttm:item>
+
+      <itunes:duration>03:41.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:16.920" end="00:18.590" ttm:agent="v1">I can take no more</p>
+
+      <p begin="00:18.590" end="00:20.090" ttm:agent="v1">All these patterns</p>
+
+      <p begin="00:19.860" end="00:23.030" ttm:agent="v1">They just keep on repeating</p>
+
+      <p begin="00:23.030" end="00:26.530" ttm:agent="v1">Watching strength just fade away into weakness</p>
+
+      <p begin="00:26.530" end="00:28.030" ttm:agent="v1">What's in store?</p>
+
+      <p begin="00:27.550" end="00:29.380" ttm:agent="v1">Modern symptomatic</p>
+
+      <p begin="00:29.380" end="00:31.840" ttm:agent="v1">So self-defeating</p>
+
+      <p begin="00:31.840" end="00:35.590" ttm:agent="v1">And it's a triumph just to focus on breathing</p>
+
+      <p begin="00:35.590" end="00:40.540" ttm:agent="v1">But I still care</p>
+
+      <p begin="00:40.540" end="00:44.540" ttm:agent="v1">Yeah</p>
+
+      <p begin="00:44.540" end="00:49.590" ttm:agent="v1">But I still care</p>
+
+      <p begin="00:49.590" end="00:52.990" ttm:agent="v1">Yeah</p>
+
+      <p begin="00:52.990" end="00:54.560" ttm:agent="v1">Uh, look</p>
+
+      <p begin="00:54.560" end="00:56.440" ttm:agent="v1">Like, do you still care for me?</p>
+
+      <p begin="00:56.440" end="00:58.720" ttm:agent="v1">I long for the times you were there for me</p>
+
+      <p begin="00:58.720" end="01:01.040" ttm:agent="v1">I hate that I still love about everything about you</p>
+
+      <p begin="01:01.040" end="01:02.870" ttm:agent="v1">Without you, I'm missing the rest of me</p>
+
+      <p begin="01:02.870" end="01:05.660" ttm:agent="v1">Okay, retrospectively, perspective changes</p>
+
+      <p begin="01:05.660" end="01:07.850" ttm:agent="v1">Destiny is better left to strangers</p>
+
+      <p begin="01:07.850" end="01:10.000" ttm:agent="v1">You can't spell &quot;Fuck it&quot; without U and I, baby</p>
+
+      <p begin="01:10.000" end="01:12.270" ttm:agent="v1">I'm tryna run it back like a suicide, baby</p>
+
+      <p begin="01:12.270" end="01:14.510" ttm:agent="v1">'Cause you'll be on my mind 'til I D-I-E</p>
+
+      <p begin="01:14.510" end="01:16.800" ttm:agent="v1">I'm tryna redefine what I see in we</p>
+
+      <p begin="01:16.800" end="01:19.160" ttm:agent="v1">But if you plus me equal death and destruction</p>
+
+      <p begin="01:19.160" end="01:22.090" ttm:agent="v1">I guess it's a part of L-O-V-E, so let's (I can't take no more)</p>
+
+      <p begin="01:22.090" end="01:23.590" ttm:agent="v1">All these patterns</p>
+
+      <p begin="01:23.180" end="01:26.320" ttm:agent="v1">They just keep on repeating</p>
+
+      <p begin="01:26.320" end="01:29.830" ttm:agent="v1">Watching strength just fade away into weakness</p>
+
+      <p begin="01:29.830" end="01:31.330" ttm:agent="v1">What's in store?</p>
+
+      <p begin="01:31.170" end="01:32.670" ttm:agent="v1">Modern symptomatic</p>
+
+      <p begin="01:32.670" end="01:35.340" ttm:agent="v1">So self-defeating</p>
+
+      <p begin="01:35.340" end="01:38.870" ttm:agent="v1">And it's a triumph just to focus on breathing</p>
+
+      <p begin="01:38.870" end="01:43.820" ttm:agent="v1">But I still care</p>
+
+      <p begin="01:43.820" end="01:47.870" ttm:agent="v1">Yeah</p>
+
+      <p begin="01:47.870" end="01:52.980" ttm:agent="v1">But I still care</p>
+
+      <p begin="01:52.980" end="01:57.960" ttm:agent="v1">Yeah</p>
+
+      <p begin="01:57.960" end="01:59.650" ttm:agent="v1">Got lost through a crack in the floor</p>
+
+      <p begin="01:59.650" end="02:01.150" ttm:agent="v1">Cold soul blown away</p>
+
+      <p begin="02:00.730" end="02:02.840" ttm:agent="v1">Now I can't get it back no more</p>
+
+      <p begin="02:02.840" end="02:04.700" ttm:agent="v1">Picking off the meat from the bones of Lenore</p>
+
+      <p begin="02:04.700" end="02:06.200" ttm:agent="v1">Blood dripping down my beak</p>
+
+      <p begin="02:05.990" end="02:07.490" ttm:agent="v1">I will speak nevermore</p>
+
+      <p begin="02:07.040" end="02:08.990" ttm:agent="v1">Light floating through the crack in the door</p>
+
+      <p begin="02:08.990" end="02:10.490" ttm:agent="v1">Soul blown away</p>
+
+      <p begin="02:09.840" end="02:11.590" ttm:agent="v1">Now I can't get it back no more</p>
+
+      <p begin="02:11.590" end="02:13.220" ttm:agent="v1">First murder, seed for the gore</p>
+
+      <p begin="02:13.220" end="02:14.720" ttm:agent="v1">Now I don't feel a thing</p>
+
+      <p begin="02:14.460" end="02:15.960" ttm:agent="v1">No, I don't feel a thing no more</p>
+
+      <p begin="02:15.760" end="02:17.260" ttm:agent="v1">Shame on you?</p>
+
+      <p begin="02:16.660" end="02:18.160" ttm:agent="v1">No, shame on me</p>
+
+      <p begin="02:17.730" end="02:19.950" ttm:agent="v1">Let myself believe that we had all these dreams</p>
+
+      <p begin="02:19.950" end="02:22.030" ttm:agent="v1">Now I'm stuck just living the nightmare</p>
+
+      <p begin="02:22.030" end="02:23.930" ttm:agent="v1">No fight, sleeping dog died overnight</p>
+
+      <p begin="02:23.930" end="02:25.430" ttm:agent="v1">I was right there</p>
+
+      <p begin="02:25.050" end="02:27.100" ttm:agent="v1">Hide n' seek, so terrified I can't breathe</p>
+
+      <p begin="02:27.100" end="02:29.100" ttm:agent="v1">I thought I heard it scratching at the trapdoor</p>
+
+      <p begin="02:29.100" end="02:31.010" ttm:agent="v1">Underneath the same rug where we sweep</p>
+
+      <p begin="02:31.010" end="02:32.520" ttm:agent="v1">Lying to each other through our teeth</p>
+
+      <p begin="02:32.520" end="02:34.020" ttm:agent="v1">Last thing I heard you say was</p>
+
+      <p begin="02:33.630" end="02:35.130" ttm:agent="v1">&quot;Go to sleep&quot;</p>
+
+      <p begin="02:34.400" end="02:42.400" ttm:agent="v1"/>
+
+      <p begin="02:43.300" end="02:44.880" ttm:agent="v1">Got lost through a crack in the floor</p>
+
+      <p begin="02:44.880" end="02:46.380" ttm:agent="v1">Cold soul blown away</p>
+
+      <p begin="02:46.070" end="02:48.060" ttm:agent="v1">Now I can't get it back no more</p>
+
+      <p begin="02:48.060" end="02:50.000" ttm:agent="v1">Picking off the meat from the bones of Lenore</p>
+
+      <p begin="02:50.000" end="02:51.500" ttm:agent="v1">Blood dripping down my beak</p>
+
+      <p begin="02:51.240" end="02:52.740" ttm:agent="v1">I will speak nevermore</p>
+
+      <p begin="02:52.340" end="02:54.270" ttm:agent="v1">Light floating through the crack in the door</p>
+
+      <p begin="02:54.270" end="02:55.770" ttm:agent="v1">Soul blown away</p>
+
+      <p begin="02:55.090" end="02:56.790" ttm:agent="v1">Now I can't get it back no more</p>
+
+      <p begin="02:56.790" end="02:58.510" ttm:agent="v1">First murder, seed for the gore</p>
+
+      <p begin="02:58.510" end="03:00.010" ttm:agent="v1">Now I don't feel a thing</p>
+
+      <p begin="02:59.790" end="03:01.570" ttm:agent="v1">No, I don't feel a thing no more (I can take no more)</p>
+
+      <p begin="03:01.570" end="03:03.070" ttm:agent="v1">All these patterns</p>
+
+      <p begin="03:02.850" end="03:06.090" ttm:agent="v1">They just keep on repeating</p>
+
+      <p begin="03:06.090" end="03:09.590" ttm:agent="v1">Watching strength just fade away into weakness</p>
+
+      <p begin="03:09.590" end="03:11.090" ttm:agent="v1">What's in store?</p>
+
+      <p begin="03:10.630" end="03:12.310" ttm:agent="v1">Modern symptomatic</p>
+
+      <p begin="03:12.310" end="03:14.960" ttm:agent="v1">So self-defeating</p>
+
+      <p begin="03:14.960" end="03:18.600" ttm:agent="v1">And it's a triumph just to focus on breathing</p>
+
+      <p begin="03:18.600" end="03:23.570" ttm:agent="v1">But I still care</p>
+
+      <p begin="03:23.570" end="03:27.590" ttm:agent="v1">Yeah</p>
+
+      <p begin="03:27.590" end="03:32.640" ttm:agent="v1">But I still care</p>
+
+      <p begin="03:32.640" end="03:37.500" ttm:agent="v1">Yeah</p>
+
+      <p begin="03:37.500" end="03:41.500" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

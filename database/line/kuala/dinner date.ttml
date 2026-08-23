@@ -1,69 +1,138 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>dinner date</ttm:title>
-      <ttm:agent type="person" xml:id="v1">kuala</ttm:agent>
-      <ttm:item type="album">dinner date</ttm:item>
-      <ttm:item type="spotify_id">68LeaFkVDQafUIjrBCQQtd</ttm:item>
-      <itunes:duration>03:17.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:01.230" end="00:02.730" ttm:agent="v1" itunes:key="role" itunes:value="background">(One, two, three, four)</p>
-      <p begin="00:01.850" end="00:05.000" ttm:agent="v1">I wanted to tell you</p>
-      <p begin="00:05.000" end="00:07.920" ttm:agent="v1">&quot;Tell me what you're thinking&quot;</p>
-      <p begin="00:07.920" end="00:10.820" ttm:agent="v1">If you could see from my point of view</p>
-      <p begin="00:10.820" end="00:14.150" ttm:agent="v1">You'd understand the way I get so confused</p>
-      <p begin="00:14.150" end="00:17.520" ttm:agent="v1">By the way you're looking at me</p>
-      <p begin="00:17.520" end="00:20.460" ttm:agent="v1">I've done this so many times before</p>
-      <p begin="00:20.460" end="00:23.300" ttm:agent="v1">So why'd I get so nervous that day</p>
-      <p begin="00:23.300" end="00:27.390" ttm:agent="v1">From the second that you walked through the door?</p>
-      <p begin="00:27.390" end="00:30.950" ttm:agent="v1">I'm like, I bet you didn't expect I was coming through</p>
-      <p begin="00:30.950" end="00:36.180" ttm:agent="v1">I didn't think I would fall for you for more than a day</p>
-      <p begin="00:36.180" end="00:39.790" ttm:agent="v1">I swear I'll behave</p>
-      <p begin="00:39.790" end="00:43.250" ttm:agent="v1">You said you think it'd be fun if we went on a dinner date</p>
-      <p begin="00:43.250" end="00:48.040" ttm:agent="v1">Wrapped up in silence 'cause we only knew each other's names</p>
-      <p begin="00:48.040" end="00:51.440" ttm:agent="v1">But I still wanted to stay there with you</p>
-      <p begin="00:51.440" end="00:54.640" ttm:agent="v1">I'm balancing my situation</p>
-      <p begin="00:54.640" end="00:57.740" ttm:agent="v1">I didn't have time to see it through</p>
-      <p begin="00:57.740" end="01:00.380" ttm:agent="v1">Then you went and destroyed all my plans</p>
-      <p begin="01:00.380" end="01:08.380" ttm:agent="v1" itunes:key="role" itunes:value="background">And now the only thing I'm wanting is you (yeah!)</p>
-      <p begin="01:21.140" end="01:22.640" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ok, wait, wait, wait)</p>
-      <p begin="01:21.910" end="01:23.410" ttm:agent="v1" itunes:key="role" itunes:value="background">(One, two, three, yeah) (woo!)</p>
-      <p begin="01:22.570" end="01:25.420" ttm:agent="v1" itunes:key="role" itunes:value="background">Baby we're alone now (ha ha)</p>
-      <p begin="01:25.420" end="01:28.820" ttm:agent="v1">Everyone disappeared from the room</p>
-      <p begin="01:28.820" end="01:31.440" ttm:agent="v1">You act like nothing's happening, and I</p>
-      <p begin="01:31.440" end="01:34.660" ttm:agent="v1">I'm acting like my eyes aren't glued onto you</p>
-      <p begin="01:34.660" end="01:37.770" ttm:agent="v1" itunes:key="role" itunes:value="background">I think that if I had it my way (talk all the time, in the evening hit up my line)</p>
-      <p begin="01:37.770" end="01:41.290" ttm:agent="v1">You'd spend the night and we'd stay up 'til 2</p>
-      <p begin="01:41.290" end="01:43.780" ttm:agent="v1">You lit a spark, it turned to a flame</p>
-      <p begin="01:43.780" end="01:47.720" ttm:agent="v1" itunes:key="role" itunes:value="background">If I reciprocate you'll catch fire too (one, two, three, four)</p>
-      <p begin="01:47.720" end="01:51.420" ttm:agent="v1">I'm like, I know I love that you're here but it's difficult</p>
-      <p begin="01:51.420" end="01:56.180" ttm:agent="v1">I didn't know you would ask me if I wanted to stay</p>
-      <p begin="01:56.180" end="02:00.180" ttm:agent="v1">Done with the day after day</p>
-      <p begin="02:00.180" end="02:03.800" ttm:agent="v1">You said you think it'd be fun if we went on a dinner date</p>
-      <p begin="02:03.800" end="02:08.500" ttm:agent="v1">Wrapped up in silence 'cause we only knew each other's names</p>
-      <p begin="02:08.500" end="02:11.960" ttm:agent="v1">But I still wanted to stay there with you</p>
-      <p begin="02:11.960" end="02:15.130" ttm:agent="v1">I'm balancing my situation</p>
-      <p begin="02:15.130" end="02:18.260" ttm:agent="v1">I didn't have time to see it through</p>
-      <p begin="02:18.260" end="02:20.930" ttm:agent="v1">Then you went and destroyed all my plans</p>
-      <p begin="02:20.930" end="02:28.930" ttm:agent="v1">And now the only thing I'm wanting is you</p>
-      <p begin="02:44.050" end="02:47.250" ttm:agent="v1">I bet you didn't expect I was coming through</p>
-      <p begin="02:47.250" end="02:52.280" ttm:agent="v1">I didn't think I would fall for you for more than a day</p>
-      <p begin="02:52.280" end="02:55.670" ttm:agent="v1">I swear I'll behave</p>
-      <p begin="02:55.670" end="02:59.560" ttm:agent="v1">You said you think it'd be fun if we went on a dinner date</p>
-      <p begin="02:59.560" end="03:04.270" ttm:agent="v1">Wrapped up in silence 'cause we only knew each other's names</p>
-      <p begin="03:04.270" end="03:12.270" ttm:agent="v1">But I still wanted to stay there with you</p>
-      <p begin="03:15.960" end="03:19.960" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>dinner date</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">kuala</ttm:agent>
+
+      <ttm:item type="album">dinner date</ttm:item>
+
+      <ttm:item type="spotify_id">68LeaFkVDQafUIjrBCQQtd</ttm:item>
+
+      <itunes:duration>03:17.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:01.230" end="00:02.730" ttm:agent="v1" itunes:key="role" itunes:value="background">(One, two, three, four)</p>
+
+      <p begin="00:01.850" end="00:05.000" ttm:agent="v1">I wanted to tell you</p>
+
+      <p begin="00:05.000" end="00:07.920" ttm:agent="v1">&quot;Tell me what you're thinking&quot;</p>
+
+      <p begin="00:07.920" end="00:10.820" ttm:agent="v1">If you could see from my point of view</p>
+
+      <p begin="00:10.820" end="00:14.150" ttm:agent="v1">You'd understand the way I get so confused</p>
+
+      <p begin="00:14.150" end="00:17.520" ttm:agent="v1">By the way you're looking at me</p>
+
+      <p begin="00:17.520" end="00:20.460" ttm:agent="v1">I've done this so many times before</p>
+
+      <p begin="00:20.460" end="00:23.300" ttm:agent="v1">So why'd I get so nervous that day</p>
+
+      <p begin="00:23.300" end="00:27.390" ttm:agent="v1">From the second that you walked through the door?</p>
+
+      <p begin="00:27.390" end="00:30.950" ttm:agent="v1">I'm like, I bet you didn't expect I was coming through</p>
+
+      <p begin="00:30.950" end="00:36.180" ttm:agent="v1">I didn't think I would fall for you for more than a day</p>
+
+      <p begin="00:36.180" end="00:39.790" ttm:agent="v1">I swear I'll behave</p>
+
+      <p begin="00:39.790" end="00:43.250" ttm:agent="v1">You said you think it'd be fun if we went on a dinner date</p>
+
+      <p begin="00:43.250" end="00:48.040" ttm:agent="v1">Wrapped up in silence 'cause we only knew each other's names</p>
+
+      <p begin="00:48.040" end="00:51.440" ttm:agent="v1">But I still wanted to stay there with you</p>
+
+      <p begin="00:51.440" end="00:54.640" ttm:agent="v1">I'm balancing my situation</p>
+
+      <p begin="00:54.640" end="00:57.740" ttm:agent="v1">I didn't have time to see it through</p>
+
+      <p begin="00:57.740" end="01:00.380" ttm:agent="v1">Then you went and destroyed all my plans</p>
+
+      <p begin="01:00.380" end="01:08.380" ttm:agent="v1">And now the only thing I'm wanting is you (yeah!)</p>
+
+      <p begin="01:21.140" end="01:22.640" ttm:agent="v1" itunes:key="role" itunes:value="background">(Ok, wait, wait, wait)</p>
+
+      <p begin="01:21.910" end="01:23.410" ttm:agent="v1" itunes:key="role" itunes:value="background">(One, two, three, yeah) (woo!)</p>
+
+      <p begin="01:22.570" end="01:25.420" ttm:agent="v1">Baby we're alone now (ha ha)</p>
+
+      <p begin="01:25.420" end="01:28.820" ttm:agent="v1">Everyone disappeared from the room</p>
+
+      <p begin="01:28.820" end="01:31.440" ttm:agent="v1">You act like nothing's happening, and I</p>
+
+      <p begin="01:31.440" end="01:34.660" ttm:agent="v1">I'm acting like my eyes aren't glued onto you</p>
+
+      <p begin="01:34.660" end="01:37.770" ttm:agent="v1">I think that if I had it my way (talk all the time, in the evening hit up my line)</p>
+
+      <p begin="01:37.770" end="01:41.290" ttm:agent="v1">You'd spend the night and we'd stay up 'til 2</p>
+
+      <p begin="01:41.290" end="01:43.780" ttm:agent="v1">You lit a spark, it turned to a flame</p>
+
+      <p begin="01:43.780" end="01:47.720" ttm:agent="v1">If I reciprocate you'll catch fire too (one, two, three, four)</p>
+
+      <p begin="01:47.720" end="01:51.420" ttm:agent="v1">I'm like, I know I love that you're here but it's difficult</p>
+
+      <p begin="01:51.420" end="01:56.180" ttm:agent="v1">I didn't know you would ask me if I wanted to stay</p>
+
+      <p begin="01:56.180" end="02:00.180" ttm:agent="v1">Done with the day after day</p>
+
+      <p begin="02:00.180" end="02:03.800" ttm:agent="v1">You said you think it'd be fun if we went on a dinner date</p>
+
+      <p begin="02:03.800" end="02:08.500" ttm:agent="v1">Wrapped up in silence 'cause we only knew each other's names</p>
+
+      <p begin="02:08.500" end="02:11.960" ttm:agent="v1">But I still wanted to stay there with you</p>
+
+      <p begin="02:11.960" end="02:15.130" ttm:agent="v1">I'm balancing my situation</p>
+
+      <p begin="02:15.130" end="02:18.260" ttm:agent="v1">I didn't have time to see it through</p>
+
+      <p begin="02:18.260" end="02:20.930" ttm:agent="v1">Then you went and destroyed all my plans</p>
+
+      <p begin="02:20.930" end="02:28.930" ttm:agent="v1">And now the only thing I'm wanting is you</p>
+
+      <p begin="02:44.050" end="02:47.250" ttm:agent="v1">I bet you didn't expect I was coming through</p>
+
+      <p begin="02:47.250" end="02:52.280" ttm:agent="v1">I didn't think I would fall for you for more than a day</p>
+
+      <p begin="02:52.280" end="02:55.670" ttm:agent="v1">I swear I'll behave</p>
+
+      <p begin="02:55.670" end="02:59.560" ttm:agent="v1">You said you think it'd be fun if we went on a dinner date</p>
+
+      <p begin="02:59.560" end="03:04.270" ttm:agent="v1">Wrapped up in silence 'cause we only knew each other's names</p>
+
+      <p begin="03:04.270" end="03:12.270" ttm:agent="v1">But I still wanted to stay there with you</p>
+
+      <p begin="03:15.960" end="03:19.960" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

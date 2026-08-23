@@ -1,87 +1,174 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>SPOT!</ttm:title>
-      <ttm:agent type="person" xml:id="v1">ZICO</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">JENNIE</ttm:agent>
-      <ttm:item type="album">SPOT!</ttm:item>
-      <ttm:item type="spotify_id">1SS0WlKhJewviwEDZ6dWj0</ttm:item>
-      <itunes:duration>02:47.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.660" end="00:02.580" ttm:agent="v1">Everything okay, my man?</p>
-      <p begin="00:02.580" end="00:04.600" ttm:agent="v1">Turn the music up</p>
-      <p begin="00:04.600" end="00:10.080" ttm:agent="v1">Mm, we're not going home tonight, alright</p>
-      <p begin="00:10.080" end="00:13.220" ttm:agent="v1">네 계획에 없던 party</p>
-      <p begin="00:13.220" end="00:15.120" ttm:agent="v1">Up and down, round and round</p>
-      <p begin="00:15.120" end="00:17.880" ttm:agent="v1">Hit the spot, spot, spot, spot</p>
-      <p begin="00:17.880" end="00:22.580" ttm:agent="v1">엎치락뒤치락 정신을 왜 차려? 왜?</p>
-      <p begin="00:22.580" end="00:24.600" ttm:agent="v1">Hey, girl, where you at?</p>
-      <p begin="00:24.600" end="00:26.700" ttm:agent="v1" itunes:key="role" itunes:value="background">데리러 갈게 send me the address (hey)</p>
-      <p begin="00:26.700" end="00:28.660" ttm:agent="v1">No dress code 대충 걸치면 돼</p>
-      <p begin="00:28.660" end="00:31.430" ttm:agent="v1" itunes:key="role" itunes:value="background">우린 꾸밈없고, 나머진 억텐 (yeah)</p>
-      <p begin="00:31.430" end="00:33.460" ttm:agent="v1" itunes:key="role" itunes:value="background">농익은 분위기 it's too sticky (sticky)</p>
-      <p begin="00:33.460" end="00:35.820" ttm:agent="v1" itunes:key="role" itunes:value="background">마구 부대껴, 어머! 정전기 찌릿 (찌릿)</p>
-      <p begin="00:35.820" end="00:37.750" ttm:agent="v1" itunes:key="role" itunes:value="background">여긴 내 동생 저기는 내 homie (what's up?)</p>
-      <p begin="00:37.750" end="00:40.450" ttm:agent="v1">순둥이지만 음악 틀면 눈 돌지</p>
-      <p begin="00:40.450" end="00:42.680" ttm:agent="v1">Chillin' out, we yellin' out, one more</p>
-      <p begin="00:42.680" end="00:44.770" ttm:agent="v1">찐친 vibe 위아래 안 따져</p>
-      <p begin="00:44.770" end="00:46.860" ttm:agent="v1">부끄런 I 피식 E를 드러내</p>
-      <p begin="00:46.860" end="00:48.970" ttm:agent="v1">포위됐어 넌, now hands in the air</p>
-      <p begin="00:48.970" end="00:54.560" ttm:agent="v1">Mm, we're not going home tonight, alright</p>
-      <p begin="00:54.560" end="00:57.820" ttm:agent="v1">네 계획에 없던 party</p>
-      <p begin="00:57.820" end="00:59.510" ttm:agent="v1">Up and down, round and round</p>
-      <p begin="00:59.510" end="01:02.250" ttm:agent="v1">Hit the spot, spot, spot, spot</p>
-      <p begin="01:02.250" end="01:06.740" ttm:agent="v1">엎치락뒤치락 정신을 왜 차려? 왜?</p>
-      <p begin="01:06.740" end="01:08.480" ttm:agent="v1">Up and down, round and round</p>
-      <p begin="01:08.480" end="01:11.360" ttm:agent="v1">Everybody, hit the spot</p>
-      <p begin="01:11.360" end="01:13.090" ttm:agent="v1">Up and down, round and round</p>
-      <p begin="01:13.090" end="01:15.620" ttm:agent="v1">Everybody, hit the top</p>
-      <p begin="01:15.620" end="01:17.380" ttm:agent="v1">Up and down, round and round</p>
-      <p begin="01:17.380" end="01:19.930" ttm:agent="v1">Everybody, make it loud</p>
-      <p begin="01:19.930" end="01:21.880" ttm:agent="v1">Up and down, round and round</p>
-      <p begin="01:21.880" end="01:24.650" ttm:agent="v1">Ain't nobody hold us down</p>
-      <p begin="01:24.650" end="01:26.730" ttm:agent="v1">어깨 툭툭 he say, &quot;Yo, JENNIE</p>
-      <p begin="01:26.730" end="01:29.170" ttm:agent="v1">Told you that 도망치면 배신&quot;</p>
-      <p begin="01:29.170" end="01:31.070" ttm:agent="v1">Yeah, I know, I know</p>
-      <p begin="01:31.070" end="01:33.450" ttm:agent="v1">일단 더우니까 바람 쐬러 나가</p>
-      <p begin="01:33.450" end="01:35.660" ttm:agent="v1">Bae, 나갈 때 뒤로 딱 붙어</p>
-      <p begin="01:35.660" end="01:38.060" ttm:agent="v1">땀 뺐으니까 후딱 ice cream, go</p>
-      <p begin="01:38.060" end="01:39.950" ttm:agent="v1">들키면 피곤해져, put your mask on</p>
-      <p begin="01:39.950" end="01:42.160" ttm:agent="v1" itunes:key="role" itunes:value="background">한바퀴 돌고 퀵하게 조인해 (ah)</p>
-      <p begin="01:42.160" end="01:44.520" ttm:agent="v1">우리 프로젝트 타이틀 명은 &quot;J-Z&quot;</p>
-      <p begin="01:44.520" end="01:46.990" ttm:agent="v1" itunes:key="role" itunes:value="background">We gon' run this town, that's crazy (uh)</p>
-      <p begin="01:46.990" end="01:48.830" ttm:agent="v1">짱박아 놨던 네 똘끼를 꺼내, huh</p>
-      <p begin="01:48.830" end="01:51.150" ttm:agent="v1">해방됐어 넌, now hands in the air</p>
-      <p begin="01:51.150" end="01:56.740" ttm:agent="v1">Mm, we're not going home tonight, alright</p>
-      <p begin="01:56.740" end="01:59.980" ttm:agent="v1">네 계획에 없던 party</p>
-      <p begin="01:59.980" end="02:01.630" ttm:agent="v1">Up and down, round and round</p>
-      <p begin="02:01.630" end="02:04.420" ttm:agent="v1">Hit the spot, spot, spot, spot</p>
-      <p begin="02:04.420" end="02:09.040" ttm:agent="v1">엎치락뒤치락 정신을 왜 차려? 왜?</p>
-      <p begin="02:09.040" end="02:10.600" ttm:agent="v1">Up and down, round and round</p>
-      <p begin="02:10.600" end="02:13.380" ttm:agent="v1">Everybody, hit the spot</p>
-      <p begin="02:13.380" end="02:15.070" ttm:agent="v1">Up and down, round and round</p>
-      <p begin="02:15.070" end="02:17.920" ttm:agent="v1">Everybody, hit the top</p>
-      <p begin="02:17.920" end="02:19.530" ttm:agent="v1">Up and down round and round</p>
-      <p begin="02:19.530" end="02:22.420" ttm:agent="v1">Everybody, make it loud</p>
-      <p begin="02:22.420" end="02:24.010" ttm:agent="v1">Up and down, round and round</p>
-      <p begin="02:24.010" end="02:27.450" ttm:agent="v1">Everybody, stop, wait a minute, ow</p>
-      <p begin="02:27.450" end="02:30.090" ttm:agent="v1"/>
-      <p begin="02:30.090" end="02:32.710" ttm:agent="v1">Hey, hey</p>
-      <p begin="02:32.710" end="02:38.930" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, come vibe with us, ride with us (hey)</p>
-      <p begin="02:38.930" end="02:44.070" ttm:agent="v1">Hey, hey</p>
-      <p begin="02:44.070" end="02:46.450" ttm:agent="v1">Hey</p>
-      <p begin="02:46.450" end="02:50.450" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>SPOT!</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">ZICO</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v2">JENNIE</ttm:agent>
+
+      <ttm:item type="album">SPOT!</ttm:item>
+
+      <ttm:item type="spotify_id">1SS0WlKhJewviwEDZ6dWj0</ttm:item>
+
+      <itunes:duration>02:47.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.660" end="00:02.580" ttm:agent="v1">Everything okay, my man?</p>
+
+      <p begin="00:02.580" end="00:04.600" ttm:agent="v1">Turn the music up</p>
+
+      <p begin="00:04.600" end="00:10.080" ttm:agent="v1">Mm, we're not going home tonight, alright</p>
+
+      <p begin="00:10.080" end="00:13.220" ttm:agent="v1">네 계획에 없던 party</p>
+
+      <p begin="00:13.220" end="00:15.120" ttm:agent="v1">Up and down, round and round</p>
+
+      <p begin="00:15.120" end="00:17.880" ttm:agent="v1">Hit the spot, spot, spot, spot</p>
+
+      <p begin="00:17.880" end="00:22.580" ttm:agent="v1">엎치락뒤치락 정신을 왜 차려? 왜?</p>
+
+      <p begin="00:22.580" end="00:24.600" ttm:agent="v1">Hey, girl, where you at?</p>
+
+      <p begin="00:24.600" end="00:26.700" ttm:agent="v1">데리러 갈게 send me the address (hey)</p>
+
+      <p begin="00:26.700" end="00:28.660" ttm:agent="v1">No dress code 대충 걸치면 돼</p>
+
+      <p begin="00:28.660" end="00:31.430" ttm:agent="v1">우린 꾸밈없고, 나머진 억텐 (yeah)</p>
+
+      <p begin="00:31.430" end="00:33.460" ttm:agent="v1">농익은 분위기 it's too sticky (sticky)</p>
+
+      <p begin="00:33.460" end="00:35.820" ttm:agent="v1">마구 부대껴, 어머! 정전기 찌릿 (찌릿)</p>
+
+      <p begin="00:35.820" end="00:37.750" ttm:agent="v1">여긴 내 동생 저기는 내 homie (what's up?)</p>
+
+      <p begin="00:37.750" end="00:40.450" ttm:agent="v1">순둥이지만 음악 틀면 눈 돌지</p>
+
+      <p begin="00:40.450" end="00:42.680" ttm:agent="v1">Chillin' out, we yellin' out, one more</p>
+
+      <p begin="00:42.680" end="00:44.770" ttm:agent="v1">찐친 vibe 위아래 안 따져</p>
+
+      <p begin="00:44.770" end="00:46.860" ttm:agent="v1">부끄런 I 피식 E를 드러내</p>
+
+      <p begin="00:46.860" end="00:48.970" ttm:agent="v1">포위됐어 넌, now hands in the air</p>
+
+      <p begin="00:48.970" end="00:54.560" ttm:agent="v1">Mm, we're not going home tonight, alright</p>
+
+      <p begin="00:54.560" end="00:57.820" ttm:agent="v1">네 계획에 없던 party</p>
+
+      <p begin="00:57.820" end="00:59.510" ttm:agent="v1">Up and down, round and round</p>
+
+      <p begin="00:59.510" end="01:02.250" ttm:agent="v1">Hit the spot, spot, spot, spot</p>
+
+      <p begin="01:02.250" end="01:06.740" ttm:agent="v1">엎치락뒤치락 정신을 왜 차려? 왜?</p>
+
+      <p begin="01:06.740" end="01:08.480" ttm:agent="v1">Up and down, round and round</p>
+
+      <p begin="01:08.480" end="01:11.360" ttm:agent="v1">Everybody, hit the spot</p>
+
+      <p begin="01:11.360" end="01:13.090" ttm:agent="v1">Up and down, round and round</p>
+
+      <p begin="01:13.090" end="01:15.620" ttm:agent="v1">Everybody, hit the top</p>
+
+      <p begin="01:15.620" end="01:17.380" ttm:agent="v1">Up and down, round and round</p>
+
+      <p begin="01:17.380" end="01:19.930" ttm:agent="v1">Everybody, make it loud</p>
+
+      <p begin="01:19.930" end="01:21.880" ttm:agent="v1">Up and down, round and round</p>
+
+      <p begin="01:21.880" end="01:24.650" ttm:agent="v1">Ain't nobody hold us down</p>
+
+      <p begin="01:24.650" end="01:26.730" ttm:agent="v1">어깨 툭툭 he say, &quot;Yo, JENNIE</p>
+
+      <p begin="01:26.730" end="01:29.170" ttm:agent="v1">Told you that 도망치면 배신&quot;</p>
+
+      <p begin="01:29.170" end="01:31.070" ttm:agent="v1">Yeah, I know, I know</p>
+
+      <p begin="01:31.070" end="01:33.450" ttm:agent="v1">일단 더우니까 바람 쐬러 나가</p>
+
+      <p begin="01:33.450" end="01:35.660" ttm:agent="v1">Bae, 나갈 때 뒤로 딱 붙어</p>
+
+      <p begin="01:35.660" end="01:38.060" ttm:agent="v1">땀 뺐으니까 후딱 ice cream, go</p>
+
+      <p begin="01:38.060" end="01:39.950" ttm:agent="v1">들키면 피곤해져, put your mask on</p>
+
+      <p begin="01:39.950" end="01:42.160" ttm:agent="v1">한바퀴 돌고 퀵하게 조인해 (ah)</p>
+
+      <p begin="01:42.160" end="01:44.520" ttm:agent="v1">우리 프로젝트 타이틀 명은 &quot;J-Z&quot;</p>
+
+      <p begin="01:44.520" end="01:46.990" ttm:agent="v1">We gon' run this town, that's crazy (uh)</p>
+
+      <p begin="01:46.990" end="01:48.830" ttm:agent="v1">짱박아 놨던 네 똘끼를 꺼내, huh</p>
+
+      <p begin="01:48.830" end="01:51.150" ttm:agent="v1">해방됐어 넌, now hands in the air</p>
+
+      <p begin="01:51.150" end="01:56.740" ttm:agent="v1">Mm, we're not going home tonight, alright</p>
+
+      <p begin="01:56.740" end="01:59.980" ttm:agent="v1">네 계획에 없던 party</p>
+
+      <p begin="01:59.980" end="02:01.630" ttm:agent="v1">Up and down, round and round</p>
+
+      <p begin="02:01.630" end="02:04.420" ttm:agent="v1">Hit the spot, spot, spot, spot</p>
+
+      <p begin="02:04.420" end="02:09.040" ttm:agent="v1">엎치락뒤치락 정신을 왜 차려? 왜?</p>
+
+      <p begin="02:09.040" end="02:10.600" ttm:agent="v1">Up and down, round and round</p>
+
+      <p begin="02:10.600" end="02:13.380" ttm:agent="v1">Everybody, hit the spot</p>
+
+      <p begin="02:13.380" end="02:15.070" ttm:agent="v1">Up and down, round and round</p>
+
+      <p begin="02:15.070" end="02:17.920" ttm:agent="v1">Everybody, hit the top</p>
+
+      <p begin="02:17.920" end="02:19.530" ttm:agent="v1">Up and down round and round</p>
+
+      <p begin="02:19.530" end="02:22.420" ttm:agent="v1">Everybody, make it loud</p>
+
+      <p begin="02:22.420" end="02:24.010" ttm:agent="v1">Up and down, round and round</p>
+
+      <p begin="02:24.010" end="02:27.450" ttm:agent="v1">Everybody, stop, wait a minute, ow</p>
+
+      <p begin="02:27.450" end="02:30.090" ttm:agent="v1"/>
+
+      <p begin="02:30.090" end="02:32.710" ttm:agent="v1">Hey, hey</p>
+
+      <p begin="02:32.710" end="02:38.930" ttm:agent="v1">Yeah, come vibe with us, ride with us (hey)</p>
+
+      <p begin="02:38.930" end="02:44.070" ttm:agent="v1">Hey, hey</p>
+
+      <p begin="02:44.070" end="02:46.450" ttm:agent="v1">Hey</p>
+
+      <p begin="02:46.450" end="02:50.450" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

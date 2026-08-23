@@ -1,84 +1,168 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>Feeling</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Juice WRLD</ttm:agent>
-      <ttm:item type="album">Death Race For Love</ttm:item>
-      <ttm:item type="spotify_id">2Jh3UqxnHJMyzMzku4uOtE</ttm:item>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.040" end="00:01.620" ttm:agent="v1">This the one take gang, this the next lil'</p>
-      <p begin="00:01.620" end="00:07.160" ttm:agent="v1" itunes:key="role" itunes:value="background">This the one take gang song (Yeah, uh-huh)</p>
-      <p begin="00:07.160" end="00:09.040" ttm:agent="v1">Perc' give me a feelin'</p>
-      <p begin="00:09.040" end="00:12.330" ttm:agent="v1">My girl just walked into the building</p>
-      <p begin="00:12.330" end="00:13.830" ttm:agent="v1">Huh, uh</p>
-      <p begin="00:13.510" end="00:16.490" ttm:agent="v1" itunes:key="role" itunes:value="background">Percs give me a feeling, I feel it (I feel it, ayy)</p>
-      <p begin="00:16.490" end="00:20.820" ttm:agent="v1" itunes:key="role" itunes:value="background">Percs give me a feeling, I feel it (Man, goddamn)</p>
-      <p begin="00:20.820" end="00:22.520" ttm:agent="v1">Black card, hey</p>
-      <p begin="00:22.520" end="00:24.750" ttm:agent="v1">I got a feeling</p>
-      <p begin="00:24.750" end="00:28.470" ttm:agent="v1">Percs help me feel it, I feel it, uh</p>
-      <p begin="00:28.470" end="00:30.840" ttm:agent="v1">Problems, I numb and conceal them</p>
-      <p begin="00:30.840" end="00:33.580" ttm:agent="v1">Kinda like my feelings, but I still feel them</p>
-      <p begin="00:33.580" end="00:36.720" ttm:agent="v1">I just walked in the building</p>
-      <p begin="00:36.720" end="00:39.890" ttm:agent="v1">Look like a million, but I'm worth more than a million</p>
-      <p begin="00:39.890" end="00:42.810" ttm:agent="v1">I don't need no Ritalin, I'm focused on the millions</p>
-      <p begin="00:42.810" end="00:44.310" ttm:agent="v1">Disregard civilians</p>
-      <p begin="00:44.090" end="00:47.040" ttm:agent="v1">Until I get a house with a moat and a pavilion</p>
-      <p begin="00:47.040" end="00:50.850" ttm:agent="v1">I reek of good vibes</p>
-      <p begin="00:50.850" end="00:53.870" ttm:agent="v1">Smokin' on reefer, I'm high</p>
-      <p begin="00:53.870" end="00:55.700" ttm:agent="v1">Percocet fever</p>
-      <p begin="00:55.700" end="00:59.960" ttm:agent="v1" itunes:key="role" itunes:value="background">The type of pill to make you scratch until your nails gone (Yeah, yeah)</p>
-      <p begin="00:59.960" end="01:02.680" ttm:agent="v1">Drugs in my head, you heard what I said</p>
-      <p begin="01:02.680" end="01:05.760" ttm:agent="v1">No five, no ten, no fifteen, twenty, just Perc-30's in my meds</p>
-      <p begin="01:05.760" end="01:08.660" ttm:agent="v1">I told my mama I'm here to stay, no, she won't catch me dead</p>
-      <p begin="01:08.660" end="01:11.640" ttm:agent="v1">I'm too much of an idol, b***h, no Ryan Seacrest</p>
-      <p begin="01:11.640" end="01:16.340" ttm:agent="v1">Do it by my V-lone, 'lone</p>
-      <p begin="01:16.340" end="01:18.330" ttm:agent="v1" itunes:key="role" itunes:value="background">(This is about you, not me)</p>
-      <p begin="01:18.330" end="01:23.250" ttm:agent="v1" itunes:key="role" itunes:value="background">Alone, alone, alone (Slatt)</p>
-      <p begin="01:23.250" end="01:24.910" ttm:agent="v1">I got a feeling</p>
-      <p begin="01:24.910" end="01:28.370" ttm:agent="v1">Percs help me feel it, I feel it, uh</p>
-      <p begin="01:28.370" end="01:30.930" ttm:agent="v1">Problems, I numb and conceal them</p>
-      <p begin="01:30.930" end="01:33.510" ttm:agent="v1">Kinda like my feelings, but I still feel them</p>
-      <p begin="01:33.510" end="01:36.740" ttm:agent="v1">I just walked in the building</p>
-      <p begin="01:36.740" end="01:39.690" ttm:agent="v1">Look like a million, but I'm worth more than a million</p>
-      <p begin="01:39.690" end="01:42.730" ttm:agent="v1">I don't need no Ritalin, I'm focused on the millions</p>
-      <p begin="01:42.730" end="01:44.230" ttm:agent="v1">Disregard civilians</p>
-      <p begin="01:44.080" end="01:46.980" ttm:agent="v1">Until I get a house with a moat and a pavilion</p>
-      <p begin="01:46.980" end="01:49.980" ttm:agent="v1">'Til I get a house with a moat and a pavilion</p>
-      <p begin="01:49.980" end="01:52.890" ttm:agent="v1">Walked into your building, b***h, I'm a villain</p>
-      <p begin="01:52.890" end="01:55.940" ttm:agent="v1">Feel like Dragon Ball, b***h, I'm Goku and you Krillin</p>
-      <p begin="01:55.940" end="01:58.890" ttm:agent="v1">Bickin' back, I'm boolin', these b*****s be chillin'</p>
-      <p begin="01:58.890" end="02:01.930" ttm:agent="v1">All up in they feelings, me, I'm just winning</p>
-      <p begin="02:01.930" end="02:04.340" ttm:agent="v1" itunes:key="role" itunes:value="background">W-I-N-N-I-N-G (Spell it)</p>
-      <p begin="02:04.340" end="02:07.000" ttm:agent="v1" itunes:key="role" itunes:value="background">Boy, it's ain't no &quot;I&quot; in team but it's an &quot;E-M&quot; in team (****)</p>
-      <p begin="02:07.000" end="02:08.500" ttm:agent="v1" itunes:key="role" itunes:value="background">I meant it's a &quot;me&quot; in team (Yeah)</p>
-      <p begin="02:08.370" end="02:09.870" ttm:agent="v1">I know I just ****ed up, but b***h</p>
-      <p begin="02:09.860" end="02:11.660" ttm:agent="v1">I'm still the freestyle king, whoa</p>
-      <p begin="02:11.660" end="02:14.840" ttm:agent="v1">Her p***y wetter than olive oil, my watch cost a hundred more</p>
-      <p begin="02:14.840" end="02:17.790" ttm:agent="v1">My new girl a Lamborghin', your girl a Honda Accord</p>
-      <p begin="02:17.790" end="02:20.810" ttm:agent="v1">Mama told me I gotta stay focused, told her I am not a Ford</p>
-      <p begin="02:20.810" end="02:23.940" ttm:agent="v1">Focused, you notice when it disappear like hocus pocus</p>
-      <p begin="02:23.940" end="02:25.440" ttm:agent="v1">I got a feeling</p>
-      <p begin="02:24.960" end="02:28.290" ttm:agent="v1">Percs help me feel it, I feel it, uh</p>
-      <p begin="02:28.290" end="02:30.900" ttm:agent="v1">Problems, I numb and conceal them</p>
-      <p begin="02:30.900" end="02:33.530" ttm:agent="v1">Kinda like my feelings, but I still feel them</p>
-      <p begin="02:33.530" end="02:36.790" ttm:agent="v1">I just walked in the building</p>
-      <p begin="02:36.790" end="02:39.770" ttm:agent="v1">Look like a million, but I'm worth more than a million</p>
-      <p begin="02:39.770" end="02:42.760" ttm:agent="v1">I don't need no Ritalin, I'm focused on the millions</p>
-      <p begin="02:42.760" end="02:44.260" ttm:agent="v1">Disregard civilians</p>
-      <p begin="02:44.120" end="02:46.050" ttm:agent="v1">Until I get a house with a moat</p>
-      <p begin="02:46.050" end="02:48.610" ttm:agent="v1" itunes:key="role" itunes:value="background">And a pavilion (Let's go, let's go, let's go)</p>
-      <p begin="02:48.610" end="02:52.610" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>Feeling</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Juice WRLD</ttm:agent>
+
+      <ttm:item type="album">Death Race For Love</ttm:item>
+
+      <ttm:item type="spotify_id">2Jh3UqxnHJMyzMzku4uOtE</ttm:item>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.040" end="00:01.620" ttm:agent="v1">This the one take gang, this the next lil'</p>
+
+      <p begin="00:01.620" end="00:07.160" ttm:agent="v1">This the one take gang song (Yeah, uh-huh)</p>
+
+      <p begin="00:07.160" end="00:09.040" ttm:agent="v1">Perc' give me a feelin'</p>
+
+      <p begin="00:09.040" end="00:12.330" ttm:agent="v1">My girl just walked into the building</p>
+
+      <p begin="00:12.330" end="00:13.830" ttm:agent="v1">Huh, uh</p>
+
+      <p begin="00:13.510" end="00:16.490" ttm:agent="v1">Percs give me a feeling, I feel it (I feel it, ayy)</p>
+
+      <p begin="00:16.490" end="00:20.820" ttm:agent="v1">Percs give me a feeling, I feel it (Man, goddamn)</p>
+
+      <p begin="00:20.820" end="00:22.520" ttm:agent="v1">Black card, hey</p>
+
+      <p begin="00:22.520" end="00:24.750" ttm:agent="v1">I got a feeling</p>
+
+      <p begin="00:24.750" end="00:28.470" ttm:agent="v1">Percs help me feel it, I feel it, uh</p>
+
+      <p begin="00:28.470" end="00:30.840" ttm:agent="v1">Problems, I numb and conceal them</p>
+
+      <p begin="00:30.840" end="00:33.580" ttm:agent="v1">Kinda like my feelings, but I still feel them</p>
+
+      <p begin="00:33.580" end="00:36.720" ttm:agent="v1">I just walked in the building</p>
+
+      <p begin="00:36.720" end="00:39.890" ttm:agent="v1">Look like a million, but I'm worth more than a million</p>
+
+      <p begin="00:39.890" end="00:42.810" ttm:agent="v1">I don't need no Ritalin, I'm focused on the millions</p>
+
+      <p begin="00:42.810" end="00:44.310" ttm:agent="v1">Disregard civilians</p>
+
+      <p begin="00:44.090" end="00:47.040" ttm:agent="v1">Until I get a house with a moat and a pavilion</p>
+
+      <p begin="00:47.040" end="00:50.850" ttm:agent="v1">I reek of good vibes</p>
+
+      <p begin="00:50.850" end="00:53.870" ttm:agent="v1">Smokin' on reefer, I'm high</p>
+
+      <p begin="00:53.870" end="00:55.700" ttm:agent="v1">Percocet fever</p>
+
+      <p begin="00:55.700" end="00:59.960" ttm:agent="v1">The type of pill to make you scratch until your nails gone (Yeah, yeah)</p>
+
+      <p begin="00:59.960" end="01:02.680" ttm:agent="v1">Drugs in my head, you heard what I said</p>
+
+      <p begin="01:02.680" end="01:05.760" ttm:agent="v1">No five, no ten, no fifteen, twenty, just Perc-30's in my meds</p>
+
+      <p begin="01:05.760" end="01:08.660" ttm:agent="v1">I told my mama I'm here to stay, no, she won't catch me dead</p>
+
+      <p begin="01:08.660" end="01:11.640" ttm:agent="v1">I'm too much of an idol, b***h, no Ryan Seacrest</p>
+
+      <p begin="01:11.640" end="01:16.340" ttm:agent="v1">Do it by my V-lone, 'lone</p>
+
+      <p begin="01:16.340" end="01:18.330" ttm:agent="v1" itunes:key="role" itunes:value="background">(This is about you, not me)</p>
+
+      <p begin="01:18.330" end="01:23.250" ttm:agent="v1">Alone, alone, alone (Slatt)</p>
+
+      <p begin="01:23.250" end="01:24.910" ttm:agent="v1">I got a feeling</p>
+
+      <p begin="01:24.910" end="01:28.370" ttm:agent="v1">Percs help me feel it, I feel it, uh</p>
+
+      <p begin="01:28.370" end="01:30.930" ttm:agent="v1">Problems, I numb and conceal them</p>
+
+      <p begin="01:30.930" end="01:33.510" ttm:agent="v1">Kinda like my feelings, but I still feel them</p>
+
+      <p begin="01:33.510" end="01:36.740" ttm:agent="v1">I just walked in the building</p>
+
+      <p begin="01:36.740" end="01:39.690" ttm:agent="v1">Look like a million, but I'm worth more than a million</p>
+
+      <p begin="01:39.690" end="01:42.730" ttm:agent="v1">I don't need no Ritalin, I'm focused on the millions</p>
+
+      <p begin="01:42.730" end="01:44.230" ttm:agent="v1">Disregard civilians</p>
+
+      <p begin="01:44.080" end="01:46.980" ttm:agent="v1">Until I get a house with a moat and a pavilion</p>
+
+      <p begin="01:46.980" end="01:49.980" ttm:agent="v1">'Til I get a house with a moat and a pavilion</p>
+
+      <p begin="01:49.980" end="01:52.890" ttm:agent="v1">Walked into your building, b***h, I'm a villain</p>
+
+      <p begin="01:52.890" end="01:55.940" ttm:agent="v1">Feel like Dragon Ball, b***h, I'm Goku and you Krillin</p>
+
+      <p begin="01:55.940" end="01:58.890" ttm:agent="v1">Bickin' back, I'm boolin', these b*****s be chillin'</p>
+
+      <p begin="01:58.890" end="02:01.930" ttm:agent="v1">All up in they feelings, me, I'm just winning</p>
+
+      <p begin="02:01.930" end="02:04.340" ttm:agent="v1">W-I-N-N-I-N-G (Spell it)</p>
+
+      <p begin="02:04.340" end="02:07.000" ttm:agent="v1">Boy, it's ain't no &quot;I&quot; in team but it's an &quot;E-M&quot; in team (****)</p>
+
+      <p begin="02:07.000" end="02:08.500" ttm:agent="v1">I meant it's a &quot;me&quot; in team (Yeah)</p>
+
+      <p begin="02:08.370" end="02:09.870" ttm:agent="v1">I know I just ****ed up, but b***h</p>
+
+      <p begin="02:09.860" end="02:11.660" ttm:agent="v1">I'm still the freestyle king, whoa</p>
+
+      <p begin="02:11.660" end="02:14.840" ttm:agent="v1">Her p***y wetter than olive oil, my watch cost a hundred more</p>
+
+      <p begin="02:14.840" end="02:17.790" ttm:agent="v1">My new girl a Lamborghin', your girl a Honda Accord</p>
+
+      <p begin="02:17.790" end="02:20.810" ttm:agent="v1">Mama told me I gotta stay focused, told her I am not a Ford</p>
+
+      <p begin="02:20.810" end="02:23.940" ttm:agent="v1">Focused, you notice when it disappear like hocus pocus</p>
+
+      <p begin="02:23.940" end="02:25.440" ttm:agent="v1">I got a feeling</p>
+
+      <p begin="02:24.960" end="02:28.290" ttm:agent="v1">Percs help me feel it, I feel it, uh</p>
+
+      <p begin="02:28.290" end="02:30.900" ttm:agent="v1">Problems, I numb and conceal them</p>
+
+      <p begin="02:30.900" end="02:33.530" ttm:agent="v1">Kinda like my feelings, but I still feel them</p>
+
+      <p begin="02:33.530" end="02:36.790" ttm:agent="v1">I just walked in the building</p>
+
+      <p begin="02:36.790" end="02:39.770" ttm:agent="v1">Look like a million, but I'm worth more than a million</p>
+
+      <p begin="02:39.770" end="02:42.760" ttm:agent="v1">I don't need no Ritalin, I'm focused on the millions</p>
+
+      <p begin="02:42.760" end="02:44.260" ttm:agent="v1">Disregard civilians</p>
+
+      <p begin="02:44.120" end="02:46.050" ttm:agent="v1">Until I get a house with a moat</p>
+
+      <p begin="02:46.050" end="02:48.610" ttm:agent="v1">And a pavilion (Let's go, let's go, let's go)</p>
+
+      <p begin="02:48.610" end="02:52.610" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

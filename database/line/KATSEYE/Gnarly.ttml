@@ -1,74 +1,148 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>Gnarly</ttm:title>
-      <ttm:agent type="person" xml:id="v1">KATSEYE</ttm:agent>
-      <ttm:item type="album">Gnarly</ttm:item>
-      <ttm:item type="spotify_id">1j15Ar0qGDzIR0v3CQv3JL</ttm:item>
-      <itunes:duration>02:18.000</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.350" end="00:04.640" ttm:agent="v1">They could describe everything with one single word</p>
-      <p begin="00:04.640" end="00:06.140" ttm:agent="v1">You know? Like</p>
-      <p begin="00:05.670" end="00:09.370" ttm:agent="v1" itunes:key="role" itunes:value="background">Boba tea (gnarly), Tesla (gnarly)</p>
-      <p begin="00:09.370" end="00:12.750" ttm:agent="v1" itunes:key="role" itunes:value="background">Fried chicken (gnarly), partyin' in the Hollywood Hills (uh-huh)</p>
-      <p begin="00:12.750" end="00:16.360" ttm:agent="v1" itunes:key="role" itunes:value="background">This song (gnarly), oh my God, that new beat (gnarly, fucking gnarly)</p>
-      <p begin="00:16.360" end="00:19.960" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, God, is this real? (Everything's gnarly)</p>
-      <p begin="00:19.960" end="00:22.150" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, we're in a session tonight (gang, gang)</p>
-      <p begin="00:22.150" end="00:23.960" ttm:agent="v1" itunes:key="role" itunes:value="background">Oh, we're going out tonight (gang, gang)</p>
-      <p begin="00:23.960" end="00:27.020" ttm:agent="v1">Oh my God, this song's so lit, congratulations</p>
-      <p begin="00:27.020" end="00:28.890" ttm:agent="v1">Now you be like, &quot;Gang&quot;</p>
-      <p begin="00:28.890" end="00:30.630" ttm:agent="v1">Gang, gang, gang, gang, gang</p>
-      <p begin="00:30.630" end="00:34.150" ttm:agent="v1" itunes:key="role" itunes:value="background">(Gnarly)</p>
-      <p begin="00:34.150" end="00:37.750" ttm:agent="v1" itunes:key="role" itunes:value="background">(Gnarly) everything's gnarly</p>
-      <p begin="00:37.750" end="00:39.580" ttm:agent="v1" itunes:key="role" itunes:value="background">Na-na-na, na-na-gnarly (gnarly)</p>
-      <p begin="00:39.580" end="00:41.330" ttm:agent="v1" itunes:key="role" itunes:value="background">Na-na-na, na-na-gnarly (gnarly)</p>
-      <p begin="00:41.330" end="00:43.020" ttm:agent="v1" itunes:key="role" itunes:value="background">Na-na-na, na-na-gnarly (gnarly-gnarly-gnarly)</p>
-      <p begin="00:43.020" end="00:45.040" ttm:agent="v1">Everything's gnarly</p>
-      <p begin="00:45.040" end="00:48.000" ttm:agent="v1">Hottie, hottie, like a bag of Takis</p>
-      <p begin="00:48.000" end="00:52.480" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm the shit, I'm the shit (gnarly)</p>
-      <p begin="00:52.480" end="00:55.070" ttm:agent="v1">Obvi, obvi, they be tryna copy</p>
-      <p begin="00:55.070" end="00:58.820" ttm:agent="v1">I'm the shit, I'm the shit</p>
-      <p begin="00:58.820" end="01:01.130" ttm:agent="v1" itunes:key="role" itunes:value="background">Na-na-na, na-na-gnarly (gnarly)</p>
-      <p begin="01:01.130" end="01:02.630" ttm:agent="v1">Na-na-na, na-na-gnarly</p>
-      <p begin="01:02.220" end="01:06.010" ttm:agent="v1">I'm the shit, I'm the shit</p>
-      <p begin="01:06.010" end="01:08.090" ttm:agent="v1" itunes:key="role" itunes:value="background">Na-na-na, na-na-gnarly (gnarly)</p>
-      <p begin="01:08.090" end="01:09.590" ttm:agent="v1">Na-na-na, na-na-gnarly</p>
-      <p begin="01:09.210" end="01:13.230" ttm:agent="v1">I'm the shit, I'm the shit</p>
-      <p begin="01:13.230" end="01:16.470" ttm:agent="v1">Gnarly</p>
-      <p begin="01:16.470" end="01:19.950" ttm:agent="v1">Making beats for a boring dumb bitch</p>
-      <p begin="01:19.950" end="01:21.720" ttm:agent="v1" itunes:key="role" itunes:value="background">Fucking gnarly (gnarly)</p>
-      <p begin="01:21.720" end="01:25.320" ttm:agent="v1">Don't talk to me, you're gnarly</p>
-      <p begin="01:25.320" end="01:27.180" ttm:agent="v1" itunes:key="role" itunes:value="background">&quot;I'm not!&quot; Shit is (gnarly)</p>
-      <p begin="01:27.180" end="01:29.690" ttm:agent="v1">J-j-jealous of my mansion?</p>
-      <p begin="01:29.690" end="01:34.400" ttm:agent="v1" itunes:key="role" itunes:value="background">Yeah, the view is fucking gnarly (gnarly)</p>
-      <p begin="01:34.400" end="01:38.130" ttm:agent="v1" itunes:key="role" itunes:value="background">(Gnarly) everything's gnarly</p>
-      <p begin="01:38.130" end="01:39.960" ttm:agent="v1" itunes:key="role" itunes:value="background">Na-na-na, na-na-gnarly (gnarly)</p>
-      <p begin="01:39.960" end="01:41.660" ttm:agent="v1" itunes:key="role" itunes:value="background">Na-na-na, na-na-gnarly (gnarly)</p>
-      <p begin="01:41.660" end="01:43.490" ttm:agent="v1" itunes:key="role" itunes:value="background">Na-na-na, na-na-gnarly (gnarly-gnarly-gnarly)</p>
-      <p begin="01:43.490" end="01:45.620" ttm:agent="v1">Everything's gnarly</p>
-      <p begin="01:45.620" end="01:48.380" ttm:agent="v1">Hottie, hottie, like a bag of Takis</p>
-      <p begin="01:48.380" end="01:52.880" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm the shit, I'm the shit (gnarly)</p>
-      <p begin="01:52.880" end="01:55.460" ttm:agent="v1">Obvi, obvi, they be tryna copy</p>
-      <p begin="01:55.460" end="01:59.430" ttm:agent="v1" itunes:key="role" itunes:value="background">I'm the shit, I'm the shit (shit)</p>
-      <p begin="01:59.430" end="02:01.230" ttm:agent="v1" itunes:key="role" itunes:value="background">Na-na-na, na-na-gnarly (gnarly)</p>
-      <p begin="02:01.230" end="02:02.730" ttm:agent="v1">Na-na-na, na-na-gnarly</p>
-      <p begin="02:02.640" end="02:06.770" ttm:agent="v1">I'm the shit, I'm the shit</p>
-      <p begin="02:06.770" end="02:08.450" ttm:agent="v1" itunes:key="role" itunes:value="background">Na-na-na, na-na-gnarly (gnarly)</p>
-      <p begin="02:08.450" end="02:09.950" ttm:agent="v1">Na-na-na, na-na-gnarly</p>
-      <p begin="02:09.890" end="02:13.880" ttm:agent="v1">I'm the shit, I'm the shit</p>
-      <p begin="02:13.880" end="02:15.830" ttm:agent="v1">Everything's gnarly</p>
-      <p begin="02:15.830" end="02:19.830" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>Gnarly</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">KATSEYE</ttm:agent>
+
+      <ttm:item type="album">Gnarly</ttm:item>
+
+      <ttm:item type="spotify_id">1j15Ar0qGDzIR0v3CQv3JL</ttm:item>
+
+      <itunes:duration>02:18.000</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.350" end="00:04.640" ttm:agent="v1">They could describe everything with one single word</p>
+
+      <p begin="00:04.640" end="00:06.140" ttm:agent="v1">You know? Like</p>
+
+      <p begin="00:05.670" end="00:09.370" ttm:agent="v1">Boba tea (gnarly), Tesla (gnarly)</p>
+
+      <p begin="00:09.370" end="00:12.750" ttm:agent="v1">Fried chicken (gnarly), partyin' in the Hollywood Hills (uh-huh)</p>
+
+      <p begin="00:12.750" end="00:16.360" ttm:agent="v1">This song (gnarly), oh my God, that new beat (gnarly, fucking gnarly)</p>
+
+      <p begin="00:16.360" end="00:19.960" ttm:agent="v1">Oh, God, is this real? (Everything's gnarly)</p>
+
+      <p begin="00:19.960" end="00:22.150" ttm:agent="v1">Oh, we're in a session tonight (gang, gang)</p>
+
+      <p begin="00:22.150" end="00:23.960" ttm:agent="v1">Oh, we're going out tonight (gang, gang)</p>
+
+      <p begin="00:23.960" end="00:27.020" ttm:agent="v1">Oh my God, this song's so lit, congratulations</p>
+
+      <p begin="00:27.020" end="00:28.890" ttm:agent="v1">Now you be like, &quot;Gang&quot;</p>
+
+      <p begin="00:28.890" end="00:30.630" ttm:agent="v1">Gang, gang, gang, gang, gang</p>
+
+      <p begin="00:30.630" end="00:34.150" ttm:agent="v1" itunes:key="role" itunes:value="background">(Gnarly)</p>
+
+      <p begin="00:34.150" end="00:37.750" ttm:agent="v1">(Gnarly) everything's gnarly</p>
+
+      <p begin="00:37.750" end="00:39.580" ttm:agent="v1">Na-na-na, na-na-gnarly (gnarly)</p>
+
+      <p begin="00:39.580" end="00:41.330" ttm:agent="v1">Na-na-na, na-na-gnarly (gnarly)</p>
+
+      <p begin="00:41.330" end="00:43.020" ttm:agent="v1">Na-na-na, na-na-gnarly (gnarly-gnarly-gnarly)</p>
+
+      <p begin="00:43.020" end="00:45.040" ttm:agent="v1">Everything's gnarly</p>
+
+      <p begin="00:45.040" end="00:48.000" ttm:agent="v1">Hottie, hottie, like a bag of Takis</p>
+
+      <p begin="00:48.000" end="00:52.480" ttm:agent="v1">I'm the shit, I'm the shit (gnarly)</p>
+
+      <p begin="00:52.480" end="00:55.070" ttm:agent="v1">Obvi, obvi, they be tryna copy</p>
+
+      <p begin="00:55.070" end="00:58.820" ttm:agent="v1">I'm the shit, I'm the shit</p>
+
+      <p begin="00:58.820" end="01:01.130" ttm:agent="v1">Na-na-na, na-na-gnarly (gnarly)</p>
+
+      <p begin="01:01.130" end="01:02.630" ttm:agent="v1">Na-na-na, na-na-gnarly</p>
+
+      <p begin="01:02.220" end="01:06.010" ttm:agent="v1">I'm the shit, I'm the shit</p>
+
+      <p begin="01:06.010" end="01:08.090" ttm:agent="v1">Na-na-na, na-na-gnarly (gnarly)</p>
+
+      <p begin="01:08.090" end="01:09.590" ttm:agent="v1">Na-na-na, na-na-gnarly</p>
+
+      <p begin="01:09.210" end="01:13.230" ttm:agent="v1">I'm the shit, I'm the shit</p>
+
+      <p begin="01:13.230" end="01:16.470" ttm:agent="v1">Gnarly</p>
+
+      <p begin="01:16.470" end="01:19.950" ttm:agent="v1">Making beats for a boring dumb bitch</p>
+
+      <p begin="01:19.950" end="01:21.720" ttm:agent="v1">Fucking gnarly (gnarly)</p>
+
+      <p begin="01:21.720" end="01:25.320" ttm:agent="v1">Don't talk to me, you're gnarly</p>
+
+      <p begin="01:25.320" end="01:27.180" ttm:agent="v1">&quot;I'm not!&quot; Shit is (gnarly)</p>
+
+      <p begin="01:27.180" end="01:29.690" ttm:agent="v1">J-j-jealous of my mansion?</p>
+
+      <p begin="01:29.690" end="01:34.400" ttm:agent="v1">Yeah, the view is fucking gnarly (gnarly)</p>
+
+      <p begin="01:34.400" end="01:38.130" ttm:agent="v1">(Gnarly) everything's gnarly</p>
+
+      <p begin="01:38.130" end="01:39.960" ttm:agent="v1">Na-na-na, na-na-gnarly (gnarly)</p>
+
+      <p begin="01:39.960" end="01:41.660" ttm:agent="v1">Na-na-na, na-na-gnarly (gnarly)</p>
+
+      <p begin="01:41.660" end="01:43.490" ttm:agent="v1">Na-na-na, na-na-gnarly (gnarly-gnarly-gnarly)</p>
+
+      <p begin="01:43.490" end="01:45.620" ttm:agent="v1">Everything's gnarly</p>
+
+      <p begin="01:45.620" end="01:48.380" ttm:agent="v1">Hottie, hottie, like a bag of Takis</p>
+
+      <p begin="01:48.380" end="01:52.880" ttm:agent="v1">I'm the shit, I'm the shit (gnarly)</p>
+
+      <p begin="01:52.880" end="01:55.460" ttm:agent="v1">Obvi, obvi, they be tryna copy</p>
+
+      <p begin="01:55.460" end="01:59.430" ttm:agent="v1">I'm the shit, I'm the shit (shit)</p>
+
+      <p begin="01:59.430" end="02:01.230" ttm:agent="v1">Na-na-na, na-na-gnarly (gnarly)</p>
+
+      <p begin="02:01.230" end="02:02.730" ttm:agent="v1">Na-na-na, na-na-gnarly</p>
+
+      <p begin="02:02.640" end="02:06.770" ttm:agent="v1">I'm the shit, I'm the shit</p>
+
+      <p begin="02:06.770" end="02:08.450" ttm:agent="v1">Na-na-na, na-na-gnarly (gnarly)</p>
+
+      <p begin="02:08.450" end="02:09.950" ttm:agent="v1">Na-na-na, na-na-gnarly</p>
+
+      <p begin="02:09.890" end="02:13.880" ttm:agent="v1">I'm the shit, I'm the shit</p>
+
+      <p begin="02:13.880" end="02:15.830" ttm:agent="v1">Everything's gnarly</p>
+
+      <p begin="02:15.830" end="02:19.830" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+

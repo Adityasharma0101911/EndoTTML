@@ -1,112 +1,224 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
-  <head>
-    <metadata>
-      <ttm:title>Noid</ttm:title>
-      <ttm:agent type="person" xml:id="v1">Tyler</ttm:agent>
-      <ttm:agent type="person" xml:id="v2">The Creator</ttm:agent>
-      <ttm:item type="album">Noid</ttm:item>
-      <ttm:item type="spotify_id">1tnZxHryc2wWtjUZC1LQw5</ttm:item>
-      <itunes:duration>04:47.693</itunes:duration>
-    </metadata>
-    <styling>
-      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
-      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
-    </styling>
-    <layout>
-      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
-    </layout>
-  </head>
-  <body>
-    <div>
-      <p begin="00:00.730" end="00:08.730" ttm:agent="v1" itunes:key="role" itunes:value="background">Paranoid, paranoid, paranoid (ayy)</p>
-      <p begin="00:14.680" end="00:16.750" ttm:agent="v1">Things feel out of order</p>
-      <p begin="00:16.750" end="00:21.030" ttm:agent="v1">Look and look around, I'm not sure of</p>
-      <p begin="00:21.030" end="00:28.070" ttm:agent="v1" itunes:key="role" itunes:value="background">Pair of paranoia, no (such a-)</p>
-      <p begin="00:28.070" end="00:30.670" ttm:agent="v1" itunes:key="role" itunes:value="background">Feel it in my aura (woo)</p>
-      <p begin="00:30.670" end="00:34.750" ttm:agent="v1" itunes:key="role" itunes:value="background">Living between cameras and recorders, ah (woo)</p>
-      <p begin="00:34.750" end="00:41.260" ttm:agent="v1" itunes:key="role" itunes:value="background">I want peace but can't afford ya, no (such a-)</p>
-      <p begin="00:41.260" end="00:44.460" ttm:agent="v1">Pobwela panyumba panga, uyenela ku nkala ndi ulemu</p>
-      <p begin="00:44.460" end="00:47.550" ttm:agent="v1">Chifukwa, ine sinifuna vokamba, kamba</p>
-      <p begin="00:47.550" end="00:51.260" ttm:agent="v1">Vokamba kamba vileta pa mulomo</p>
-      <p begin="00:51.260" end="00:57.620" ttm:agent="v1" itunes:key="role" itunes:value="background">(Wotangozi, wotangozi)</p>
-      <p begin="00:57.620" end="01:05.290" ttm:agent="v1" itunes:key="role" itunes:value="background">'Running, 'running, yeah (ah-ah-ah)</p>
-      <p begin="01:05.290" end="01:08.330" ttm:agent="v1" itunes:key="role" itunes:value="background">'Round (ah) and 'round (ah)</p>
-      <p begin="01:08.330" end="01:11.560" ttm:agent="v1">Someone's keepin' watch</p>
-      <p begin="01:11.560" end="01:14.140" ttm:agent="v1">I feel them on my shoulder</p>
-      <p begin="01:14.140" end="01:20.980" ttm:agent="v1" itunes:key="role" itunes:value="background">Runnin', runnin', runnin', runnin' 'round (such a-)</p>
-      <p begin="01:20.980" end="01:22.480" ttm:agent="v1">I can't even buy a home in private</p>
-      <p begin="01:22.330" end="01:24.020" ttm:agent="v1">Home invasions got my brothers dying</p>
-      <p begin="01:24.020" end="01:25.520" ttm:agent="v1">Notice every car that's drivin' by</p>
-      <p begin="01:25.440" end="01:27.100" ttm:agent="v1">I think my neighbors want me dead</p>
-      <p begin="01:27.100" end="01:28.600" ttm:agent="v1">I got a cannon underneath the bed</p>
-      <p begin="01:28.580" end="01:30.270" ttm:agent="v1">Triple checkin' if I locked the door</p>
-      <p begin="01:30.270" end="01:31.920" ttm:agent="v1">I know every creak that's in the floor</p>
-      <p begin="01:31.920" end="01:33.830" ttm:agent="v1" itunes:key="role" itunes:value="background">Motherfucker, I'm paranoid (such a-)</p>
-      <p begin="01:33.830" end="01:37.220" ttm:agent="v1">I loop around the block, eyes glued to the rearview</p>
-      <p begin="01:37.220" end="01:40.310" ttm:agent="v1">Rather double back than regret hearin', &quot;Pew, pew&quot;</p>
-      <p begin="01:40.310" end="01:44.090" ttm:agent="v1">Never trust a bitch, if you good, they could trap you</p>
-      <p begin="01:44.090" end="01:48.010" ttm:agent="v1">So just strap it up before they fuck around and strap you, bitch</p>
-      <p begin="01:48.010" end="01:51.330" ttm:agent="v1">Pobwela panyumba panga, uyenela ku nkala ndi ulemu</p>
-      <p begin="01:51.330" end="01:55.070" ttm:agent="v1">Chifukwa, ine sinifuna vokamba, kamba</p>
-      <p begin="01:55.070" end="01:58.150" ttm:agent="v1">Vokamba kamba vileta pa mulomo</p>
-      <p begin="01:58.150" end="02:01.420" ttm:agent="v1" itunes:key="role" itunes:value="background">(Wotangozi, wotangozi)</p>
-      <p begin="02:01.420" end="02:07.320" ttm:agent="v1">Oh, oh-oh</p>
-      <p begin="02:07.320" end="02:15.080" ttm:agent="v1">Oh, oh-oh</p>
-      <p begin="02:15.080" end="02:18.290" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh, oh-oh) Someone's keeping watch ('round)</p>
-      <p begin="02:18.290" end="02:21.800" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh, oh-oh) I feel them in my shadow (runnin', runnin', runnin', runnin' 'round)</p>
-      <p begin="02:21.800" end="02:26.130" ttm:agent="v1" itunes:key="role" itunes:value="background">Someone's keepin' a watch (watchin', watchin')</p>
-      <p begin="02:26.130" end="02:28.170" ttm:agent="v1" itunes:key="role" itunes:value="background">(Such a—)</p>
-      <p begin="02:28.170" end="02:36.170" ttm:agent="v1">Someone's keepin' watch</p>
-      <p begin="02:43.260" end="02:47.290" ttm:agent="v1">I can feel it, I can feel it</p>
-      <p begin="02:47.290" end="02:54.720" ttm:agent="v1">I can feel it, I can feel it</p>
-      <p begin="02:54.720" end="02:56.220" ttm:agent="v1">Don't trust these people out here</p>
-      <p begin="02:55.880" end="02:57.380" ttm:agent="v1">Please, whatever you do</p>
-      <p begin="02:56.780" end="02:58.960" ttm:agent="v1">Keep to yourself, keep your business to yourself</p>
-      <p begin="02:58.960" end="03:00.460" ttm:agent="v1">Don't even trust these motherfuckin' accountants</p>
-      <p begin="03:00.330" end="03:02.930" ttm:agent="v1">'Cause they will try to get off on you, okay?</p>
-      <p begin="03:02.930" end="03:04.940" ttm:agent="v1">Please, because I don't wanna have to fuck nobody up</p>
-      <p begin="03:04.940" end="03:06.440" ttm:agent="v1">I promise to God</p>
-      <p begin="03:05.870" end="03:11.550" ttm:agent="v1" itunes:key="role" itunes:value="background">Don't it seem so good? (oh-na-na, oh-na-na, ayy)</p>
-      <p begin="03:11.550" end="03:14.590" ttm:agent="v1" itunes:key="role" itunes:value="background">Don't it feel so good? (oh-na-na, oh-na-na, ayy)</p>
-      <p begin="03:14.590" end="03:17.480" ttm:agent="v1" itunes:key="role" itunes:value="background">To love (oh-na-na, oh-na-na, ayy)</p>
-      <p begin="03:17.480" end="03:18.980" ttm:agent="v1">Left shoulder, right shoulder</p>
-      <p begin="03:18.830" end="03:20.560" ttm:agent="v1" itunes:key="role" itunes:value="background">Left shoulder, look (oh-na-na, oh-na-na, ayy)</p>
-      <p begin="03:20.560" end="03:23.200" ttm:agent="v1">Left shoulder, right shoulder</p>
-      <p begin="03:23.200" end="03:24.700" ttm:agent="v1" itunes:key="role" itunes:value="background">Left shoulder, look (oh-na-na, oh-na-na, ayy)</p>
-      <p begin="03:24.070" end="03:26.280" ttm:agent="v1" itunes:key="role" itunes:value="background">Watch your surroundings (oh-na-na, oh-na-na, ayy)</p>
-      <p begin="03:26.280" end="03:29.110" ttm:agent="v1" itunes:key="role" itunes:value="background">Okay, okay, okay, yeah (oh-na-na, oh-na-na, ayy)</p>
-      <p begin="03:29.110" end="03:31.670" ttm:agent="v1">No cameras out, please, I wanna eat in peace</p>
-      <p begin="03:31.670" end="03:34.700" ttm:agent="v1">Don't wanna take pictures with you niggas or bitches</p>
-      <p begin="03:34.700" end="03:37.550" ttm:agent="v1">Know the system is shook, way before nineteen</p>
-      <p begin="03:37.550" end="03:39.050" ttm:agent="v1">LA'll do that to you</p>
-      <p begin="03:39.040" end="03:40.540" ttm:agent="v1">Where you from nigga, who you?</p>
-      <p begin="03:40.150" end="03:43.570" ttm:agent="v1">Satellites, screenshots, paparazzi, NDAs</p>
-      <p begin="03:43.570" end="03:46.370" ttm:agent="v1">Privacy? Yeah right, I got a better shot in the NBA</p>
-      <p begin="03:46.370" end="03:49.240" ttm:agent="v1">Ain't no respect for nothin', voice recordin' our discussions</p>
-      <p begin="03:49.240" end="03:53.770" ttm:agent="v1" itunes:key="role" itunes:value="background">Her, him, they, them or anybody, I don't trust 'em at all (all)</p>
-      <p begin="03:53.770" end="03:56.270" ttm:agent="v1" itunes:key="role" itunes:value="background">Some pray for my fall (Lord), hearin' clicks on the calls (Lord)</p>
-      <p begin="03:56.270" end="03:57.770" ttm:agent="v1">Niggas hackin' for some rough drafts</p>
-      <p begin="03:57.680" end="03:59.430" ttm:agent="v1">Bitches lookin' for a buff bag</p>
-      <p begin="03:59.430" end="04:00.930" ttm:agent="v1">Risk that for some jaw, nah</p>
-      <p begin="04:00.830" end="04:02.330" ttm:agent="v1">You sing along, but you don't know me, nigga</p>
-      <p begin="04:02.280" end="04:03.780" ttm:agent="v1">Nah, never ever, not at all</p>
-      <p begin="04:03.660" end="04:05.620" ttm:agent="v1">Y'all niggas crossed the line, like fuck the stop sign</p>
-      <p begin="04:05.620" end="04:07.970" ttm:agent="v1">They wanna know where I close my eyes at</p>
-      <p begin="04:07.970" end="04:09.470" ttm:agent="v1">I keep my eyes wide</p>
-      <p begin="04:08.720" end="04:10.460" ttm:agent="v1">On God, this shit cooked, brodie</p>
-      <p begin="04:10.460" end="04:12.400" ttm:agent="v1">Look brodie, handshakes got me shook, brodie</p>
-      <p begin="04:12.400" end="04:19.680" ttm:agent="v1">Niggas want info 'bout me?</p>
-      <p begin="04:19.680" end="04:21.530" ttm:agent="v1" itunes:key="role" itunes:value="background">(Read a motherfuckin'-) read a book on me, uh</p>
-      <p begin="04:21.530" end="04:24.370" ttm:agent="v1">Leave me alone, leave me alone</p>
-      <p begin="04:24.370" end="04:27.070" ttm:agent="v1">Left shoulder, right shoulder, left shoulder, look</p>
-      <p begin="04:27.070" end="04:30.120" ttm:agent="v1">Left shoulder, right shoulder, left shoulder, look</p>
-      <p begin="04:30.120" end="04:34.090" ttm:agent="v1">Left shoulder, right shoulder, left shoulder, look</p>
-      <p begin="04:34.090" end="04:36.530" ttm:agent="v1">Leave me alone, what you want?</p>
-      <p begin="04:36.530" end="04:39.620" ttm:agent="v1">Leave me alone, what you want?</p>
-      <p begin="04:39.620" end="04:44.470" ttm:agent="v1">Leave me alone, fuck, damn</p>
-      <p begin="04:44.470" end="04:45.970" ttm:agent="v1">Paranoid</p>
-      <p begin="04:45.220" end="04:49.220" ttm:agent="v1"/>
-    </div>
-  </body>
-</tt>
+<?xml version="1.0" encoding="utf-8"?>
+
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/lyric-ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" ttp:timeBase="media" ttp:cellResolution="32 15">
+
+  <head>
+
+    <metadata>
+
+      <ttm:title>Noid</ttm:title>
+
+      <ttm:agent type="person" xml:id="v1">Tyler</ttm:agent>
+
+      <ttm:agent type="person" xml:id="v2">The Creator</ttm:agent>
+
+      <ttm:item type="album">Noid</ttm:item>
+
+      <ttm:item type="spotify_id">1tnZxHryc2wWtjUZC1LQw5</ttm:item>
+
+      <itunes:duration>04:47.693</itunes:duration>
+
+    </metadata>
+
+    <styling>
+
+      <style xml:id="s1" tts:color="#FFFFFF" tts:fontSize="100%" tts:textAlign="center" tts:fontFamily="sansSerif" tts:fontStyle="normal" tts:fontWeight="bold"/>
+
+      <style xml:id="bg_vocal" tts:color="#A0A0A0" tts:fontStyle="italic"/>
+
+    </styling>
+
+    <layout>
+
+      <region xml:id="r1" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="center"/>
+
+    </layout>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <p begin="00:00.730" end="00:08.730" ttm:agent="v1">Paranoid, paranoid, paranoid (ayy)</p>
+
+      <p begin="00:14.680" end="00:16.750" ttm:agent="v1">Things feel out of order</p>
+
+      <p begin="00:16.750" end="00:21.030" ttm:agent="v1">Look and look around, I'm not sure of</p>
+
+      <p begin="00:21.030" end="00:28.070" ttm:agent="v1">Pair of paranoia, no (such a-)</p>
+
+      <p begin="00:28.070" end="00:30.670" ttm:agent="v1">Feel it in my aura (woo)</p>
+
+      <p begin="00:30.670" end="00:34.750" ttm:agent="v1">Living between cameras and recorders, ah (woo)</p>
+
+      <p begin="00:34.750" end="00:41.260" ttm:agent="v1">I want peace but can't afford ya, no (such a-)</p>
+
+      <p begin="00:41.260" end="00:44.460" ttm:agent="v1">Pobwela panyumba panga, uyenela ku nkala ndi ulemu</p>
+
+      <p begin="00:44.460" end="00:47.550" ttm:agent="v1">Chifukwa, ine sinifuna vokamba, kamba</p>
+
+      <p begin="00:47.550" end="00:51.260" ttm:agent="v1">Vokamba kamba vileta pa mulomo</p>
+
+      <p begin="00:51.260" end="00:57.620" ttm:agent="v1" itunes:key="role" itunes:value="background">(Wotangozi, wotangozi)</p>
+
+      <p begin="00:57.620" end="01:05.290" ttm:agent="v1">'Running, 'running, yeah (ah-ah-ah)</p>
+
+      <p begin="01:05.290" end="01:08.330" ttm:agent="v1">'Round (ah) and 'round (ah)</p>
+
+      <p begin="01:08.330" end="01:11.560" ttm:agent="v1">Someone's keepin' watch</p>
+
+      <p begin="01:11.560" end="01:14.140" ttm:agent="v1">I feel them on my shoulder</p>
+
+      <p begin="01:14.140" end="01:20.980" ttm:agent="v1">Runnin', runnin', runnin', runnin' 'round (such a-)</p>
+
+      <p begin="01:20.980" end="01:22.480" ttm:agent="v1">I can't even buy a home in private</p>
+
+      <p begin="01:22.330" end="01:24.020" ttm:agent="v1">Home invasions got my brothers dying</p>
+
+      <p begin="01:24.020" end="01:25.520" ttm:agent="v1">Notice every car that's drivin' by</p>
+
+      <p begin="01:25.440" end="01:27.100" ttm:agent="v1">I think my neighbors want me dead</p>
+
+      <p begin="01:27.100" end="01:28.600" ttm:agent="v1">I got a cannon underneath the bed</p>
+
+      <p begin="01:28.580" end="01:30.270" ttm:agent="v1">Triple checkin' if I locked the door</p>
+
+      <p begin="01:30.270" end="01:31.920" ttm:agent="v1">I know every creak that's in the floor</p>
+
+      <p begin="01:31.920" end="01:33.830" ttm:agent="v1">Motherfucker, I'm paranoid (such a-)</p>
+
+      <p begin="01:33.830" end="01:37.220" ttm:agent="v1">I loop around the block, eyes glued to the rearview</p>
+
+      <p begin="01:37.220" end="01:40.310" ttm:agent="v1">Rather double back than regret hearin', &quot;Pew, pew&quot;</p>
+
+      <p begin="01:40.310" end="01:44.090" ttm:agent="v1">Never trust a bitch, if you good, they could trap you</p>
+
+      <p begin="01:44.090" end="01:48.010" ttm:agent="v1">So just strap it up before they fuck around and strap you, bitch</p>
+
+      <p begin="01:48.010" end="01:51.330" ttm:agent="v1">Pobwela panyumba panga, uyenela ku nkala ndi ulemu</p>
+
+      <p begin="01:51.330" end="01:55.070" ttm:agent="v1">Chifukwa, ine sinifuna vokamba, kamba</p>
+
+      <p begin="01:55.070" end="01:58.150" ttm:agent="v1">Vokamba kamba vileta pa mulomo</p>
+
+      <p begin="01:58.150" end="02:01.420" ttm:agent="v1" itunes:key="role" itunes:value="background">(Wotangozi, wotangozi)</p>
+
+      <p begin="02:01.420" end="02:07.320" ttm:agent="v1">Oh, oh-oh</p>
+
+      <p begin="02:07.320" end="02:15.080" ttm:agent="v1">Oh, oh-oh</p>
+
+      <p begin="02:15.080" end="02:18.290" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh, oh-oh) Someone's keeping watch ('round)</p>
+
+      <p begin="02:18.290" end="02:21.800" ttm:agent="v1" itunes:key="role" itunes:value="background">(Oh, oh-oh) I feel them in my shadow (runnin', runnin', runnin', runnin' 'round)</p>
+
+      <p begin="02:21.800" end="02:26.130" ttm:agent="v1">Someone's keepin' a watch (watchin', watchin')</p>
+
+      <p begin="02:26.130" end="02:28.170" ttm:agent="v1" itunes:key="role" itunes:value="background">(Such a—)</p>
+
+      <p begin="02:28.170" end="02:36.170" ttm:agent="v1">Someone's keepin' watch</p>
+
+      <p begin="02:43.260" end="02:47.290" ttm:agent="v1">I can feel it, I can feel it</p>
+
+      <p begin="02:47.290" end="02:54.720" ttm:agent="v1">I can feel it, I can feel it</p>
+
+      <p begin="02:54.720" end="02:56.220" ttm:agent="v1">Don't trust these people out here</p>
+
+      <p begin="02:55.880" end="02:57.380" ttm:agent="v1">Please, whatever you do</p>
+
+      <p begin="02:56.780" end="02:58.960" ttm:agent="v1">Keep to yourself, keep your business to yourself</p>
+
+      <p begin="02:58.960" end="03:00.460" ttm:agent="v1">Don't even trust these motherfuckin' accountants</p>
+
+      <p begin="03:00.330" end="03:02.930" ttm:agent="v1">'Cause they will try to get off on you, okay?</p>
+
+      <p begin="03:02.930" end="03:04.940" ttm:agent="v1">Please, because I don't wanna have to fuck nobody up</p>
+
+      <p begin="03:04.940" end="03:06.440" ttm:agent="v1">I promise to God</p>
+
+      <p begin="03:05.870" end="03:11.550" ttm:agent="v1">Don't it seem so good? (oh-na-na, oh-na-na, ayy)</p>
+
+      <p begin="03:11.550" end="03:14.590" ttm:agent="v1">Don't it feel so good? (oh-na-na, oh-na-na, ayy)</p>
+
+      <p begin="03:14.590" end="03:17.480" ttm:agent="v1">To love (oh-na-na, oh-na-na, ayy)</p>
+
+      <p begin="03:17.480" end="03:18.980" ttm:agent="v1">Left shoulder, right shoulder</p>
+
+      <p begin="03:18.830" end="03:20.560" ttm:agent="v1">Left shoulder, look (oh-na-na, oh-na-na, ayy)</p>
+
+      <p begin="03:20.560" end="03:23.200" ttm:agent="v1">Left shoulder, right shoulder</p>
+
+      <p begin="03:23.200" end="03:24.700" ttm:agent="v1">Left shoulder, look (oh-na-na, oh-na-na, ayy)</p>
+
+      <p begin="03:24.070" end="03:26.280" ttm:agent="v1">Watch your surroundings (oh-na-na, oh-na-na, ayy)</p>
+
+      <p begin="03:26.280" end="03:29.110" ttm:agent="v1">Okay, okay, okay, yeah (oh-na-na, oh-na-na, ayy)</p>
+
+      <p begin="03:29.110" end="03:31.670" ttm:agent="v1">No cameras out, please, I wanna eat in peace</p>
+
+      <p begin="03:31.670" end="03:34.700" ttm:agent="v1">Don't wanna take pictures with you niggas or bitches</p>
+
+      <p begin="03:34.700" end="03:37.550" ttm:agent="v1">Know the system is shook, way before nineteen</p>
+
+      <p begin="03:37.550" end="03:39.050" ttm:agent="v1">LA'll do that to you</p>
+
+      <p begin="03:39.040" end="03:40.540" ttm:agent="v1">Where you from nigga, who you?</p>
+
+      <p begin="03:40.150" end="03:43.570" ttm:agent="v1">Satellites, screenshots, paparazzi, NDAs</p>
+
+      <p begin="03:43.570" end="03:46.370" ttm:agent="v1">Privacy? Yeah right, I got a better shot in the NBA</p>
+
+      <p begin="03:46.370" end="03:49.240" ttm:agent="v1">Ain't no respect for nothin', voice recordin' our discussions</p>
+
+      <p begin="03:49.240" end="03:53.770" ttm:agent="v1">Her, him, they, them or anybody, I don't trust 'em at all (all)</p>
+
+      <p begin="03:53.770" end="03:56.270" ttm:agent="v1">Some pray for my fall (Lord), hearin' clicks on the calls (Lord)</p>
+
+      <p begin="03:56.270" end="03:57.770" ttm:agent="v1">Niggas hackin' for some rough drafts</p>
+
+      <p begin="03:57.680" end="03:59.430" ttm:agent="v1">Bitches lookin' for a buff bag</p>
+
+      <p begin="03:59.430" end="04:00.930" ttm:agent="v1">Risk that for some jaw, nah</p>
+
+      <p begin="04:00.830" end="04:02.330" ttm:agent="v1">You sing along, but you don't know me, nigga</p>
+
+      <p begin="04:02.280" end="04:03.780" ttm:agent="v1">Nah, never ever, not at all</p>
+
+      <p begin="04:03.660" end="04:05.620" ttm:agent="v1">Y'all niggas crossed the line, like fuck the stop sign</p>
+
+      <p begin="04:05.620" end="04:07.970" ttm:agent="v1">They wanna know where I close my eyes at</p>
+
+      <p begin="04:07.970" end="04:09.470" ttm:agent="v1">I keep my eyes wide</p>
+
+      <p begin="04:08.720" end="04:10.460" ttm:agent="v1">On God, this shit cooked, brodie</p>
+
+      <p begin="04:10.460" end="04:12.400" ttm:agent="v1">Look brodie, handshakes got me shook, brodie</p>
+
+      <p begin="04:12.400" end="04:19.680" ttm:agent="v1">Niggas want info 'bout me?</p>
+
+      <p begin="04:19.680" end="04:21.530" ttm:agent="v1">(Read a motherfuckin'-) read a book on me, uh</p>
+
+      <p begin="04:21.530" end="04:24.370" ttm:agent="v1">Leave me alone, leave me alone</p>
+
+      <p begin="04:24.370" end="04:27.070" ttm:agent="v1">Left shoulder, right shoulder, left shoulder, look</p>
+
+      <p begin="04:27.070" end="04:30.120" ttm:agent="v1">Left shoulder, right shoulder, left shoulder, look</p>
+
+      <p begin="04:30.120" end="04:34.090" ttm:agent="v1">Left shoulder, right shoulder, left shoulder, look</p>
+
+      <p begin="04:34.090" end="04:36.530" ttm:agent="v1">Leave me alone, what you want?</p>
+
+      <p begin="04:36.530" end="04:39.620" ttm:agent="v1">Leave me alone, what you want?</p>
+
+      <p begin="04:39.620" end="04:44.470" ttm:agent="v1">Leave me alone, fuck, damn</p>
+
+      <p begin="04:44.470" end="04:45.970" ttm:agent="v1">Paranoid</p>
+
+      <p begin="04:45.220" end="04:49.220" ttm:agent="v1"/>
+
+    </div>
+
+  </body>
+
+</tt>
+
