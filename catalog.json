@@ -1,13 +1,13 @@
 {
   "database": "EndoTTML",
   "schema_version": "2.0.0",
-  "total_tracks": 7345,
+  "total_tracks": 7346,
   "statistics": {
-    "total_tracks": 7464,
-    "completed": 7345,
+    "total_tracks": 7465,
+    "completed": 7346,
     "failed": 119,
     "pending": 0,
-    "syllable_synced": 4926,
+    "syllable_synced": 4927,
     "line_synced": 1954,
     "plain": 465,
     "providers": {
@@ -18,7 +18,7 @@
       "LRCLIB": 4,
       "Musixmatch": 133,
       "NetEase": 3574,
-      "QQMusic": 2511,
+      "QQMusic": 2512,
       "Recovered": 1,
       "SyncedLyrics": 710
     }
@@ -102853,6 +102853,20 @@
       "line_count": 26,
       "word_count": 165,
       "rel_path": "database/syllable/Bruno Mars/Lo Arriesgo Todo.ttml"
+    },
+    {
+      "id": 29214,
+      "spotify_id": "1g8u5MTX5ojGxovGP2kXQ6",
+      "spotify_uri": "spotify:track:1g8u5MTX5ojGxovGP2kXQ6",
+      "title": "Meant To Be",
+      "artist": "Cuntsniffer",
+      "album": "Meant To Be",
+      "duration_seconds": 160.245,
+      "sync_type": "syllable_synced",
+      "provider": "QQMusic",
+      "line_count": 34,
+      "word_count": 237,
+      "rel_path": "database/syllable/Cuntsniffer/Meant To Be.ttml"
     }
   ]
 }
